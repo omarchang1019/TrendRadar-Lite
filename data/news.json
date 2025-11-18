@@ -1,129 +1,122 @@
 {
-  "last_updated": "2025-11-18 13:42:06",
+  "last_updated": "2025-11-18 14:42:17",
   "items": [
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I built a synth for my daughter",
-      "url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "points": 1192,
-      "comments": 201
-    },
     {
       "source": "Hacker News",
       "title": "Cloudflare Global Network experiencing issues",
       "url": "https://www.cloudflarestatus.com/?t=1",
-      "points": 1052,
-      "comments": 797
+      "points": 1578,
+      "comments": 1105
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: I built a synth for my daughter",
+      "url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
+      "points": 1207,
+      "comments": 203
     },
     {
       "source": "Hacker News",
       "title": "Rebecca Heineman has died",
       "url": "https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/",
-      "points": 645,
-      "comments": 108
-    },
-    {
-      "source": "Hacker News",
-      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
-      "url": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
-      "points": 530,
-      "comments": 465
+      "points": 709,
+      "comments": 121
     },
     {
       "source": "Hacker News",
       "title": "My stages of learning to be a socially normal person",
       "url": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
-      "points": 516,
-      "comments": 349
+      "points": 536,
+      "comments": 360
     },
     {
       "source": "Hacker News",
       "title": "Astrophotographer snaps skydiver falling in front of the sun",
       "url": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570",
-      "points": 417,
-      "comments": 79
+      "points": 426,
+      "comments": 81
     },
     {
       "source": "Hacker News",
       "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "points": 390,
-      "comments": 261
-    },
-    {
-      "source": "Hacker News",
-      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
-      "url": "https://github.com/medusalix/FreeMDU",
-      "points": 314,
-      "comments": 84
+      "points": 413,
+      "comments": 271
     },
     {
       "source": "Hacker News",
       "title": "Project Gemini",
       "url": "https://geminiprotocol.net/",
-      "points": 302,
-      "comments": 170
-    },
-    {
-      "source": "Hacker News",
-      "title": "WeatherNext 2: Our most advanced weather forecasting model",
-      "url": "https://blog.google/technology/google-deepmind/weathernext-2/",
-      "points": 273,
-      "comments": 123
-    },
-    {
-      "source": "Hacker News",
-      "title": "Compiling Ruby to machine language",
-      "url": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
-      "points": 263,
-      "comments": 47
+      "points": 307,
+      "comments": 172
     },
     {
       "source": "Hacker News",
       "title": "How many video games include a marriage proposal? At least one",
       "url": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-      "points": 260,
-      "comments": 59
+      "points": 273,
+      "comments": 69
     },
     {
       "source": "Hacker News",
       "title": "How Quake.exe got its TCP/IP stack",
       "url": "https://fabiensanglard.net/quake_chunnel/index.html",
-      "points": 231,
-      "comments": 32
+      "points": 270,
+      "comments": 35
+    },
+    {
+      "source": "Hacker News",
+      "title": "Compiling Ruby to machine language",
+      "url": "https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language",
+      "points": 267,
+      "comments": 48
     },
     {
       "source": "Hacker News",
       "title": "Gemini 3 Pro Model Card",
       "url": "https://pixeldrain.com/u/hwgaNKeH",
-      "points": 194,
-      "comments": 119
+      "points": 263,
+      "comments": 174
     },
     {
       "source": "Hacker News",
-      "title": "Raccoons are showing early signs of domestication",
-      "url": "https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/",
-      "points": 183,
-      "comments": 143
+      "title": "The surprising benefits of giving up",
+      "url": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
+      "points": 130,
+      "comments": 104
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unofficial \"Tier 4\" Rust Target for older Windows versions",
+      "url": "https://github.com/rust9x/rust",
+      "points": 111,
+      "comments": 66
+    },
+    {
+      "source": "Hacker News",
+      "title": "Ditch your (mut)ex, you deserve better",
+      "url": "https://chrispenner.ca/posts/mutexes",
+      "points": 100,
+      "comments": 117
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+      "points": 78,
+      "comments": 63
     },
     {
       "source": "Reddit r/all",
-      "title": "Jose Alvarenga survived 1 year and 2 months at sea only to be sued for $1 million by his crew mate's family, claiming he ate him",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p08x1f/jose_alvarenga_survived_1_year_and_2_months_at/",
+      "title": "Job Advice For Ailing",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p0atjj/job_advice_for_ailing/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Meirl",
-      "url": "https://www.reddit.com/r/meirl/comments/1p08j05/meirl/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "The best way to ask.",
-      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1p06ckg/the_best_way_to_ask/",
+      "title": "that was a nice 20-minute apocalypse!",
+      "url": "https://www.reddit.com/r/memes/comments/1p0agab/that_was_a_nice_20minute_apocalypse/",
       "points": null,
       "comments": null
     },
@@ -136,29 +129,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Men being Men",
-      "url": "https://www.reddit.com/r/funny/comments/1p08v20/men_being_men/",
+      "title": "Jose Alvarenga survived 1 year and 2 months at sea only to be sued for $1 million by his crew mate's family, claiming he ate him",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p08x1f/jose_alvarenga_survived_1_year_and_2_months_at/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "France is Bullied by its Neighbours",
-      "url": "https://www.reddit.com/r/memes/comments/1p08ioo/france_is_bullied_by_its_neighbours/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Blursed Mcdonalds",
-      "url": "https://www.reddit.com/r/blursedimages/comments/1p06s6z/blursed_mcdonalds/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "🔥A young fox sheltering from the rain in London [OC]",
-      "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1p09c0h/a_young_fox_sheltering_from_the_rain_in_london_oc/",
+      "title": "Even death couldn't separate them",
+      "url": "https://www.reddit.com/r/interesting/comments/1p08t9e/even_death_couldnt_separate_them/",
       "points": null,
       "comments": null
     },
@@ -171,8 +150,29 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "'Irresponsible’ tourist blamed for torched Chinese temple due to improper use of ceremonial candles",
-      "url": "https://www.reddit.com/r/Wellthatsucks/comments/1p04wef/irresponsible_tourist_blamed_for_torched_chinese/",
+      "title": "Sober since 2/21/2018 👊🏼",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p0d3hd/sober_since_2212018/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "The best way to ask.",
+      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1p06ckg/the_best_way_to_ask/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Donald Trump tells reporter ‘quiet Piggy’ when asked about Epstein files",
+      "url": "https://www.reddit.com/r/politics/comments/1p08chf/donald_trump_tells_reporter_quiet_piggy_when/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Blursed Mcdonalds",
+      "url": "https://www.reddit.com/r/blursedimages/comments/1p06s6z/blursed_mcdonalds/",
       "points": null,
       "comments": null
     },
@@ -192,20 +192,6 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Photos reveal German deputies met in Moscow with sanctioned Russian influence network organizers",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p05pki/photos_reveal_german_deputies_met_in_moscow_with/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "'Suicide bombing a misunderstood concept': Delhi bomber Umar Nabi's chilling video emerges",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p07pwp/suicide_bombing_a_misunderstood_concept_delhi/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
       "title": "X Is Down: Thousands of Users Report Outages, Error Messages",
       "url": "https://www.reddit.com/r/worldnews/comments/1p0b6hs/x_is_down_thousands_of_users_report_outages_error/",
       "points": null,
@@ -220,8 +206,22 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Reselling tickets for profit to be outlawed in UK government crackdown",
-      "url": "https://www.reddit.com/r/worldnews/comments/1ozpk0z/reselling_tickets_for_profit_to_be_outlawed_in_uk/",
+      "title": "'Suicide bombing a misunderstood concept': Delhi bomber Umar Nabi's chilling video emerges",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p07pwp/suicide_bombing_a_misunderstood_concept_delhi/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Photos reveal German deputies met in Moscow with sanctioned Russian influence network organizers",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p05pki/photos_reveal_german_deputies_met_in_moscow_with/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Cloudflare outage causes error messages across the internet",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0bwl5/cloudflare_outage_causes_error_messages_across/",
       "points": null,
       "comments": null
     },
@@ -234,15 +234,64 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Reselling tickets for profit to be outlawed in UK government crackdown",
+      "url": "https://www.reddit.com/r/worldnews/comments/1ozpk0z/reselling_tickets_for_profit_to_be_outlawed_in_uk/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Russian intelligence likely behind railway sabotage, Poland says",
       "url": "https://www.reddit.com/r/worldnews/comments/1p09d57/russian_intelligence_likely_behind_railway/",
       "points": null,
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "South African who attended Sydney neo-Nazi rally taken into immigration detention",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p043pl/south_african_who_attended_sydney_neonazi_rally/",
+      "source": "TechCrunch",
+      "title": "Agentio secures $40 million from Forerunner as it scales its creator marketplace beyond YouTube",
+      "url": "https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Boop’s new app turns social recommendations into bookable itineraries",
+      "url": "https://techcrunch.com/2025/11/18/boops-new-app-turns-social-recommendations-into-bookable-itineraries/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Stack Overflow is remaking itself into an AI data provider",
+      "url": "https://techcrunch.com/2025/11/18/stack-overflow-is-remaking-itself-into-an-ai-data-provider/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Zoox to begin offering robotaxi rides to public in San Francisco",
+      "url": "https://techcrunch.com/2025/11/18/zoox-to-begin-offering-robotaxi-rides-to-public-in-san-francisco/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Zap Energy ramps up the pressure in its latest fusion device",
+      "url": "https://techcrunch.com/2025/11/18/zap-energy-ramps-up-the-pressure-in-its-latest-fusion-device/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Creator Tayla Cannon recieves $1.1 million investment from Slow Ventures’ creator fund to build PT software",
+      "url": "https://techcrunch.com/2025/11/18/pt-software-rebuildr-recieves-1-1-million-investment-from-slow-ventures-creator-fund/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Cloudflare outage takes down X one month after Musk mocked AWS customers",
+      "url": "https://techcrunch.com/2025/11/18/cloudflare-outage-takes-down-x-one-month-after-musk-mocked-aws-customers/",
       "points": null,
       "comments": null
     },
@@ -268,51 +317,23 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Mastodon CEO steps down as the social network restructures",
-      "url": "https://techcrunch.com/2025/11/18/mastodon-ceo-steps-down-as-the-social-network-restructures/",
+      "source": "The Verge",
+      "title": "It&#8217;s not your job to fix the internet",
+      "url": "https://www.theverge.com/podcast/822822/enshittification-cory-doctorow-interview-vergecast",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt",
-      "url": "https://techcrunch.com/2025/11/17/as-consumers-ditch-google-for-chatgpt-peec-ai-raises-21m-to-help-brands-adapt/",
+      "source": "The Verge",
+      "title": "Zoox will let public riders use its robotaxis in San Francisco",
+      "url": "https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on",
-      "url": "https://techcrunch.com/2025/11/17/a16z-backed-super-pac-is-targeting-alex-bores-sponsor-of-new-yorks-ai-safety-bill-he-says-bring-it-on/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Meta releases a new tool to protect reels creators from having their work stolen",
-      "url": "https://techcrunch.com/2025/11/17/meta-releases-a-new-tool-to-protect-reels-creators-from-having-their-work-stolen/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Ford turns to Amazon to give used cars sales a boost",
-      "url": "https://techcrunch.com/2025/11/17/ford-turns-to-amazon-to-give-used-cars-sales-a-boost/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Ramp hits $32B valuation, just 3 months after hitting $22.5B",
-      "url": "https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Cisco acquires translation startup EzDubs",
-      "url": "https://techcrunch.com/2025/11/17/cisco-acquires-translation-startup-ezdubs/",
+      "source": "The Verge",
+      "title": "Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase",
+      "url": "https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock",
       "points": null,
       "comments": null
     },
@@ -366,76 +387,6 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "Google is fighting the defamation battle Meta caved on",
-      "url": "https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The best foldable phone you can buy",
-      "url": "https://www.theverge.com/tech/635839/best-foldable-phone",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "OpenAI is finally letting employees donate their equity to charity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tiny Mario",
-      "url": "https://www.producthunt.com/products/tiny-mario",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Super V2",
-      "url": "https://www.producthunt.com/products/super-4",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Typeless",
-      "url": "https://www.producthunt.com/products/typeless-2",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "InsForge",
-      "url": "https://www.producthunt.com/products/insforge-alpha",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WeatherNext 2 by Google DeepMind",
-      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Grok 4.1",
-      "url": "https://www.producthunt.com/products/grok-3",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Baserow 2.0",
-      "url": "https://www.producthunt.com/products/baserow",
-      "points": null,
-      "comments": null
-    },
-    {
       "source": "Product Hunt",
       "title": "Rumi.ai",
       "url": "https://www.producthunt.com/products/rumiai",
@@ -451,8 +402,57 @@
     },
     {
       "source": "Product Hunt",
+      "title": "StenifyAI",
+      "url": "https://www.producthunt.com/products/stenifyai",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Baserow 2.0",
+      "url": "https://www.producthunt.com/products/baserow",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Rewebly",
+      "url": "https://www.producthunt.com/products/rewebly",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GoMarble AI for Meta Ads",
+      "url": "https://www.producthunt.com/products/ai-ads-analyzer",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
       "title": "Nitpicks",
       "url": "https://www.producthunt.com/products/nitpicks",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Airstitch",
+      "url": "https://www.producthunt.com/products/airstitch",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Institution",
+      "url": "https://www.producthunt.com/products/institution",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Unravel",
+      "url": "https://www.producthunt.com/products/unravel-9",
       "points": null,
       "comments": null
     },
@@ -507,6 +507,13 @@
     },
     {
       "source": "BBC World",
+      "title": "Venezuela's Maduro 'ready to talk' as US ramps up pressure",
+      "url": "https://www.bbc.com/news/articles/c3epgzvpj3lo?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
       "title": "Brazil creates new Indigenous territories during protest-hit COP30",
       "url": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&at_campaign=rss",
       "points": null,
@@ -516,13 +523,6 @@
       "source": "BBC World",
       "title": "Australian murderer sues for right to eat Vegemite behind bars",
       "url": "https://www.bbc.com/news/articles/c1j86xydjpro?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan movie releases postponed in China after Taiwan row",
-      "url": "https://www.bbc.com/news/articles/c93d08jg383o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
