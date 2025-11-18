@@ -1,115 +1,157 @@
 {
-  "last_updated": "2025-11-18 19:38:57",
+  "last_updated": "2025-11-18 21:43:37",
   "items": [
     {
       "source": "Hacker News",
       "title": "Cloudflare Global Network experiencing issues",
-      "url": "https://www.cloudflarestatus.com/?t=1",
-      "points": 2148,
-      "comments": 1389
+      "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
+      "points": 2235,
+      "comments": 1419
     },
     {
       "source": "Hacker News",
       "title": "Gemini 3",
       "url": "https://blog.google/products/gemini/gemini-3/",
-      "points": 613,
-      "comments": 496
+      "points": 854,
+      "comments": 596
     },
     {
       "source": "Hacker News",
       "title": "Nearly all UK drivers say headlights are too bright",
       "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
-      "points": 518,
-      "comments": 513
-    },
-    {
-      "source": "Hacker News",
-      "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "points": 463,
-      "comments": 290
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gemini 3 Pro Model Card",
-      "url": "https://pixeldrain.com/u/hwgaNKeH",
-      "points": 415,
-      "comments": 269
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Quake.exe got its TCP/IP stack",
-      "url": "https://fabiensanglard.net/quake_chunnel/index.html",
-      "points": 393,
-      "comments": 89
-    },
-    {
-      "source": "Hacker News",
-      "title": "Do not put your site behind Cloudflare if you don't need to",
-      "url": "https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont",
-      "points": 374,
-      "comments": 279
+      "points": 582,
+      "comments": 593
     },
     {
       "source": "Hacker News",
       "title": "Google Antigravity",
       "url": "https://antigravity.google/",
-      "points": 324,
-      "comments": 403
+      "points": 494,
+      "comments": 593
     },
     {
       "source": "Hacker News",
-      "title": "How many video games include a marriage proposal? At least one",
-      "url": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-      "points": 312,
-      "comments": 76
+      "title": "How Quake.exe got its TCP/IP stack",
+      "url": "https://fabiensanglard.net/quake_chunnel/index.html",
+      "points": 427,
+      "comments": 108
     },
     {
       "source": "Hacker News",
-      "title": "The surprising benefits of giving up",
-      "url": "https://nautil.us/the-surprising-benefits-of-giving-up-1248362/",
-      "points": 186,
-      "comments": 147
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ruby 4.0.0 Preview2 Released",
-      "url": "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/",
-      "points": 170,
-      "comments": 60
-    },
-    {
-      "source": "Hacker News",
-      "title": "Pebble, Rebble, and a Path Forward",
+      "title": "Pebble, Rebble, and a path forward",
       "url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
-      "points": 136,
-      "comments": 49
+      "points": 227,
+      "comments": 91
     },
     {
       "source": "Hacker News",
-      "title": "A day at Hetzner online in the Falkenstein data center",
+      "title": "GitHub: Git operation failures",
+      "url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "points": 224,
+      "comments": 182
+    },
+    {
+      "source": "Hacker News",
+      "title": "I am stepping down as the CEO of Mastodon",
+      "url": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
+      "points": 150,
+      "comments": 57
+    },
+    {
+      "source": "Hacker News",
+      "title": "A day at Hetzner Online in the Falkenstein data center",
       "url": "https://www.igorslab.de/en/a-day-at-hetzner-online-in-the-falkenstein-data-center-insights-into-server-technology-cooling-production-rma-and-sustainability/",
-      "points": 109,
-      "comments": 28
+      "points": 149,
+      "comments": 61
     },
     {
       "source": "Hacker News",
       "title": "Short Little Difficult Books",
       "url": "https://countercraft.substack.com/p/short-little-difficult-books",
-      "points": 104,
-      "comments": 62
+      "points": 124,
+      "comments": 76
     },
     {
       "source": "Hacker News",
       "title": "The Miracle of Wörgl",
       "url": "https://scf.green/story-of-worgl-and-others/",
-      "points": 103,
-      "comments": 58
+      "points": 120,
+      "comments": 64
+    },
+    {
+      "source": "Hacker News",
+      "title": "Solving a million-step LLM task with zero errors",
+      "url": "https://arxiv.org/abs/2511.09030",
+      "points": 92,
+      "comments": 36
+    },
+    {
+      "source": "Hacker News",
+      "title": "Google boss says AI investment boom has 'elements of irrationality'",
+      "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo",
+      "points": 86,
+      "comments": 181
+    },
+    {
+      "source": "Hacker News",
+      "title": "Court settlement calls for NPR to get $36M to operate US public radio system",
+      "url": "https://apnews.com/article/trump-npr-lawsuit-2cc4abfa8cf00fe6f89e387e63eb4a2a",
+      "points": 81,
+      "comments": 43
+    },
+    {
+      "source": "Hacker News",
+      "title": "Oracle is underwater on its 'astonishing' $300B OpenAI deal",
+      "url": "https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89",
+      "points": 81,
+      "comments": 28
     },
     {
       "source": "Reddit r/all",
       "title": "Jeffrey Epstein’s Brother Claims He Heard ‘from a Pretty Good Source’ That Epstein Files Are Being Scrubbed of Republican Names",
       "url": "https://www.reddit.com/r/politics/comments/1p0hyda/jeffrey_epsteins_brother_claims_he_heard_from_a/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "A generous guide to frugality",
+      "url": "https://www.reddit.com/r/clevercomebacks/comments/1p0jn2e/a_generous_guide_to_frugality/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Discarded dough doesn't stop rising. If there's enough warmth and moisture, the yeast keeps fermenting. Even in the dumpster",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p0l5b8/discarded_dough_doesnt_stop_rising_if_theres/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "House votes overwhelmingly to force release of Epstein files, sending bill once opposed by Trump to the Senate. (427-1)",
+      "url": "https://www.reddit.com/r/Fauxmoi/comments/1p0lw6u/house_votes_overwhelmingly_to_force_release_of/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Yellow Paint [OC]",
+      "url": "https://www.reddit.com/r/comics/comments/1p0hoiz/yellow_paint_oc/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "House votes overwhelmingly to force release of Epstein files, sending bill to the Senate. (427-1)",
+      "url": "https://www.reddit.com/r/PublicFreakout/comments/1p0m0z9/house_votes_overwhelmingly_to_force_release_of/",
       "points": null,
       "comments": null
     },
@@ -122,20 +164,6 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Bro really won at life… and the way she handed him the candy was another wholesome moment.",
-      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1p0eotg/bro_really_won_at_life_and_the_way_she_handed_him/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Since 2022, women over 40 have had more babies than women under 20 in the USA",
-      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p0h6h7/since_2022_women_over_40_have_had_more_babies/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
       "title": "Nearly 21,000 Charlotte-Mecklenburg students absent from school on Monday, officials say",
       "url": "https://www.reddit.com/r/news/comments/1p0gsgh/nearly_21000_charlottemecklenburg_students_absent/",
       "points": null,
@@ -143,36 +171,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "The Concept of Not Showing Up to Work Coz Your Colleague Has a Sore Throat",
-      "url": "https://www.reddit.com/r/NonPoliticalTwitter/comments/1p0fj0e/the_concept_of_not_showing_up_to_work_coz_your/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Meirl",
-      "url": "https://www.reddit.com/r/meirl/comments/1p0d76r/meirl/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "We’ve got a scientific rare insult here",
-      "url": "https://www.reddit.com/r/rareinsults/comments/1p0fgoz/weve_got_a_scientific_rare_insult_here/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Real footage of the most dangerous object humans have ever created",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p0dutp/real_footage_of_the_most_dangerous_object_humans/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Yellow Paint [OC]",
-      "url": "https://www.reddit.com/r/comics/comments/1p0hoiz/yellow_paint_oc/",
+      "title": "Federal judges block Texas from using its new US House map in the 2026 midterms",
+      "url": "https://www.reddit.com/r/law/comments/1p0k3ap/federal_judges_block_texas_from_using_its_new_us/",
       "points": null,
       "comments": null
     },
@@ -185,15 +185,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Cloudflare outage causes error messages across the internet",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0bwl5/cloudflare_outage_causes_error_messages_across/",
+      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Ukraine inspects Russia’s new Shahed-101—and finds every part is Iranian",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p076wq/ukraine_inspects_russias_new_shahed101and_finds/",
+      "title": "Cloudflare outage causes error messages across the internet",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0bwl5/cloudflare_outage_causes_error_messages_across/",
       "points": null,
       "comments": null
     },
@@ -206,6 +206,20 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Ukraine inspects Russia’s new Shahed-101—and finds every part is Iranian",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p076wq/ukraine_inspects_russias_new_shahed101and_finds/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Strained relationship between Canada and U.S. is Trump’s fault: N.B. premier",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0nmyc/strained_relationship_between_canada_and_us_is/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Nestlé accused of ’risking health of babies for profit’ over added sugar in cereals sold in African countries",
       "url": "https://www.reddit.com/r/worldnews/comments/1p08egk/nestlé_accused_of_risking_health_of_babies_for/",
       "points": null,
@@ -213,8 +227,8 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
+      "title": "Sheinbaum again dismisses Trump’s threat of sending troops to Mexico: ‘We do not want intervention’",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0jho5/sheinbaum_again_dismisses_trumps_threat_of/",
       "points": null,
       "comments": null
     },
@@ -233,23 +247,16 @@
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "Photos reveal German deputies met in Moscow with sanctioned Russian influence network organizers",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p05pki/photos_reveal_german_deputies_met_in_moscow_with/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "MI5 warns UK Parliament over risk of Chinese espionage",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0arp0/mi5_warns_uk_parliament_over_risk_of_chinese/",
+      "source": "TechCrunch",
+      "title": "Hugging Face CEO says we’re in an ‘LLM bubble,’ not an ‘AI bubble’",
+      "url": "https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "AI data center provider Lambda raises whopping $1.5B after multi-billion Microsoft deal",
-      "url": "https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multi-billion-microsoft-deal/",
+      "title": "AI data center provider Lambda raises whopping $1.5B after multibillion-dollar Microsoft deal",
+      "url": "https://techcrunch.com/2025/11/18/ai-data-center-provider-lambda-raises-whopping-1-5b-after-multibillion-dollar-microsoft-deal/",
       "points": null,
       "comments": null
     },
@@ -310,9 +317,9 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Snapchat rolls out ‘Topic Chats’ for public conversations",
-      "url": "https://techcrunch.com/2025/11/18/snapchat-rolls-out-topic-chats-for-public-conversations/",
+      "source": "The Verge",
+      "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "points": null,
       "comments": null
     },
@@ -380,37 +387,9 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "Microsoft’s Office apps are getting even more free AI features",
-      "url": "https://www.theverge.com/news/822789/microsoft-copilot-chat-outlook-word-excel-powerpoint",
-      "points": null,
-      "comments": null
-    },
-    {
       "source": "Product Hunt",
-      "title": "Grok 4.1",
-      "url": "https://www.producthunt.com/products/grok-3",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Super V2",
-      "url": "https://www.producthunt.com/products/super-4",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Email Template Generator",
-      "url": "https://www.producthunt.com/products/ai-email-template-generator",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Institution",
-      "url": "https://www.producthunt.com/products/institution",
+      "title": "StenifyAI",
+      "url": "https://www.producthunt.com/products/stenifyai",
       "points": null,
       "comments": null
     },
@@ -423,15 +402,15 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Baserow 2.0",
-      "url": "https://www.producthunt.com/products/baserow",
+      "title": "Thumbmagic",
+      "url": "https://www.producthunt.com/products/thumbmagic-3",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Unravel",
-      "url": "https://www.producthunt.com/products/unravel-9",
+      "title": "Poe",
+      "url": "https://www.producthunt.com/products/poe",
       "points": null,
       "comments": null
     },
@@ -451,6 +430,27 @@
     },
     {
       "source": "Product Hunt",
+      "title": "WeatherNext 2 by Google DeepMind",
+      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Unravel",
+      "url": "https://www.producthunt.com/products/unravel-9",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grok 4.1",
+      "url": "https://www.producthunt.com/products/grok-3",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
       "title": "Rumi.ai",
       "url": "https://www.producthunt.com/products/rumiai",
       "points": null,
@@ -458,8 +458,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Suspected Hezbollah member goes on trial in Germany",
-      "url": "https://www.bbc.com/news/articles/cvg72r6myz4o?at_medium=RSS&at_campaign=rss",
+      "title": "Lebanon says Israeli strike killed 13 people near Palestinian refugee camp",
+      "url": "https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "Cristiano Ronaldo to visit White House on same day as Saudi crown prince",
+      "url": "https://www.bbc.com/news/articles/c993e74pxd7o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -472,8 +479,8 @@
     },
     {
       "source": "BBC World",
-      "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
-      "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected Hezbollah member goes on trial in Germany",
+      "url": "https://www.bbc.com/news/articles/cvg72r6myz4o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -481,13 +488,6 @@
       "source": "BBC World",
       "title": "Bodies of missing mum and child found in freezers in Austria",
       "url": "https://www.bbc.com/news/articles/c740290l8gzo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
-      "url": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -507,8 +507,8 @@
     },
     {
       "source": "BBC World",
-      "title": "Tom Cruise on his first Oscar: Making films 'is who I am'",
-      "url": "https://www.bbc.com/news/articles/cq83l2l132lo?at_medium=RSS&at_campaign=rss",
+      "title": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
+      "url": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -521,8 +521,8 @@
     },
     {
       "source": "BBC World",
-      "title": "Brazil creates new Indigenous territories during protest-hit COP30",
-      "url": "https://www.bbc.com/news/articles/c1d0vekq12ro?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
+      "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
