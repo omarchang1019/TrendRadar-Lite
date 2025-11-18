@@ -1,74 +1,74 @@
 {
-  "last_updated": "2025-11-18 07:03:15",
+  "last_updated": "2025-11-18 07:32:48",
   "items": [
     {
       "source": "Hacker News",
       "title": "Show HN: I built a synth for my daughter",
       "url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
-      "points": 1059,
-      "comments": 181
-    },
-    {
-      "source": "Hacker News",
-      "title": "My stages of learning to be a socially normal person",
-      "url": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
-      "points": 392,
-      "comments": 247
+      "points": 1075,
+      "comments": 182
     },
     {
       "source": "Hacker News",
       "title": "Core Devices keeps stealing our work",
       "url": "https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html",
-      "points": 385,
-      "comments": 75
+      "points": 409,
+      "comments": 82
+    },
+    {
+      "source": "Hacker News",
+      "title": "My stages of learning to be a socially normal person",
+      "url": "https://sashachapin.substack.com/p/my-six-stages-of-learning-to-be-a",
+      "points": 405,
+      "comments": 253
     },
     {
       "source": "Hacker News",
       "title": "Astrophotographer snaps skydiver falling in front of the sun",
       "url": "https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570",
-      "points": 322,
+      "points": 333,
       "comments": 65
     },
     {
       "source": "Hacker News",
       "title": "Azure hit by 15 Tbps DDoS attack using 500k IP addresses",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "points": 317,
-      "comments": 215
-    },
-    {
-      "source": "Hacker News",
-      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
-      "url": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
-      "points": 290,
-      "comments": 177
+      "points": 326,
+      "comments": 216
     },
     {
       "source": "Hacker News",
       "title": "Rebecca Heineman has died",
       "url": "https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/",
-      "points": 281,
-      "comments": 28
+      "points": 325,
+      "comments": 30
+    },
+    {
+      "source": "Hacker News",
+      "title": "Windows 11 adds AI agent that runs in background with access to personal folders",
+      "url": "https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/",
+      "points": 322,
+      "comments": 198
     },
     {
       "source": "Hacker News",
       "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
       "url": "https://github.com/medusalix/FreeMDU",
-      "points": 274,
-      "comments": 74
+      "points": 277,
+      "comments": 75
     },
     {
       "source": "Hacker News",
       "title": "Project Gemini",
       "url": "https://geminiprotocol.net/",
-      "points": 255,
-      "comments": 144
+      "points": 261,
+      "comments": 146
     },
     {
       "source": "Hacker News",
       "title": "WeatherNext 2: Our most advanced weather forecasting model",
       "url": "https://blog.google/technology/google-deepmind/weathernext-2/",
-      "points": 242,
+      "points": 246,
       "comments": 108
     },
     {
@@ -80,66 +80,66 @@
     },
     {
       "source": "Hacker News",
-      "title": "I caught Google Gemini using my data and then covering it up",
-      "url": "https://unbuffered.stream/gemini-personal-context/",
-      "points": 220,
-      "comments": 59
-    },
-    {
-      "source": "Hacker News",
       "title": "“One Student One Chip” Course Homepage",
       "url": "https://ysyx.oscc.cc/docs/en/",
-      "points": 153,
-      "comments": 36
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
-      "url": "https://github.com/francescopace/espectre",
-      "points": 149,
-      "comments": 36
-    },
-    {
-      "source": "Hacker News",
-      "title": "How when AWS was down, we were not",
-      "url": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
-      "points": 143,
-      "comments": 52
+      "points": 155,
+      "comments": 38
     },
     {
       "source": "Hacker News",
       "title": "How many video games include a marriage proposal? At least one",
       "url": "https://32bits.substack.com/p/under-the-microscope-ncaa-basketball",
-      "points": 139,
-      "comments": 30
+      "points": 153,
+      "comments": 34
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis",
+      "url": "https://github.com/francescopace/espectre",
+      "points": 151,
+      "comments": 37
+    },
+    {
+      "source": "Hacker News",
+      "title": "How when AWS was down, we were not",
+      "url": "https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts",
+      "points": 148,
+      "comments": 52
     },
     {
       "source": "Hacker News",
       "title": "Show HN: Continuous Claude – run Claude Code in a loop",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
-      "points": 122,
-      "comments": 44
+      "points": 125,
+      "comments": 46
     },
     {
       "source": "Hacker News",
       "title": "How to escape the Linux networking stack",
       "url": "https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/",
-      "points": 122,
-      "comments": 33
-    },
-    {
-      "source": "Hacker News",
-      "title": "Raccoons are showing early signs of domestication",
-      "url": "https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/",
-      "points": 115,
-      "comments": 102
+      "points": 124,
+      "comments": 35
     },
     {
       "source": "Hacker News",
       "title": "Jeff Bezos creates A.I. startup where he will be co-chief executive",
       "url": "https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html",
-      "points": 113,
-      "comments": 102
+      "points": 122,
+      "comments": 103
+    },
+    {
+      "source": "Hacker News",
+      "title": "Raccoons are showing early signs of domestication",
+      "url": "https://www.scientificamerican.com/article/raccoons-are-showing-early-signs-of-domestication/",
+      "points": 118,
+      "comments": 104
+    },
+    {
+      "source": "Hacker News",
+      "title": "Aldous Huxley predicts Adderall and champions alternative therapies",
+      "url": "https://angadh.com/inkhaven-7",
+      "points": 93,
+      "comments": 103
     }
   ]
 }
