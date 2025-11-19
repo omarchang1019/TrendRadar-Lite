@@ -1,110 +1,117 @@
 {
-  "last_updated": "2025-11-19 20:32:31",
+  "last_updated": "2025-11-19 21:25:56",
   "items": [
     {
       "source": "Hacker News",
       "title": "Show HN: I made a down detector for down detector",
       "url": "https://downdetectorsdowndetector.com",
-      "points": 498,
-      "comments": 151
-    },
-    {
-      "source": "Hacker News",
-      "title": "I just want working RCS messaging",
-      "url": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "points": 276,
-      "comments": 265
+      "points": 508,
+      "comments": 154
     },
     {
       "source": "Hacker News",
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-      "points": 261,
-      "comments": 309
+      "points": 315,
+      "comments": 364
+    },
+    {
+      "source": "Hacker News",
+      "title": "I just want working RCS messaging",
+      "url": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
+      "points": 286,
+      "comments": 271
     },
     {
       "source": "Hacker News",
       "title": "A $1k AWS mistake",
       "url": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/",
-      "points": 238,
-      "comments": 212
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
-      "url": "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670",
-      "points": 222,
-      "comments": 106
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ultima VII Revisited",
-      "url": "https://github.com/ViridianGames/U7Revisited",
-      "points": 218,
-      "comments": 82
+      "points": 251,
+      "comments": 218
     },
     {
       "source": "Hacker News",
       "title": "Thunderbird adds native Microsoft Exchange email support",
       "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
-      "points": 212,
-      "comments": 61
+      "points": 243,
+      "comments": 67
     },
     {
       "source": "Hacker News",
       "title": "Building more with GPT-5.1-Codex-Max",
       "url": "https://openai.com/index/gpt-5-1-codex-max/",
-      "points": 194,
-      "comments": 123
-    },
-    {
-      "source": "Hacker News",
-      "title": "The peaceful transfer of power in open source projects",
-      "url": "https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/",
-      "points": 173,
-      "comments": 115
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Future of Programming (2013) [video]",
-      "url": "https://www.youtube.com/watch?v=8pTEmbeENF4",
-      "points": 126,
-      "comments": 83
-    },
-    {
-      "source": "Hacker News",
-      "title": "Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation",
-      "url": "https://github.com/tyfeld/MMaDA-Parallel",
-      "points": 112,
-      "comments": 12
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gov. Abbott's office redacts pages of emails about Elon Musk",
-      "url": "https://www.kut.org/politics/2025-11-19/texas-governor-abbott-elon-musk-emails-redacted",
-      "points": 94,
-      "comments": 26
-    },
-    {
-      "source": "Hacker News",
-      "title": "What Killed Perl?",
-      "url": "https://entropicthoughts.com/what-killed-perl",
-      "points": 91,
-      "comments": 194
-    },
-    {
-      "source": "Hacker News",
-      "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
-      "url": "https://mosaic.so",
-      "points": 90,
-      "comments": 68
+      "points": 235,
+      "comments": 143
     },
     {
       "source": "Hacker News",
       "title": "The Death of Arduino?",
       "url": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
-      "points": 77,
-      "comments": 24
+      "points": 199,
+      "comments": 90
+    },
+    {
+      "source": "Hacker News",
+      "title": "The peaceful transfer of power in open source projects",
+      "url": "https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/",
+      "points": 175,
+      "comments": 118
+    },
+    {
+      "source": "Hacker News",
+      "title": "The Future of Programming (2013) [video]",
+      "url": "https://www.youtube.com/watch?v=8pTEmbeENF4",
+      "points": 131,
+      "comments": 84
+    },
+    {
+      "source": "Hacker News",
+      "title": "Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation",
+      "url": "https://github.com/tyfeld/MMaDA-Parallel",
+      "points": 117,
+      "comments": 12
+    },
+    {
+      "source": "Hacker News",
+      "title": "What Killed Perl?",
+      "url": "https://entropicthoughts.com/what-killed-perl",
+      "points": 103,
+      "comments": 231
+    },
+    {
+      "source": "Hacker News",
+      "title": "Larry Summers resigns from OpenAI board",
+      "url": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html",
+      "points": 100,
+      "comments": 99
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
+      "url": "https://mosaic.so",
+      "points": 94,
+      "comments": 85
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cognitive and Mental Health Correlates of Short-Form Video Use",
+      "url": "https://psycnet.apa.org/fulltext/2026-89350-001.html",
+      "points": 85,
+      "comments": 49
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta Segment Anything Model 3",
+      "url": "https://ai.meta.com/sam3/",
+      "points": 74,
+      "comments": 19
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Reporter: “Will you release all the files within 30 days?” BONDI: “We’ll continue to follow the law.” Reporter: “You said no addition investigation was warranted. What changed?” BONDI: “Information that has come.. Information. Um, there's information, new information. Additional information.”",
+      "url": "https://www.reddit.com/r/law/comments/1p1hkr5/reporter_will_you_release_all_the_files_within_30/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "Reddit r/all",
@@ -115,43 +122,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "After quitting his job, Frank Bourassa decided to literally print money. His notes were so good that police said they were barely detectable to the naked eye. Caught in 2012, he faced up to 60 years until he revealed he still had $200M hidden. He handed it over and only served 6 weeks in prison.",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p1dvb7/after_quitting_his_job_frank_bourassa_decided_to/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "these bathroom signs are getting of hand",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p1curq/these_bathroom_signs_are_getting_of_hand/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Wait, wait! Hoax or not a hoax?!",
-      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1p1dnd1/wait_wait_hoax_or_not_a_hoax/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Nicki Minaj faces backlash after accepting role in Trump administration",
-      "url": "https://www.reddit.com/r/Music/comments/1p1apfi/nicki_minaj_faces_backlash_after_accepting_role/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Cloudflare be like",
-      "url": "https://www.reddit.com/r/pcmasterrace/comments/1p1ap51/cloudflare_be_like/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Mike Johnson who railed against the Epstein bill - but voted for it - is now mad the Senate approved the measure",
-      "url": "https://www.reddit.com/r/politics/comments/1p19ebu/mike_johnson_who_railed_against_the_epstein_bill/",
+      "title": "In 'Once Upon a Time... in Hollywood' (2019), the character Cliff Booth rejects advances from a hippie girl, doubting her age as legal to give consent. This would make him the most moral man who'd ever lived in Hollywood, and a fictional character",
+      "url": "https://www.reddit.com/r/shittymoviedetails/comments/1p1g13g/in_once_upon_a_time_in_hollywood_2019_the/",
       "points": null,
       "comments": null
     },
@@ -164,15 +136,43 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Larry Summers resigns from OpenAI board following release of Jeffrey Epstein emails",
-      "url": "https://www.reddit.com/r/news/comments/1p18zqv/larry_summers_resigns_from_openai_board_following/",
+      "title": "After quitting his job, Frank Bourassa decided to literally print money. His notes were so good that police said they were barely detectable to the naked eye. Caught in 2012, he faced up to 60 years until he revealed he still had $200M hidden. He handed it over and only served 6 weeks in prison.",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p1dvb7/after_quitting_his_job_frank_bourassa_decided_to/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "No one is \"Vilifying\" rich people.",
-      "url": "https://www.reddit.com/r/WorkReform/comments/1p19h75/no_one_is_vilifying_rich_people/",
+      "title": "me_irl",
+      "url": "https://www.reddit.com/r/me_irl/comments/1p1hd8v/me_irl/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "He really wants the cookies",
+      "url": "https://www.reddit.com/r/oddlyspecific/comments/1p1i1xz/he_really_wants_the_cookies/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Wait, wait! Hoax or not a hoax?!",
+      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1p1dnd1/wait_wait_hoax_or_not_a_hoax/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "these bathroom signs are getting of hand",
+      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p1curq/these_bathroom_signs_are_getting_of_hand/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Nicki Minaj faces backlash after accepting role in Trump administration",
+      "url": "https://www.reddit.com/r/Music/comments/1p1apfi/nicki_minaj_faces_backlash_after_accepting_role/",
       "points": null,
       "comments": null
     },
@@ -185,15 +185,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Quantum teleportation between photons from two distant light sources achieved",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p14zak/quantum_teleportation_between_photons_from_two/",
+      "title": "US proposals to end Russia's war involve Ukraine giving up land, some weapons, sources say",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1e72b/us_proposals_to_end_russias_war_involve_ukraine/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "US proposals to end Russia's war involve Ukraine giving up land, some weapons, sources say",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1e72b/us_proposals_to_end_russias_war_involve_ukraine/",
+      "title": "Quantum teleportation between photons from two distant light sources achieved",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p14zak/quantum_teleportation_between_photons_from_two/",
       "points": null,
       "comments": null
     },
@@ -213,22 +213,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Russian spy ship currently on edge of UK waters, warns defence secretary",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p143j0/russian_spy_ship_currently_on_edge_of_uk_waters/",
+      "title": "Ukraine alarmed as US pushes peace framework aligning with Moscow demands",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1hs6c/ukraine_alarmed_as_us_pushes_peace_framework/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Parasocial is named as Cambridge Dictionary Word of the Year",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0yok3/parasocial_is_named_as_cambridge_dictionary_word/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Germany confirms long-range missile delivery to Ukraine amid strategic shift",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1fojr/germany_confirms_longrange_missile_delivery_to/",
+      "title": "Hamas attacks IDF troops in breach of Gaza ceasefire; top commanders killed in response",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1ht8e/hamas_attacks_idf_troops_in_breach_of_gaza/",
       "points": null,
       "comments": null
     },
@@ -241,8 +234,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "US holding secret peace talks with Moscow to end Russia's war against Ukraine, Axios reports",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p191df/us_holding_secret_peace_talks_with_moscow_to_end/",
+      "title": "Russian spy ship currently on edge of UK waters, warns defence secretary",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p143j0/russian_spy_ship_currently_on_edge_of_uk_waters/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Germany confirms long-range missile delivery to Ukraine amid strategic shift",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1fojr/germany_confirms_longrange_missile_delivery_to/",
       "points": null,
       "comments": null
     },
@@ -318,6 +318,20 @@
     },
     {
       "source": "The Verge",
+      "title": "The Verge’s 2025 holiday gift guide",
+      "url": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600",
+      "url": "https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
       "title": "The best Bluetooth trackers for Apple and Android phones",
       "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "points": null,
@@ -373,20 +387,6 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’",
-      "url": "https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Adobe to acquire digital marketing platform Semrush for $1.9 billion",
-      "url": "https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing",
-      "points": null,
-      "comments": null
-    },
-    {
       "source": "Product Hunt",
       "title": "Bluedot 2.0",
       "url": "https://www.producthunt.com/products/bluedot-2",
@@ -395,36 +395,36 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Oura 7.0",
-      "url": "https://www.producthunt.com/products/oura",
+      "title": "AI Design by CapCut",
+      "url": "https://www.producthunt.com/products/capcut-ai-suite",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Axal",
-      "url": "https://www.producthunt.com/products/axal",
+      "title": "Lumical",
+      "url": "https://www.producthunt.com/products/lumical-scan-to-calendar",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Google Antigravity",
-      "url": "https://www.producthunt.com/products/google-antigravity",
+      "title": "AI Toolkit by Tiptap",
+      "url": "https://www.producthunt.com/products/tiptap",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "JotChain",
-      "url": "https://www.producthunt.com/products/jotchain",
+      "title": "delight.ai",
+      "url": "https://www.producthunt.com/products/sendbird",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Zen Editor",
-      "url": "https://www.producthunt.com/products/zen-editor",
+      "title": "ElevenLabs Image & Video",
+      "url": "https://www.producthunt.com/products/elevenlabs",
       "points": null,
       "comments": null
     },
@@ -437,22 +437,22 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Notate.so",
-      "url": "https://www.producthunt.com/products/notate-so",
+      "title": "Hirosend",
+      "url": "https://www.producthunt.com/products/hirosend",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Lapis",
-      "url": "https://www.producthunt.com/products/lapis-3",
+      "title": "StopBite",
+      "url": "https://www.producthunt.com/products/stopbite-stop-nail-biting",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Sokosumi",
-      "url": "https://www.producthunt.com/products/sokosumi",
+      "title": "JotChain",
+      "url": "https://www.producthunt.com/products/jotchain",
       "points": null,
       "comments": null
     },
@@ -472,7 +472,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Trial opens into North Macedonia nightclub fire that killed 63",
+      "title": "Dozens go on trial over North Macedonia nightclub fire that killed 63",
       "url": "https://www.bbc.com/news/articles/cp3x3909rqvo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
