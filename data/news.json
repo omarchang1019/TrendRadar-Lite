@@ -1,136 +1,115 @@
 {
-  "last_updated": "2025-11-19 21:38:48",
+  "last_updated": "2025-11-19 22:37:29",
   "items": [
-    {
-      "source": "Hacker News",
-      "title": "Show HN: I made a down detector for down detector",
-      "url": "https://downdetectorsdowndetector.com",
-      "points": 512,
-      "comments": 155
-    },
     {
       "source": "Hacker News",
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-      "points": 334,
-      "comments": 375
-    },
-    {
-      "source": "Hacker News",
-      "title": "I just want working RCS messaging",
-      "url": "https://wt.gd/i-just-want-my-rcs-messaging-to-work",
-      "points": 287,
-      "comments": 274
-    },
-    {
-      "source": "Hacker News",
-      "title": "Thunderbird adds native Microsoft Exchange email support",
-      "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
-      "points": 256,
-      "comments": 67
-    },
-    {
-      "source": "Hacker News",
-      "title": "A $1k AWS mistake",
-      "url": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/",
-      "points": 253,
-      "comments": 220
-    },
-    {
-      "source": "Hacker News",
-      "title": "Building more with GPT-5.1-Codex-Max",
-      "url": "https://openai.com/index/gpt-5-1-codex-max/",
-      "points": 247,
-      "comments": 147
+      "points": 393,
+      "comments": 426
     },
     {
       "source": "Hacker News",
       "title": "The Death of Arduino?",
       "url": "https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H",
-      "points": 226,
-      "comments": 108
+      "points": 311,
+      "comments": 163
+    },
+    {
+      "source": "Hacker News",
+      "title": "Thunderbird adds native Microsoft Exchange email support",
+      "url": "https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/",
+      "points": 281,
+      "comments": 73
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "url": "https://openai.com/index/gpt-5-1-codex-max/",
+      "points": 272,
+      "comments": 158
+    },
+    {
+      "source": "Hacker News",
+      "title": "A $1k AWS mistake",
+      "url": "https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/",
+      "points": 259,
+      "comments": 223
+    },
+    {
+      "source": "Hacker News",
+      "title": "The peaceful transfer of power in open source projects",
+      "url": "https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/",
+      "points": 179,
+      "comments": 123
+    },
+    {
+      "source": "Hacker News",
+      "title": "Larry Summers resigns from OpenAI board",
+      "url": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html",
+      "points": 153,
+      "comments": 149
+    },
+    {
+      "source": "Hacker News",
+      "title": "Meta Segment Anything Model 3",
+      "url": "https://ai.meta.com/sam3/",
+      "points": 144,
+      "comments": 34
     },
     {
       "source": "Hacker News",
       "title": "The Future of Programming (2013) [video]",
       "url": "https://www.youtube.com/watch?v=8pTEmbeENF4",
-      "points": 133,
-      "comments": 86
+      "points": 140,
+      "comments": 89
+    },
+    {
+      "source": "Hacker News",
+      "title": "Cognitive and mental health correlates of short-form video use",
+      "url": "https://psycnet.apa.org/fulltext/2026-89350-001.html",
+      "points": 130,
+      "comments": 105
     },
     {
       "source": "Hacker News",
       "title": "Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation",
       "url": "https://github.com/tyfeld/MMaDA-Parallel",
-      "points": 117,
+      "points": 122,
       "comments": 13
     },
     {
       "source": "Hacker News",
       "title": "What Killed Perl?",
       "url": "https://entropicthoughts.com/what-killed-perl",
-      "points": 106,
-      "comments": 235
-    },
-    {
-      "source": "Hacker News",
-      "title": "Larry Summers resigns from OpenAI board",
-      "url": "https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html",
-      "points": 106,
-      "comments": 109
+      "points": 118,
+      "comments": 263
     },
     {
       "source": "Hacker News",
       "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
       "url": "https://mosaic.so",
-      "points": 96,
-      "comments": 88
+      "points": 98,
+      "comments": 90
     },
     {
       "source": "Hacker News",
-      "title": "Cognitive and Mental Health Correlates of Short-Form Video Use",
-      "url": "https://psycnet.apa.org/fulltext/2026-89350-001.html",
-      "points": 96,
-      "comments": 71
+      "title": "Exploring the limits of large language models as quant traders",
+      "url": "https://nof1.ai/blog/TechPost1",
+      "points": 92,
+      "comments": 81
     },
     {
       "source": "Hacker News",
-      "title": "Meta Segment Anything Model 3",
-      "url": "https://ai.meta.com/sam3/",
-      "points": 89,
-      "comments": 21
-    },
-    {
-      "source": "Hacker News",
-      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
-      "url": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
-      "points": 76,
-      "comments": 27
+      "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
+      "points": 90,
+      "comments": 44
     },
     {
       "source": "Reddit r/all",
       "title": "Reporter: “Will you release all the files within 30 days?” BONDI: “We’ll continue to follow the law.” Reporter: “You said no addition investigation was warranted. What changed?” BONDI: “Information that has come.. Information. Um, there's information, new information. Additional information.”",
       "url": "https://www.reddit.com/r/law/comments/1p1hkr5/reporter_will_you_release_all_the_files_within_30/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "meirl",
-      "url": "https://www.reddit.com/r/meirl/comments/1p1f1ew/meirl/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "In 'Once Upon a Time... in Hollywood' (2019), the character Cliff Booth rejects advances from a hippie girl, doubting her age as legal to give consent. This would make him the most moral man who'd ever lived in Hollywood, and a fictional character",
-      "url": "https://www.reddit.com/r/shittymoviedetails/comments/1p1g13g/in_once_upon_a_time_in_hollywood_2019_the/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "You had one damn job",
-      "url": "https://www.reddit.com/r/UnderReportedNews/comments/1p1fhsg/you_had_one_damn_job/",
       "points": null,
       "comments": null
     },
@@ -143,8 +122,29 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "me_irl",
-      "url": "https://www.reddit.com/r/me_irl/comments/1p1hd8v/me_irl/",
+      "title": "In 'Once Upon a Time... in Hollywood' (2019), the character Cliff Booth rejects advances from a hippie girl, doubting her age as legal to give consent. This would make him the most moral man who'd ever lived in Hollywood, and a fictional character",
+      "url": "https://www.reddit.com/r/shittymoviedetails/comments/1p1g13g/in_once_upon_a_time_in_hollywood_2019_the/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "meirl",
+      "url": "https://www.reddit.com/r/meirl/comments/1p1f1ew/meirl/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "You had one damn job",
+      "url": "https://www.reddit.com/r/UnderReportedNews/comments/1p1fhsg/you_had_one_damn_job/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "AOC: “Should this AI bubble pop, we should not be entertaining a bailout of these corporations while healthcare is being denied to Americans and SNAP is being denied to Americans.”",
+      "url": "https://www.reddit.com/r/ProgressiveHQ/comments/1p1hhu1/aoc_should_this_ai_bubble_pop_we_should_not_be/",
       "points": null,
       "comments": null
     },
@@ -157,15 +157,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Wait, wait! Hoax or not a hoax?!",
-      "url": "https://www.reddit.com/r/WhitePeopleTwitter/comments/1p1dnd1/wait_wait_hoax_or_not_a_hoax/",
+      "title": "White House officials say Trump is plotting retribution after Epstein bill vote",
+      "url": "https://www.reddit.com/r/politics/comments/1p1fg1b/white_house_officials_say_trump_is_plotting/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "these bathroom signs are getting of hand",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p1curq/these_bathroom_signs_are_getting_of_hand/",
+      "title": "Hypocrisy, served fresh",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p1h12n/hypocrisy_served_fresh/",
       "points": null,
       "comments": null
     },
@@ -192,13 +192,6 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Quantum teleportation between photons from two distant light sources achieved",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p14zak/quantum_teleportation_between_photons_from_two/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
       "title": "Ukraine alarmed as US pushes peace framework aligning with Moscow demands",
       "url": "https://www.reddit.com/r/worldnews/comments/1p1hs6c/ukraine_alarmed_as_us_pushes_peace_framework/",
       "points": null,
@@ -206,15 +199,8 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "British citizen under war-crimes investigation after filming pigs eat Ukrainian soldier",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p18vlk/british_citizen_under_warcrimes_investigation/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Trump designates Saudi Arabia as major non-NATO ally in defense agreement",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p173fz/trump_designates_saudi_arabia_as_major_nonnato/",
+      "title": "Quantum teleportation between photons from two distant light sources achieved",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p14zak/quantum_teleportation_between_photons_from_two/",
       "points": null,
       "comments": null
     },
@@ -227,8 +213,22 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "British citizen under war-crimes investigation after filming pigs eat Ukrainian soldier",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p18vlk/british_citizen_under_warcrimes_investigation/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Russian spy ship enters British waters and shines lasers at military pilots",
       "url": "https://www.reddit.com/r/worldnews/comments/1p1gjx7/russian_spy_ship_enters_british_waters_and_shines/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Trump designates Saudi Arabia as major non-NATO ally in defense agreement",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p173fz/trump_designates_saudi_arabia_as_major_nonnato/",
       "points": null,
       "comments": null
     },
@@ -241,8 +241,22 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Germany confirms long-range missile delivery to Ukraine amid strategic shift",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1fojr/germany_confirms_longrange_missile_delivery_to/",
+      "title": "Oxford Union students mimic Ramallah lynching gesture during Israeli speaker’s visit",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1hx8w/oxford_union_students_mimic_ramallah_lynching/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk",
+      "url": "https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "How the classic anime ‘Ghost in the Shell’ predicted the future of cybersecurity 30 years ago",
+      "url": "https://techcrunch.com/2025/11/19/how-the-classic-anime-ghost-in-the-shell-predicted-the-future-of-cybersecurity-30-years-ago/",
       "points": null,
       "comments": null
     },
@@ -303,16 +317,16 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Subletting startup Kiki paid over $152K to settle charges after violating NYC short-term rental laws",
-      "url": "https://techcrunch.com/2025/11/19/subletting-startup-kiki-paid-over-152k-to-settle-charges-after-violating-nyc-short-term-rental-laws/",
+      "source": "The Verge",
+      "title": "Nvidia says its AI GPUs are sold out, grows data center by $10B in a single quarter",
+      "url": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Bluesky announces moderation changes focused on better tracking, improved transparency",
-      "url": "https://techcrunch.com/2025/11/19/bluesky-announces-moderation-changes-focused-on-better-tracking-improved-transparency/",
+      "source": "The Verge",
+      "title": "Google’s new Scholar Labs search uses AI to find relevant studies",
+      "url": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search",
       "points": null,
       "comments": null
     },
@@ -373,23 +387,30 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "This viral AI pen didn&#8217;t help me cheat",
-      "url": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Demonschool channels Buffy and Persona for delightfully demonic RPG action",
-      "url": "https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5",
+      "source": "Product Hunt",
+      "title": "Bluedot 2.0",
+      "url": "https://www.producthunt.com/products/bluedot-2",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Bluedot 2.0",
-      "url": "https://www.producthunt.com/products/bluedot-2",
+      "title": "Gemini 3",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ogment MCP-Builder",
+      "url": "https://www.producthunt.com/products/ogment-mcp-builder",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Snippets AI",
+      "url": "https://www.producthunt.com/products/snippets-ai",
       "points": null,
       "comments": null
     },
@@ -402,20 +423,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Lumical",
-      "url": "https://www.producthunt.com/products/lumical-scan-to-calendar",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Google Antigravity",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
       "title": "Alloy",
       "url": "https://www.producthunt.com/products/alloy",
       "points": null,
@@ -423,22 +430,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Pressdeck",
-      "url": "https://www.producthunt.com/products/pressdeck",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Oura 7.0",
-      "url": "https://www.producthunt.com/products/oura",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Design by CapCut",
-      "url": "https://www.producthunt.com/products/capcut-ai-suite",
+      "title": "Lumical",
+      "url": "https://www.producthunt.com/products/lumical-scan-to-calendar",
       "points": null,
       "comments": null
     },
@@ -451,14 +444,21 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ElevenLabs Image & Video",
-      "url": "https://www.producthunt.com/products/elevenlabs",
+      "title": "Link in Bio by beehiiv",
+      "url": "https://www.producthunt.com/products/beehiiv",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sokosumi",
+      "url": "https://www.producthunt.com/products/sokosumi",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Children among 25 killed in one of Russia's deadliest strikes on western Ukraine",
+      "title": "Children among 26 killed in one of Russia's deadliest strikes on western Ukraine",
       "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
