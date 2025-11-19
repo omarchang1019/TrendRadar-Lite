@@ -1,61 +1,75 @@
 {
-  "last_updated": "2025-11-19 11:29:35",
+  "last_updated": "2025-11-19 11:43:02",
   "items": [
     {
       "source": "Hacker News",
       "title": "Cloudflare Global Network experiencing issues",
       "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
-      "points": 2371,
-      "comments": 1611
+      "points": 2373,
+      "comments": 1612
     },
     {
       "source": "Hacker News",
       "title": "Gemini 3",
       "url": "https://blog.google/products/gemini/gemini-3/",
-      "points": 1456,
-      "comments": 899
+      "points": 1466,
+      "comments": 903
     },
     {
       "source": "Hacker News",
       "title": "Cloudflare outage on November 18, 2025 post mortem",
       "url": "https://blog.cloudflare.com/18-november-2025-outage/",
-      "points": 1104,
-      "comments": 600
+      "points": 1120,
+      "comments": 614
     },
     {
       "source": "Hacker News",
       "title": "Google Antigravity",
       "url": "https://antigravity.google/",
-      "points": 906,
-      "comments": 887
+      "points": 912,
+      "comments": 891
     },
     {
       "source": "Hacker News",
       "title": "Blender 5.0",
       "url": "https://www.blender.org/download/releases/5-0/",
-      "points": 804,
-      "comments": 244
+      "points": 813,
+      "comments": 250
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+      "points": 782,
+      "comments": 773
     },
     {
       "source": "Hacker News",
       "title": "I am stepping down as the CEO of Mastodon",
       "url": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
-      "points": 496,
-      "comments": 340
+      "points": 498,
+      "comments": 343
     },
     {
       "source": "Hacker News",
       "title": "Pebble, Rebble, and a path forward",
       "url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
-      "points": 404,
+      "points": 405,
       "comments": 206
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub: Git operation failures",
+      "url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "points": 369,
+      "comments": 299
     },
     {
       "source": "Hacker News",
       "title": "Google boss says AI investment boom has 'elements of irrationality'",
       "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo",
       "points": 259,
-      "comments": 488
+      "comments": 497
     },
     {
       "source": "Hacker News",
@@ -68,43 +82,29 @@
       "source": "Hacker News",
       "title": "Solving a million-step LLM task with zero errors",
       "url": "https://arxiv.org/abs/2511.09030",
-      "points": 188,
+      "points": 189,
       "comments": 57
     },
     {
       "source": "Hacker News",
       "title": "OrthoRoute – GPU-accelerated autorouting for KiCad",
       "url": "https://bbenchoff.github.io/pages/OrthoRoute.html",
-      "points": 180,
+      "points": 181,
       "comments": 21
-    },
-    {
-      "source": "Hacker News",
-      "title": "A down detector for down detector's down detector",
-      "url": "https://downdetectorsdowndetectorsdowndetector.com/",
-      "points": 159,
-      "comments": 48
     },
     {
       "source": "Hacker News",
       "title": "I made a down detector for down detector",
       "url": "https://downdetectorsdowndetector.com",
-      "points": 157,
-      "comments": 42
+      "points": 160,
+      "comments": 43
     },
     {
       "source": "Hacker News",
       "title": "The code and open-source tools I used to produce a science fiction anthology",
       "url": "https://compellingsciencefiction.com/posts/the-code-and-open-source-tools-i-used-to-produce-a-science-fiction-anthology.html",
-      "points": 157,
+      "points": 160,
       "comments": 20
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Browser-based interactive 3D Three-Body problem simulator",
-      "url": "https://trisolarchaos.com/?pr=O_8(0.6)&n=3&s=5.0&so=0.00&im=rk4&dt=1.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.15&sf=0&sv=0&cm=free&kt=1&st=1&tl=1500&cp=2.5208,1.5125,2.5208&ct=0.0000,0.0000,0.1670",
-      "points": 135,
-      "comments": 47
     },
     {
       "source": "Reddit r/all",
@@ -115,15 +115,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "We all know he’s calling himself those names.",
-      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p0x7jz/we_all_know_hes_calling_himself_those_names/",
+      "title": "meirl",
+      "url": "https://www.reddit.com/r/meirl/comments/1p12ai5/meirl/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "meirl",
-      "url": "https://www.reddit.com/r/meirl/comments/1p12ai5/meirl/",
+      "title": "We all know he’s calling himself those names.",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p0x7jz/we_all_know_hes_calling_himself_those_names/",
       "points": null,
       "comments": null
     },
@@ -150,15 +150,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Gem alert",
-      "url": "https://www.reddit.com/r/whenthe/comments/1p0z3ed/gem_alert/",
+      "title": "Anyway, don’t support Black Friday and Corporate giants",
+      "url": "https://www.reddit.com/r/Anticonsumption/comments/1p0ysj6/anyway_dont_support_black_friday_and_corporate/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Anyway, don’t support Black Friday and Corporate giants",
-      "url": "https://www.reddit.com/r/Anticonsumption/comments/1p0ysj6/anyway_dont_support_black_friday_and_corporate/",
+      "title": "Gem alert",
+      "url": "https://www.reddit.com/r/whenthe/comments/1p0z3ed/gem_alert/",
       "points": null,
       "comments": null
     },
@@ -185,13 +185,6 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
       "title": "Russian spy ship breaches allied waters, fires lasers at military planes",
       "url": "https://www.reddit.com/r/worldnews/comments/1p14a7s/russian_spy_ship_breaches_allied_waters_fires/",
       "points": null,
@@ -199,8 +192,8 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Canada announces massive jump in funding to European Space Agency",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0vyqv/canada_announces_massive_jump_in_funding_to/",
+      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
       "points": null,
       "comments": null
     },
@@ -208,6 +201,13 @@
       "source": "Reddit r/worldnews",
       "title": "Parasocial is named as Cambridge Dictionary Word of the Year",
       "url": "https://www.reddit.com/r/worldnews/comments/1p0yok3/parasocial_is_named_as_cambridge_dictionary_word/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Canada announces massive jump in funding to European Space Agency",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0vyqv/canada_announces_massive_jump_in_funding_to/",
       "points": null,
       "comments": null
     },
@@ -227,6 +227,13 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "10 people died due to the Russian attack on Ternopil, among 37 injured, twelve are children, there are people under the rubble - MIA",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p126ro/10_people_died_due_to_the_russian_attack_on/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Ukraine strikes Russian targets using US ATACMS missiles in first public acknowledgment",
       "url": "https://www.reddit.com/r/worldnews/comments/1p0l4fc/ukraine_strikes_russian_targets_using_us_atacms/",
       "points": null,
@@ -236,13 +243,6 @@
       "source": "Reddit r/worldnews",
       "title": "Libya Pushes to Restore Its Monarchy",
       "url": "https://www.reddit.com/r/worldnews/comments/1p0tlh3/libya_pushes_to_restore_its_monarchy/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "U.S. Energy Secretary and Saudi Arabia's Energy Minister Announce Deal on Civil Nuclear Cooperation",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0weae/us_energy_secretary_and_saudi_arabias_energy/",
       "points": null,
       "comments": null
     },
@@ -395,29 +395,36 @@
     },
     {
       "source": "Product Hunt",
-      "title": "delight.ai",
-      "url": "https://www.producthunt.com/products/sendbird",
+      "title": "JotChain",
+      "url": "https://www.producthunt.com/products/jotchain",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Lumical",
-      "url": "https://www.producthunt.com/products/lumical-scan-to-calendar",
+      "title": "Oura 7.0",
+      "url": "https://www.producthunt.com/products/oura",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Zo Computer",
-      "url": "https://www.producthunt.com/products/zo-computer-2",
+      "title": "Alloy",
+      "url": "https://www.producthunt.com/products/alloy",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "StopBite",
-      "url": "https://www.producthunt.com/products/stopbite-stop-nail-biting",
+      "title": "Pressdeck",
+      "url": "https://www.producthunt.com/products/pressdeck",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Zen Editor",
+      "url": "https://www.producthunt.com/products/zen-editor",
       "points": null,
       "comments": null
     },
@@ -430,35 +437,28 @@
     },
     {
       "source": "Product Hunt",
-      "title": "AutoSubtitles",
-      "url": "https://www.producthunt.com/products/autosubtitles",
+      "title": "StopBite",
+      "url": "https://www.producthunt.com/products/stopbite-stop-nail-biting",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Streetwise",
-      "url": "https://www.producthunt.com/products/streetwise",
+      "title": "AidaJet",
+      "url": "https://www.producthunt.com/products/aidajet-ai-powered-newsletter-platform",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "AI Toolkit by Tiptap",
-      "url": "https://www.producthunt.com/products/tiptap",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Snippets AI",
-      "url": "https://www.producthunt.com/products/snippets-ai",
+      "title": "Sakura",
+      "url": "https://www.producthunt.com/products/sakura-2",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Russian attack hits flats in one of deadliest strikes on western Ukraine",
+      "title": "At least 20 killed in one of Russia's deadliest strikes on western Ukraine",
       "url": "https://www.bbc.com/news/articles/cy0yere4k0zo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -479,7 +479,7 @@
     },
     {
       "source": "BBC World",
-      "title": "Epstein files release to await Trump's signoff after Congress gives approval",
+      "title": "Epstein files bill to be sent to Trump after approval from Congress",
       "url": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
