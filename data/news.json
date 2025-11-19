@@ -1,110 +1,145 @@
 {
-  "last_updated": "2025-11-18 23:38:59",
+  "last_updated": "2025-11-19 03:34:58",
   "items": [
     {
       "source": "Hacker News",
       "title": "Cloudflare Global Network experiencing issues",
       "url": "https://www.cloudflarestatus.com/incidents/8gmgl950y3h7",
-      "points": 2281,
-      "comments": 1579
+      "points": 2323,
+      "comments": 1594
     },
     {
       "source": "Hacker News",
       "title": "Gemini 3",
       "url": "https://blog.google/products/gemini/gemini-3/",
-      "points": 1038,
-      "comments": 679
-    },
-    {
-      "source": "Hacker News",
-      "title": "Nearly all UK drivers say headlights are too bright",
-      "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
-      "points": 629,
-      "comments": 659
+      "points": 1206,
+      "comments": 783
     },
     {
       "source": "Hacker News",
       "title": "Google Antigravity",
       "url": "https://antigravity.google/",
-      "points": 608,
-      "comments": 677
+      "points": 731,
+      "comments": 770
     },
     {
       "source": "Hacker News",
-      "title": "How Quake.exe got its TCP/IP stack",
-      "url": "https://fabiensanglard.net/quake_chunnel/index.html",
-      "points": 448,
-      "comments": 118
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+      "points": 689,
+      "comments": 704
     },
     {
       "source": "Hacker News",
       "title": "Blender 5.0",
       "url": "https://www.blender.org/download/releases/5-0/",
-      "points": 293,
-      "comments": 56
+      "points": 518,
+      "comments": 151
     },
     {
       "source": "Hacker News",
-      "title": "Pebble, Rebble, and a path forward",
-      "url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
-      "points": 286,
-      "comments": 134
-    },
-    {
-      "source": "Hacker News",
-      "title": "GitHub: Git operation failures",
-      "url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
-      "points": 285,
-      "comments": 244
+      "title": "Cloudflare outage on November 18, 2025 post mortem",
+      "url": "https://blog.cloudflare.com/18-november-2025-outage/",
+      "points": 496,
+      "comments": 307
     },
     {
       "source": "Hacker News",
       "title": "I am stepping down as the CEO of Mastodon",
       "url": "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/",
-      "points": 261,
-      "comments": 192
+      "points": 362,
+      "comments": 269
+    },
+    {
+      "source": "Hacker News",
+      "title": "GitHub: Git operation failures",
+      "url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+      "points": 340,
+      "comments": 283
+    },
+    {
+      "source": "Hacker News",
+      "title": "Pebble, Rebble, and a path forward",
+      "url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
+      "points": 337,
+      "comments": 165
     },
     {
       "source": "Hacker News",
       "title": "Google boss says AI investment boom has 'elements of irrationality'",
       "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo",
-      "points": 134,
-      "comments": 265
-    },
-    {
-      "source": "Hacker News",
-      "title": "Short Little Difficult Books",
-      "url": "https://countercraft.substack.com/p/short-little-difficult-books",
-      "points": 133,
-      "comments": 84
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Miracle of Wörgl",
-      "url": "https://scf.green/story-of-worgl-and-others/",
-      "points": 130,
-      "comments": 72
+      "points": 189,
+      "comments": 364
     },
     {
       "source": "Hacker News",
       "title": "Gemini 3 Pro Model Card [pdf]",
       "url": "https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-Pro-Model-Card.pdf",
-      "points": 124,
-      "comments": 306
+      "points": 183,
+      "comments": 311
+    },
+    {
+      "source": "Hacker News",
+      "title": "Short Little Difficult Books",
+      "url": "https://countercraft.substack.com/p/short-little-difficult-books",
+      "points": 153,
+      "comments": 87
     },
     {
       "source": "Hacker News",
       "title": "Solving a million-step LLM task with zero errors",
       "url": "https://arxiv.org/abs/2511.09030",
-      "points": 110,
-      "comments": 40
+      "points": 140,
+      "comments": 45
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rebecca Heineman – from homelessness to porting Doom (2022)",
+      "url": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
+      "points": 135,
+      "comments": 23
     },
     {
       "source": "Hacker News",
       "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
       "url": "https://simonwillison.net/2025/Nov/18/gemini-3/",
-      "points": 99,
-      "comments": 35
+      "points": 128,
+      "comments": 46
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "The sun sets at 1:36 pm today in Utqiagvik, Alaska and doesn't rise again until next year on Jan. 22",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p0rjcj/the_sun_sets_at_136_pm_today_in_utqiagvik_alaska/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Lavender shows me her eggs. She herself was an egg last year.",
+      "url": "https://www.reddit.com/r/aww/comments/1p0tbmf/lavender_shows_me_her_eggs_she_herself_was_an_egg/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Senate suddenly passes the Epstein bill just hours after it cleared the House",
+      "url": "https://www.reddit.com/r/politics/comments/1p0qldh/senate_suddenly_passes_the_epstein_bill_just/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Snake outside my front door had a penny",
+      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1p0qewl/snake_outside_my_front_door_had_a_penny/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Ethiopia's Banna Tribe use long sticks to avoid snakes in their valley",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p0qj7x/ethiopias_banna_tribe_use_long_sticks_to_avoid/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "Reddit r/all",
@@ -115,64 +150,29 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Ms. Rachel shares the only venue to accept Rahaf who is from Gaza",
-      "url": "https://www.reddit.com/r/Fauxmoi/comments/1p0ntob/ms_rachel_shares_the_only_venue_to_accept_rahaf/",
+      "title": "MAGA’s Sycophantic Devotion to a Senile Trump Is Going to Kill the First Amendment and Fuck Anyone Pretending Otherwise",
+      "url": "https://www.reddit.com/r/complaints/comments/1p0pvi8/magas_sycophantic_devotion_to_a_senile_trump_is/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "You don't say.",
-      "url": "https://www.reddit.com/r/LeopardsAteMyFace/comments/1p0n25u/you_dont_say/",
+      "title": "Congressman Troy E. Nehls (R, Texas) has a very quick change of \"heart\"",
+      "url": "https://www.reddit.com/r/agedlikemilk/comments/1p0smvv/congressman_troy_e_nehls_r_texas_has_a_very_quick/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Thomas Massie: They're part of the coverup. Speaker Johnson's press conference shows he's unrepentent. They have a backup plan. And I think it's gonna work poorly, by the way",
-      "url": "https://www.reddit.com/r/law/comments/1p0mscp/thomas_massie_theyre_part_of_the_coverup_speaker/",
+      "title": "Holy shit. They failed to cut the PNG appropriately.",
+      "url": "https://www.reddit.com/r/OnePunchMan/comments/1p0r6tu/holy_shit_they_failed_to_cut_the_png_appropriately/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Trump claims slain journalist Khashoggi was ‘extremely controversial,’ defends Saudi crown prince | CNN Politics",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0ktko/trump_claims_slain_journalist_khashoggi_was/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Discarded dough doesn't stop rising. If there's enough warmth and moisture, the yeast keeps fermenting. Even in the dumpster",
-      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p0l5b8/discarded_dough_doesnt_stop_rising_if_theres/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "A generous guide to frugality",
-      "url": "https://www.reddit.com/r/clevercomebacks/comments/1p0jn2e/a_generous_guide_to_frugality/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Jeffrey Epstein’s Brother Claims He Heard ‘from a Pretty Good Source’ That Epstein Files Are Being Scrubbed of Republican Names",
-      "url": "https://www.reddit.com/r/politics/comments/1p0hyda/jeffrey_epsteins_brother_claims_he_heard_from_a/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "The United States House of Representatives has voted with a veto-proof majority to pass Ro Khanna’s bill to force a release of the Epstein Files.",
-      "url": "https://www.reddit.com/r/goodnews/comments/1p0ltwf/the_united_states_house_of_representatives_has/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Yeah I don't trust em for a second",
-      "url": "https://www.reddit.com/r/AdviceAnimals/comments/1p0mbcj/yeah_i_dont_trust_em_for_a_second/",
+      "title": "Denture guy here, got my permanents! So much better than temporary ones!",
+      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1p0u3za/denture_guy_here_got_my_permanents_so_much_better/",
       "points": null,
       "comments": null
     },
@@ -206,6 +206,13 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Ukraine strikes Russian targets using US ATACMS missiles in first public acknowledgment",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0l4fc/ukraine_strikes_russian_targets_using_us_atacms/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Nestlé accused of ’risking health of babies for profit’ over added sugar in cereals sold in African countries",
       "url": "https://www.reddit.com/r/worldnews/comments/1p08egk/nestlé_accused_of_risking_health_of_babies_for/",
       "points": null,
@@ -220,8 +227,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Ukraine strikes Russian targets using US ATACMS missiles in first public acknowledgment",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p0l4fc/ukraine_strikes_russian_targets_using_us_atacms/",
+      "title": "Canada announces massive jump in funding to European Space Agency",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0vyqv/canada_announces_massive_jump_in_funding_to/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Libya Pushes to Restore Its Monarchy",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p0tlh3/libya_pushes_to_restore_its_monarchy/",
       "points": null,
       "comments": null
     },
@@ -233,16 +247,23 @@
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "Russian intelligence likely behind railway sabotage, Poland says",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p09d57/russian_intelligence_likely_behind_railway/",
+      "source": "TechCrunch",
+      "title": "The all-electric Jeep Recon is finally here",
+      "url": "https://techcrunch.com/2025/11/18/the-all-electric-jeep-recon-is-finally-here/",
       "points": null,
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "South Korean decision to close all coal-fired power plants by 2040 sounds alarm for Australian coal exports",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p04msd/south_korean_decision_to_close_all_coalfired/",
+      "source": "TechCrunch",
+      "title": "Trump DOE gives Microsoft partner $1B loan to restart Three Mile Island reactor",
+      "url": "https://techcrunch.com/2025/11/18/trump-doe-gives-microsoft-partner-1b-loan-to-restart-three-mile-island-reactor/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "European tech gets political",
+      "url": "https://techcrunch.com/2025/11/18/european-tech-gets-political/",
       "points": null,
       "comments": null
     },
@@ -296,29 +317,50 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "‘Our funds are 20 years old’: Limited partners confront VCs’ liquidity crisis",
-      "url": "https://techcrunch.com/2025/11/18/our-funds-are-20-years-old-a-look-inside-the-liquidity-crisis-reshaping-venture-capital/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "a16z leads $21M Series A into AI-native tax compliance software Sphere",
-      "url": "https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Hank Green’s Focus Friend is Google Play’s app of the year",
-      "url": "https://techcrunch.com/2025/11/18/hank-greens-focus-friend-is-google-plays-app-of-the-year/",
+      "source": "The Verge",
+      "title": "Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT",
+      "url": "https://www.theverge.com/news/823711/cloudflare-outage-postmortem",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Cloudflare shows massive internet outages aren’t a matter of if — but when",
+      "title": "The best Android phones",
+      "url": "https://www.theverge.com/23674658/best-android-phone",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "EA will skip next year&#8217;s F1 game and release update DLC instead",
+      "url": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "The Jeep Recon lives",
+      "url": "https://www.theverge.com/news/822340/jeep-recon-ev-specs-range-price",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect)",
+      "url": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Republicans are looking for a way to bring back the AI moratorium",
+      "url": "https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Cloudflare shows internet outages aren’t a matter of if — but when",
       "url": "https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites",
       "points": null,
       "comments": null
@@ -345,72 +387,51 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector",
-      "url": "https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The best Nintendo Switch controllers to buy right now",
-      "url": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Meta is not a monopolist, judge rules",
-      "url": "https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Sen. Warren presses Trump admin on potential AI bailout plans",
-      "url": "https://www.theverge.com/news/823136/senator-elizabeth-warren-openai-trump-bailout",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The Apple Watch Series 11 has plunged to a record low price",
-      "url": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The Echo Aviation Controller puts a flight simulator in your hands",
-      "url": "https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator",
+      "source": "Product Hunt",
+      "title": "Gram Functions",
+      "url": "https://www.producthunt.com/products/speakeasy-3",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Markopolo AI",
-      "url": "https://www.producthunt.com/products/markopolo-ai",
+      "title": "Rewebly",
+      "url": "https://www.producthunt.com/products/rewebly",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Typeless",
-      "url": "https://www.producthunt.com/products/typeless-2",
+      "title": "Filter Everything Online",
+      "url": "https://www.producthunt.com/products/filter-everything-online",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "WeatherNext 2 by Google DeepMind",
-      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+      "title": "AI Email Template Generator",
+      "url": "https://www.producthunt.com/products/ai-email-template-generator",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Querri 2.0",
-      "url": "https://www.producthunt.com/products/querri",
+      "title": "Super V2",
+      "url": "https://www.producthunt.com/products/super-4",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Poe",
+      "url": "https://www.producthunt.com/products/poe",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nori",
+      "url": "https://www.producthunt.com/products/nina-ai",
       "points": null,
       "comments": null
     },
@@ -423,36 +444,22 @@
     },
     {
       "source": "Product Hunt",
-      "title": "GoMarble AI for Meta Ads",
-      "url": "https://www.producthunt.com/products/ai-ads-analyzer",
+      "title": "Nitpicks",
+      "url": "https://www.producthunt.com/products/nitpicks",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Baserow 2.0",
-      "url": "https://www.producthunt.com/products/baserow",
+      "title": "webhook.rodeo",
+      "url": "https://www.producthunt.com/products/webhook-rodeo",
       "points": null,
       "comments": null
     },
     {
-      "source": "Product Hunt",
-      "title": "InsForge",
-      "url": "https://www.producthunt.com/products/insforge-alpha",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Grok 4.1",
-      "url": "https://www.producthunt.com/products/grok-3",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Checkit",
-      "url": "https://www.producthunt.com/products/checkit-ai-ar-healthy-food-scanner",
+      "source": "BBC World",
+      "title": "Congress approves bill to release Epstein files that will head to Trump's desk",
+      "url": "https://www.bbc.com/news/articles/cdxr1r34ev9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -516,13 +523,6 @@
       "source": "BBC World",
       "title": "Ex-Harvard president Larry Summers steps back from public role after Epstein email release",
       "url": "https://www.bbc.com/news/articles/cddr199d3z0o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "Venezuela's Maduro 'ready to talk' as US ramps up pressure",
-      "url": "https://www.bbc.com/news/articles/c3epgzvpj3lo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
