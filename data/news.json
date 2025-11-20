@@ -1,117 +1,110 @@
 {
-  "last_updated": "2025-11-20 15:40:39",
+  "last_updated": "2025-11-20 16:53:03",
   "items": [
     {
       "source": "Hacker News",
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-      "points": 850,
-      "comments": 969
+      "points": 877,
+      "comments": 1006
     },
     {
       "source": "Hacker News",
       "title": "Meta Segment Anything Model 3",
       "url": "https://ai.meta.com/sam3/",
-      "points": 583,
-      "comments": 117
+      "points": 603,
+      "comments": 122
     },
     {
       "source": "Hacker News",
       "title": "Building more with GPT-5.1-Codex-Max",
       "url": "https://openai.com/index/gpt-5-1-codex-max/",
-      "points": 451,
-      "comments": 278
+      "points": 459,
+      "comments": 284
     },
     {
       "source": "Hacker News",
       "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
       "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
-      "points": 391,
-      "comments": 179
+      "points": 402,
+      "comments": 186
     },
     {
       "source": "Hacker News",
       "title": "Researchers discover security vulnerability in WhatsApp",
       "url": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
-      "points": 279,
-      "comments": 108
+      "points": 286,
+      "comments": 113
     },
     {
       "source": "Hacker News",
-      "title": "Precise geolocation via Wi-Fi Positioning System",
-      "url": "https://www.amoses.dev/blog/wifi-location/",
-      "points": 218,
-      "comments": 84
-    },
-    {
-      "source": "Hacker News",
-      "title": "Android/Linux Dual Boot",
-      "url": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
-      "points": 186,
-      "comments": 109
-    },
-    {
-      "source": "Hacker News",
-      "title": "CUDA Ontology",
-      "url": "https://jamesakl.com/posts/cuda-ontology/",
-      "points": 174,
-      "comments": 24
-    },
-    {
-      "source": "Hacker News",
-      "title": "Interactive World History Atlas Since 3000 BC",
-      "url": "http://geacron.com/home-en/",
-      "points": 172,
-      "comments": 85
+      "title": "Nano Banana Pro",
+      "url": "https://blog.google/technology/ai/nano-banana-pro/",
+      "points": 274,
+      "comments": 194
     },
     {
       "source": "Hacker News",
       "title": "40 years ago, Calvin and Hobbes' burst onto the page",
       "url": "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem",
-      "points": 172,
-      "comments": 53
+      "points": 236,
+      "comments": 77
     },
     {
       "source": "Hacker News",
-      "title": "Verifying your Matrix devices is becoming mandatory",
-      "url": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
-      "points": 164,
-      "comments": 182
+      "title": "Precise geolocation via Wi-Fi Positioning System",
+      "url": "https://www.amoses.dev/blog/wifi-location/",
+      "points": 228,
+      "comments": 95
     },
     {
       "source": "Hacker News",
-      "title": "Basalt Woven Textile",
-      "url": "https://materialdistrict.com/material/basalt-woven-textile/",
-      "points": 158,
-      "comments": 81
-    },
-    {
-      "source": "Hacker News",
-      "title": "How Slide Rules Work",
-      "url": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-      "points": 157,
-      "comments": 45
+      "title": "Android/Linux Dual Boot",
+      "url": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
+      "points": 218,
+      "comments": 117
     },
     {
       "source": "Hacker News",
       "title": "Red Alert 2 in web browser",
       "url": "https://chronodivide.com/",
-      "points": 127,
-      "comments": 38
+      "points": 210,
+      "comments": 70
     },
     {
       "source": "Hacker News",
-      "title": "The lost cause of the Lisp machines",
-      "url": "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/",
-      "points": 109,
-      "comments": 110
+      "title": "Interactive World History Atlas Since 3000 BC",
+      "url": "http://geacron.com/home-en/",
+      "points": 204,
+      "comments": 97
     },
     {
-      "source": "Reddit r/all",
-      "title": "Me_irl",
-      "url": "https://www.reddit.com/r/me_irl/comments/1p22fvb/me_irl/",
-      "points": null,
-      "comments": null
+      "source": "Hacker News",
+      "title": "CUDA Ontology",
+      "url": "https://jamesakl.com/posts/cuda-ontology/",
+      "points": 193,
+      "comments": 30
+    },
+    {
+      "source": "Hacker News",
+      "title": "Verifying your Matrix devices is becoming mandatory",
+      "url": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
+      "points": 169,
+      "comments": 192
+    },
+    {
+      "source": "Hacker News",
+      "title": "Basalt Woven Textile",
+      "url": "https://materialdistrict.com/material/basalt-woven-textile/",
+      "points": 168,
+      "comments": 91
+    },
+    {
+      "source": "Hacker News",
+      "title": "Firefox 147 Will Support the XDG Base Directory Specification",
+      "url": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
+      "points": 153,
+      "comments": 46
     },
     {
       "source": "Reddit r/all",
@@ -122,22 +115,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Crowder's Hypocrisy On Full Display",
-      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p21286/crowders_hypocrisy_on_full_display/",
+      "title": "Think about that!",
+      "url": "https://www.reddit.com/r/UnderReportedNews/comments/1p250gs/think_about_that/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Then vs Now",
-      "url": "https://www.reddit.com/r/interesting/comments/1p2004e/then_vs_now/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Trump and Vance not invited to Dick Cheney’s funeral, but all four living former vice presidents attending",
-      "url": "https://www.reddit.com/r/politics/comments/1p22lma/trump_and_vance_not_invited_to_dick_cheneys/",
+      "title": "Me_irl",
+      "url": "https://www.reddit.com/r/me_irl/comments/1p22fvb/me_irl/",
       "points": null,
       "comments": null
     },
@@ -150,6 +136,27 @@
     },
     {
       "source": "Reddit r/all",
+      "title": "Trump and Vance not invited to Dick Cheney’s funeral, but all four living former vice presidents attending",
+      "url": "https://www.reddit.com/r/politics/comments/1p22lma/trump_and_vance_not_invited_to_dick_cheneys/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Crowder's Hypocrisy On Full Display",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p21286/crowders_hypocrisy_on_full_display/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Meirl",
+      "url": "https://www.reddit.com/r/meirl/comments/1p23m3u/meirl/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
       "title": "She should have given a longer lecture",
       "url": "https://www.reddit.com/r/oddlyspecific/comments/1p22aul/she_should_have_given_a_longer_lecture/",
       "points": null,
@@ -157,8 +164,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "“Colombian police destroying cocaine after a major bust by dumping it at sea, 1985.”",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p20b4c/colombian_police_destroying_cocaine_after_a_major/",
+      "title": "🔥The whole squad is there",
+      "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1p23bn0/the_whole_squad_is_there/",
       "points": null,
       "comments": null
     },
@@ -166,13 +173,6 @@
       "source": "Reddit r/all",
       "title": "just got home from my 12 hour shift only to find out I've locked myself outside my apartment with my cat 🤦",
       "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p2148n/just_got_home_from_my_12_hour_shift_only_to_find/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "In 1987, a teenage amateur German pilot flew through the supposedly impenetrable Soviet Air Defence system without authorization and landed next to Red Square in Moscow",
-      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p1zb5h/in_1987_a_teenage_amateur_german_pilot_flew/",
       "points": null,
       "comments": null
     },
@@ -199,15 +199,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "UK on US peace plan: Russia can end war by withdrawing its troops – Reuters",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1vhuu/uk_on_us_peace_plan_russia_can_end_war_by/",
+      "title": "British laser weapon downs drones off coast of Scotland",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p23frg/british_laser_weapon_downs_drones_off_coast_of/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "British laser weapon downs drones off coast of Scotland",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p23frg/british_laser_weapon_downs_drones_off_coast_of/",
+      "title": "UK on US peace plan: Russia can end war by withdrawing its troops – Reuters",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1vhuu/uk_on_us_peace_plan_russia_can_end_war_by/",
       "points": null,
       "comments": null
     },
@@ -234,15 +234,36 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "EU countries demand seat at the table over US-Russia plan to end war in Ukraine",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p24vcg/eu_countries_demand_seat_at_the_table_over/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Divers find over 450 pounds of cocaine hidden underneath ship bound for Europe, Colombia's navy says",
       "url": "https://www.reddit.com/r/worldnews/comments/1p1wcpf/divers_find_over_450_pounds_of_cocaine_hidden/",
       "points": null,
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "Russian spy ship enters British waters and shines lasers at military pilots",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1gjx7/russian_spy_ship_enters_british_waters_and_shines/",
+      "source": "TechCrunch",
+      "title": "The best guide to spotting AI writing comes from Wikipedia",
+      "url": "https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After SEC investigation, Curastory founder resigns, hires replacement",
+      "url": "https://techcrunch.com/2025/11/20/after-sec-investigation-curastory-founder-resigns-hires-replacement/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Spotify’s latest feature lets you transfer playlists from other services",
+      "url": "https://techcrunch.com/2025/11/20/spotifys-latest-feature-lets-you-transfer-playlists-from-other-services/",
       "points": null,
       "comments": null
     },
@@ -269,7 +290,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "As its voice dectation app takes off, Wispr secures $25M from Notable Capital",
+      "title": "As its voice dictation app takes off, Wispr secures $25M from Notable Capital",
       "url": "https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/",
       "points": null,
       "comments": null
@@ -296,23 +317,44 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Finland’s NestAI lands €100M, partners with Nokia to build AI for defense applications",
-      "url": "https://techcrunch.com/2025/11/20/finlands-nestai-lands-e100m-partners-with-nokia-to-build-ai-for-defense-applications/",
+      "source": "The Verge",
+      "title": "HBO has renewed its Game of Thrones spinoff shows for more seasons",
+      "url": "https://www.theverge.com/streaming/825136/hbo-renewals-house-of-the-dragon-a-knight-of-seven-kingdoms-i-love-la",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Uber Eats will use Starship sidewalk robots to deliver food in the UK",
-      "url": "https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/",
+      "source": "The Verge",
+      "title": "Suno’s CEO thinks typing a text prompt is ‘really active’ music creation",
+      "url": "https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Monarch Tractor preps for layoffs and warns employees it may ‘shut down’",
-      "url": "https://techcrunch.com/2025/11/19/monarch-tractor-preps-for-layoffs-and-warns-employees-it-may-shut-down/",
+      "source": "The Verge",
+      "title": "AR startup Viture is stealthily working on new AI glasses",
+      "url": "https://www.theverge.com/column/824994/ar-viture-ai-glasses",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "The 32 best gifts that your teen will actually use",
+      "url": "https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Apple&#8217;s AirPods Pro 3 just got their biggest discount ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/825107/apple-airpods-pro-3-black-friday-deal-sale",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "The Verge",
+      "title": "Boox Palma 2 Pro review: one step forward, one step back",
+      "url": "https://www.theverge.com/tech/823873/boox-palma-2-pro-review",
       "points": null,
       "comments": null
     },
@@ -345,65 +387,9 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "Google&#8217;s Nano Banana AI image model goes Pro and is free to try",
-      "url": "https://www.theverge.com/news/824785/google-nano-banana-pro-try-free-examples-prices",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Google Gemini is getting better at identifying AI fakes",
-      "url": "https://www.theverge.com/news/824786/google-gemini-synthid-ai-image-detection",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "I’m officially done with YouTube Kids",
-      "url": "https://www.theverge.com/tech/824556/youtube-kids-videos-slop",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Leica&#8217;s latest black-and-white-only camera is the $7,800 Q3 Monochrom",
-      "url": "https://www.theverge.com/news/824295/leica-q3-monochrom-black-and-white-digital-camera-price-specs",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Brendan Carr’s FCC launches probe into BBC’s Trump edit",
-      "url": "https://www.theverge.com/news/824913/bbc-pbs-npr-probe-trump-speech-news-distortion-fcc-brendan-carr",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Verizon is laying off over 13,000 workers",
-      "url": "https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees",
-      "points": null,
-      "comments": null
-    },
-    {
       "source": "Product Hunt",
-      "title": "Credyt",
-      "url": "https://www.producthunt.com/products/credyt",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Read AI for Desktop",
-      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Spine Canvas",
-      "url": "https://www.producthunt.com/products/spine-2",
+      "title": "ReadMeeting",
+      "url": "https://www.producthunt.com/products/readmeeting",
       "points": null,
       "comments": null
     },
@@ -416,15 +402,15 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Guideflow",
-      "url": "https://www.producthunt.com/products/guideflow",
+      "title": "Manus Browser Operator",
+      "url": "https://www.producthunt.com/products/manus",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Karumi",
-      "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
+      "title": "Read AI for Desktop",
+      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
       "points": null,
       "comments": null
     },
@@ -437,8 +423,22 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ReadMeeting",
-      "url": "https://www.producthunt.com/products/readmeeting",
+      "title": "Guideflow",
+      "url": "https://www.producthunt.com/products/guideflow",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Baselight AI",
+      "url": "https://www.producthunt.com/products/baselight",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Flex AI: Your AI Personal Trainer",
+      "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
       "points": null,
       "comments": null
     },
@@ -451,14 +451,14 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Manus Browser Operator",
-      "url": "https://www.producthunt.com/products/manus",
+      "title": "Spine Canvas",
+      "url": "https://www.producthunt.com/products/spine-2",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
+      "title": "US military team visits Kyiv as EU warns about Russian plans",
       "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
