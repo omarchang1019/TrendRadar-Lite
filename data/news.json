@@ -1,122 +1,115 @@
 {
-  "last_updated": "2025-11-20 18:53:23",
+  "last_updated": "2025-11-20 19:26:59",
   "items": [
+    {
+      "source": "Hacker News",
+      "title": "Meta Segment Anything Model 3",
+      "url": "https://ai.meta.com/sam3/",
+      "points": 626,
+      "comments": 125
+    },
     {
       "source": "Hacker News",
       "title": "Nano Banana Pro",
       "url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "points": 486,
-      "comments": 334
+      "points": 523,
+      "comments": 358
     },
     {
       "source": "Hacker News",
       "title": "Red Alert 2 in web browser",
       "url": "https://chronodivide.com/",
-      "points": 303,
-      "comments": 94
+      "points": 308,
+      "comments": 96
     },
     {
       "source": "Hacker News",
       "title": "'Calvin and Hobbes' at 40",
       "url": "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem",
-      "points": 297,
-      "comments": 102
+      "points": 304,
+      "comments": 106
     },
     {
       "source": "Hacker News",
       "title": "Firefox 147 Will Support the XDG Base Directory Specification",
       "url": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": 255,
-      "comments": 92
+      "points": 265,
+      "comments": 98
     },
     {
       "source": "Hacker News",
       "title": "Android/Linux Dual Boot",
       "url": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
-      "points": 244,
+      "points": 246,
       "comments": 135
     },
     {
       "source": "Hacker News",
       "title": "Interactive World History Atlas Since 3000 BC",
       "url": "http://geacron.com/home-en/",
-      "points": 235,
+      "points": 240,
       "comments": 119
     },
     {
       "source": "Hacker News",
-      "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs",
-      "url": "https://arxiv.org/abs/2511.15304",
-      "points": 173,
-      "comments": 104
+      "title": "CUDA Ontology",
+      "url": "https://jamesakl.com/posts/cuda-ontology/",
+      "points": 221,
+      "comments": 37
+    },
+    {
+      "source": "Hacker News",
+      "title": "Basalt Woven Textile",
+      "url": "https://materialdistrict.com/material/basalt-woven-textile/",
+      "points": 186,
+      "comments": 118
     },
     {
       "source": "Hacker News",
       "title": "Android and iPhone users can now share files, starting with the Pixel 10",
       "url": "https://blog.google/products/android/quick-share-airdrop/",
-      "points": 149,
-      "comments": 118
+      "points": 177,
+      "comments": 157
     },
     {
       "source": "Hacker News",
-      "title": "The Banished Bottom of the Housing Market",
-      "url": "https://www.ryanpuzycki.com/p/the-banished-bottom-of-the-housing",
-      "points": 144,
-      "comments": 130
+      "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs",
+      "url": "https://arxiv.org/abs/2511.15304",
+      "points": 177,
+      "comments": 105
     },
     {
       "source": "Hacker News",
       "title": "Microsoft makes Zork open-source",
       "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "points": 84,
-      "comments": 25
+      "points": 143,
+      "comments": 47
     },
     {
       "source": "Hacker News",
       "title": "Show HN: F32 – An Extremely Small ESP32 Board",
       "url": "https://github.com/PegorK/f32",
-      "points": 78,
+      "points": 100,
       "comments": 11
     },
     {
       "source": "Hacker News",
       "title": "Okta's NextJS-0auth troubles",
       "url": "https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability",
-      "points": 69,
-      "comments": 6
-    },
-    {
-      "source": "Hacker News",
-      "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
-      "url": "https://mobomaps.com",
-      "points": 46,
-      "comments": 7
+      "points": 94,
+      "comments": 23
     },
     {
       "source": "Hacker News",
       "title": "Go Cryptography State of the Union",
       "url": "https://words.filippo.io/2025-state/",
-      "points": 42,
-      "comments": 19
-    },
-    {
-      "source": "Hacker News",
-      "title": "Freer Monads, More Extensible Effects (2015) [pdf]",
-      "url": "https://okmij.org/ftp/Haskell/extensible/more.pdf",
-      "points": 41,
-      "comments": 2
+      "points": 54,
+      "comments": 26
     },
     {
       "source": "Reddit r/all",
       "title": "Think about that!",
       "url": "https://www.reddit.com/r/UnderReportedNews/comments/1p250gs/think_about_that/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Climbers ascend to Poland's highest peak and find a lone cat at the summit",
-      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p25vy7/climbers_ascend_to_polands_highest_peak_and_find/",
       "points": null,
       "comments": null
     },
@@ -129,6 +122,20 @@
     },
     {
       "source": "Reddit r/all",
+      "title": "Democrats react to Donald Trump's \"punishable by death\" remark",
+      "url": "https://www.reddit.com/r/politics/comments/1p28av8/democrats_react_to_donald_trumps_punishable_by/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Climbers ascend to Poland's highest peak and find a lone cat at the summit",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p25vy7/climbers_ascend_to_polands_highest_peak_and_find/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
       "title": "After encouragement from you all, I adopted my first pet, Adam.",
       "url": "https://www.reddit.com/r/aww/comments/1p26eb5/after_encouragement_from_you_all_i_adopted_my/",
       "points": null,
@@ -136,8 +143,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "John Fetterman to be Primaried",
-      "url": "https://www.reddit.com/r/politics/comments/1p2475z/john_fetterman_to_be_primaried/",
+      "title": "TIL that the Nuremberg Charter's definition of \"crimes against humanity\", which was used in the Nuremberg Trials, includes only acts committed during a war of aggression. This was partly because the US was concerned that Jim Crow segregation would otherwise be considered a crime against humanity",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1p27n3t/til_that_the_nuremberg_charters_definition_of/",
       "points": null,
       "comments": null
     },
@@ -164,15 +171,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Nicki Minaj is going all in for MAGA while Trump’s covert drug war is devastating her homeland of Trinidad",
-      "url": "https://www.reddit.com/r/Music/comments/1p24eog/nicki_minaj_is_going_all_in_for_maga_while_trumps/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "TIL that the Nuremberg Charter's definition of \"crimes against humanity\", which was used in the Nuremberg Trials, includes only acts committed during a war of aggression. This was partly because the US was concerned that Jim Crow segregation would otherwise be considered a crime against humanity",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1p27n3t/til_that_the_nuremberg_charters_definition_of/",
+      "title": "This is how Australian cowboys catch a bull",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p2aang/this_is_how_australian_cowboys_catch_a_bull/",
       "points": null,
       "comments": null
     },
@@ -201,6 +201,13 @@
       "source": "Reddit r/worldnews",
       "title": "British laser weapon downs drones off coast of Scotland",
       "url": "https://www.reddit.com/r/worldnews/comments/1p23frg/british_laser_weapon_downs_drones_off_coast_of/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Jailhouse shock: Brazil coup monger Bolsonaro finally faces life behind bars",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p2ajc6/jailhouse_shock_brazil_coup_monger_bolsonaro/",
       "points": null,
       "comments": null
     },
@@ -240,9 +247,23 @@
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "Jailhouse shock: Brazil coup monger Bolsonaro finally faces life behind bars",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p2ajc6/jailhouse_shock_brazil_coup_monger_bolsonaro/",
+      "source": "TechCrunch",
+      "title": "Salesforce says some of its customers’ data was accessed after Gainsight breach",
+      "url": "https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "ChatGPT launches group chats globally",
+      "url": "https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why these founders ditched social ads for Taylor Swift concerts and prison tablets",
+      "url": "https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/",
       "points": null,
       "comments": null
     },
@@ -269,7 +290,7 @@
     },
     {
       "source": "TechCrunch",
-      "title": "This Khosla-based startup can track drones, trucks, and robotaxis, inch by inch",
+      "title": "This Khosla-backed startup can track drones, trucks, and robotaxis, inch by inch",
       "url": "https://techcrunch.com/2025/11/20/this-khosla-based-startup-can-track-drones-trucks-and-robotaxis-inch-by-inch/",
       "points": null,
       "comments": null
@@ -296,23 +317,9 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Blue Origin reveals a super-heavy variant of its New Glenn rocket that is taller than a Saturn V",
-      "url": "https://techcrunch.com/2025/11/20/blue-origin-reveals-a-super-heavy-variant-of-its-new-glenn-rocket-that-is-taller-than-a-saturn-v/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Letterboxd to launch new movie rental feature in December",
-      "url": "https://techcrunch.com/2025/11/20/letterboxd-to-launch-new-movie-rental-feature-in-december/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Gemini starts rolling out to Android Auto globally",
-      "url": "https://techcrunch.com/2025/11/20/gemini-starts-rolling-out-to-android-auto-globally/",
+      "source": "The Verge",
+      "title": "The music industry is all in on AI",
+      "url": "https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner",
       "points": null,
       "comments": null
     },
@@ -380,9 +387,9 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "HBO has renewed its Game of Thrones spinoff shows for more seasons",
-      "url": "https://www.theverge.com/streaming/825136/hbo-renewals-house-of-the-dragon-a-knight-of-seven-kingdoms-i-love-la",
+      "source": "Product Hunt",
+      "title": "Read AI for Desktop",
+      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
       "points": null,
       "comments": null
     },
@@ -395,50 +402,29 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ReadMeeting",
-      "url": "https://www.producthunt.com/products/readmeeting",
+      "title": "Karumi",
+      "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Guideflow",
-      "url": "https://www.producthunt.com/products/guideflow",
+      "title": "Color Palette Pro",
+      "url": "https://www.producthunt.com/products/color-palette-pro",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Signadot Local",
-      "url": "https://www.producthunt.com/products/signadot",
+      "title": "Flex AI: Your AI Personal Trainer",
+      "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Magic Mango",
-      "url": "https://www.producthunt.com/products/magic-mango",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Baselight AI",
-      "url": "https://www.producthunt.com/products/baselight",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Read AI for Desktop",
-      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Refbox",
-      "url": "https://www.producthunt.com/products/refbox",
+      "title": "Spine Canvas",
+      "url": "https://www.producthunt.com/products/spine-2",
       "points": null,
       "comments": null
     },
@@ -451,8 +437,22 @@
     },
     {
       "source": "Product Hunt",
-      "title": "WordWise for iOS",
-      "url": "https://www.producthunt.com/products/wordwise",
+      "title": "Magic Mango",
+      "url": "https://www.producthunt.com/products/magic-mango",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ReadMeeting",
+      "url": "https://www.producthunt.com/products/readmeeting",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Refbox",
+      "url": "https://www.producthunt.com/products/refbox",
       "points": null,
       "comments": null
     },
