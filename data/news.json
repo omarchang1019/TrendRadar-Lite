@@ -1,110 +1,117 @@
 {
-  "last_updated": "2025-11-20 19:26:59",
+  "last_updated": "2025-11-20 19:41:16",
   "items": [
     {
       "source": "Hacker News",
       "title": "Meta Segment Anything Model 3",
       "url": "https://ai.meta.com/sam3/",
-      "points": 626,
-      "comments": 125
+      "points": 629,
+      "comments": 126
     },
     {
       "source": "Hacker News",
       "title": "Nano Banana Pro",
       "url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "points": 523,
-      "comments": 358
+      "points": 537,
+      "comments": 367
     },
     {
       "source": "Hacker News",
       "title": "Red Alert 2 in web browser",
       "url": "https://chronodivide.com/",
-      "points": 308,
-      "comments": 96
+      "points": 312,
+      "comments": 98
     },
     {
       "source": "Hacker News",
       "title": "'Calvin and Hobbes' at 40",
       "url": "https://www.npr.org/2025/11/18/nx-s1-5564064/calvin-and-hobbes-bill-watterson-40-years-comic-strip-lee-salem",
-      "points": 304,
-      "comments": 106
+      "points": 307,
+      "comments": 111
     },
     {
       "source": "Hacker News",
       "title": "Firefox 147 Will Support the XDG Base Directory Specification",
       "url": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
-      "points": 265,
-      "comments": 98
+      "points": 267,
+      "comments": 99
     },
     {
       "source": "Hacker News",
       "title": "Android/Linux Dual Boot",
       "url": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
-      "points": 246,
+      "points": 249,
       "comments": 135
     },
     {
       "source": "Hacker News",
       "title": "Interactive World History Atlas Since 3000 BC",
       "url": "http://geacron.com/home-en/",
-      "points": 240,
-      "comments": 119
+      "points": 243,
+      "comments": 121
     },
     {
       "source": "Hacker News",
       "title": "CUDA Ontology",
       "url": "https://jamesakl.com/posts/cuda-ontology/",
-      "points": 221,
+      "points": 222,
       "comments": 37
+    },
+    {
+      "source": "Hacker News",
+      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
+      "url": "https://blog.google/products/android/quick-share-airdrop/",
+      "points": 193,
+      "comments": 164
     },
     {
       "source": "Hacker News",
       "title": "Basalt Woven Textile",
       "url": "https://materialdistrict.com/material/basalt-woven-textile/",
       "points": 186,
-      "comments": 118
-    },
-    {
-      "source": "Hacker News",
-      "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-      "url": "https://blog.google/products/android/quick-share-airdrop/",
-      "points": 177,
-      "comments": 157
+      "comments": 119
     },
     {
       "source": "Hacker News",
       "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs",
       "url": "https://arxiv.org/abs/2511.15304",
-      "points": 177,
-      "comments": 105
+      "points": 180,
+      "comments": 107
     },
     {
       "source": "Hacker News",
       "title": "Microsoft makes Zork open-source",
       "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "points": 143,
-      "comments": 47
+      "points": 166,
+      "comments": 56
     },
     {
       "source": "Hacker News",
       "title": "Show HN: F32 – An Extremely Small ESP32 Board",
       "url": "https://github.com/PegorK/f32",
-      "points": 100,
-      "comments": 11
+      "points": 104,
+      "comments": 13
     },
     {
       "source": "Hacker News",
       "title": "Okta's NextJS-0auth troubles",
       "url": "https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability",
-      "points": 94,
-      "comments": 23
+      "points": 102,
+      "comments": 29
     },
     {
       "source": "Hacker News",
       "title": "Go Cryptography State of the Union",
       "url": "https://words.filippo.io/2025-state/",
-      "points": 54,
-      "comments": 26
+      "points": 57,
+      "comments": 29
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Democrats react to Donald Trump's \"punishable by death\" remark",
+      "url": "https://www.reddit.com/r/politics/comments/1p28av8/democrats_react_to_donald_trumps_punishable_by/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "Reddit r/all",
@@ -122,15 +129,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Democrats react to Donald Trump's \"punishable by death\" remark",
-      "url": "https://www.reddit.com/r/politics/comments/1p28av8/democrats_react_to_donald_trumps_punishable_by/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Climbers ascend to Poland's highest peak and find a lone cat at the summit",
-      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p25vy7/climbers_ascend_to_polands_highest_peak_and_find/",
+      "title": "TIL that the Nuremberg Charter's definition of \"crimes against humanity\", which was used in the Nuremberg Trials, includes only acts committed during a war of aggression. This was partly because the US was concerned that Jim Crow segregation would otherwise be considered a crime against humanity",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1p27n3t/til_that_the_nuremberg_charters_definition_of/",
       "points": null,
       "comments": null
     },
@@ -143,8 +143,22 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "TIL that the Nuremberg Charter's definition of \"crimes against humanity\", which was used in the Nuremberg Trials, includes only acts committed during a war of aggression. This was partly because the US was concerned that Jim Crow segregation would otherwise be considered a crime against humanity",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1p27n3t/til_that_the_nuremberg_charters_definition_of/",
+      "title": "Climbers ascend to Poland's highest peak and find a lone cat at the summit",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p25vy7/climbers_ascend_to_polands_highest_peak_and_find/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "This is how Australian cowboys catch a bull",
+      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p2aang/this_is_how_australian_cowboys_catch_a_bull/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "[OC] One of the political signs around town",
+      "url": "https://www.reddit.com/r/pics/comments/1p2a3jf/oc_one_of_the_political_signs_around_town/",
       "points": null,
       "comments": null
     },
@@ -157,22 +171,8 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Hello /r/movies, I'm Benedict Cumberbatch. Ask me anything!",
-      "url": "https://www.reddit.com/r/movies/comments/1p23yda/hello_rmovies_im_benedict_cumberbatch_ask_me/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
       "title": "US Rep. Sheila Cherfilus-McCormick of Florida indicted on charges of stealing $5M in disaster funds",
       "url": "https://www.reddit.com/r/news/comments/1p23s30/us_rep_sheila_cherfilusmccormick_of_florida/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "This is how Australian cowboys catch a bull",
-      "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1p2aang/this_is_how_australian_cowboys_catch_a_bull/",
       "points": null,
       "comments": null
     },
@@ -220,13 +220,6 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Navy could fire 'warning shot' or 'cut off' Russian spy ship after laser incident, says ex-MI6 boss",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1yob3/navy_could_fire_warning_shot_or_cut_off_russian/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
       "title": "Nuremberg trial records made available online after painstaking 25-year project | Nazism",
       "url": "https://www.reddit.com/r/worldnews/comments/1p26rr3/nuremberg_trial_records_made_available_online/",
       "points": null,
@@ -234,8 +227,8 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Nordic countries paying most for Ukraine ‘not sustainable,’ Swedish foreign minister says",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1xwtq/nordic_countries_paying_most_for_ukraine_not/",
+      "title": "Navy could fire 'warning shot' or 'cut off' Russian spy ship after laser incident, says ex-MI6 boss",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1yob3/navy_could_fire_warning_shot_or_cut_off_russian/",
       "points": null,
       "comments": null
     },
@@ -243,6 +236,13 @@
       "source": "Reddit r/worldnews",
       "title": "EU countries demand seat at the table over US-Russia plan to end war in Ukraine",
       "url": "https://www.reddit.com/r/worldnews/comments/1p24vcg/eu_countries_demand_seat_at_the_table_over/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Nordic countries paying most for Ukraine ‘not sustainable,’ Swedish foreign minister says",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1xwtq/nordic_countries_paying_most_for_ukraine_not/",
       "points": null,
       "comments": null
     },
@@ -388,8 +388,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Read AI for Desktop",
-      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
+      "title": "Dimension",
+      "url": "https://www.producthunt.com/products/dimension-2",
       "points": null,
       "comments": null
     },
@@ -409,15 +409,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Color Palette Pro",
-      "url": "https://www.producthunt.com/products/color-palette-pro",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Flex AI: Your AI Personal Trainer",
-      "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
+      "title": "Guideflow",
+      "url": "https://www.producthunt.com/products/guideflow",
       "points": null,
       "comments": null
     },
@@ -430,22 +423,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Gemini 3 Brand Audit",
-      "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Magic Mango",
-      "url": "https://www.producthunt.com/products/magic-mango",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ReadMeeting",
-      "url": "https://www.producthunt.com/products/readmeeting",
+      "title": "Baselight AI",
+      "url": "https://www.producthunt.com/products/baselight",
       "points": null,
       "comments": null
     },
@@ -453,6 +432,27 @@
       "source": "Product Hunt",
       "title": "Refbox",
       "url": "https://www.producthunt.com/products/refbox",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gemini 3 Brand Audit",
+      "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Manus Browser Operator",
+      "url": "https://www.producthunt.com/products/manus",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Color Palette Pro",
+      "url": "https://www.producthunt.com/products/color-palette-pro",
       "points": null,
       "comments": null
     },
