@@ -1,115 +1,122 @@
 {
-  "last_updated": "2025-11-20 11:42:26",
+  "last_updated": "2025-11-20 13:39:05",
   "items": [
     {
       "source": "Hacker News",
       "title": "Europe is scaling back GDPR and relaxing AI laws",
       "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
-      "points": 767,
-      "comments": 857
+      "points": 811,
+      "comments": 910
     },
     {
       "source": "Hacker News",
       "title": "Meta Segment Anything Model 3",
       "url": "https://ai.meta.com/sam3/",
-      "points": 515,
-      "comments": 103
-    },
-    {
-      "source": "Hacker News",
-      "title": "The patent office is about to make bad patents untouchable",
-      "url": "https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable",
-      "points": 469,
-      "comments": 66
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gaming on Linux has never been more approachable",
-      "url": "https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos",
-      "points": 431,
-      "comments": 314
+      "points": 542,
+      "comments": 108
     },
     {
       "source": "Hacker News",
       "title": "Building more with GPT-5.1-Codex-Max",
       "url": "https://openai.com/index/gpt-5-1-codex-max/",
-      "points": 418,
-      "comments": 247
+      "points": 434,
+      "comments": 260
     },
     {
       "source": "Hacker News",
       "title": "AI is a front for consolidation of resources and power",
       "url": "https://www.chrbutler.com/what-ai-is-really-for",
-      "points": 370,
-      "comments": 292
+      "points": 430,
+      "comments": 327
     },
     {
       "source": "Hacker News",
       "title": "Loose wire leads to blackout, contact with Francis Scott Key bridge",
       "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx",
-      "points": 352,
-      "comments": 138
+      "points": 366,
+      "comments": 159
     },
     {
       "source": "Hacker News",
       "title": "Researchers discover security vulnerability in WhatsApp",
       "url": "https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp",
-      "points": 246,
-      "comments": 91
-    },
-    {
-      "source": "Hacker News",
-      "title": "How to stay sane in a world that rewards insanity",
-      "url": "https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity",
-      "points": 228,
-      "comments": 171
+      "points": 263,
+      "comments": 100
     },
     {
       "source": "Hacker News",
       "title": "Precise geolocation via Wi-Fi Positioning System",
       "url": "https://www.amoses.dev/blog/wifi-location/",
-      "points": 188,
-      "comments": 74
+      "points": 200,
+      "comments": 77
     },
     {
       "source": "Hacker News",
-      "title": "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linu",
+      "title": "Static Web Hosting on the Intel N150",
       "url": "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/",
-      "points": 167,
-      "comments": 64
+      "points": 171,
+      "comments": 66
     },
     {
       "source": "Hacker News",
-      "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
-      "url": "https://mosaic.so",
-      "points": 123,
-      "comments": 116
-    },
-    {
-      "source": "Hacker News",
-      "title": "PHP 8.5 gets released today, here's what's new",
+      "title": "PHP 8.5",
       "url": "https://stitcher.io/blog/new-in-php-85",
-      "points": 122,
-      "comments": 62
+      "points": 160,
+      "comments": 88
     },
     {
       "source": "Hacker News",
-      "title": "How Slide Rules Work",
-      "url": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
-      "points": 120,
-      "comments": 29
+      "title": "Android/Linux Dual Boot",
+      "url": "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP",
+      "points": 152,
+      "comments": 75
+    },
+    {
+      "source": "Hacker News",
+      "title": "Verifying your Matrix devices is becoming mandatory",
+      "url": "https://element.io/blog/verifying-your-devices-is-becoming-mandatory-2/",
+      "points": 150,
+      "comments": 165
+    },
+    {
+      "source": "Hacker News",
+      "title": "CUDA Ontology",
+      "url": "https://jamesakl.com/posts/cuda-ontology/",
+      "points": 143,
+      "comments": 19
     },
     {
       "source": "Hacker News",
       "title": "Basalt Woven Textile",
       "url": "https://materialdistrict.com/material/basalt-woven-textile/",
-      "points": 111,
-      "comments": 54
+      "points": 136,
+      "comments": 65
+    },
+    {
+      "source": "Hacker News",
+      "title": "How Slide Rules Work",
+      "url": "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/",
+      "points": 131,
+      "comments": 31
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Mosaic (YC W25) – Agentic Video Editing",
+      "url": "https://mosaic.so",
+      "points": 127,
+      "comments": 119
     },
     {
       "source": "Reddit r/all",
-      "title": "theCompleteVersion",
-      "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1p1wsmy/thecompleteversion/",
+      "title": "Then vs Now",
+      "url": "https://www.reddit.com/r/interesting/comments/1p2004e/then_vs_now/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Crowder's Hypocrisy On Full Display",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p21286/crowders_hypocrisy_on_full_display/",
       "points": null,
       "comments": null
     },
@@ -122,15 +129,15 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Stealing fan works",
-      "url": "https://www.reddit.com/r/StarWars/comments/1p1x15c/stealing_fan_works/",
+      "title": "“Colombian police destroying cocaine after a major bust by dumping it at sea, 1985.”",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p20b4c/colombian_police_destroying_cocaine_after_a_major/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "[autosport] Max Verstappen's list of changes he would make to F1. You can watch the full interview on @1password's YouTube",
-      "url": "https://www.reddit.com/r/formula1/comments/1p1ybjp/autosport_max_verstappens_list_of_changes_he/",
+      "title": "Lord Gaben",
+      "url": "https://www.reddit.com/r/Steam/comments/1p1zmh9/lord_gaben/",
       "points": null,
       "comments": null
     },
@@ -143,36 +150,29 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "UK on US peace plan: Russia can end war by withdrawing its troops – Reuters",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1vhuu/uk_on_us_peace_plan_russia_can_end_war_by/",
+      "title": "The Wrong Mother",
+      "url": "https://www.reddit.com/r/KidsAreFuckingStupid/comments/1p1z395/the_wrong_mother/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "A man condemning ICE and Border Patrol Agents: \"Why did my grandfather fight Nazis?! Why did I fight Al-qaeda for you f***g Nazis, January 6, f***g Proud Boy little b***s to destroy this nation?!\"",
-      "url": "https://www.reddit.com/r/illinois/comments/1p1t9y2/a_man_condemning_ice_and_border_patrol_agents_why/",
+      "title": "Poland deploys 10,000 troops, closes Russian consulate after rail blast blamed on Moscow",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p209mx/poland_deploys_10000_troops_closes_russian/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Went to the bathroom, turned on the lights and saw this masterpiece",
-      "url": "https://www.reddit.com/r/cats/comments/1p1r95n/went_to_the_bathroom_turned_on_the_lights_and_saw/",
+      "title": "We agriculture posting now?",
+      "url": "https://www.reddit.com/r/HistoryMemes/comments/1p1zkpb/we_agriculture_posting_now/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "I always wonder how Neanderthals perceived Homo Sapiens",
-      "url": "https://www.reddit.com/r/HistoryMemes/comments/1p1xc5z/i_always_wonder_how_neanderthals_perceived_homo/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "anime_irl",
-      "url": "https://www.reddit.com/r/anime_irl/comments/1p1uzu1/anime_irl/",
+      "title": "Stealing fan works",
+      "url": "https://www.reddit.com/r/StarWars/comments/1p1x15c/stealing_fan_works/",
       "points": null,
       "comments": null
     },
@@ -185,15 +185,15 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "UK on US peace plan: Russia can end war by withdrawing its troops – Reuters",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1vhuu/uk_on_us_peace_plan_russia_can_end_war_by/",
+      "title": "Poland deploys 10,000 troops, closes Russian consulate after rail blast blamed on Moscow",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p209mx/poland_deploys_10000_troops_closes_russian/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Poland deploys 10,000 troops, closes Russian consulate after rail blast blamed on Moscow",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p209mx/poland_deploys_10000_troops_closes_russian/",
+      "title": "UK on US peace plan: Russia can end war by withdrawing its troops – Reuters",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1vhuu/uk_on_us_peace_plan_russia_can_end_war_by/",
       "points": null,
       "comments": null
     },
@@ -206,6 +206,20 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Navy could fire 'warning shot' or 'cut off' Russian spy ship after laser incident, says ex-MI6 boss",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1yob3/navy_could_fire_warning_shot_or_cut_off_russian/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Europeans push back at US plan that would force concessions from Ukraine",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p20cd2/europeans_push_back_at_us_plan_that_would_force/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Russian spy ship enters British waters and shines lasers at military pilots",
       "url": "https://www.reddit.com/r/worldnews/comments/1p1gjx7/russian_spy_ship_enters_british_waters_and_shines/",
       "points": null,
@@ -213,8 +227,8 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Navy could fire 'warning shot' or 'cut off' Russian spy ship after laser incident, says ex-MI6 boss",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1yob3/navy_could_fire_warning_shot_or_cut_off_russian/",
+      "title": "Divers find over 450 pounds of cocaine hidden underneath ship bound for Europe, Colombia's navy says",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p1wcpf/divers_find_over_450_pounds_of_cocaine_hidden/",
       "points": null,
       "comments": null
     },
@@ -233,16 +247,23 @@
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "US proposals to end Russia's war involve Ukraine giving up land, some weapons, sources say",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1e72b/us_proposals_to_end_russias_war_involve_ukraine/",
+      "source": "TechCrunch",
+      "title": "Sortera is turning America’s scrap aluminum problem into cash",
+      "url": "https://techcrunch.com/2025/11/20/sortera-is-turning-americas-scrap-aluminum-problem-into-cash/",
       "points": null,
       "comments": null
     },
     {
-      "source": "Reddit r/worldnews",
-      "title": "Divers find over 450 pounds of cocaine hidden underneath ship bound for Europe, Colombia's navy says",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p1wcpf/divers_find_over_450_pounds_of_cocaine_hidden/",
+      "source": "TechCrunch",
+      "title": "Finland’s NestAI lands €100M, partners with Nokia to build AI for defense applications",
+      "url": "https://techcrunch.com/2025/11/20/finlands-nestai-lands-e100m-partners-with-nokia-to-build-ai-for-defense-applications/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber Eats will use Starship sidewalk robots to deliver food in the UK",
+      "url": "https://techcrunch.com/2025/11/20/uber-eats-will-use-starship-sidewalk-robots-to-deliver-food-in-the-uk/",
       "points": null,
       "comments": null
     },
@@ -296,23 +317,16 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform",
-      "url": "https://techcrunch.com/2025/11/19/warner-music-settles-copyright-lawsuit-with-udio-signs-deal-for-ai-music-platform/",
+      "source": "The Verge",
+      "title": "The FCC wants to roll back steps meant to stop a repeat of a massive telecom hack",
+      "url": "https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Legally embattled AI music startup Suno raises at $2.45B valuation on $200M revenue",
-      "url": "https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation-on-200m-revenue/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Rising data center electricity use risks blackouts during winter storms",
-      "url": "https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/",
+      "source": "The Verge",
+      "title": "Camera support could be the boost Matter needs",
+      "url": "https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest",
       "points": null,
       "comments": null
     },
@@ -373,20 +387,6 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "The best Bluetooth trackers for Apple and Android phones",
-      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Future Google TV devices might come with a solar-powered remote",
-      "url": "https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics",
-      "points": null,
-      "comments": null
-    },
-    {
       "source": "Product Hunt",
       "title": "Ramble by Todoist",
       "url": "https://www.producthunt.com/products/todoist",
@@ -395,15 +395,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Magic Mango",
-      "url": "https://www.producthunt.com/products/magic-mango",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Baselight AI",
-      "url": "https://www.producthunt.com/products/baselight",
+      "title": "Spine Canvas",
+      "url": "https://www.producthunt.com/products/spine-2",
       "points": null,
       "comments": null
     },
@@ -416,8 +409,8 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Pavis",
-      "url": "https://www.producthunt.com/products/pavis",
+      "title": "WordWise for iOS",
+      "url": "https://www.producthunt.com/products/wordwise",
       "points": null,
       "comments": null
     },
@@ -430,35 +423,42 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Color Palette Pro",
-      "url": "https://www.producthunt.com/products/color-palette-pro",
+      "title": "Pavis",
+      "url": "https://www.producthunt.com/products/pavis",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Dimension",
-      "url": "https://www.producthunt.com/products/dimension-2",
+      "title": "Magic Mango",
+      "url": "https://www.producthunt.com/products/magic-mango",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Read AI for Desktop",
-      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
+      "title": "Flex AI: Your AI Personal Trainer",
+      "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Spine Canvas",
-      "url": "https://www.producthunt.com/products/spine-2",
+      "title": "Baselight AI",
+      "url": "https://www.producthunt.com/products/baselight",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Manus Browser Operator",
+      "url": "https://www.producthunt.com/products/manus",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "US military officials in Ukraine amid reports of draft Russia peace plan",
+      "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan",
       "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
