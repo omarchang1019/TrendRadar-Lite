@@ -34,11 +34,18 @@
     }
     .title {
       font-size: 14px;
-      margin-bottom: 4px;
+      margin-bottom: 2px;
     }
     .title a {
       color: #7dd3fc;
       text-decoration: none;
+    }
+    }
+    .title-zh {
+      font-size: 13px;
+      color: #e5e7eb;
+      opacity: 0.9;
+      margin-bottom: 4px;
     }
     .meta {
       font-size: 11px;
@@ -88,6 +95,7 @@
                 ${item.title}
               </a>
             </div>
+             ${item.title_zh ? `<div class="title-zh">${item.title_zh}</div>` : ''}
             <div class="meta">
               ${item.points ? (item.points + ' points · ') : ''}${item.comments ? (item.comments + ' comments') : ''}
             </div>
