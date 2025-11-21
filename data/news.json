@@ -1,36 +1,36 @@
 {
-  "last_updated": "2025-11-21 08:42:23",
+  "last_updated": "2025-11-21 16:53:11",
   "items": [
     {
       "source": "Hacker News",
       "title": "Nano Banana Pro",
       "title_zh": "Nano Banana Pro",
       "url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "points": 1023,
-      "comments": 598
+      "points": 1025,
+      "comments": 599
     },
     {
       "source": "Hacker News",
       "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
       "title_zh": "海关和边境保护局(CBP)正在监控美国合作车主，并拘留那些有可疑旅行模式的合",
       "url": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
-      "points": 689,
-      "comments": 749
+      "points": 693,
+      "comments": 750
     },
     {
       "source": "Hacker News",
       "title": "Android and iPhone users can now share files, starting with the Pixel 10",
       "title_zh": "Android和iPhone用户现在可以共享文件，从Pixel 10开始",
       "url": "https://blog.google/products/android/quick-share-airdrop/",
-      "points": 636,
-      "comments": 362
+      "points": 639,
+      "comments": 364
     },
     {
       "source": "Hacker News",
       "title": "Microsoft makes Zork open-source",
       "title_zh": "微软开源Zork",
       "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "points": 544,
+      "points": 546,
       "comments": 212
     },
     {
@@ -38,7 +38,7 @@
       "title": "Interactive World History Atlas Since 3000 BC",
       "title_zh": "自公元前3000年以来的互动世界历史地图集",
       "url": "http://geacron.com/home-en/",
-      "points": 314,
+      "points": 315,
       "comments": 132
     },
     {
@@ -46,7 +46,7 @@
       "title": "Okta's NextJS-0auth troubles",
       "title_zh": "Okta的NextJS-0auth故障",
       "url": "https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability",
-      "points": 281,
+      "points": 282,
       "comments": 106
     },
     {
@@ -55,7 +55,7 @@
       "title_zh": "对抗性诗歌作为LLM中的通用单回合越狱机制",
       "url": "https://arxiv.org/abs/2511.15304",
       "points": 273,
-      "comments": 145
+      "comments": 148
     },
     {
       "source": "Hacker News",
@@ -70,7 +70,7 @@
       "title": "New OS aims to provide (some) compatibility with macOS",
       "title_zh": "新操作系统旨在提供（部分）与macOS的兼容性",
       "url": "https://github.com/ravynsoft/ravynos",
-      "points": 214,
+      "points": 216,
       "comments": 99
     },
     {
@@ -78,8 +78,16 @@
       "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
       "title_zh": "免费交互式工具，向您展示PCIe通道在主板上的工作原理",
       "url": "https://mobomaps.com",
-      "points": 194,
+      "points": 195,
       "comments": 41
+    },
+    {
+      "source": "Hacker News",
+      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
+      "title_zh": "FEX-emu –在ARM64 Linux设备上运行x86应用程序",
+      "url": "https://fex-emu.com/",
+      "points": 178,
+      "comments": 58
     },
     {
       "source": "Hacker News",
@@ -87,15 +95,7 @@
       "title_zh": "过度监管使成本翻了一番",
       "url": "https://rein.pk/over-regulation-is-doubling-the-cost",
       "points": 173,
-      "comments": 279
-    },
-    {
-      "source": "Hacker News",
-      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
-      "title_zh": "FEX-emu –在ARM64 Linux设备上运行x86应用程序",
-      "url": "https://fex-emu.com/",
-      "points": 173,
-      "comments": 58
+      "comments": 285
     },
     {
       "source": "Hacker News",
@@ -110,8 +110,8 @@
       "title": "Show HN: My hobby OS that runs Minecraft",
       "title_zh": "显示HN ：我运行Minecraft的爱好操作系统",
       "url": "https://astral-os.org/posts/2025/10/31/astral-minecraft.html",
-      "points": 168,
-      "comments": 17
+      "points": 169,
+      "comments": 18
     },
     {
       "source": "Hacker News",
@@ -163,6 +163,14 @@
     },
     {
       "source": "Reddit r/all",
+      "title": "hiker captures his own shadow floating in the mountain mist",
+      "title_zh": "徒步旅行者在山雾中捕捉自己的影子",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p2rcfg/hiker_captures_his_own_shadow_floating_in_the/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
       "title": "Yankees GM Brian Cashman is sleeping outside tonight as part of his yearly campaign through Covenant House to raise awareness for youth homelessness",
       "title_zh": "洋基队总经理布莱恩·卡什曼（ Brian Cashman ）今晚在外面睡觉，这是他通过圣约社（ Covenant House ）开展的年度活动的一部分，旨在提高人们对无家",
       "url": "https://www.reddit.com/r/baseball/comments/1p2mau2/yankees_gm_brian_cashman_is_sleeping_outside/",
@@ -179,9 +187,9 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "hiker captures his own shadow floating in the mountain mist",
-      "title_zh": "徒步旅行者在山雾中捕捉自己的影子",
-      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p2rcfg/hiker_captures_his_own_shadow_floating_in_the/",
+      "title": "This is last known picture of Titanic before it sank.",
+      "title_zh": "这是泰坦尼克号沉没前的最后一张已知照片。",
+      "url": "https://www.reddit.com/r/pics/comments/1p2mq47/this_is_last_known_picture_of_titanic_before_it/",
       "points": null,
       "comments": null
     },
@@ -190,14 +198,6 @@
       "title": "My 4yo son deleted 400gb of my ps5 games while I was at work today :/",
       "title_zh": "我4岁的儿子在我今天上班时删除了400GB的PS5游戏：/",
       "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p2m0z2/my_4yo_son_deleted_400gb_of_my_ps5_games_while_i/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "This is last known picture of Titanic before it sank.",
-      "title_zh": "这是泰坦尼克号沉没前的最后一张已知照片。",
-      "url": "https://www.reddit.com/r/pics/comments/1p2mq47/this_is_last_known_picture_of_titanic_before_it/",
       "points": null,
       "comments": null
     },
@@ -227,6 +227,14 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Axios reveals text of peace plan: Ukraine to relinquish its territories permanently, Russia to receive amnesty",
+      "title_zh": "Axios透露和平计划文本：乌克兰永久放弃其领土，俄罗斯获得大赦",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p2rq61/axios_reveals_text_of_peace_plan_ukraine_to/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Russia ‘prepared to take enormous strategic risks’ to test NATO, top Swedish general warns",
       "title_zh": "瑞典高级将领警告说，俄罗斯“准备承担巨大的战略风险”来测试北约",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2ggwo/russia_prepared_to_take_enormous_strategic_risks/",
@@ -238,14 +246,6 @@
       "title": "10,000 shark fins worth over $11M seized in major wildlife trafficking bust in Peru",
       "title_zh": "在秘鲁的主要野生动物贩卖活动中查获了价值超过$ 1100万的10,000条鱼翅",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2gm7s/10000_shark_fins_worth_over_11m_seized_in_major/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Axios reveals text of peace plan: Ukraine to relinquish its territories permanently, Russia to receive amnesty",
-      "title_zh": "Axios透露和平计划文本：乌克兰永久放弃其领土，俄罗斯获得大赦",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p2rq61/axios_reveals_text_of_peace_plan_ukraine_to/",
       "points": null,
       "comments": null
     },
@@ -443,41 +443,25 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Chime",
-      "title_zh": "磬声",
-      "url": "https://www.producthunt.com/products/chime-remember-everything",
+      "title": "1UP",
+      "title_zh": "1UP",
+      "url": "https://www.producthunt.com/products/1up",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Raycast for Windows",
-      "title_zh": "Windows版Raycast",
-      "url": "https://www.producthunt.com/products/raycast",
+      "title": "elfmonn",
+      "title_zh": "elfmonn",
+      "url": "https://www.producthunt.com/products/elfmonn",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "TurtleBar - Smart Battery Saver for Mac",
-      "title_zh": "TurtleBar -适用于Mac的智能节电器",
-      "url": "https://www.producthunt.com/products/turtlebar-smart-battery-saver-for-mac",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Antigravity for Raycast",
-      "title_zh": "反重力射线投射",
-      "url": "https://www.producthunt.com/products/antigravity-for-raycast",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gatling Studio",
-      "title_zh": "加特林单间公寓",
-      "url": "https://www.producthunt.com/products/gatling",
+      "title": "Globe of History",
+      "title_zh": "历史地球仪",
+      "url": "https://www.producthunt.com/products/globe-of-history",
       "points": null,
       "comments": null
     },
@@ -491,17 +475,9 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Browser Cash",
-      "title_zh": "浏览器现金",
-      "url": "https://www.producthunt.com/products/browser-cash",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Good Dad",
-      "title_zh": "好爸爸",
-      "url": "https://www.producthunt.com/products/good-dad",
+      "title": "Gatling Studio",
+      "title_zh": "加特林单间公寓",
+      "url": "https://www.producthunt.com/products/gatling",
       "points": null,
       "comments": null
     },
@@ -515,9 +491,33 @@
     },
     {
       "source": "Product Hunt",
-      "title": "1UP",
-      "title_zh": "1UP",
-      "url": "https://www.producthunt.com/products/1up",
+      "title": "Lamatic 3.0",
+      "title_zh": "Lamatic 3.0",
+      "url": "https://www.producthunt.com/products/lamatic-ai",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Browser Cash",
+      "title_zh": "浏览器现金",
+      "url": "https://www.producthunt.com/products/browser-cash",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Raycast for Windows",
+      "title_zh": "Windows版Raycast",
+      "url": "https://www.producthunt.com/products/raycast",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Neat Photo (Beta)",
+      "title_zh": "整洁的照片（测试版）",
+      "url": "https://www.producthunt.com/products/neat-photo-beta",
       "points": null,
       "comments": null
     },
@@ -547,9 +547,25 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump signs bill ordering US justice department to release Epstein files",
-      "title_zh": "特朗普签署法案，命令美国司法部公布爱泼斯坦档案",
-      "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
+      "title": "New US rules say countries with diversity policies are infringing human rights",
+      "title_zh": "美国新规称奉行多元化政策的国家侵犯人权",
+      "url": "https://www.bbc.com/news/articles/cx24200d7y9o?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "Friday-night drug deals helping Russian war machine, UK crime agency warns",
+      "title_zh": "周五晚上毒品交易帮助俄罗斯战争机器，英国犯罪机构警告",
+      "url": "https://www.bbc.com/news/articles/c8030m1g2ygo?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "South African women call purple protest over gender violence",
+      "title_zh": "南非女性呼吁紫色抗议性别暴力",
+      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -563,9 +579,9 @@
     },
     {
       "source": "BBC World",
-      "title": "South African women call purple protest over gender violence",
-      "title_zh": "南非女性呼吁紫色抗议性别暴力",
-      "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
+      "title": "Men posing as India's central bank officials pull off $800,000 heist",
+      "title_zh": "冒充印度央行官员的男子抢劫$ 800,000",
+      "url": "https://www.bbc.com/news/articles/c4gpgp07zdko?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -582,22 +598,6 @@
       "title": "Frida Kahlo self-portrait sells for record-breaking $55m",
       "title_zh": "Frida Kahlo自画像以破纪录的$ 5500万售出",
       "url": "https://www.bbc.com/news/articles/cdege1867lno?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
-      "title_zh": "布什称赞迪克·切尼是葬礼上的“思想家和倾听者”",
-      "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "COP30 climate talks evacuated after fire breaks out",
-      "title_zh": "COP30气候谈判在火灾发生后撤离",
-      "url": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
