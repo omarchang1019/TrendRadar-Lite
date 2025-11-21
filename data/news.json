@@ -1,184 +1,210 @@
 {
-  "last_updated": "2025-11-21 07:32:54",
+  "last_updated": "2025-11-21 08:42:23",
   "items": [
     {
       "source": "Hacker News",
       "title": "Nano Banana Pro",
+      "title_zh": "Nano Banana Pro",
       "url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "points": 1006,
-      "comments": 580
+      "points": 1023,
+      "comments": 598
     },
     {
       "source": "Hacker News",
       "title": "CBP is monitoring US drivers and detaining those with suspicious travel patterns",
+      "title_zh": "海关和边境保护局(CBP)正在监控美国合作车主，并拘留那些有可疑旅行模式的合",
       "url": "https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd",
-      "points": 671,
-      "comments": 726
+      "points": 689,
+      "comments": 749
     },
     {
       "source": "Hacker News",
       "title": "Android and iPhone users can now share files, starting with the Pixel 10",
+      "title_zh": "Android和iPhone用户现在可以共享文件，从Pixel 10开始",
       "url": "https://blog.google/products/android/quick-share-airdrop/",
-      "points": 613,
-      "comments": 347
+      "points": 636,
+      "comments": 362
     },
     {
       "source": "Hacker News",
       "title": "Microsoft makes Zork open-source",
+      "title_zh": "微软开源Zork",
       "url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-      "points": 533,
-      "comments": 210
+      "points": 544,
+      "comments": 212
     },
     {
       "source": "Hacker News",
       "title": "Interactive World History Atlas Since 3000 BC",
+      "title_zh": "自公元前3000年以来的互动世界历史地图集",
       "url": "http://geacron.com/home-en/",
-      "points": 311,
-      "comments": 131
-    },
-    {
-      "source": "Hacker News",
-      "title": "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
-      "url": "https://arxiv.org/abs/2511.15304",
-      "points": 267,
-      "comments": 142
+      "points": 314,
+      "comments": 132
     },
     {
       "source": "Hacker News",
       "title": "Okta's NextJS-0auth troubles",
+      "title_zh": "Okta的NextJS-0auth故障",
       "url": "https://joshua.hu/ai-slop-okta-nextjs-0auth-security-vulnerability",
-      "points": 267,
-      "comments": 99
+      "points": 281,
+      "comments": 106
+    },
+    {
+      "source": "Hacker News",
+      "title": "Adversarial poetry as a universal single-turn jailbreak mechanism in LLMs",
+      "title_zh": "对抗性诗歌作为LLM中的通用单回合越狱机制",
+      "url": "https://arxiv.org/abs/2511.15304",
+      "points": 273,
+      "comments": 145
     },
     {
       "source": "Hacker News",
       "title": "Show HN: F32 – An Extremely Small ESP32 Board",
+      "title_zh": "Show HN: F32 –极小的ESP32板",
       "url": "https://github.com/PegorK/f32",
-      "points": 223,
-      "comments": 36
+      "points": 228,
+      "comments": 39
     },
     {
       "source": "Hacker News",
       "title": "New OS aims to provide (some) compatibility with macOS",
+      "title_zh": "新操作系统旨在提供（部分）与macOS的兼容性",
       "url": "https://github.com/ravynsoft/ravynos",
-      "points": 196,
-      "comments": 86
+      "points": 214,
+      "comments": 99
     },
     {
       "source": "Hacker News",
       "title": "Free interactive tool that shows you how PCIe lanes work on motherboards",
+      "title_zh": "免费交互式工具，向您展示PCIe通道在主板上的工作原理",
       "url": "https://mobomaps.com",
-      "points": 187,
-      "comments": 33
-    },
-    {
-      "source": "Hacker News",
-      "title": "NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]",
-      "url": "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf",
-      "points": 167,
-      "comments": 170
-    },
-    {
-      "source": "Hacker News",
-      "title": "Data-at-Rest Encryption in DuckDB",
-      "url": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
-      "points": 162,
-      "comments": 16
-    },
-    {
-      "source": "Hacker News",
-      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
-      "url": "https://fex-emu.com/",
-      "points": 158,
-      "comments": 50
+      "points": 194,
+      "comments": 41
     },
     {
       "source": "Hacker News",
       "title": "Over-regulation is doubling the cost",
+      "title_zh": "过度监管使成本翻了一番",
       "url": "https://rein.pk/over-regulation-is-doubling-the-cost",
-      "points": 154,
-      "comments": 227
+      "points": 173,
+      "comments": 279
     },
     {
       "source": "Hacker News",
-      "title": "Ask HN: How are Markov chains so different from tiny LLMs?",
-      "url": "",
-      "points": 154,
-      "comments": 107
+      "title": "FEX-emu – Run x86 applications on ARM64 Linux devices",
+      "title_zh": "FEX-emu –在ARM64 Linux设备上运行x86应用程序",
+      "url": "https://fex-emu.com/",
+      "points": 173,
+      "comments": 58
+    },
+    {
+      "source": "Hacker News",
+      "title": "NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf]",
+      "title_zh": "NTSB初步报告– UPS波音MD-11F事故[pdf]",
+      "url": "https://www.ntsb.gov/Documents/Prelimiary%20Report%20DCA26MA024.pdf",
+      "points": 171,
+      "comments": 177
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: My hobby OS that runs Minecraft",
+      "title_zh": "显示HN ：我运行Minecraft的爱好操作系统",
+      "url": "https://astral-os.org/posts/2025/10/31/astral-minecraft.html",
+      "points": 168,
+      "comments": 17
+    },
+    {
+      "source": "Hacker News",
+      "title": "Data-at-Rest Encryption in DuckDB",
+      "title_zh": "DuckDB中的静态数据加密",
+      "url": "https://duckdb.org/2025/11/19/encryption-in-duckdb",
+      "points": 167,
+      "comments": 17
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Youtube is fighting a losing battle",
+      "title_zh": "Youtube正在打一场失败的战斗",
+      "url": "https://www.reddit.com/r/memes/comments/1p2rrfo/youtube_is_fighting_a_losing_battle/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "Reddit r/all",
       "title": "An Elgin City resident’s speech during a city council meeting: “If you’re quiet now, you would have been quiet in 1940.”",
+      "title_zh": "埃尔金市居民在市议会会议上的演讲： “如果你现在安静下来， 1940年就会安静下来。”",
       "url": "https://www.reddit.com/r/illinois/comments/1p2mux2/an_elgin_city_residents_speech_during_a_city/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Yankees GM Brian Cashman is sleeping outside tonight as part of his yearly campaign through Covenant House to raise awareness for youth homelessness",
-      "url": "https://www.reddit.com/r/baseball/comments/1p2mau2/yankees_gm_brian_cashman_is_sleeping_outside/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "TIL that Abraham Lincoln rejected a proposed marriage arrangement because the girl was too fat. \"Her present bulk\" was so great, according to Lincoln, that he believed her to be far older than her stated age, as her skin was \"too full of fat to permit of its contracting into wrinkles.\"",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1p2nhh9/til_that_abraham_lincoln_rejected_a_proposed/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Elonia couldn’t handle it",
-      "url": "https://www.reddit.com/r/MurderedByWords/comments/1p2nsq2/elonia_couldnt_handle_it/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Photographer Kara McCurdy Shared Photos of Zohran Mamdani and Rama Duwaji’s Viral Clerk’s Office Wedding",
-      "url": "https://www.reddit.com/r/Fauxmoi/comments/1p2ox58/photographer_kara_mccurdy_shared_photos_of_zohran/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "My 4yo son deleted 400gb of my ps5 games while I was at work today :/",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p2m0z2/my_4yo_son_deleted_400gb_of_my_ps5_games_while_i/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
       "title": "Microsoft AI CEO puzzled that people are unimpressed by AI",
+      "title_zh": "微软人工智能首席执行官感到困惑的是，人们对人工智能并不印象深刻",
       "url": "https://www.reddit.com/r/technology/comments/1p2osv5/microsoft_ai_ceo_puzzled_that_people_are/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "Bald eagle drops cat through windshield in North Carolina",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p2k10n/bald_eagle_drops_cat_through_windshield_in_north/",
+      "title": "Photographer Kara McCurdy Shared Photos of Zohran Mamdani and Rama Duwaji’s Viral Clerk’s Office Wedding",
+      "title_zh": "摄影师Kara McCurdy分享了Zohran Mamdani和Rama Duwaji的病毒式文员办公室婚礼照片",
+      "url": "https://www.reddit.com/r/Fauxmoi/comments/1p2ox58/photographer_kara_mccurdy_shared_photos_of_zohran/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
-      "title": "This is last known picture of Titanic before it sank.",
-      "url": "https://www.reddit.com/r/pics/comments/1p2mq47/this_is_last_known_picture_of_titanic_before_it/",
+      "title": "TIL that Abraham Lincoln rejected a proposed marriage arrangement because the girl was too fat. \"Her present bulk\" was so great, according to Lincoln, that he believed her to be far older than her stated age, as her skin was \"too full of fat to permit of its contracting into wrinkles.\"",
+      "title_zh": "直到亚伯拉罕·林肯（ Abraham Lincoln ）拒绝了提议的婚姻安排，因为这个女孩太胖了。根据林肯的说法， “她现在的体型”是如此之大，以至于他相信她比她所说的年龄大得多，因为她的皮肤“太胖了，不允许它收缩成皱纹。”",
+      "url": "https://www.reddit.com/r/todayilearned/comments/1p2nhh9/til_that_abraham_lincoln_rejected_a_proposed/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Yankees GM Brian Cashman is sleeping outside tonight as part of his yearly campaign through Covenant House to raise awareness for youth homelessness",
+      "title_zh": "洋基队总经理布莱恩·卡什曼（ Brian Cashman ）今晚在外面睡觉，这是他通过圣约社（ Covenant House ）开展的年度活动的一部分，旨在提高人们对无家",
+      "url": "https://www.reddit.com/r/baseball/comments/1p2mau2/yankees_gm_brian_cashman_is_sleeping_outside/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/all",
       "title": "The whole squad is there",
+      "title_zh": "整个小队都在那里",
       "url": "https://www.reddit.com/r/funny/comments/1p2nqty/the_whole_squad_is_there/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "hiker captures his own shadow floating in the mountain mist",
+      "title_zh": "徒步旅行者在山雾中捕捉自己的影子",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p2rcfg/hiker_captures_his_own_shadow_floating_in_the/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "My 4yo son deleted 400gb of my ps5 games while I was at work today :/",
+      "title_zh": "我4岁的儿子在我今天上班时删除了400GB的PS5游戏：/",
+      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p2m0z2/my_4yo_son_deleted_400gb_of_my_ps5_games_while_i/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "This is last known picture of Titanic before it sank.",
+      "title_zh": "这是泰坦尼克号沉没前的最后一张已知照片。",
+      "url": "https://www.reddit.com/r/pics/comments/1p2mq47/this_is_last_known_picture_of_titanic_before_it/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
       "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1366, Part 1 (Thread #1513)",
+      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1366天，第1部分（主题# 1513 ）",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2os82/rworldnews_live_thread_russian_invasion_of/",
       "points": null,
       "comments": null
@@ -186,6 +212,7 @@
     {
       "source": "Reddit r/worldnews",
       "title": "US Defense Department \"contractors\" accidentally invade beach in Mexico",
+      "title_zh": "美国国防部“承包商”意外入侵墨西哥海滩",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2q5br/us_defense_department_contractors_accidentally/",
       "points": null,
       "comments": null
@@ -193,6 +220,7 @@
     {
       "source": "Reddit r/worldnews",
       "title": "U.S. Ambassador to Canada Channels Harsh Trump Tone",
+      "title_zh": "美国驻加拿大大使苛刻的特朗普语气",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2img9/us_ambassador_to_canada_channels_harsh_trump_tone/",
       "points": null,
       "comments": null
@@ -200,6 +228,7 @@
     {
       "source": "Reddit r/worldnews",
       "title": "Russia ‘prepared to take enormous strategic risks’ to test NATO, top Swedish general warns",
+      "title_zh": "瑞典高级将领警告说，俄罗斯“准备承担巨大的战略风险”来测试北约",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2ggwo/russia_prepared_to_take_enormous_strategic_risks/",
       "points": null,
       "comments": null
@@ -207,13 +236,23 @@
     {
       "source": "Reddit r/worldnews",
       "title": "10,000 shark fins worth over $11M seized in major wildlife trafficking bust in Peru",
+      "title_zh": "在秘鲁的主要野生动物贩卖活动中查获了价值超过$ 1100万的10,000条鱼翅",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2gm7s/10000_shark_fins_worth_over_11m_seized_in_major/",
       "points": null,
       "comments": null
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Axios reveals text of peace plan: Ukraine to relinquish its territories permanently, Russia to receive amnesty",
+      "title_zh": "Axios透露和平计划文本：乌克兰永久放弃其领土，俄罗斯获得大赦",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p2rq61/axios_reveals_text_of_peace_plan_ukraine_to/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "Nuremberg trial records made available online after painstaking 25-year project | Nazism",
+      "title_zh": "经过艰苦的25年项目，纽伦堡审判记录在线提供|纳粹主义",
       "url": "https://www.reddit.com/r/worldnews/comments/1p26rr3/nuremberg_trial_records_made_available_online/",
       "points": null,
       "comments": null
@@ -221,6 +260,7 @@
     {
       "source": "Reddit r/worldnews",
       "title": "Russia Starts Selling Off Its Gold Reserves to Fund the War Budget, Breaking a Long-Held Taboo",
+      "title_zh": "俄罗斯开始出售黄金储备以资助战争预算，打破了长期以来的禁忌",
       "url": "https://www.reddit.com/r/worldnews/comments/1p23muq/russia_starts_selling_off_its_gold_reserves_to/",
       "points": null,
       "comments": null
@@ -228,6 +268,7 @@
     {
       "source": "Reddit r/worldnews",
       "title": "More cities run dry as Iran’s water crisis deepens",
+      "title_zh": "随着伊朗水危机的加深，更多城市枯竭",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2kiyh/more_cities_run_dry_as_irans_water_crisis_deepens/",
       "points": null,
       "comments": null
@@ -235,20 +276,15 @@
     {
       "source": "Reddit r/worldnews",
       "title": "Trump plan for Ukraine war would cede territory to Russia",
+      "title_zh": "特朗普的乌克兰战争计划将把领土割让给俄罗斯",
       "url": "https://www.reddit.com/r/worldnews/comments/1p2jxnu/trump_plan_for_ukraine_war_would_cede_territory/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Poland deploys 10,000 troops, closes Russian consulate after rail blast blamed on Moscow",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p209mx/poland_deploys_10000_troops_closes_russian/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
       "title": "Grok says Elon Musk is better than basically everyone, except Shohei Ohtani",
+      "title_zh": "Grok说Elon Musk基本上比任何人都好，除了Shohei Ohtani",
       "url": "https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/",
       "points": null,
       "comments": null
@@ -256,6 +292,7 @@
     {
       "source": "TechCrunch",
       "title": "Google steps up AI scam protection in India, but gaps remain",
+      "title_zh": "谷歌在印度加强人工智能诈骗防护，但差距依然存在",
       "url": "https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/",
       "points": null,
       "comments": null
@@ -263,6 +300,7 @@
     {
       "source": "TechCrunch",
       "title": "Joby Aviation makes ‘corporate espionage’ claims in lawsuit against rival Archer",
+      "title_zh": "Joby Aviation在对竞争对手Archer的诉讼中提出“企业间谍”索赔",
       "url": "https://techcrunch.com/2025/11/20/joby-aviation-makes-corporate-espionage-claims-in-lawsuit-against-rival-archer/",
       "points": null,
       "comments": null
@@ -270,6 +308,7 @@
     {
       "source": "TechCrunch",
       "title": "WhatsApp gets its own Instagram Notes-like feature",
+      "title_zh": "WhatsApp拥有类似Instagram Notes的功能",
       "url": "https://techcrunch.com/2025/11/20/whatsapp-gets-its-own-instagram-notes-like-feature/",
       "points": null,
       "comments": null
@@ -277,6 +316,7 @@
     {
       "source": "TechCrunch",
       "title": "Source: Kalshi’s valuation jumps to $11B after raising massive $1B round",
+      "title_zh": "资料来源： Kalshi的估值在筹集了大量$ 10亿融资后跃升至$ 110亿",
       "url": "https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/",
       "points": null,
       "comments": null
@@ -284,6 +324,7 @@
     {
       "source": "TechCrunch",
       "title": "Salesforce says some of its customers’ data was accessed after Gainsight breach",
+      "title_zh": "Salesforce表示，部分客户的数据在Gainsight数据泄露后被访问",
       "url": "https://techcrunch.com/2025/11/20/salesforce-says-some-of-its-customers-data-was-accessed-after-gainsight-breach/",
       "points": null,
       "comments": null
@@ -291,6 +332,7 @@
     {
       "source": "TechCrunch",
       "title": "ChatGPT launches group chats globally",
+      "title_zh": "ChatGPT在全球范围内推出群聊",
       "url": "https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/",
       "points": null,
       "comments": null
@@ -298,6 +340,7 @@
     {
       "source": "TechCrunch",
       "title": "Why these founders ditched social ads for Taylor Swift concerts and prison tablets",
+      "title_zh": "为什么这些创始人放弃了Taylor Swift音乐会和监狱平板电脑的社交广告",
       "url": "https://techcrunch.com/2025/11/20/why-these-founders-ditched-social-ads-for-taylor-swift-concerts-and-prison-tablets/",
       "points": null,
       "comments": null
@@ -305,6 +348,7 @@
     {
       "source": "TechCrunch",
       "title": "Mixup is a new, Mad Libs-style app for creating AI images from photos, text, and doodles",
+      "title_zh": "Mixup是一款全新的Mad Libs风格应用程序，用于从照片、文本和涂鸦中创建AI图像",
       "url": "https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/",
       "points": null,
       "comments": null
@@ -312,6 +356,7 @@
     {
       "source": "TechCrunch",
       "title": "Perplexity brings its AI browser Comet to Android",
+      "title_zh": "Perplexity将其人工智能浏览器Comet引入Android",
       "url": "https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android/",
       "points": null,
       "comments": null
@@ -319,6 +364,7 @@
     {
       "source": "The Verge",
       "title": "Grok’s Elon Musk worship is getting weird",
+      "title_zh": "格罗克对伊隆·马斯克的崇拜变得越来越奇怪",
       "url": "https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird",
       "points": null,
       "comments": null
@@ -326,6 +372,7 @@
     {
       "source": "The Verge",
       "title": "The best early Black Friday deals we’ve found so far on laptops, TVs, and more",
+      "title_zh": "到目前为止，我们在笔记本电脑、电视等产品上找到的最佳黑色星期五早期优惠",
       "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "points": null,
       "comments": null
@@ -333,6 +380,7 @@
     {
       "source": "The Verge",
       "title": "Google&#8217;s new AI image creator took my shirt off",
+      "title_zh": "谷歌的新AI图片创作者脱掉了我的衬衫",
       "url": "https://www.theverge.com/news/825667/google-nano-banana-pro-test",
       "points": null,
       "comments": null
@@ -340,6 +388,7 @@
     {
       "source": "The Verge",
       "title": "Microsoft&#8217;s AI-powered copy and paste can now use on-device AI",
+      "title_zh": "微软的人工智能复制和粘贴现在可以使用设备上的人工智能",
       "url": "https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai",
       "points": null,
       "comments": null
@@ -347,6 +396,7 @@
     {
       "source": "The Verge",
       "title": "Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout",
+      "title_zh": "Meta的Hyperscape已准备好将您的真实客厅变成VR聚会场所",
       "url": "https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse",
       "points": null,
       "comments": null
@@ -354,6 +404,7 @@
     {
       "source": "The Verge",
       "title": "Wicked: For Good is a soaring second act that brings it all full circle",
+      "title_zh": "邪恶：善良是一个飙升的第二幕，它带来了完整的圆圈",
       "url": "https://www.theverge.com/entertainment/825554/wicked-for-good-review",
       "points": null,
       "comments": null
@@ -361,6 +412,7 @@
     {
       "source": "The Verge",
       "title": "Bethesda’s $300 Pip-Boy 3000 replica can measure (harmless) radiation",
+      "title_zh": "贝塞斯达300 $的Pip-Boy 3000复制品可以测量（无害）辐射",
       "url": "https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica",
       "points": null,
       "comments": null
@@ -368,6 +420,7 @@
     {
       "source": "The Verge",
       "title": "The Verge’s favorite holiday gifts under $100",
+      "title_zh": "100 $以下The Verge最受欢迎的节日礼物",
       "url": "https://www.theverge.com/tech/800440/best-gifts-under-100-2025",
       "points": null,
       "comments": null
@@ -375,6 +428,7 @@
     {
       "source": "The Verge",
       "title": "You can get up to 30 percent off Sonos speakers and soundbars right now",
+      "title_zh": "您现在可以获得Sonos扬声器和条形音箱高达30%的折扣",
       "url": "https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025",
       "points": null,
       "comments": null
@@ -382,83 +436,95 @@
     {
       "source": "The Verge",
       "title": "OpenAI is launching group chats in ChatGPT",
+      "title_zh": "OpenAI正在ChatGPT中启动群聊",
       "url": "https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Baselight AI",
-      "url": "https://www.producthunt.com/products/baselight",
+      "title": "Chime",
+      "title_zh": "磬声",
+      "url": "https://www.producthunt.com/products/chime-remember-everything",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Flex AI: Your AI Personal Trainer",
-      "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer",
+      "title": "Raycast for Windows",
+      "title_zh": "Windows版Raycast",
+      "url": "https://www.producthunt.com/products/raycast",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Gemini 3 Brand Audit",
-      "url": "https://www.producthunt.com/products/gemini-3-brand-audit",
+      "title": "TurtleBar - Smart Battery Saver for Mac",
+      "title_zh": "TurtleBar -适用于Mac的智能节电器",
+      "url": "https://www.producthunt.com/products/turtlebar-smart-battery-saver-for-mac",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Read AI for Desktop",
-      "url": "https://www.producthunt.com/products/read-ai-for-desktop",
+      "title": "Antigravity for Raycast",
+      "title_zh": "反重力射线投射",
+      "url": "https://www.producthunt.com/products/antigravity-for-raycast",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "ReadMeeting",
-      "url": "https://www.producthunt.com/products/readmeeting",
+      "title": "Gatling Studio",
+      "title_zh": "加特林单间公寓",
+      "url": "https://www.producthunt.com/products/gatling",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Pavis",
-      "url": "https://www.producthunt.com/products/pavis",
+      "title": "Storiara",
+      "title_zh": "Storiara",
+      "url": "https://www.producthunt.com/products/storiara",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Refbox",
-      "url": "https://www.producthunt.com/products/refbox",
+      "title": "Browser Cash",
+      "title_zh": "浏览器现金",
+      "url": "https://www.producthunt.com/products/browser-cash",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Avallon",
-      "url": "https://www.producthunt.com/products/avallon",
+      "title": "Good Dad",
+      "title_zh": "好爸爸",
+      "url": "https://www.producthunt.com/products/good-dad",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Karumi",
-      "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7",
+      "title": "OCR Arena",
+      "title_zh": "OCR竞技场",
+      "url": "https://www.producthunt.com/products/ocr-arena",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "WordWise for iOS",
-      "url": "https://www.producthunt.com/products/wordwise",
+      "title": "1UP",
+      "title_zh": "1UP",
+      "url": "https://www.producthunt.com/products/1up",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Zelensky ready for 'honest work' with US to end Ukraine war",
+      "title": "Zelensky ready to work with US on 'their vision' for ending Ukraine war",
+      "title_zh": "泽伦斯基准备与我们合作，实现结束乌克兰战争的“愿景”",
       "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -466,6 +532,7 @@
     {
       "source": "BBC World",
       "title": "Russian envoy Kirill Dmitriev: Putin propagandist or key to peace with Ukraine?",
+      "title_zh": "俄罗斯特使基里尔·德米特里耶夫：普京是宣传者还是与乌克兰实现和平的关键？",
       "url": "https://www.bbc.com/news/articles/c3rjr2r72gpo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -473,6 +540,7 @@
     {
       "source": "BBC World",
       "title": "At least 41 dead as relentless rains flood Vietnam",
+      "title_zh": "无情的降雨淹没越南，至少有41人死亡",
       "url": "https://www.bbc.com/news/articles/ceq0q3e2j17o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -480,6 +548,7 @@
     {
       "source": "BBC World",
       "title": "Trump signs bill ordering US justice department to release Epstein files",
+      "title_zh": "特朗普签署法案，命令美国司法部公布爱泼斯坦档案",
       "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -487,6 +556,7 @@
     {
       "source": "BBC World",
       "title": "Mexico's Fatima Bosch, who walked out on organisers, crowned Miss Universe",
+      "title_zh": "墨西哥的法蒂玛·博世（ Fatima Bosch ）退出了组织者，加冕环球小姐",
       "url": "https://www.bbc.com/news/articles/cgmxmxljg8mo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -494,6 +564,7 @@
     {
       "source": "BBC World",
       "title": "South African women call purple protest over gender violence",
+      "title_zh": "南非女性呼吁紫色抗议性别暴力",
       "url": "https://www.bbc.com/news/articles/cn979g302l9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -501,13 +572,15 @@
     {
       "source": "BBC World",
       "title": "Streaming platform Twitch added to Australia's teen social media ban",
+      "title_zh": "流媒体平台Twitch加入澳大利亚青少年社交媒体禁令",
       "url": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Frida Kahlo self-portrait sells for $55m, sets auction record for a female artist",
+      "title": "Frida Kahlo self-portrait sells for record-breaking $55m",
+      "title_zh": "Frida Kahlo自画像以破纪录的$ 5500万售出",
       "url": "https://www.bbc.com/news/articles/cdege1867lno?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -515,6 +588,7 @@
     {
       "source": "BBC World",
       "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
+      "title_zh": "布什称赞迪克·切尼是葬礼上的“思想家和倾听者”",
       "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
@@ -522,6 +596,7 @@
     {
       "source": "BBC World",
       "title": "COP30 climate talks evacuated after fire breaks out",
+      "title_zh": "COP30气候谈判在火灾发生后撤离",
       "url": "https://www.bbc.com/news/articles/ce9d9p5jrjgo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
