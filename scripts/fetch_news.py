@@ -102,10 +102,15 @@ def main():
     )
 
     out = {
-        "last_updated": datetime.now(timezone.utc)
-        .astimezone()
-        .strftime("%Y-%m-%d %H:%M:%S"),
-        "items": all_items,
+        from datetime import timedelta
+
+# 用 UTC+8（北京时间）
+beijing_time = datetime.now(timezone.utc) + timedelta(hours=8)
+
+out = {
+    "last_updated": beijing_time.strftime("%Y-%m-%d %H:%M:%S"),
+    "items": all_items,
+}
     }
 
     os.makedirs("data", exist_ok=True)
