@@ -5,6 +5,23 @@ from datetime import datetime, timezone
 import requests
 import feedparser
 
+# --------- 翻译函数 ---------
+
+def translate_to_zh(text: str) -> str:
+    """使用 MyMemory 免费 API，把英文翻译为中文"""
+    try:
+        url = (
+            "https://api.mymemory.translated.net/get"
+            f"?q={requests.utils.quote(text)}&langpair=en|zh-CN"
+        )
+        r = requests.get(url, timeout=10).json()
+        translated = r.get("responseData", {}).get("translatedText", "")
+        return translated or text
+    except Exception:
+        # 翻译失败就用原文兜底
+        return text
+
+
 # --------- 各站点抓取函数 ---------
 
 API_HN = "https://hn.algolia.com/api/v1/search?tags=front_page"
@@ -17,14 +34,16 @@ def fetch_hn(limit=15):
     data = resp.json()
     items = []
     for hit in data.get("hits", [])[:limit]:
-        title = hit.get("title") or hit.get("story_title") or "No title"
+        title_en = hit.get("title") or hit.get("story_title") or "No title"
+        title_zh = translate_to_zh(title_en)
         url = hit.get("url") or hit.get("story_url") or ""
         points = hit.get("points") or 0
         comments = hit.get("num_comments") or 0
         items.append(
             {
                 "source": "Hacker News",
-                "title": title,
+                "title": title_en,      # 保留英文
+                "title_zh": title_zh,   # 新增中文
                 "url": url,
                 "points": points,
                 "comments": comments,
@@ -38,12 +57,14 @@ def fetch_rss(url: str, source_name: str, limit: int = 10):
     d = feedparser.parse(url)
     items = []
     for entry in d.entries[:limit]:
-        title = entry.get("title", "No title")
+        title_en = entry.get("title", "No title")
+        title_zh = translate_to_zh(title_en)
         link = entry.get("link", "")
         items.append(
             {
                 "source": source_name,
-                "title": title,
+                "title": title_en,     # 保留英文
+                "title_zh": title_zh,  # 新增中文
                 "url": link,
                 "points": None,
                 "comments": None,
@@ -79,8 +100,6 @@ def main():
     all_items += fetch_rss(
         "http://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", limit=10
     )
-
-    # 未来如果你想新增别的，只要再加几行 fetch_rss(...) 即可
 
     out = {
         "last_updated": datetime.now(timezone.utc)
