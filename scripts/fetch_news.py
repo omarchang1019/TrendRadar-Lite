@@ -1,11 +1,12 @@
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import requests
 import feedparser
 
 # --------- 翻译函数 ---------
+
 
 def translate_to_zh(text: str) -> str:
     """使用 MyMemory 免费 API，把英文翻译为中文"""
@@ -42,8 +43,8 @@ def fetch_hn(limit=15):
         items.append(
             {
                 "source": "Hacker News",
-                "title": title_en,      # 保留英文
-                "title_zh": title_zh,   # 新增中文
+                "title": title_en,      # 英文原文
+                "title_zh": title_zh,   # 中文翻译
                 "url": url,
                 "points": points,
                 "comments": comments,
@@ -63,8 +64,8 @@ def fetch_rss(url: str, source_name: str, limit: int = 10):
         items.append(
             {
                 "source": source_name,
-                "title": title_en,     # 保留英文
-                "title_zh": title_zh,  # 新增中文
+                "title": title_en,
+                "title_zh": title_zh,
                 "url": link,
                 "points": None,
                 "comments": None,
@@ -101,16 +102,12 @@ def main():
         "http://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", limit=10
     )
 
+    # 使用北京时间（UTC+8）
+    beijing_time = datetime.now(timezone.utc) + timedelta(hours=8)
+
     out = {
-        from datetime import timedelta
-
-# 用 UTC+8（北京时间）
-beijing_time = datetime.now(timezone.utc) + timedelta(hours=8)
-
-out = {
-    "last_updated": beijing_time.strftime("%Y-%m-%d %H:%M:%S"),
-    "items": all_items,
-}
+        "last_updated": beijing_time.strftime("%Y-%m-%d %H:%M:%S"),
+        "items": all_items,
     }
 
     os.makedirs("data", exist_ok=True)
