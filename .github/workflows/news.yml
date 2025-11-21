@@ -2,7 +2,7 @@ name: Update TrendRadar Lite
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # 每 30 分钟跑一次
+    - cron: "0 0 * * *"   # UTC 0点 = 北京时间早上8点
   workflow_dispatch:        # 支持在 Actions 页面手动点运行
 
 # 关键：允许这个 workflow 往仓库里写入 data/news.json
