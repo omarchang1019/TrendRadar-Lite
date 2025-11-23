@@ -1,125 +1,181 @@
 {
-  "last_updated": "2025-11-22 11:19:28",
+  "last_updated": "2025-11-23 11:53:37",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Helping Valve to power up Steam devices",
-      "title_zh": "帮助阀门为Steam设备供电",
-      "url": "https://www.igalia.com/2025/11/helpingvalve.html",
-      "points": 463,
-      "comments": 144
+      "title": "The privacy nightmare of browser fingerprinting",
+      "title_zh": "浏览器指纹识别的隐私噩梦",
+      "url": "https://kevinboone.me/fingerprinting.html",
+      "points": 466,
+      "comments": 285
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker",
-      "title_zh": "Show HN: Wealthfolio 2.0-开源投资跟踪器。Now Mobile和Docker",
-      "url": "https://wealthfolio.app/?v=2.0",
-      "points": 447,
-      "comments": 154
+      "title": "Agent design is still hard",
+      "title_zh": "客服代表的设计仍然很难",
+      "url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
+      "points": 353,
+      "comments": 207
     },
     {
       "source": "Hacker News",
-      "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
-      "title_zh": "Olmo 3 ：绘制模型流程图，引领开源人工智能",
-      "url": "https://allenai.org/blog/olmo3",
-      "points": 362,
-      "comments": 120
-    },
-    {
-      "source": "Hacker News",
-      "title": "We should all be using dependency cooldowns",
-      "title_zh": "我们都应该使用依赖关系冷却时间",
-      "url": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+      "title": "We Induced Smells With Ultrasound",
+      "title_zh": "我们用超声波诱导气味",
+      "url": "https://writetobrain.com/olfactory",
       "points": 293,
-      "comments": 191
+      "comments": 79
     },
     {
       "source": "Hacker News",
-      "title": "You can make PS2 games in JavaScript",
-      "title_zh": "您可以使用JavaScript制作PS2游戏",
-      "url": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
-      "points": 236,
-      "comments": 57
+      "title": "China reaches energy milestone by \"breeding\" uranium from thorium",
+      "title_zh": "中国通过从钍中“繁殖”铀达到能源里程碑",
+      "url": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium",
+      "points": 228,
+      "comments": 174
     },
     {
       "source": "Hacker News",
-      "title": "Prozac 'no better than placebo' for treating children with depression, experts",
-      "title_zh": "治疗抑郁症儿童的百忧解“不比安慰剂好” ，专家",
-      "url": "https://www.theguardian.com/society/2025/nov/20/prozac-no-better-than-placebo-for-treating-children-with-depression-experts-say",
-      "points": 217,
-      "comments": 328
+      "title": "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
+      "title_zh": "$ 1900漏洞赏金，用于修复Linux上的联想Legion Pro 7 16IAX10H扬声器",
+      "url": "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga",
+      "points": 212,
+      "comments": 95
     },
     {
       "source": "Hacker News",
-      "title": "California DMV approves map increase in Waymo driverless operations",
-      "title_zh": "加利福尼亚州DMV批准Waymo无人驾驶运营中的地图增加",
-      "url": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/",
-      "points": 214,
-      "comments": 125
+      "title": "Show HN: Forty.News – Daily news, but on a 40-year delay",
+      "title_zh": "SHOW HN ： Forty.News -每日新闻，但延迟了40年",
+      "url": "https://forty.news",
+      "points": 207,
+      "comments": 89
     },
     {
       "source": "Hacker News",
-      "title": "FAWK: LLMs can write a language interpreter",
-      "title_zh": "FAWK ： LLM可以编写语言口译员",
-      "url": "https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html",
-      "points": 209,
-      "comments": 184
+      "title": "WorldGen – Text to Immersive 3D Worlds",
+      "title_zh": "WorldGen –从文本到沉浸式3D世界",
+      "url": "https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/",
+      "points": 154,
+      "comments": 55
     },
     {
       "source": "Hacker News",
-      "title": "Homeschooling hits record numbers",
-      "title_zh": "在家上学人数创历史新高",
-      "url": "https://reason.com/2025/11/19/homeschooling-hits-record-numbers/",
-      "points": 206,
-      "comments": 565
-    },
-    {
-      "source": "Hacker News",
-      "title": "Samsung's 60% DRAM price hike signals a new phase of global memory tightening",
-      "title_zh": "三星DRAM价格上涨60%标志着全球内存紧缩进入新阶段",
-      "url": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/",
-      "points": 169,
-      "comments": 124
-    },
-    {
-      "source": "Hacker News",
-      "title": "Childhood Friends, Not Moms, Shape Attachment Styles Most",
-      "title_zh": "童年的朋友，而不是妈妈，形状附件风格最多",
-      "url": "https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/",
+      "title": "Kids who own smartphones before age 13 have worse mental health outcomes: Study",
+      "title_zh": "13岁前拥有智能手机的孩子心理健康状况较差：研究",
+      "url": "https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082",
       "points": 132,
-      "comments": 45
+      "comments": 41
     },
     {
       "source": "Hacker News",
-      "title": "Solving Fizz Buzz with Cosines",
-      "title_zh": "用余弦解Fizz Buzz",
-      "url": "https://susam.net/fizz-buzz-with-cosines.html",
-      "points": 125,
-      "comments": 32
-    },
-    {
-      "source": "Hacker News",
-      "title": "Personal blogs are back, should niche blogs be next?",
-      "title_zh": "个人博客又回来了，小众博客应该是下一个吗？",
-      "url": "https://disassociated.com/personal-blogs-back-niche-blogs-next/",
+      "title": "TIL: `satisfies` is my favorite TypeScript keyword",
+      "title_zh": "TIL: `satisfies`是我最喜欢的TypeScript关键词",
+      "url": "https://sjer.red/blog/2024-12-21/",
       "points": 120,
-      "comments": 71
+      "comments": 76
     },
     {
       "source": "Hacker News",
-      "title": "Shop Sans is a typeface for curved text paths",
-      "title_zh": "Shop Sans是弯曲文本路径的字体",
-      "url": "https://www.futurefonts.com/hex/shop-sans",
-      "points": 119,
-      "comments": 34
+      "title": "Meta buried 'causal' evidence of social media harm, US court filings allege",
+      "title_zh": "美国法院文件称， Meta隐藏了社交媒体损害的“因果”证据",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-buried-causal-evidence-social-media-harm-us-court-filings-allege-2025-11-23/",
+      "points": 118,
+      "comments": 28
     },
     {
       "source": "Hacker News",
-      "title": "Building a Durable Execution Engine with SQLite",
-      "title_zh": "使用SQLite构建持久执行引擎",
-      "url": "https://www.morling.dev/blog/building-durable-execution-engine-with-sqlite/",
-      "points": 113,
-      "comments": 38
+      "title": "Tektronix equipment has been used in many movies and shows",
+      "title_zh": "泰克设备已在许多电影和节目中使用",
+      "url": "https://vintagetek.org/tektronix-in-movies-shows/",
+      "points": 80,
+      "comments": 20
+    },
+    {
+      "source": "Hacker News",
+      "title": "A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture",
+      "title_zh": "逆向工程师对macOS启动链和安全架构的剖析",
+      "url": "https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/",
+      "points": 75,
+      "comments": 19
+    },
+    {
+      "source": "Hacker News",
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "title_zh": "垄断ISP拒绝修复上游基础设施",
+      "url": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "points": 65,
+      "comments": 24
+    },
+    {
+      "source": "Hacker News",
+      "title": "Germany to classify date rape drugs as weapons to ensure justice for survivors",
+      "title_zh": "德国将约会强奸毒品归类为武器，以确保为幸存者伸张正义",
+      "url": "https://www.theguardian.com/society/2025/nov/21/germany-to-classify-date-drugs-as-weapons-in-attempt-to-ensure-justice-for-survivors",
+      "points": 64,
+      "comments": 16
+    },
+    {
+      "source": "Hacker News",
+      "title": "NTSB report: Decryption of images from the Titan submersible camera [pdf]",
+      "title_zh": "NTSB报告： Titan潜水相机图像解密[pdf]",
+      "url": "https://data.ntsb.gov/Docket/Document/docBLOB?ID=18741602&FileExtension=pdf&FileName=Underwater%20Camera%20-%20Specialist%27s%20Factual%20Report-Rel.pdf",
+      "points": 59,
+      "comments": 15
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Trump administration might not fight state AI regulations after all",
+      "title_zh": "特朗普政府毕竟可能不会与国家人工智能法规作斗争",
+      "url": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Waymo gets regulatory approval to expand across Bay Area and Southern California",
+      "title_zh": "Waymo获得监管部门批准在湾区和南加州扩张",
+      "url": "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta wants to get into the electricity trading business",
+      "title_zh": "Meta希望进入电力交易业务",
+      "url": "https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Byju’s founder to appeal U.S. court order to pay over $1B in bankruptcy case",
+      "title_zh": "Byju的创始人对美国法院命令提出上诉，要求在破产案中支付超过10亿美元的$",
+      "url": "https://techcrunch.com/2025/11/22/byjus-founder-to-appeal-u-s-court-order-to-pay-over-1b-in-bankruptcy-case/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Why now is the best time to invest in climate tech",
+      "title_zh": "为什么现在是投资气候技术的最佳时机",
+      "url": "https://techcrunch.com/2025/11/22/why-now-is-the-best-time-to-invest-in-climate-tech/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pew’s latest social media report shows X’s staying power in the U.S., despite competition",
+      "title_zh": "皮尤的最新社交媒体报告显示，尽管存在竞争，但X在美国的持久力",
+      "url": "https://techcrunch.com/2025/11/22/pews-latest-social-media-report-shows-xs-staying-power-in-the-u-s-despite-competition/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech",
+      "title_zh": "这位创始人通往硅谷的道路不太可能成为工业科技的优势",
+      "url": "https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "TechCrunch",
@@ -146,58 +202,58 @@
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Google says hackers stole data from 200 companies following Gainsight breach",
-      "title_zh": "谷歌表示，黑客在Gainsight数据泄露后窃取了200家公司的数据",
-      "url": "https://techcrunch.com/2025/11/21/google-says-hackers-stole-data-from-200-companies-following-gainsight-breach/",
+      "source": "The Verge",
+      "title": "Shocker: Elon Musk spends a lot of time on X posting bad political takes",
+      "title_zh": "震惊：埃隆·马斯克（ Elon Musk ）花了很多时间在X上发布糟糕的政治取向",
+      "url": "https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "X begins rolling out the ‘About this account’ feature to users’ profiles",
-      "title_zh": "X开始向用户的个人资料推出“关于此帐户”功能",
-      "url": "https://techcrunch.com/2025/11/21/x-begins-rolling-out-the-about-this-account-feature-to-users-profiles/",
+      "source": "The Verge",
+      "title": "Sony’s entire DualSense lineup is $20 off, including the limited edition models",
+      "title_zh": "索尼的整个DualSense阵容优惠20 $ ，包括限量版机型",
+      "url": "https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Impersonators are (still) targeting companies with fake TechCrunch outreach",
-      "title_zh": "模仿者（仍然）瞄准与TechCrunch进行虚假宣传的公司",
-      "url": "https://techcrunch.com/2025/11/21/impersonators-are-targeting-companies-with-fake-techcrunch-outreach/",
+      "source": "The Verge",
+      "title": "Spotify simplifies importing playlists from other streaming services",
+      "title_zh": "Spotify简化了从其他流媒体服务导入播放列表的操作",
+      "url": "https://www.theverge.com/news/825646/spotify-playlist-import",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Phictly’s new app brings people together over their favorite books and TV shows",
-      "title_zh": "Phictly的新应用程序将人们聚集在他们最喜欢的书籍和电视节目中",
-      "url": "https://techcrunch.com/2025/11/21/phictlys-new-app-brings-people-together-over-their-favorite-books-and-tv-shows/",
+      "source": "The Verge",
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "title_zh": "我们找到的绝对最佳黑色星期五优惠（到目前为止）",
+      "url": "https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Trump Energy department drops renewables, promotes fusion in office reshuffle",
-      "title_zh": "特朗普能源部门放弃可再生能源，促进办公室改组中的融合",
-      "url": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle/",
+      "source": "The Verge",
+      "title": "The best AR glasses are cheaper than ever during Black Friday",
+      "title_zh": "最好的AR眼镜在黑色星期五期间比以往任何时候都便宜",
+      "url": "https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "SpaceX’s upgraded Starship suffers explosion during testing",
-      "title_zh": "SpaceX升级后的星际飞船在测试期间遭遇爆炸",
-      "url": "https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/",
+      "source": "The Verge",
+      "title": "Forestrike trained me to become an incredible pixelated fighter",
+      "title_zh": "Forestrike训练我成为一个令人难以置信的像素化战斗机",
+      "url": "https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam",
       "points": null,
       "comments": null
     },
     {
-      "source": "TechCrunch",
-      "title": "Despite Chinese hacks, Trump’s FCC votes to scrap cybersecurity rules for phone and internet companies",
-      "title_zh": "尽管遭到中国黑客攻击，但特朗普的FCC投票决定废除电话和互联网公司的网络安全规则",
-      "url": "https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/",
+      "source": "The Verge",
+      "title": "Carol seeks the truth (serum) in Pluribus episode 4",
+      "title_zh": "卡罗尔在Pluribus第4集中寻求真相（血清）",
+      "url": "https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion",
       "points": null,
       "comments": null
     },
@@ -226,218 +282,162 @@
       "comments": null
     },
     {
-      "source": "The Verge",
-      "title": "You can save up to $1,300 on robovacs from Roborock and Eufy ahead of Black Friday",
-      "title_zh": "在黑色星期五前购买Roborock和Eufy的robovac ，最多可节省$ 1,300",
-      "url": "https://www.theverge.com/gadgets/823578/black-friday-best-early-robot-vacuum-mop-deals-2025",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet",
-      "title_zh": "您现在可以在任何PC、笔记本电脑或平板电脑上尝试Xbox全屏体验",
-      "url": "https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Nothing’s Android 16 update puts a progress bar on the back of your phone",
-      "title_zh": "Nothing的Android 16更新在您的手机背面放置了一个进度条",
-      "url": "https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "In Kirby Air Riders, expression is more fun than racing",
-      "title_zh": "在Kirby Air Riders ，表达比赛更有趣",
-      "url": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The best laptops you can get",
-      "title_zh": "您可以买到的最好的笔记本电脑",
-      "url": "https://www.theverge.com/21250695/best-laptops",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Press a button and this SSD will self-destruct with all your data",
-      "title_zh": "按下按钮，此SSD将自动销毁您的所有数据",
-      "url": "https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "The 36 best gift ideas for mom this holiday season",
-      "title_zh": "在这个节日季给妈妈的36个最好的礼物创意",
-      "url": "https://www.theverge.com/gadgets/802964/best-mom-gift-ideas",
+      "source": "Product Hunt",
+      "title": "Bookmarkjar ®",
+      "title_zh": "Bookmarkjar ®",
+      "url": "https://www.producthunt.com/products/bookmarkjar",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Audience Loop",
-      "title_zh": "受众循环",
-      "url": "https://www.producthunt.com/products/audience-loop",
+      "title": "Side Space 2.0",
+      "title_zh": "Side Space 2.0",
+      "url": "https://www.producthunt.com/products/side-space",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Chime - Remember Everything",
-      "title_zh": "CHIME -记住一切",
-      "url": "https://www.producthunt.com/products/chime-remember-everything",
+      "title": "Textable",
+      "title_zh": "Textable",
+      "url": "https://www.producthunt.com/products/textable-3",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Antigravity for Raycast",
-      "title_zh": "反重力射线投射",
-      "url": "https://www.producthunt.com/products/antigravity-for-raycast",
+      "title": "SynthID by Google DeepMind",
+      "title_zh": "Google DeepMind的SynthID",
+      "url": "https://www.producthunt.com/products/gemini-1-5-pro",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Raycast for Windows",
-      "title_zh": "Windows版Raycast",
-      "url": "https://www.producthunt.com/products/raycast",
+      "title": "Onyx",
+      "title_zh": "玛瑙",
+      "url": "https://www.producthunt.com/products/onyx-free-screen-recorder",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Browser Cash",
-      "title_zh": "浏览器现金",
-      "url": "https://www.producthunt.com/products/browser-cash",
+      "title": "npm.bet",
+      "title_zh": "npm.bet",
+      "url": "https://www.producthunt.com/products/npm-bet",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Lamatic 3.0",
-      "title_zh": "Lamatic 3.0",
-      "url": "https://www.producthunt.com/products/lamatic-ai",
+      "title": "Mouse Shaker",
+      "title_zh": "摇鼠器",
+      "url": "https://www.producthunt.com/products/mouse-shaker",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Comet for Android",
-      "title_zh": "安卓版Comet",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
+      "title": "Lila by Zivy",
+      "title_zh": "Lila by Zivy",
+      "url": "https://www.producthunt.com/products/zivy",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "TurtleBar - Smart Battery Saver for Mac",
-      "title_zh": "TurtleBar -适用于Mac的智能节电器",
-      "url": "https://www.producthunt.com/products/turtlebar-smart-battery-saver-for-mac",
+      "title": "AI Browser",
+      "title_zh": "AI浏览器",
+      "url": "https://www.producthunt.com/products/ai-browser",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Instant Heatmaps by Crazy Egg",
-      "title_zh": "Crazy Egg的即时热图",
-      "url": "https://www.producthunt.com/products/crazy-egg",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Numby",
-      "title_zh": "Numby",
-      "url": "https://www.producthunt.com/products/numby",
+      "title": "Apex Echo Ai",
+      "title_zh": "Apex Echo Ai",
+      "url": "https://www.producthunt.com/products/apex-echo-ai",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Zelensky warns Ukraine risks losing US support over White House peace plan",
-      "title_zh": "泽伦斯基警告乌克兰有可能失去美国对白宫和平计划的支持",
-      "url": "https://www.bbc.com/news/articles/cy5g4r9l4dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says US plan to end Ukraine war not 'final offer' for Kyiv",
+      "title_zh": "特朗普表示，美国计划结束乌克兰战争，而不是对基辅的“最终报价”",
+      "url": "https://www.bbc.com/news/articles/clydg8w7kxvo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Steve Rosenberg: Putin uncompromising as leaked plan reaches Moscow",
-      "title_zh": "史蒂夫罗森伯格：普京在泄露的计划到达莫斯科时毫不妥协",
-      "url": "https://www.bbc.com/news/articles/c5y9k0mrm2ro?at_medium=RSS&at_campaign=rss",
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "title_zh": "联合国气候谈判未能获得新的化石燃料承诺",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "High-profile Republican Marjorie Taylor Greene to quit Congress after Trump feud",
-      "title_zh": "备受瞩目的共和党人马乔里·泰勒·格林（ Marjorie Taylor Greene ）在特朗普不和后",
-      "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss",
+      "title": "'We worry more about food' say Venezuelans living under threat of US military action",
+      "title_zh": "“我们更担心食物” ，生活在美国军事行动威胁下的委内瑞拉人说",
+      "url": "https://www.bbc.com/news/articles/c3e0jnww2e9o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Will Trump's no-show eclipse South Africa's G20 moment?",
-      "title_zh": "特朗普的缺席会让南非的G20时刻黯然失色吗？",
-      "url": "https://www.bbc.com/news/articles/c20508y7w5yo?at_medium=RSS&at_campaign=rss",
+      "title": "Who killed young Chechen woman who fled Russia for a life of freedom?",
+      "title_zh": "谁杀死了逃离俄罗斯过自由生活的年轻车臣妇女？",
+      "url": "https://www.bbc.com/news/articles/c4gwgx803l5o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Family of missing Colombian seek answers after US strike on alleged drug boat",
-      "title_zh": "失踪的哥伦比亚人家属在美国袭击涉嫌贩毒船后寻求答案",
-      "url": "https://www.bbc.com/news/articles/cgqlqjz30zxo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
+      "title_zh": "医疗和民防官员称，以色列对加沙的袭击造成22名巴勒斯坦人死亡",
+      "url": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "At least five killed in Bangladesh earthquake",
-      "title_zh": "至少5人在孟加拉地震中丧生",
-      "url": "https://www.bbc.com/news/articles/cvgke7e2jx8o?at_medium=RSS&at_campaign=rss",
+      "title": "JFK's granddaughter shares terminal cancer diagnosis",
+      "title_zh": "肯尼迪的孙女分享晚期癌症诊断",
+      "url": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Five takeaways from Trump and Mamdani's surprisingly cordial meeting",
-      "title_zh": "特朗普和马姆达尼令人惊讶的亲切会晤的五个要点",
-      "url": "https://www.bbc.com/news/articles/cvgqd42gl0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Drones sightings halt air traffic near Dutch city of Eindhoven",
+      "title_zh": "无人机目击事件导致荷兰埃因霍温市附近的空中交通中断",
+      "url": "https://www.bbc.com/news/articles/cewjlr0v02ro?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
-      "title_zh": "“很多战斗” ：化石燃料行在联合国气候峰会上爆发",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
+      "title": "Three arrested in India after police crack $800,000 bank heist",
+      "title_zh": "警方破获80万$的银行抢劫案后，三人在印度被捕",
+      "url": "https://www.bbc.com/news/articles/cy8j4m45yx2o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "US judge resigns after being disciplined for wearing Elvis wig in court",
-      "title_zh": "美国法官因在法庭上戴猫王假发而受到纪律处分后辞职",
-      "url": "https://www.bbc.com/news/articles/c5yq3g7lqgqo?at_medium=RSS&at_campaign=rss",
+      "title": "Jair Bolsonaro arrested after being deemed a flight risk",
+      "title_zh": "Jair Bolsonaro在被认为有飞行风险后被捕",
+      "url": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Anti-Hamas armed groups seek future role under Gaza peace plan",
-      "title_zh": "反哈马斯武装团体寻求在加沙和平计划下发挥未来作用",
-      "url": "https://www.bbc.com/news/articles/cvgmgjx1jego?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria sees one of worst mass abductions as 315 taken from school",
+      "title_zh": "尼日利亚认为这是最严重的大规模绑架之一，有315人被从学校带走",
+      "url": "https://www.bbc.com/news/articles/c3w7621xypyo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
