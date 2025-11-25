@@ -23,6 +23,15 @@
       opacity: 0.7;
       margin-bottom: 16px;
     }
+    .summary-box {
+      background: #111827;
+      border-radius: 12px;
+      padding: 10px 12px;
+      font-size: 13px;
+      line-height: 1.5;
+      margin-bottom: 14px;
+      border: 1px solid rgba(148, 163, 184, 0.4);
+    }
     .card {
       background: #141826;
       border-radius: 12px;
@@ -66,9 +75,11 @@
     自动汇总热点 · 每天更新一次
   </div>
   <div id="last-updated" class="subtitle"></div>
+
+  <div id="summary-box" class="summary-box"></div>
+
   <div id="list"></div>
   <div id="error" class="error"></div>
-
   <script>
     async function loadNews() {
       try {
@@ -77,15 +88,24 @@
         const data = await res.json();
 
         const listEl = document.getElementById('list');
-        const timeEl = document.getElementById('last-updated');
-        listEl.innerHTML = '';
+const timeEl = document.getElementById('last-updated');
+const summaryEl = document.getElementById('summary-box');
 
-        if (!data.items || data.items.length === 0) {
-          listEl.innerHTML = '<div class="subtitle">暂时没有数据，请稍后再试～</div>';
-          return;
-        }
+listEl.innerHTML = '';
 
-        timeEl.textContent = '最后更新：' + (data.last_updated || '');
+if (!data.items || data.items.length === 0) {
+  listEl.innerHTML = '<div class="subtitle">暂时没有数据，请稍后再试～</div>';
+  summaryEl.textContent = '';
+  return;
+}
+
+timeEl.textContent = '最后更新：' + (data.last_updated || '');
+
+if (data.summary && data.summary.trim()) {
+  summaryEl.textContent = data.summary;
+} else {
+  summaryEl.textContent = '今天还没有生成概要，可以先看看下面的具体新闻～';
+}
 
         data.items.forEach((item, idx) => {
           const card = document.createElement('div');
