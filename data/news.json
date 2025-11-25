@@ -1,125 +1,134 @@
 {
-  "last_updated": "2025-11-25 11:42:20",
+  "last_updated": "2025-11-25 15:59:56",
+  "summary": "用大白话说，今天的热点大概是这些： 1）Shai-Hulud返回：超过300个NPM包裹被感染； 2）Claude Opus 4.5； 3）Pebble Watch软件现已100%开源； 4）Claude高级工具使用； 5）未供电的固态硬盘会慢慢丢失数据。",
   "items": [
     {
       "source": "Hacker News",
       "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
       "title_zh": "Shai-Hulud返回：超过300个NPM包裹被感染",
       "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "points": 881,
-      "comments": 698
+      "points": 922,
+      "comments": 712
     },
     {
       "source": "Hacker News",
       "title": "Claude Opus 4.5",
       "title_zh": "Claude Opus 4.5",
       "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "points": 806,
-      "comments": 363
+      "points": 900,
+      "comments": 411
     },
     {
       "source": "Hacker News",
       "title": "Pebble Watch software is now 100% open source",
       "title_zh": "Pebble Watch软件现已100%开源",
       "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "points": 744,
-      "comments": 119
+      "points": 887,
+      "comments": 147
     },
     {
       "source": "Hacker News",
       "title": "Claude Advanced Tool Use",
       "title_zh": "Claude高级工具使用",
       "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "points": 384,
-      "comments": 146
-    },
-    {
-      "source": "Hacker News",
-      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
-      "title_zh": "PS5现在的DDR5内存成本不到64GB。由于短缺， RAM跃升至600 $",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-      "points": 298,
-      "comments": 190
+      "points": 466,
+      "comments": 175
     },
     {
       "source": "Hacker News",
       "title": "Unpowered SSDs slowly lose data",
       "title_zh": "未供电的固态硬盘会慢慢丢失数据",
       "url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "points": 244,
-      "comments": 103
+      "points": 381,
+      "comments": 172
     },
     {
       "source": "Hacker News",
-      "title": "Chrome Jpegxl Issue Reopened",
-      "title_zh": "Chrome Jpegxl问题已重新打开",
-      "url": "https://issues.chromium.org/issues/40168998",
-      "points": 218,
-      "comments": 80
-    },
-    {
-      "source": "Hacker News",
-      "title": "Three Years from GPT-3 to Gemini 3",
-      "title_zh": "从GPT-3到Gemini 3的三年",
-      "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-      "points": 207,
-      "comments": 139
+      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
+      "title_zh": "PS5现在的DDR5内存成本不到64GB。由于短缺， RAM跃升至600 $",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+      "points": 361,
+      "comments": 231
     },
     {
       "source": "Hacker News",
       "title": "Show HN: I built an interactive HN Simulator",
       "title_zh": "Show HN ：我构建了一个交互式HN模拟器",
       "url": "https://news.ysimulator.run/news",
-      "points": 193,
-      "comments": 107
+      "points": 276,
+      "comments": 138
     },
     {
       "source": "Hacker News",
-      "title": "TSMC Arizona outage saw fab halt, Apple wafers scrapped",
-      "title_zh": "台积电亚利桑那州停电导致晶圆厂停工，苹果晶圆报废",
-      "url": "https://www.culpium.com/p/tsmc-arizona-outage-saw-fab-halt",
-      "points": 182,
-      "comments": 72
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "title_zh": "从GPT-3到Gemini 3的三年",
+      "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "points": 258,
+      "comments": 167
+    },
+    {
+      "source": "Hacker News",
+      "title": "Chrome Jpegxl Issue Reopened",
+      "title_zh": "Chrome Jpegxl问题已重新打开",
+      "url": "https://issues.chromium.org/issues/40168998",
+      "points": 237,
+      "comments": 90
     },
     {
       "source": "Hacker News",
       "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
       "title_zh": "Cool-retro-term ：模仿CRT外观和感觉的终端仿真器",
       "url": "https://github.com/Swordfish90/cool-retro-term",
-      "points": 179,
-      "comments": 72
+      "points": 215,
+      "comments": 80
     },
     {
       "source": "Hacker News",
-      "title": "Moving from OpenBSD to FreeBSD for firewalls",
-      "title_zh": "防火墙从OpenBSD迁移到FreeBSD",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
-      "points": 155,
-      "comments": 81
-    },
-    {
-      "source": "Hacker News",
-      "title": "Inside Rust's std and parking_lot mutexes – who wins?",
-      "title_zh": "在Rust的std和parking_lot mutexes中–谁赢了？",
-      "url": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
-      "points": 138,
-      "comments": 61
-    },
-    {
-      "source": "Hacker News",
-      "title": "Mind-reading devices can now predict preconscious thoughts",
-      "title_zh": "读心设备现在可以预测前意识思维",
-      "url": "https://www.nature.com/articles/d41586-025-03714-0",
-      "points": 128,
-      "comments": 88
+      "title": "Implications of AI to schools",
+      "title_zh": "人工智能对学校的影响",
+      "url": "https://twitter.com/karpathy/status/1993010584175141038",
+      "points": 187,
+      "comments": 188
     },
     {
       "source": "Hacker News",
       "title": "What OpenAI did when ChatGPT users lost touch with reality",
       "title_zh": "当ChatGPT用户与现实失去联系时， OpenAI做了什么",
       "url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
-      "points": 126,
-      "comments": 143
+      "points": 175,
+      "comments": 216
+    },
+    {
+      "source": "Hacker News",
+      "title": "Moving from OpenBSD to FreeBSD for firewalls",
+      "title_zh": "防火墙从OpenBSD迁移到FreeBSD",
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
+      "points": 172,
+      "comments": 95
+    },
+    {
+      "source": "Hacker News",
+      "title": "Inside Rust's std and parking_lot mutexes – who wins?",
+      "title_zh": "在Rust的std和parking_lot mutexes中–谁赢了？",
+      "url": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
+      "points": 156,
+      "comments": 72
+    },
+    {
+      "source": "Hacker News",
+      "title": "Building the largest known Kubernetes cluster",
+      "title_zh": "构建已知最大的Kubernetes集群",
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
+      "points": 125,
+      "comments": 72
+    },
+    {
+      "source": "TechCrunch",
+      "title": "India’s gig workers win legal status, but access to social security remains elusive",
+      "title_zh": "印度零工工人获得合法身份，但仍难以获得社会保障",
+      "url": "https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/",
+      "points": null,
+      "comments": null
     },
     {
       "source": "TechCrunch",
@@ -190,14 +199,6 @@
       "title": "X-energy rides nuclear wave, raises $700M Series D",
       "title_zh": "X-energy乘坐核电波，筹集$ 700M系列D",
       "url": "https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "TechCrunch",
-      "title": "DOGE days are over as Trump disbands Elon Musk’s team of federal cost-cutters",
-      "title_zh": "随着特朗普解散埃隆·马斯克(Elon Musk)的联邦成本削减团队，总督时代已经结束",
-      "url": "https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/",
       "points": null,
       "comments": null
     },
@@ -283,41 +284,9 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Ostivities 2.0",
-      "title_zh": "Ostivities 2.0",
-      "url": "https://www.producthunt.com/products/ostivities",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fluently Accent Guru",
-      "title_zh": "流利口音大师",
-      "url": "https://www.producthunt.com/products/fluently-ai-english-coach",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
       "title": "SimRepo",
       "title_zh": "SimRepo",
       "url": "https://www.producthunt.com/products/simrepo",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "RuleHook",
-      "title_zh": "RuleHook",
-      "url": "https://www.producthunt.com/products/rulehook",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Product Hunt",
-      "title": "TilePix",
-      "title_zh": "TilePix",
-      "url": "https://www.producthunt.com/products/tilepix",
       "points": null,
       "comments": null
     },
@@ -331,9 +300,17 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Addsubtitle",
-      "title_zh": "添加副标题",
-      "url": "https://www.producthunt.com/products/addsubtitle-2",
+      "title": "Fluently Accent Guru",
+      "title_zh": "流利口音大师",
+      "url": "https://www.producthunt.com/products/fluently-ai-english-coach",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ostivities 2.0",
+      "title_zh": "Ostivities 2.0",
+      "url": "https://www.producthunt.com/products/ostivities",
       "points": null,
       "comments": null
     },
@@ -355,6 +332,30 @@
     },
     {
       "source": "Product Hunt",
+      "title": "TilePix",
+      "title_zh": "TilePix",
+      "url": "https://www.producthunt.com/products/tilepix",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Addsubtitle",
+      "title_zh": "添加副标题",
+      "url": "https://www.producthunt.com/products/addsubtitle-2",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RuleHook",
+      "title_zh": "RuleHook",
+      "url": "https://www.producthunt.com/products/rulehook",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Product Hunt",
       "title": "Container Diet",
       "title_zh": "容器饮食",
       "url": "https://www.producthunt.com/products/container-diet",
@@ -363,17 +364,41 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky welcomes amendments to proposed peace plan",
-      "title_zh": "泽连斯基欢迎对拟议和平计划的修正",
-      "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia and Ukraine trade deadly strikes overnight",
+      "title_zh": "俄罗斯和乌克兰在一夜之间进行了致命的贸易罢工",
+      "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Belgian airports to be hit by 'major disruption' amid austerity strike",
-      "title_zh": "在紧缩罢工期间，比利时机场将受到“重大干扰”的打击",
-      "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
+      "title_zh": "备受争议的美国支持的加沙人道主义基金会结束援助行动",
+      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says he will visit China in April after call with Xi",
+      "title_zh": "特朗普表示，在与习近平通话后，他将于4月访问中国",
+      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "UK minister flags visa 'abuse' as student asylum claims surge",
+      "title_zh": "随着学生庇护申请激增，英国部长标记签证“滥用”",
+      "url": "https://www.bbc.com/news/articles/cy5gyzqexn5o?at_medium=RSS&at_campaign=rss",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "BBC World",
+      "title": "Judge dismisses cases against ex-FBI director Comey and NY attorney general James",
+      "title_zh": "法官驳回针对前联邦调查局局长科米和纽约总检察长詹姆斯的案件",
+      "url": "https://www.bbc.com/news/articles/c9qelv51y23o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
@@ -395,49 +420,25 @@
     },
     {
       "source": "BBC World",
-      "title": "'Slender Man' stabber who knifed her classmate 19 times aged 12 captured after escape",
-      "title_zh": "“苗条男人”刺客在逃跑后将她的同学砍了19刀，年仅12岁",
-      "url": "https://www.bbc.com/news/articles/cvgkwgyqzn0o?at_medium=RSS&at_campaign=rss",
+      "title": "Pentagon to review Senator Mark Kelly misconduct allegations after video to troops",
+      "title_zh": "五角大楼将审查参议员马克·凯利（ Mark Kelly ）在向部队发布视频后提出的不当行为",
+      "url": "https://www.bbc.com/news/articles/cqxqwrlp7r0o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "I watched helplessly as gunmen snatched my son, says father after Nigerian school kidnapping",
-      "title_zh": "尼日利亚学校绑架事件发生后，父亲说，我无助地看着枪手抢走我的儿子",
-      "url": "https://www.bbc.com/news/articles/cq5qen5gnzqo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky welcomes amendments to proposed peace plan",
+      "title_zh": "泽连斯基欢迎对拟议和平计划的修正",
+      "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Gaza food kitchens still missing essential products despite ceasefire",
-      "title_zh": "尽管停火，加沙食品厨房仍然缺少必需品",
-      "url": "https://www.bbc.com/news/articles/cn7klr7647jo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "S Korea's most prolific online sex criminal sentenced to life in prison",
-      "title_zh": "韩国最多产的在线性犯罪者被判终身监禁",
-      "url": "https://www.bbc.com/news/articles/czxgdelzeq1o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "Australia senator suspended after burka stunt in parliament",
-      "title_zh": "澳大利亚参议员在议会布尔卡噱头后被停职",
-      "url": "https://www.bbc.com/news/articles/cz94pdkzqvwo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "BBC World",
-      "title": "Music eases surgery and speeds recovery, Indian study finds",
-      "title_zh": "印度研究发现，音乐可以简化手术并加快康复速度",
-      "url": "https://www.bbc.com/news/articles/c231dv9zpz3o?at_medium=RSS&at_campaign=rss",
+      "title": "Belgian airports to be hit by 'major disruption' amid austerity strike",
+      "title_zh": "在紧缩罢工期间，比利时机场将受到“重大干扰”的打击",
+      "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
