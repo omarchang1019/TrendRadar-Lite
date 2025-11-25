@@ -74,6 +74,33 @@ def fetch_rss(url: str, source_name: str, limit: int = 10):
     return items
 
 
+def build_summary(items, max_items: int = 5) -> str:
+    """
+    用前几条中文标题拼一段大白话总结：
+    “用大白话说，今天的热点大概是这些：1）…；2）…；…。”
+    """
+    zh_titles = []
+    for it in items:
+        t = it.get("title_zh") or it.get("title")
+        if not t:
+            continue
+        zh_titles.append(t)
+        if len(zh_titles) >= max_items:
+            break
+
+    if not zh_titles:
+        return ""
+
+    parts = []
+    for idx, t in enumerate(zh_titles, 1):
+        t_short = t
+        if len(t_short) > 40:
+            t_short = t_short[:38] + "..."
+        parts.append(f"{idx}）{t_short}")
+
+    return "用大白话说，今天的热点大概是这些： " + "； ".join(parts) + "。"
+
+
 def main():
     all_items = []
 
@@ -102,11 +129,14 @@ def main():
         "http://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", limit=10
     )
 
-    # 使用北京时间（UTC+8）
+    # 北京时间（UTC+8）
     beijing_time = datetime.now(timezone.utc) + timedelta(hours=8)
+
+    summary = build_summary(all_items)
 
     out = {
         "last_updated": beijing_time.strftime("%Y-%m-%d %H:%M:%S"),
+        "summary": summary,
         "items": all_items,
     }
 
