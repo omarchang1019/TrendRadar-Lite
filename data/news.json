@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-11-26 17:34:01",
+  "last_updated": "2025-11-26 17:50:53",
   "items": [
     {
       "source": "Hacker News",
       "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "title_zh": "Google Antigravity通过间接提示注入攻击渗透数据",
       "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "points": 659,
+      "points": 660,
       "comments": 176,
       "region": "Global",
       "published": null,
@@ -17,8 +17,8 @@
       "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
       "title_zh": "YouTube上的某个人需要戴眼镜：预言已经实现",
       "url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "points": 609,
-      "comments": 411,
+      "points": 624,
+      "comments": 417,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -28,8 +28,8 @@
       "title": "Trillions spent and big software projects are still failing",
       "title_zh": "花费的数万亿美元和大型软件项目仍在失败",
       "url": "https://spectrum.ieee.org/it-management-software-failures",
-      "points": 435,
-      "comments": 367,
+      "points": 439,
+      "comments": 371,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -39,8 +39,8 @@
       "title": "Jakarta is now the biggest city in the world",
       "title_zh": "雅加达现在是世界上最大的城市",
       "url": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
-      "points": 322,
-      "comments": 240,
+      "points": 325,
+      "comments": 243,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -50,8 +50,8 @@
       "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
       "title_zh": "Ilya Sutskever ：我们正在从扩展时代走向研究时代",
       "url": "https://www.dwarkesh.com/p/ilya-sutskever-2",
-      "points": 309,
-      "comments": 242,
+      "points": 310,
+      "comments": 249,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -61,8 +61,8 @@
       "title": "Show HN: We built an open source, zero webhooks payment processor",
       "title_zh": "Show HN ：我们构建了一个开源的零webhooks支付处理器",
       "url": "https://github.com/flowglad/flowglad",
-      "points": 303,
-      "comments": 175,
+      "points": 307,
+      "comments": 177,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -72,19 +72,8 @@
       "title": "FLUX.2: Frontier Visual Intelligence",
       "title_zh": "FLUX.2 ：前沿视觉智能",
       "url": "https://bfl.ai/blog/flux-2",
-      "points": 300,
-      "comments": 84,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Python is not a great language for data science",
-      "title_zh": "Python不是数据科学的优秀语言",
-      "url": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
-      "points": 229,
-      "comments": 217,
+      "points": 304,
+      "comments": 85,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -94,8 +83,19 @@
       "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
       "title_zh": "显示HN ： KiDoom -在PCB迹线上运行DOOM",
       "url": "https://www.mikeayles.com/#kidoom",
-      "points": 229,
-      "comments": 25,
+      "points": 235,
+      "comments": 26,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Python is not a great language for data science",
+      "title_zh": "Python不是数据科学的优秀语言",
+      "url": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+      "points": 230,
+      "comments": 223,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -116,8 +116,8 @@
       "title": "New layouts with CSS Subgrid",
       "title_zh": "使用CSS子网格的新布局",
       "url": "https://www.joshwcomeau.com/css/subgrid/",
-      "points": 196,
-      "comments": 54,
+      "points": 203,
+      "comments": 55,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -127,7 +127,7 @@
       "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
       "title_zh": "启动HN ： Onyx (YC W24) –开源聊天界面",
       "url": "",
-      "points": 194,
+      "points": 196,
       "comments": 135,
       "region": "Global",
       "published": null,
@@ -138,8 +138,8 @@
       "title": "A new bridge links the math of infinity to computer science",
       "title_zh": "一座新的桥梁将无穷大数学与计算机科学联系起来",
       "url": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
-      "points": 181,
-      "comments": 82,
+      "points": 186,
+      "comments": 85,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -149,8 +149,8 @@
       "title": "Reinventing how .NET builds and ships (again)",
       "title_zh": "重塑.NET的构建和发布方式（再次）",
       "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
-      "points": 167,
-      "comments": 80,
+      "points": 169,
+      "comments": 82,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -161,7 +161,7 @@
       "title_zh": "统一我们的移动和桌面域名",
       "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
       "points": 146,
-      "comments": 40,
+      "comments": 41,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -186,15 +186,6 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "He just really likes Star Wars",
-      "title_zh": "他真的很喜欢《星球大战》",
-      "url": "https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/",
-      "region": "Global",
-      "published": "2025-11-26T03:38:45+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\"> <img alt=\"He just really likes Star Wars\" src=\"https://a.thumbs.redditmedia.com/MGgkHk_0KIb2ksxpxYIlZwNzLfg3XAreK24IcBiyDp8.jpg\" title=\"He just really likes Star Wars\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spaniel_rage\"> /u/spaniel_rage </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/madlads/\"> r/madlads </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1p6xfaq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
       "title": "This man saves an entire family of deer stranded on a frozen lake in Ontario",
       "title_zh": "这名男子拯救了整个被困在安大略省冰冻湖泊上的鹿家族",
       "url": "https://www.reddit.com/r/BeAmazed/comments/1p6yd7z/this_man_saves_an_entire_family_of_deer_stranded/",
@@ -213,12 +204,21 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Voyager 1 Is About to Reach One Light-day from Earth",
-      "title_zh": "旅行者1号即将从地球到达一个光日",
-      "url": "https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/",
+      "title": "He just really likes Star Wars",
+      "title_zh": "他真的很喜欢《星球大战》",
+      "url": "https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/",
       "region": "Global",
-      "published": "2025-11-26T00:28:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\"> <img alt=\"Voyager 1 Is About to Reach One Light-day from Earth\" src=\"https://preview.redd.it/nqdbda25xh3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a643b0514cafc612745d593e1177bc65b2fdcbef\" title=\"Voyager 1 Is About to Reach One Light-day from Earth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After nearly 50 years in space, NASA’s Voyager 1 is about to hit a historic milestone. By November 15, 2026, it will be 16.1 billion miles (25.9 billion km) away, meaning a radio signal will take a full 24 hours — a full light-day — to reach it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Busy_Yesterday9455\"> /u/Busy_Yesterday9455 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/spaceporn/\"> r/spaceporn </a> <br /> <span><a href=\"https://i.redd.it/nqdbda25xh3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-11-26T03:38:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\"> <img alt=\"He just really likes Star Wars\" src=\"https://a.thumbs.redditmedia.com/MGgkHk_0KIb2ksxpxYIlZwNzLfg3XAreK24IcBiyDp8.jpg\" title=\"He just really likes Star Wars\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spaniel_rage\"> /u/spaniel_rage </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/madlads/\"> r/madlads </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1p6xfaq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Boiling water",
+      "title_zh": "沸腾",
+      "url": "https://www.reddit.com/r/sciencememes/comments/1p7193e/boiling_water/",
+      "region": "Global",
+      "published": "2025-11-26T07:07:44+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/sciencememes/comments/1p7193e/boiling_water/\"> <img alt=\"Boiling water\" src=\"https://preview.redd.it/cb19geriwj3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af221dfbe0ed4d810992d1689510820d5228a0a0\" title=\"Boiling water\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rahul786g\"> /u/rahul786g </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/sciencememes/\"> r/sciencememes </a> <br /> <span><a href=\"https://i.redd.it/cb19geriwj3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/sciencememes/comments/1p7193e/boiling_water/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
@@ -240,21 +240,21 @@
     },
     {
       "source": "Reddit r/all",
+      "title": "Voyager 1 Is About to Reach One Light-day from Earth",
+      "title_zh": "旅行者1号即将从地球到达一个光日",
+      "url": "https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/",
+      "region": "Global",
+      "published": "2025-11-26T00:28:11+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\"> <img alt=\"Voyager 1 Is About to Reach One Light-day from Earth\" src=\"https://preview.redd.it/nqdbda25xh3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a643b0514cafc612745d593e1177bc65b2fdcbef\" title=\"Voyager 1 Is About to Reach One Light-day from Earth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After nearly 50 years in space, NASA’s Voyager 1 is about to hit a historic milestone. By November 15, 2026, it will be 16.1 billion miles (25.9 billion km) away, meaning a radio signal will take a full 24 hours — a full light-day — to reach it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Busy_Yesterday9455\"> /u/Busy_Yesterday9455 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/spaceporn/\"> r/spaceporn </a> <br /> <span><a href=\"https://i.redd.it/nqdbda25xh3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
       "title": "The shower in my fancy airbnb",
       "title_zh": "我精致的爱彼迎房源配备淋浴间",
       "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/",
       "region": "Global",
       "published": "2025-11-26T02:51:46+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/\"> <img alt=\"The shower in my fancy airbnb\" src=\"https://external-preview.redd.it/cDJveWNqM3NtaTNnMRBQZU8pRBNFwFPL4B31SBPHY120quV0_TjdyhlnHa9h.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=82604585a198cb6918568f7aa2754666d087c9bc\" title=\"The shower in my fancy airbnb\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hope you like hot showers </p> <p>I do realize you could take the handle off and mount it facing down (which I eventually did), but that reverses the temperature vs the color Indicators, which is also annoying. Also, come on people, how was this designed like this. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Zirnitra1248\"> /u/Zirnitra1248 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinfuriating/\"> r/mildlyinfuriating </a> <br /> <span><a href=\"https://v.redd.it/ypbeef0smi3g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "There is one house in my neighborhood where the roof is always covered in birds",
-      "title_zh": "我所在的街区有一栋房子，屋顶上总是满是鸟",
-      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/",
-      "region": "Global",
-      "published": "2025-11-26T05:05:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/\"> <img alt=\"There is one house in my neighborhood where the roof is always covered in birds\" src=\"https://preview.redd.it/ob5xbvwmaj3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bc372dd9b40252c437831b3c7753609ee94f2e\" title=\"There is one house in my neighborhood where the roof is always covered in birds\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hangingdenim\"> /u/hangingdenim </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinteresting/\"> r/mildlyinteresting </a> <br /> <span><a href=\"https://i.redd.it/ob5xbvwmaj3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
@@ -528,12 +528,39 @@
     },
     {
       "source": "Product Hunt",
-      "title": "FireCut for DaVinci Resolve",
-      "title_zh": "FireCut for DaVinci Resolve",
-      "url": "https://www.producthunt.com/products/firecut-ai",
+      "title": "Orion 1.0",
+      "title_zh": "Orion 1.0",
+      "url": "https://www.producthunt.com/products/orion-2",
       "region": "Global",
-      "published": "2025-11-20T18:37:15-08:00",
-      "summary": "<p>\n            Your lightning-fast AI video editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecut-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040662?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-11-25T22:18:32-08:00",
+      "summary": "<p>\n            WebKit. Extensions. Privacy. Check icon Pick all three.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orion-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042579?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Questas",
+      "title_zh": "Questas",
+      "url": "https://www.producthunt.com/products/questas",
+      "region": "Global",
+      "published": "2025-11-24T06:52:44-08:00",
+      "summary": "<p>\n            Build interactive stories with AI images and videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/questas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041854?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Convo",
+      "title_zh": "Convo",
+      "url": "https://www.producthunt.com/products/convo-7",
+      "region": "Global",
+      "published": "2025-11-17T09:24:39-08:00",
+      "summary": "<p>\n            Meeting automation: tasks, briefs, feedback & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/convo-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039231?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SlopCollector",
+      "title_zh": "SlopCollector",
+      "url": "https://www.producthunt.com/products/slopcollector",
+      "region": "Global",
+      "published": "2025-11-25T12:23:15-08:00",
+      "summary": "<p>\n            Find the slop in your supabase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slopcollector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042458?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -556,56 +583,11 @@
     {
       "source": "Product Hunt",
       "title": "Rubber Duck",
-      "title_zh": "小黄鸭",
+      "title_zh": "橡皮鸭",
       "url": "https://www.producthunt.com/products/rubber-duck",
       "region": "Global",
       "published": "2025-11-25T04:36:22-08:00",
       "summary": "<p>\n            Catch App Store rejection issues before Apple does.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rubber-duck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042284?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SlopCollector",
-      "title_zh": "SlopCollector",
-      "url": "https://www.producthunt.com/products/slopcollector",
-      "region": "Global",
-      "published": "2025-11-25T12:23:15-08:00",
-      "summary": "<p>\n            Find the slop in your supabase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slopcollector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042458?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Orion 1.0",
-      "title_zh": "Orion 1.0",
-      "url": "https://www.producthunt.com/products/orion-2",
-      "region": "Global",
-      "published": "2025-11-25T22:18:32-08:00",
-      "summary": "<p>\n            WebKit. Extensions. Privacy. Check icon Pick all three.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orion-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042579?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Convo",
-      "title_zh": "Convo",
-      "url": "https://www.producthunt.com/products/convo-7",
-      "region": "Global",
-      "published": "2025-11-17T09:24:39-08:00",
-      "summary": "<p>\n            Meeting automation: tasks, briefs, feedback & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/convo-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039231?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Questas",
-      "title_zh": "Questas",
-      "url": "https://www.producthunt.com/products/questas",
-      "region": "Global",
-      "published": "2025-11-24T06:52:44-08:00",
-      "summary": "<p>\n            Build interactive stories with AI images and videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/questas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041854?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Eva",
-      "title_zh": "Eva",
-      "url": "https://www.producthunt.com/products/evatar-ai",
-      "region": "Global",
-      "published": "2025-11-06T15:49:48-08:00",
-      "summary": "<p>\n            Just speak your ideas & Eva turns them into content & posts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/evatar-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035356?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -617,6 +599,24 @@
       "summary": "<p>\n            Recorder & Editor for better-looking product demos \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/demostudio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042182?app_id=339\">Link</a>\n          </p>"
     },
     {
+      "source": "Product Hunt",
+      "title": "FireCut for DaVinci Resolve",
+      "title_zh": "FireCut for DaVinci Resolve",
+      "url": "https://www.producthunt.com/products/firecut-ai",
+      "region": "Global",
+      "published": "2025-11-20T18:37:15-08:00",
+      "summary": "<p>\n            Your lightning-fast AI video editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecut-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040662?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Eva",
+      "title_zh": "Eva",
+      "url": "https://www.producthunt.com/products/evatar-ai",
+      "region": "Global",
+      "published": "2025-11-06T15:49:48-08:00",
+      "summary": "<p>\n            Just speak your ideas & Eva turns them into content & posts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/evatar-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035356?app_id=339\">Link</a>\n          </p>"
+    },
+    {
       "source": "BBC World",
       "title": "Trump's envoy to have Ukraine peace plan talks at Kremlin next week",
       "title_zh": "特朗普特使下周在克里姆林宫举行乌克兰和平计划会谈",
@@ -624,6 +624,15 @@
       "region": "Global",
       "published": "Wed, 26 Nov 2025 07:17:02 GMT",
       "summary": "Russia confirms the US president's close aide will travel to Russia, hours after Trump tasked him with meeting Putin."
+    },
+    {
+      "source": "BBC World",
+      "title": "Teens launch High Court challenge to Australia's social media ban",
+      "title_zh": "青少年发起高等法院对澳大利亚社交媒体禁令的挑战",
+      "url": "https://www.bbc.com/news/articles/c9d9l7w1g8yo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 06:37:56 GMT",
+      "summary": "They argue the law - which will block users under 16 from having social media accounts - is unconstitutional."
     },
     {
       "source": "BBC World",
@@ -645,15 +654,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Twenty-four Nigerian schoolgirls released over a week after abduction",
-      "title_zh": "24名尼日利亚女学生在被绑架一周后获释",
-      "url": "https://www.bbc.com/news/articles/cgmnv3yd28zo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 26 Nov 2025 08:54:33 GMT",
-      "summary": "Hundreds of children remain missing following other recent abductions in Nigeria."
-    },
-    {
-      "source": "BBC World",
       "title": "New Zealand woman gets life sentence for 'suitcase murders' of her children",
       "title_zh": "新西兰女子因“手提箱谋杀”她的孩子而被判无期徒刑",
       "url": "https://www.bbc.com/news/articles/cp84xed0g18o?at_medium=RSS&at_campaign=rss",
@@ -672,21 +672,21 @@
     },
     {
       "source": "BBC World",
+      "title": "Twenty-four Nigerian schoolgirls released over a week after abduction",
+      "title_zh": "24名尼日利亚女学生在被绑架一周后获释",
+      "url": "https://www.bbc.com/news/articles/cgmnv3yd28zo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 08:54:33 GMT",
+      "summary": "Hundreds of children remain missing following other recent abductions in Nigeria."
+    },
+    {
+      "source": "BBC World",
       "title": "Israel confirms Hamas and PIJ returned body of Gaza hostage Dror Or",
       "title_zh": "以色列证实哈马斯和PIJ归还了加沙人质Dror Or的尸体",
       "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
       "published": "Wed, 26 Nov 2025 08:04:46 GMT",
       "summary": "The handover means the bodies of two deceased hostages are still being held in Gaza six weeks after the ceasefire began."
-    },
-    {
-      "source": "BBC World",
-      "title": "Teens launch High Court challenge to Australia's social media ban",
-      "title_zh": "青少年发起高等法院对澳大利亚社交媒体禁令的挑战",
-      "url": "https://www.bbc.com/news/articles/c9d9l7w1g8yo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 26 Nov 2025 06:37:56 GMT",
-      "summary": "They argue the law - which will block users under 16 from having social media accounts - is unconstitutional."
     },
     {
       "source": "BBC World",
@@ -709,7 +709,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Falha elétrica na linha 11-coral da CPTM permanece e atrapalha passageiros",
-      "title_zh": "Falha elétrica na linha 11-coral da CPTM permanentece e atrapalha passageiros",
+      "title_zh": "CPTM 11号线电气故障-心脏残留并阻碍乘客",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/falha-eletrica-na-linha-11-coral-da-cptm-permanece-e-atrapalha-passageiros.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:14:00 -0300",
@@ -718,7 +718,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Professora relata terror durante sequestro em massa de alunos na Nigéria",
-      "title_zh": "Professora relata terror durante sequestro em massa de alunos na Nigéria",
+      "title_zh": "教师报告在尼日利亚大规模绑架学生期间发生恐怖袭击事件",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/professora-relata-terror-durante-sequestro-em-massa-de-alunos-na-nigeria.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -727,7 +727,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Prefeitura de SP é condenada a pagar R$ 10 mil a criança que teria apanhado de professora",
-      "title_zh": "Prefeitura de SP é condenada a pagar R $ 1000万a criança que teria apanhado de professora",
+      "title_zh": "SP市政厅被命令向被老师殴打的孩子支付10,000雷亚尔",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/prefeitura-de-sp-e-condenada-a-pagar-r-10-mil-a-crianca-que-teria-apanhado-de-professora.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -736,7 +736,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Maioria dos usuários de redes sociais reprovou prisão preventiva de Bolsonaro, diz levantamento",
-      "title_zh": "Maioria dos usuários de redes sociais reprovou prisão preventiva de Bolsonaro, diz levantamento",
+      "title_zh": "调查显示，大多数社交媒体用户不赞成博尔索纳罗的审前拘留",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/11/maioria-dos-usuarios-de-redes-sociais-reprovou-prisao-preventiva-de-bolsonaro-diz-levantamento.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -745,7 +745,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "'Tremembé': Quem é Ullisses Campbell, que conquistou o true crime ao ouvir criminosos",
-      "title_zh": "'Tremembé' ： Quem é Ullisses Campbell, que conquistou o true crime ao ouvir criminosos",
+      "title_zh": "“Tremembé” ：谁是Ullisses Campbell ，他通过倾听罪犯来征服真正的犯罪",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2025/11/tremembe-quem-e-ullisses-campbell-que-conquistou-o-true-crime-ao-ouvir-criminosos.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -754,7 +754,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Traços de DNA de lobo estão presentes em raças como labrador e chihuahua",
-      "title_zh": "Traços de DNA de lobo estão presentes em raças como labrador e chihuahua",
+      "title_zh": "狼的DNA特征存在于拉布拉多和吉娃娃等品种中",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2025/11/tracos-de-dna-de-lobo-estao-presentes-em-racas-como-labrador-e-chihuahua.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -763,7 +763,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Feirão da Serasa em SP oferece até 99% de desconto em dívidas até sábado (29); veja como participar",
-      "title_zh": "Feirão da Serasa em SP oferece até 99% de desconto em dívidas até sábado (29) ； veja como participar",
+      "title_zh": "SP的Feirão da Serasa提供高达99 ％的债务折扣，直至周六（ 29 ） ；查看如何参与",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/feirao-da-serasa-em-sp-oferece-ate-99-de-desconto-em-dividas-ate-sabado-29-veja-como-participar.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 06:00:00 -0300",
@@ -772,7 +772,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Podcast: o destino de Bolsonaro e outros presos com a conclusão da trama golpista",
-      "title_zh": "播客： o destino de Bolsonaro e outros presos com a conclusão da trama golpista",
+      "title_zh": "播客：政变阴谋结束后博尔索纳罗和其他囚犯的命运",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2025/11/podcast-o-destino-de-bolsonaro-e-outros-presos-com-a-conclusao-da-trama-golpista.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 05:00:00 -0300",
@@ -781,7 +781,7 @@
     {
       "source": "Folha de S.Paulo",
       "title": "SP deve ter tempo seco e temperatura máxima de 25°C nesta quarta (26)",
-      "title_zh": "SP deve ter tempo seco e temperatura máxima de 25°C nesta quarta (26)",
+      "title_zh": "SP本周三应有干燥的天气和最高温度25°C (26)",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/sp-deve-ter-tempo-seco-e-temperatura-maxima-de-25c-nesta-quarta-26.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 05:00:00 -0300",
@@ -790,11 +790,29 @@
     {
       "source": "Folha de S.Paulo",
       "title": "Brasília e Goiânia são as capitais com mais radares de velocidade por frota no país, diz estudo",
-      "title_zh": "巴西利亚和戈亚尼亚圣作为capitais com mais radares de velocidade por frota no país, diz estudo",
+      "title_zh": "巴西利亚和戈亚尼亚是该国拥有最多高速摄像机的首都，研究称",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/brasilia-e-goiania-sao-as-capitais-com-mais-radares-de-velocidade-por-frota-no-pais-diz-estudo.shtml",
       "region": "Brazil",
       "published": "26 Nov 2025 04:00:00 -0300",
       "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/brasilia/\">Brasília</a> é, proporcionamente a sua frota, a capital do país com mais radares de velocidade instalados. Os dados fazem parte de um estudo inédito produzido pelo Observatório Nacional de Segurança Viária, em parceria com a UFPR (Universidade Federal do Paraná).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/brasilia-e-goiania-sao-as-capitais-com-mais-radares-de-velocidade-por-frota-no-pais-diz-estudo.shtml\">Leia mais</a> (11/26/2025 - 04h00)"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Brazil’s Senate Uses Costly Health Pensions As Revenge On Lula",
+      "title_zh": "巴西参议院使用昂贵的健康养老金作为对卢拉的报复",
+      "url": "https://www.riotimesonline.com/brazils-senate-uses-costly-health-pensions-as-revenge-on-lula/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:45:59 +0000",
+      "summary": "Brazil’s Senate has pushed through an expensive early-retirement bill that looks less like social policy and more like payback. The vote came days after President Lula chose his loyal attorney general, Jorge Messias, for a powerful Supreme Court seat. Many senators wanted one of their own in the job. Instead of arguing in public, they [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Chilean Assets Ride Copper Boom And Fed Hopes As Peso Firms And IPSA Nears 10,000",
+      "title_zh": "随着比索公司和IPSA接近10,000 ，智利资产乘铜热潮和美联储希望",
+      "url": "https://www.riotimesonline.com/chilean-assets-ride-copper-boom-and-fed-hopes-as-peso-firms-and-ipsa-nears-10000/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:40:26 +0000",
+      "summary": "Chilean markets spent Tuesday behaving the way global investors wish more emerging economies would. The peso strengthened, the stock market set fresh records and moves were driven more by fundamentals than slogans. In currencies, the dollar slipped to about 935–936 pesos after delayed US data pointed to a cooling economy. A run of softer retail, [&#8230;]"
     },
     {
       "source": "The Rio Times",
@@ -867,24 +885,6 @@
       "region": "Brazil",
       "published": "Tue, 25 Nov 2025 23:54:21 +0000",
       "summary": "Brazil’s biggest traditional bank is quietly investing in the digital upstart that forced it to change. Itaú Unibanco, long the symbol of old-style Brazilian banking, has now built a stake of about 106 million dollars in Nubank after buying another 3.8 million shares in the third quarter of 2025. Those shares represent roughly 3.6% of [&#8230;]"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Banco Master’s Collapse Shows How Brazil’s Political Banking Games Can Backfire",
-      "title_zh": "Banco Master的倒闭表明巴西的政治银行游戏可能会适得其反",
-      "url": "https://www.riotimesonline.com/banco-masters-collapse-shows-how-brazils-political-banking-games-can-backfire/",
-      "region": "Brazil",
-      "published": "Tue, 25 Nov 2025 23:54:13 +0000",
-      "summary": "Banco Master was not a household name, even in Brazil. Yet its sudden collapse has become one of the biggest tests of the country’s financial safety net – and a revealing case study in how deals around state-linked banks can go badly wrong. Master specialised in payroll-deducted loans, a product that often involves public employees [&#8230;]"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Brazil’s Silent Drone Revolution Is Re-Wiring Its Army",
-      "title_zh": "巴西无声无人机革命正在重新布线其军队",
-      "url": "https://www.riotimesonline.com/brazils-silent-drone-revolution-is-re-wiring-its-army/",
-      "region": "Brazil",
-      "published": "Tue, 25 Nov 2025 23:53:35 +0000",
-      "summary": "Brazil’s Army is quietly building something new in the Paraíba Valley: combat units designed from the ground up around drones. One will be a full drone battalion inside the Army Aviation Command in Taubaté; another, a drone company embedded in the 12th Light Infantry (Airmobile) Brigade in Caçapava. From there, they can be flown or [&#8230;]"
     },
     {
       "source": "The Jakarta Post",
@@ -987,21 +987,21 @@
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Delhi blast: NIA takes Muzammil to Al-Falah campus rooms where ammonium nitrate was kept",
-      "title_zh": "德里爆炸： NIA将Muzammil带到保存硝酸铵的Al-Falah校园房间",
-      "url": "https://timesofindia.indiatimes.com/city/gurgaon/nia-takes-muzammil-to-faridabad-hideouts-al-falah/articleshow/125573262.cms",
+      "title": "UP BLO takes poison and dies, leaves behind video of ‘stress’",
+      "title_zh": "UP BLO服毒并死亡，留下“压力”视频",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-blo-takes-poison-and-dies-leaves-behind-video-of-stress/articleshow/125577540.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 05:41:25 +0530",
-      "summary": "NIA recreated the Delhi blast crime scene with arrested Al-Falah University doctor Muzammil Ahmad Ganaie. He was taken to rented rooms where explosives were stored and to his university accommodation, believed to be the plot's nerve center. Investigators are probing the doctors' alleged links to handlers in Pakistan and Turkey."
+      "published": "Wed, 26 Nov 2025 07:29:07 +0530",
+      "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Will be pleasantly surprised by the actions of Xi': Trump confirms China visit in April",
-      "title_zh": "“将对习近平的行动感到惊喜” ：特朗普确认4月访问中国",
-      "url": "https://timesofindia.indiatimes.com/world/us/will-be-pleasantly-surprised-by-the-actions-of-president-xi-trump-confirms-china-visit-in-april-praises-great-relationship-with-jinping/articleshow/125578844.cms",
+      "title": "Delhi again found most polluted; study finds persistently high PM2.5 levels across India",
+      "title_zh": "德里再次发现污染最严重；研究发现印度各地的PM2.5水平持续偏高",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/dubious-distinction-delhi-again-found-most-polluted-crea-study-finds-persistently-high-pm2-5-levels-across-india/articleshow/125579348.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 09:23:43 +0530",
-      "summary": "President Donald Trump announced plans to visit Beijing in April, citing a strong personal rapport with Chinese counterpart Xi Jinping. The leaders discussed trade, Ukraine, and fentanyl during a recent phone call, aiming to maintain positive momentum. Trump also highlighted strong US-Japan ties during recent diplomatic outreach."
+      "published": "Wed, 26 Nov 2025 10:04:23 +0530",
+      "summary": "Delhi emerges as India's most polluted region, with PM2.5 levels a staggering 20 times the WHO guideline. A new satellite study reveals the Indo-Gangetic airshed remains critically polluted, while the Northeast, particularly Assam-Tripura, is a growing concern.  This year-round crisis demands a shift from city-centric to airshed-based pollution management."
     },
     {
       "source": "Times of India - Top Stories",
@@ -1014,12 +1014,12 @@
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Pune airport chaos: Pilot refuses to fly plane to Delhi; cites duty-time cap",
-      "title_zh": "浦那机场混乱：飞行员拒绝飞往德里；引用值班时间限制",
-      "url": "https://timesofindia.indiatimes.com/city/pune/pilot-refuses-to-fly-delhi-bound-plane-due-to-duty-time-cap-amritsar-flight-delayed-too/articleshow/125572922.cms",
+      "title": "'Will be pleasantly surprised by the actions of Xi': Trump confirms China visit in April",
+      "title_zh": "“将对习近平的行动感到惊喜” ：特朗普确认4月访问中国",
+      "url": "https://timesofindia.indiatimes.com/world/us/will-be-pleasantly-surprised-by-the-actions-of-president-xi-trump-confirms-china-visit-in-april-praises-great-relationship-with-jinping/articleshow/125578844.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 05:11:24 +0530",
-      "summary": "Over 100 Delhi-bound flyers faced a three-hour delay at Pune airport Tuesday morning after an IndiGo captain refused to fly due to flight duty time limitations. An Amritsar-bound IndiGo flight also experienced a similar delay for the same reason. Passengers expressed frustration over the lack of prior information and airline planning."
+      "published": "Wed, 26 Nov 2025 09:23:43 +0530",
+      "summary": "President Donald Trump announced plans to visit Beijing in April, citing a strong personal rapport with Chinese counterpart Xi Jinping. The leaders discussed trade, Ukraine, and fentanyl during a recent phone call, aiming to maintain positive momentum. Trump also highlighted strong US-Japan ties during recent diplomatic outreach."
     },
     {
       "source": "Times of India - Top Stories",
@@ -1032,39 +1032,39 @@
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Near record highs again: Why Nifty-Sensex created Rs 4 lakh crore wealth in a day",
-      "title_zh": "再次接近历史新高：为什么Nifty-Sensex在一天内创造了40亿卢比的财富",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nifty-sensex-near-record-highs-5-key-factors-behind-over-rs-4-lakh-crore-rally-in-a-day/articleshow/125584598.cms",
+      "title": "Watch: Israeli teenager hangs on crane for 8 hours; claims he climbed to 'see the view'",
+      "title_zh": "观看：以色列青少年挂在起重机上8小时；声称他爬上去“看风景”",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-israeli-teenager-hangs-on-crane-for-8-hours-claims-he-climbed-to-see-the-view/articleshow/125579374.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 14:33:20 +0530",
-      "summary": "Indian stock markets are nearing record highs. A significant surge in investor wealth occurred on Wednesday. This rally is fueled by hopes of interest rate cuts in India and abroad. Global market optimism and declining crude oil prices are also contributing factors. Foreign investors are returning as buyers. Corporate earnings are showing signs of recovery, leading to broad market participation."
+      "published": "Wed, 26 Nov 2025 10:13:39 +0530",
+      "summary": "In a gripping event in Jerusalem, emergency crews executed a remarkable rescue of a 15-year-old boy who found himself perilously suspended 300 meters high on a crane. Climbing up for an adventurous view, the teenager hung there for several hours before firefighters launched a sophisticated operation to bring him back to safety."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Not clicked at comedy club': Kunal Kamra wears T-shirt mocking RSS; BJP warns of police action",
-      "title_zh": "“没有点击喜剧俱乐部” ： Kunal Kamra穿着嘲弄RSS的T恤； BJP警告警方采取行动",
-      "url": "https://timesofindia.indiatimes.com/india/not-clicked-at-comedy-club-kunal-kamra-wears-t-shirt-mocking-rss-bjp-warns-of-police-action/articleshow/125582432.cms",
+      "title": "Pune airport chaos: Pilot refuses to fly plane to Delhi; cites duty-time cap",
+      "title_zh": "浦那机场混乱：飞行员拒绝飞往德里；引用值班时间限制",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pilot-refuses-to-fly-delhi-bound-plane-due-to-duty-time-cap-amritsar-flight-delayed-too/articleshow/125572922.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 12:46:44 +0530",
-      "summary": "Comedian Kunal Kamra has sparked controversy with a social media post featuring a T-shirt seemingly mocking the RSS. The BJP has reacted strongly, with leaders warning of police action against such objectionable content. This incident follows Kamra's previous clashes with political figures, including Prime Minister Modi and Maharashtra Deputy Chief Minister Eknath Shinde."
+      "published": "Wed, 26 Nov 2025 05:11:24 +0530",
+      "summary": "Over 100 Delhi-bound flyers faced a three-hour delay at Pune airport Tuesday morning after an IndiGo captain refused to fly due to flight duty time limitations. An Amritsar-bound IndiGo flight also experienced a similar delay for the same reason. Passengers expressed frustration over the lack of prior information and airline planning."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Amazon's AI power play: Tech giant vetoes third-party tools; 'Kiro' takes centre stage",
-      "title_zh": "亚马逊的人工智能游戏：科技巨头否决第三方工具； “Kiro”占据中心舞台",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-sends-message-to-engineers-on-in-house-coding-tool-kiro-says-we-do-not-plan-to/articleshow/125562159.cms",
+      "title": "AI job cuts: HP plans to lay off thousands; claims efficiency gains in early pilots",
+      "title_zh": "人工智能裁员：惠普计划裁员数千人；声称早期试点提高了效率",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/hp-makes-it-official-to-cut-thousands-of-jobs-due-to-ai-says-two-years-ago-we-started-/articleshow/125581294.cms",
       "region": "India",
-      "published": "Tue, 25 Nov 2025 15:45:34 +0530",
-      "summary": "Amazon has directed its software engineers to avoid using third-party AI coding tools like OpenAI's Codex and Anthropic's Claude Code, instead use its proprietary system, Kiro. This strategic move aims to bolster Amazon's competitive standing against rivals OpenAI and Google in the rapidly expanding AI code assistant market."
+      "published": "Wed, 26 Nov 2025 11:33:06 +0530",
+      "summary": "Tech giant HP is set to eliminate between 4,000 to 6,000 jobs by 2028, a move driven by organizational restructuring and the integration of artificial intelligence. This strategic shift aims to save approximately $1 billion by 2028, as HP embraces AI to redefine processes and enhance productivity across its operations."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "South Africa create history: First Test series win in India in 25 years",
-      "title_zh": "南非创造历史： 25年来首次在印度测试系列赛获胜",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/south-africa-create-history-first-test-series-win-in-india-in-25-years/articleshow/125584465.cms",
+      "title": "Tensions rise in China: Guizhou villagers protest over cremation order",
+      "title_zh": "中国紧张局势升级：贵州村民抗议火葬令",
+      "url": "https://timesofindia.indiatimes.com/world/china/tensions-rise-in-rural-china-guizhou-villagers-protest-over-cremation-order-what-we-know-so-far/articleshow/125584494.cms",
       "region": "India",
-      "published": "Wed, 26 Nov 2025 14:13:20 +0530",
-      "summary": "South Africa registered a massive 408-run victory over India in the second Test, securing a 2-0 series sweep. Spinner Simon Harmer's exceptional 6-wicket haul dismantled India's batting for 140, marking India's heaviest Test defeat by runs and South Africa's first series win in India in 25 years. Marco Jansen was named player of the match for his all-round performance."
+      "published": "Wed, 26 Nov 2025 15:00:59 +0530",
+      "summary": ""
     },
     {
       "source": "NDTV - Top Stories",
@@ -1168,7 +1168,7 @@
     {
       "source": "NHK WORLD-JAPAN",
       "title": "大阪市政府将暂停“特区民宿”营业申请",
-      "title_zh": "大阪市政府将暂停“特区民宿”营业申请",
+      "title_zh": "“”",
       "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20250930_18.json",
       "region": "Japan",
       "published": "Wed, 01 Oct 2025 11:11:03 +0000",
@@ -1222,7 +1222,7 @@
     {
       "source": "NHK WORLD-JAPAN",
       "title": "斯里兰卡女性遗属要求入管公开所有监控视频案开庭",
-      "title_zh": "斯里兰卡女性遗属要求入管公开所有监控视频案开庭",
+      "title_zh": "女性性援助申请表",
       "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20250930_17.json",
       "region": "Japan",
       "published": "Wed, 01 Oct 2025 06:11:02 +0000",
@@ -1231,7 +1231,7 @@
     {
       "source": "NHK WORLD-JAPAN",
       "title": "刘海星接替刘建超出任中联部部长",
-      "title_zh": "刘海星接替刘建超出任中联部部长",
+      "title_zh": "在大楼中间",
       "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_ML01.json",
       "region": "Japan",
       "published": "Wed, 01 Oct 2025 06:11:02 +0000",
