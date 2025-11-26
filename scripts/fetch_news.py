@@ -4,16 +4,65 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 import feedparser
+from langdetect import detect, LangDetectException
 
-# --------- 翻译函数 ---------
+# --------- 语言检测 + 翻译函数 ---------
+
+
+def detect_src_lang(text: str) -> str:
+    """
+    使用 langdetect 自动检测原文语言。
+    返回类似: 'en', 'pt', 'id', 'ja', 'ko', 'ar', 'hi' 等。
+    如果检测失败，默认当成英文。
+    """
+    try:
+        code = detect(text)
+    except LangDetectException:
+        return "en"
+
+    # langdetect 返回 zh-cn / zh-tw 等，统一成 zh
+    if code.startswith("zh"):
+        return "zh"
+    return code
 
 
 def translate_to_zh(text: str) -> str:
-    """使用 MyMemory 免费 API，把英文翻译为中文"""
+    """
+    自动识别原文语言 -> 翻译成中文。
+    已经是中文的就直接返回原文。
+    """
+    if not text:
+        return text
+
+    src_lang = detect_src_lang(text)
+
+    # 已经是中文就不用翻译
+    if src_lang == "zh":
+        return text
+
+    # MyMemory 用的语言代码大致兼容 ISO-639-1，
+    # 小语种不认识时我们兜底当成英文。
+    supported = {
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ja",
+        "ko",
+        "id",
+        "hi",
+        "ar",
+        "ru",
+    }
+    if src_lang not in supported:
+        src_lang = "en"
+
     try:
         url = (
             "https://api.mymemory.translated.net/get"
-            f"?q={requests.utils.quote(text)}&langpair=en|zh-CN"
+            f"?q={requests.utils.quote(text)}&langpair={src_lang}|zh-CN"
         )
         r = requests.get(url, timeout=10).json()
         translated = r.get("responseData", {}).get("translatedText", "")
@@ -43,7 +92,7 @@ def fetch_hn(limit=15, region="Global"):
         items.append(
             {
                 "source": "Hacker News",
-                "title": title_en,      # 英文原文
+                "title": title_en,      # 原文
                 "title_zh": title_zh,   # 中文翻译
                 "url": url,
                 "points": points,
@@ -57,20 +106,21 @@ def fetch_hn(limit=15, region="Global"):
 
 
 def fetch_rss(url, source_name, region="Global", limit=10):
-    """通用 RSS 抓取"""
+    """通用 RSS 抓取 + 自动识别原文语言"""
     feed = feedparser.parse(url)
     items = []
+
     for entry in feed.entries[:limit]:
-        title_en = entry.get("title", "").strip()
-        title_zh = translate_to_zh(title_en) if title_en else ""
-        link = entry.get("link", "")
+        title_raw = entry.get("title", "").strip()
+        link = entry.get("link", "") or ""
+        title_zh = translate_to_zh(title_raw) if title_raw else ""
 
         items.append(
             {
                 "source": source_name,
-                "title": title_en,
+                "title": title_raw,
                 "title_zh": title_zh,
-                "url": link,          # 和 Hacker News 保持一致，都用 url 字段
+                "url": link,          # 和 HN 保持一致，都用 url 字段
                 "region": region,     # 地区标签
                 "published": entry.get("published", ""),
                 "summary": entry.get("summary", "").strip(),
@@ -122,7 +172,6 @@ def main():
         region="Global",
         limit=10,
     )
-    # 你也可以在这里继续加 NYTimes World 等其它 Global 源
 
     # ========= 🇧🇷 Brazil / 巴西 =========
     all_items += fetch_rss(
