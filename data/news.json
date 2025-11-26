@@ -1,444 +1,604 @@
 {
-  "last_updated": "2025-11-25 15:59:56",
-  "summary": "用大白话说，今天的热点大概是这些： 1）Shai-Hulud返回：超过300个NPM包裹被感染； 2）Claude Opus 4.5； 3）Pebble Watch软件现已100%开源； 4）Claude高级工具使用； 5）未供电的固态硬盘会慢慢丢失数据。",
+  "last_updated": "2025-11-26 11:42:58",
+  "summary": "用大白话说，今天的热点大概是这些： 1）Google Antigravity通过间接提示注入攻击渗透数据； 2）YouTube上的某个人需要戴眼镜：预言已经实现； 3）花费的数万亿美元和大型软件项目仍在失败； 4）雅加达现在是世界上最大的城市； 5）FLUX.2 ：前沿视觉智能。",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
-      "title_zh": "Shai-Hulud返回：超过300个NPM包裹被感染",
-      "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-      "points": 922,
-      "comments": 712
+      "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+      "title_zh": "Google Antigravity通过间接提示注入攻击渗透数据",
+      "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+      "points": 583,
+      "comments": 161
     },
     {
       "source": "Hacker News",
-      "title": "Claude Opus 4.5",
-      "title_zh": "Claude Opus 4.5",
-      "url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "points": 900,
-      "comments": 411
+      "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+      "title_zh": "YouTube上的某个人需要戴眼镜：预言已经实现",
+      "url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+      "points": 366,
+      "comments": 271
     },
     {
       "source": "Hacker News",
-      "title": "Pebble Watch software is now 100% open source",
-      "title_zh": "Pebble Watch软件现已100%开源",
-      "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-      "points": 887,
-      "comments": 147
+      "title": "Trillions spent and big software projects are still failing",
+      "title_zh": "花费的数万亿美元和大型软件项目仍在失败",
+      "url": "https://spectrum.ieee.org/it-management-software-failures",
+      "points": 340,
+      "comments": 300
     },
     {
       "source": "Hacker News",
-      "title": "Claude Advanced Tool Use",
-      "title_zh": "Claude高级工具使用",
-      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "points": 466,
+      "title": "Jakarta is now the biggest city in the world",
+      "title_zh": "雅加达现在是世界上最大的城市",
+      "url": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+      "points": 268,
       "comments": 175
     },
     {
       "source": "Hacker News",
-      "title": "Unpowered SSDs slowly lose data",
-      "title_zh": "未供电的固态硬盘会慢慢丢失数据",
-      "url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
-      "points": 381,
-      "comments": 172
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "title_zh": "FLUX.2 ：前沿视觉智能",
+      "url": "https://bfl.ai/blog/flux-2",
+      "points": 251,
+      "comments": 78
     },
     {
       "source": "Hacker News",
-      "title": "PS5 now costs less than 64GB of DDR5 memory. RAM jumps to $600 due to shortage",
-      "title_zh": "PS5现在的DDR5内存成本不到64GB。由于短缺， RAM跃升至600 $",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
-      "points": 361,
-      "comments": 231
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "title_zh": "Show HN ：我们构建了一个开源的零webhooks支付处理器",
+      "url": "https://github.com/flowglad/flowglad",
+      "points": 241,
+      "comments": 147
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I built an interactive HN Simulator",
-      "title_zh": "Show HN ：我构建了一个交互式HN模拟器",
-      "url": "https://news.ysimulator.run/news",
-      "points": 276,
-      "comments": 138
+      "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+      "title_zh": "Ilya Sutskever ：我们正在从扩展时代走向研究时代",
+      "url": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+      "points": 212,
+      "comments": 184
     },
     {
       "source": "Hacker News",
-      "title": "Three Years from GPT-3 to Gemini 3",
-      "title_zh": "从GPT-3到Gemini 3的三年",
-      "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
-      "points": 258,
-      "comments": 167
+      "title": "How to repurpose your old phone into a web server",
+      "title_zh": "如何将旧手机重新用于Web服务器",
+      "url": "https://far.computer/how-to/",
+      "points": 184,
+      "comments": 73
     },
     {
       "source": "Hacker News",
-      "title": "Chrome Jpegxl Issue Reopened",
-      "title_zh": "Chrome Jpegxl问题已重新打开",
-      "url": "https://issues.chromium.org/issues/40168998",
-      "points": 237,
-      "comments": 90
+      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
+      "title_zh": "启动HN ： Onyx (YC W24) –开源聊天界面",
+      "url": "",
+      "points": 170,
+      "comments": 127
     },
     {
       "source": "Hacker News",
-      "title": "Cool-retro-term: terminal emulator which mimics look and feel of CRTs",
-      "title_zh": "Cool-retro-term ：模仿CRT外观和感觉的终端仿真器",
-      "url": "https://github.com/Swordfish90/cool-retro-term",
-      "points": 215,
-      "comments": 80
+      "title": "Python is not a great language for data science",
+      "title_zh": "Python不是数据科学的优秀语言",
+      "url": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+      "points": 151,
+      "comments": 162
     },
     {
       "source": "Hacker News",
-      "title": "Implications of AI to schools",
-      "title_zh": "人工智能对学校的影响",
-      "url": "https://twitter.com/karpathy/status/1993010584175141038",
-      "points": 187,
-      "comments": 188
+      "title": "A new bridge links the math of infinity to computer science",
+      "title_zh": "一座新的桥梁将无穷大数学与计算机科学联系起来",
+      "url": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+      "points": 139,
+      "comments": 38
     },
     {
       "source": "Hacker News",
-      "title": "What OpenAI did when ChatGPT users lost touch with reality",
-      "title_zh": "当ChatGPT用户与现实失去联系时， OpenAI做了什么",
-      "url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
-      "points": 175,
-      "comments": 216
+      "title": "Reinventing how .NET builds and ships (again)",
+      "title_zh": "重塑.NET的构建和发布方式（再次）",
+      "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+      "points": 115,
+      "comments": 48
     },
     {
       "source": "Hacker News",
-      "title": "Moving from OpenBSD to FreeBSD for firewalls",
-      "title_zh": "防火墙从OpenBSD迁移到FreeBSD",
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove",
-      "points": 172,
-      "comments": 95
+      "title": "Unifying our mobile and desktop domains",
+      "title_zh": "统一我们的移动和桌面域名",
+      "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+      "points": 113,
+      "comments": 28
     },
     {
       "source": "Hacker News",
-      "title": "Inside Rust's std and parking_lot mutexes – who wins?",
-      "title_zh": "在Rust的std和parking_lot mutexes中–谁赢了？",
-      "url": "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win",
-      "points": 156,
+      "title": "What they don't tell you about maintaining an open source project",
+      "title_zh": "他们没有告诉你关于维护开源项目的内容",
+      "url": "https://andrej.sh/blog/maintaining-open-source-project/",
+      "points": 101,
       "comments": 72
     },
     {
       "source": "Hacker News",
-      "title": "Building the largest known Kubernetes cluster",
-      "title_zh": "构建已知最大的Kubernetes集群",
-      "url": "https://cloud.google.com/blog/products/containers-kubernetes/how-we-built-a-130000-node-gke-cluster/",
-      "points": 125,
-      "comments": 72
+      "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
+      "title_zh": "显示HN ： KiDoom -在PCB迹线上运行DOOM",
+      "url": "https://www.mikeayles.com/#kidoom",
+      "points": 100,
+      "comments": 12
     },
     {
-      "source": "TechCrunch",
-      "title": "India’s gig workers win legal status, but access to social security remains elusive",
-      "title_zh": "印度零工工人获得合法身份，但仍难以获得社会保障",
-      "url": "https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/",
+      "source": "Reddit r/all",
+      "title": "Voyager 1 Is About to Reach One Light-day from Earth",
+      "title_zh": "旅行者1号即将从地球到达一个光日",
+      "url": "https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "\"I'm crying the 3rd reich got concept art\"",
+      "title_zh": "“我哭了，第三帝国得到了概念艺术”",
+      "url": "https://www.reddit.com/r/BrandNewSentence/comments/1p6s7ir/im_crying_the_3rd_reich_got_concept_art/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "This is what a 29-year-old cat looks like.",
+      "title_zh": "这是一只29岁的猫的样子。",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p6rml9/this_is_what_a_29yearold_cat_looks_like/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Meirl",
+      "title_zh": "梅尔",
+      "url": "https://www.reddit.com/r/meirl/comments/1p6uo4h/meirl/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Cat tucks ear mid jump to avoid table",
+      "title_zh": "猫咪收起耳朵中间跳跃，避开桌子",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p6qdns/cat_tucks_ear_mid_jump_to_avoid_table/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Leaked Call Shows Top Trump Aide Teaching Russia How to Suck Up to Trump",
+      "title_zh": "泄露的电话显示顶级特朗普助手教俄罗斯如何吸吮特朗普",
+      "url": "https://www.reddit.com/r/politics/comments/1p6t82i/leaked_call_shows_top_trump_aide_teaching_russia/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Clark gaslighting Lois into thinking he is not superman",
+      "title_zh": "克拉克点燃煤气，让露意丝认为他不是超人",
+      "url": "https://www.reddit.com/r/interesting/comments/1p6q8l5/clark_gaslighting_lois_into_thinking_he_is_not/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Brush head fell off, revealing this wonder",
+      "title_zh": "刷头掉落，露出这个奇迹",
+      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1p6ptbj/brush_head_fell_off_revealing_this_wonder/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Restoring a rusty antique game",
+      "title_zh": "恢复生锈的古董游戏",
+      "url": "https://www.reddit.com/r/Satisfyingasfuck/comments/1p6rwyy/restoring_a_rusty_antique_game/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "anime_irl",
+      "title_zh": "anime_irl",
+      "url": "https://www.reddit.com/r/anime_irl/comments/1p6sec1/anime_irl/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1370, Part 1 (Thread #1517)",
+      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1370天，第1部分（主题# 1517 ）",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p62oni/rworldnews_live_thread_russian_invasion_of/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup",
+      "title_zh": "Jair Bolsonaro因策划巴西政变被判处27年徒刑",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6kvlr/jair_bolsonaro_ordered_to_start_27year_prison/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Italy now recognizes the crime of femicide and punishes it with life in prison",
+      "title_zh": "意大利现在承认杀害妇女罪并处以终身监禁",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6n1qc/italy_now_recognizes_the_crime_of_femicide_and/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "X exposes fake Gaza accounts from Pakistan",
+      "title_zh": "X揭露来自巴基斯坦的虚假加沙账户",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6e2kf/x_exposes_fake_gaza_accounts_from_pakistan/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump",
+      "title_zh": "Witkoff就如何向特朗普推销乌克兰计划向俄罗斯提供建议",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6mwme/witkoff_advised_russia_on_how_to_pitch_ukraine/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Chinese airlines cancel flights on 12 Japan routes as tensions continue to rise",
+      "title_zh": "由于紧张局势继续加剧，中国航空公司取消了12条日本航线的航班",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6p88l/chinese_airlines_cancel_flights_on_12_japan/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Russia weighs how to prop up Russian Railways which is $51 billion in debt, sources say",
+      "title_zh": "消息人士称，俄罗斯权衡如何支撑510亿美元债务的俄罗斯铁路",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6csew/russia_weighs_how_to_prop_up_russian_railways/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Macron Rejects Trump’s Peace Plan as Is, Backs Assurance Forces for Ukraine",
+      "title_zh": "马克龙拒绝特朗普的和平计划，支持乌克兰的保证力量",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6b81f/macron_rejects_trumps_peace_plan_as_is_backs/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Russian drones breach NATO airspace in long-range strikes",
+      "title_zh": "俄罗斯无人机在远程打击中侵犯北约领空",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p66yf9/russian_drones_breach_nato_airspace_in_longrange/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "All 24 schoolgirls abducted from Kebbi in Nigeria have been rescued, president says",
+      "title_zh": "总统说，在尼日利亚凯比被绑架的24名女学生全部获救",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6kxck/all_24_schoolgirls_abducted_from_kebbi_in_nigeria/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Google teams up with Accel to hunt for India’s next AI breakouts",
-      "title_zh": "谷歌与Accel合作寻找印度下一次人工智能突破",
-      "url": "https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/",
+      "title": "Why ‘hold forever’ investors are snapping up venture capital ‘zombies’",
+      "title_zh": "为什么“永远持有”的投资者正在抢购风险投资“僵尸”",
+      "url": "https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone",
-      "title_zh": "Altman形容OpenAI即将推出的人工智能设备比iPhone更平和、更平静",
-      "url": "https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/",
+      "title": "YouTube is working on a feature that will fix the messy home feed",
+      "title_zh": "YouTube正在开发一项功能，该功能将修复凌乱的主页提要",
+      "url": "https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "OpenAI learned the hard way that Cameo trademarked the word ‘cameo’",
-      "title_zh": "OpenAI艰难地了解了Cameo为“cameo”一词注册商标的方式",
-      "url": "https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/",
+      "title": "Character AI will offer interactive ‘Stories’ to kids instead of open-ended chat",
+      "title_zh": "Character AI将为孩子们提供交互式“故事” ，而不是开放式聊天",
+      "url": "https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Rad Power Bikes’ batteries receive major fire risk warning",
-      "title_zh": "Rad电动自行车的电池收到重大火灾风险警告",
-      "url": "https://techcrunch.com/2025/11/24/rad-power-bikes-batteries-receive-major-fire-risk-warning/",
+      "title": "ChatGPT’s voice mode is no longer a separate interface",
+      "title_zh": "ChatGPT的语音模式不再是一个单独的界面",
+      "url": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Tesla FSD software may not be approved by EU regulator after all",
-      "title_zh": "毕竟，特斯拉FSD软件可能不会得到欧盟监管机构的批准",
-      "url": "https://techcrunch.com/2025/11/24/tesla-fsd-software-may-not-be-approved-by-eu-regulator-after-all/",
+      "title": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
+      "title_zh": "华纳音乐与AI音乐创业公司Suno签约，和解诉讼",
+      "url": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Hands on with Stickerbox, the AI-powered sticker maker for kids",
-      "title_zh": "亲自动手使用Stickerbox ，这是一款面向儿童的人工智能贴纸制作工具",
-      "url": "https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/",
+      "title": "OpenAI and Perplexity are launching AI shopping assistants, but competing startups aren’t sweating it",
+      "title_zh": "OpenAI和Perplexity正在推出人工智能购物助手，但竞争对手的初创公司并没有为此而烦恼",
+      "url": "https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "AWS is spending $50B to build AI infrastructure for the US government",
-      "title_zh": "AWS花费$ 500亿为美国政府构建人工智能基础设施",
-      "url": "https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/",
+      "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
+      "title_zh": "Find Your Grind筹集了500万$ ，以发展平台，使学生能够探索独特的职业道路",
+      "url": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
-      "title_zh": "Anthropic发布带有全新Chrome和Excel集成的Opus 4.5",
-      "url": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
+      "title": "Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15",
+      "title_zh": "微软人工智能聊天机器人Copilot于1月15日离开WhatsApp",
+      "url": "https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/",
       "points": null,
       "comments": null
     },
     {
       "source": "TechCrunch",
-      "title": "X-energy rides nuclear wave, raises $700M Series D",
-      "title_zh": "X-energy乘坐核电波，筹集$ 700M系列D",
-      "url": "https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/",
+      "title": "China’s Pony AI plans to triple global robotaxi fleet by the end of 2026",
+      "title_zh": "中国的Pony AI计划到2026年底将全球机器人出租车车队增加三倍",
+      "url": "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/",
+      "points": null,
+      "comments": null
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Fleet Space finds massive lithium deposit using AI and satellites",
+      "title_zh": "Fleet Space使用人工智能和卫星发现大量锂矿床",
+      "url": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "The best noise-canceling headphones to buy right now",
-      "title_zh": "现在购买的最佳降噪耳机",
-      "url": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
+      "title": "Campbell’s promises its soups are not made with 3D printed meat",
+      "title_zh": "坎贝尔承诺其汤不是用3D打印肉制成的",
+      "url": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "RAM prices are so out of control that stores are selling it like lobster",
-      "title_zh": "RAM价格如此失控，以至于商店像龙虾一样出售",
-      "url": "https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center",
+      "title": "House overhauls KOSA in a new kids online safety package",
+      "title_zh": "KOSA的房子在新的儿童在线安全套餐中进行大修",
+      "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "UN climate negotiations burned up and then fizzled out",
-      "title_zh": "联合国气候谈判燃烧殆尽，然后失败",
-      "url": "https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle",
+      "title": "David Sacks tried to kill state AI laws — and it blew up in his face",
+      "title_zh": "大卫·萨克斯（ David Sacks ）试图杀死州的人工智能法律—这在他的脸上爆炸了",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "DOJ settles with RealPage over its software&#8217;s alleged rent price fixing",
-      "title_zh": "美国司法部与RealPage就其软件涉嫌租金定价达成和解",
-      "url": "https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software",
+      "title": "Warner Music Group partners with Suno to offer AI likenesses of its artists",
+      "title_zh": "华纳音乐集团与Suno合作，提供其艺术家的人工智能肖像",
+      "url": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "ChatGPT shopping research builds you a buyer&#8217;s guide using AI",
-      "title_zh": "ChatGPT购物研究使用人工智能为您构建买家指南",
-      "url": "https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide",
+      "title": "You can grab two months of Paramount Plus with Showtime for $2.99 a month",
+      "title_zh": "您可以通过Showtime以每月$ 2.99的价格获得两个月的派拉蒙Plus",
+      "url": "https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Meta&#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts",
-      "title_zh": "Meta的新可穿戴设备折价计划为您提供Ray-Ban和Oakley折扣",
-      "url": "https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit",
+      "title": "These are my favorite Switch 2 accessories",
+      "title_zh": "这些是我最喜欢的Switch 2配件",
+      "url": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo",
-      "title_zh": "英伟达的“我不是安然”备忘录让人们问了很多已经通过该备忘录回答的问题",
-      "url": "https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting",
+      "title": "Perplexity says its AI personal shopper ‘puts you first’",
+      "title_zh": "Perplexity表示，其AI个人购物者“将您放在首位”",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Xbox Crocs are real",
-      "title_zh": "Xbox Crocs是真的",
-      "url": "https://www.theverge.com/news/828175/microsoft-xbox-crocs",
+      "title": "Wyze’s new security camera watches your yard from inside your home",
+      "title_zh": "Wyze的新型监控摄像头可从房源内监控您的院子",
+      "url": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Signal’s secure message backups arrive on iOS",
-      "title_zh": "Signal的安全邮件备份到达iOS",
-      "url": "https://www.theverge.com/news/828091/signal-secure-backups-ios-launch",
+      "title": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
+      "title_zh": "黑色星期五前， Bose和索尼耳机最高可优惠200 $",
+      "url": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
       "points": null,
       "comments": null
     },
     {
       "source": "The Verge",
-      "title": "Rad Power Bikes’ batteries are a fire risk and shouldn’t be used, CPSC warns",
-      "title_zh": "CPSC警告称， Rad电动自行车的电池存在火灾风险，不应使用",
-      "url": "https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc",
+      "title": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday",
+      "title_zh": "苹果AirPods 4黑色星期五起售价仅为69 $",
+      "url": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "SimRepo",
-      "title_zh": "SimRepo",
-      "url": "https://www.producthunt.com/products/simrepo",
+      "title": "Primeshot AI",
+      "title_zh": "Primeshot AI",
+      "url": "https://www.producthunt.com/products/primeshot",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "HushLink",
-      "title_zh": "HushLink",
-      "url": "https://www.producthunt.com/products/hushlink",
+      "title": "ReadMeeting",
+      "title_zh": "ReadMeeting",
+      "url": "https://www.producthunt.com/products/readmeeting-2",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Fluently Accent Guru",
-      "title_zh": "流利口音大师",
-      "url": "https://www.producthunt.com/products/fluently-ai-english-coach",
+      "title": "Aden",
+      "title_zh": "Aden",
+      "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Ostivities 2.0",
-      "title_zh": "Ostivities 2.0",
-      "url": "https://www.producthunt.com/products/ostivities",
+      "title": "Loomoz",
+      "title_zh": "Loomoz",
+      "url": "https://www.producthunt.com/products/loomoz",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Superlines AI Search Auditor for ChatGPT",
-      "title_zh": "ChatGPT的Superlines AI搜索审核员",
-      "url": "https://www.producthunt.com/products/superlines-ai-search-auditor-for-chatgpt",
+      "title": "CatDoes v3",
+      "title_zh": "CatDoes v3",
+      "url": "https://www.producthunt.com/products/catdoes-2",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Synara",
-      "title_zh": "Synara",
-      "url": "https://www.producthunt.com/products/synara",
+      "title": "Claude Opus 4.5",
+      "title_zh": "Claude Opus 4.5",
+      "url": "https://www.producthunt.com/products/claude",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "TilePix",
-      "title_zh": "TilePix",
-      "url": "https://www.producthunt.com/products/tilepix",
+      "title": "nao",
+      "title_zh": "NAO",
+      "url": "https://www.producthunt.com/products/nao-2",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Addsubtitle",
-      "title_zh": "添加副标题",
-      "url": "https://www.producthunt.com/products/addsubtitle-2",
+      "title": "Klariqo AI Voice Assistants",
+      "title_zh": "Klariqo AI语音助手",
+      "url": "https://www.producthunt.com/products/klariqo",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "RuleHook",
-      "title_zh": "RuleHook",
-      "url": "https://www.producthunt.com/products/rulehook",
+      "title": "Sketch Copenhagen",
+      "title_zh": "哥本哈根素描",
+      "url": "https://www.producthunt.com/products/sketch",
       "points": null,
       "comments": null
     },
     {
       "source": "Product Hunt",
-      "title": "Container Diet",
-      "title_zh": "容器饮食",
-      "url": "https://www.producthunt.com/products/container-diet",
+      "title": "FlickNote - AI Voice Assistant",
+      "title_zh": "FlickNote - AI语音助手",
+      "url": "https://www.producthunt.com/products/flicknote",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Russia and Ukraine trade deadly strikes overnight",
-      "title_zh": "俄罗斯和乌克兰在一夜之间进行了致命的贸易罢工",
+      "title": "Ukraine says 'understanding' reached on US peace plan, as Trump envoy to meet Putin",
+      "title_zh": "乌克兰表示已就美国和平计划达成“谅解” ，特朗普特使将与普京会面",
       "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Controversial US-backed Gaza Humanitarian Foundation ends aid operations",
-      "title_zh": "备受争议的美国支持的加沙人道主义基金会结束援助行动",
-      "url": "https://www.bbc.com/news/articles/cj01jr13277o?at_medium=RSS&at_campaign=rss",
+      "title": "Italian parliament unanimously votes to make femicide a crime",
+      "title_zh": "意大利议会一致投票将杀害女性定为犯罪",
+      "url": "https://www.bbc.com/news/articles/c1dzp050yn2o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Trump says he will visit China in April after call with Xi",
-      "title_zh": "特朗普表示，在与习近平通话后，他将于4月访问中国",
-      "url": "https://www.bbc.com/news/articles/ckgdr1vlz7ko?at_medium=RSS&at_campaign=rss",
+      "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
+      "title_zh": "俄罗斯雇佣军被控在马里实施冷血杀戮--英国广播公司与目击者交谈",
+      "url": "https://www.bbc.com/news/articles/crmx7x3yjyko?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "UK minister flags visa 'abuse' as student asylum claims surge",
-      "title_zh": "随着学生庇护申请激增，英国部长标记签证“滥用”",
-      "url": "https://www.bbc.com/news/articles/cy5gyzqexn5o?at_medium=RSS&at_campaign=rss",
+      "title": "New Zealand woman gets life sentence for 'suitcase murders' of her children",
+      "title_zh": "新西兰女子因“手提箱谋杀”她的孩子而被判无期徒刑",
+      "url": "https://www.bbc.com/news/articles/cp84xed0g18o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Judge dismisses cases against ex-FBI director Comey and NY attorney general James",
-      "title_zh": "法官驳回针对前联邦调查局局长科米和纽约总检察长詹姆斯的案件",
-      "url": "https://www.bbc.com/news/articles/c9qelv51y23o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body",
+      "title_zh": "以色列收到哈马斯称藏有加沙人质尸体的棺材",
+      "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Reggae legend Jimmy Cliff dies, aged 81",
-      "title_zh": "雷鬼传奇吉米·克里夫去世，享年81岁",
-      "url": "https://www.bbc.com/news/articles/cj4qdren425o?at_medium=RSS&at_campaign=rss",
+      "title": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot",
+      "title_zh": "博尔索纳罗因巴西政变阴谋被判处27年徒刑",
+      "url": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Machu Picchu hit by a row over tourist buses",
-      "title_zh": "马丘比丘被旅游巴士吵了一架",
-      "url": "https://www.bbc.com/news/articles/ce8g8wrd61zo?at_medium=RSS&at_campaign=rss",
+      "title": "Parking inspector and wife arrested for €1m meter theft",
+      "title_zh": "停车检查员和妻子因盗窃€ 100万计费器而被捕",
+      "url": "https://www.bbc.com/news/articles/c997r8pyyz4o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Pentagon to review Senator Mark Kelly misconduct allegations after video to troops",
-      "title_zh": "五角大楼将审查参议员马克·凯利（ Mark Kelly ）在向部队发布视频后提出的不当行为",
-      "url": "https://www.bbc.com/news/articles/cqxqwrlp7r0o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
+      "title_zh": "迪拜王室的前妻表示，随着监护权争夺战的升级，她担心被捕",
+      "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Zelensky welcomes amendments to proposed peace plan",
-      "title_zh": "泽连斯基欢迎对拟议和平计划的修正",
-      "url": "https://www.bbc.com/news/articles/cpd6qd10l94o?at_medium=RSS&at_campaign=rss",
+      "title": "Foreign tourists to pay extra fee to visit US national parks",
+      "title_zh": "外国游客支付额外费用参观美国国家公园",
+      "url": "https://www.bbc.com/news/articles/c1kpnxvpgy2o?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     },
     {
       "source": "BBC World",
-      "title": "Belgian airports to be hit by 'major disruption' amid austerity strike",
-      "title_zh": "在紧缩罢工期间，比利时机场将受到“重大干扰”的打击",
-      "url": "https://www.bbc.com/news/articles/c0jew0lyv98o?at_medium=RSS&at_campaign=rss",
+      "title": "Four new arrests made following Louvre jewellery heist",
+      "title_zh": "卢浮宫珠宝抢劫案后新逮捕了四人",
+      "url": "https://www.bbc.com/news/articles/cr5zm7n8ngpo?at_medium=RSS&at_campaign=rss",
       "points": null,
       "comments": null
     }
