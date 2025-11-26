@@ -1,606 +1,1340 @@
 {
-  "last_updated": "2025-11-26 11:42:58",
-  "summary": "用大白话说，今天的热点大概是这些： 1）Google Antigravity通过间接提示注入攻击渗透数据； 2）YouTube上的某个人需要戴眼镜：预言已经实现； 3）花费的数万亿美元和大型软件项目仍在失败； 4）雅加达现在是世界上最大的城市； 5）FLUX.2 ：前沿视觉智能。",
+  "last_updated": "2025-11-26 17:34:01",
   "items": [
     {
       "source": "Hacker News",
       "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
       "title_zh": "Google Antigravity通过间接提示注入攻击渗透数据",
       "url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-      "points": 583,
-      "comments": 161
+      "points": 659,
+      "comments": 176,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
       "title_zh": "YouTube上的某个人需要戴眼镜：预言已经实现",
       "url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
-      "points": 366,
-      "comments": 271
+      "points": 609,
+      "comments": 411,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Trillions spent and big software projects are still failing",
       "title_zh": "花费的数万亿美元和大型软件项目仍在失败",
       "url": "https://spectrum.ieee.org/it-management-software-failures",
-      "points": 340,
-      "comments": 300
+      "points": 435,
+      "comments": 367,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Jakarta is now the biggest city in the world",
       "title_zh": "雅加达现在是世界上最大的城市",
       "url": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
-      "points": 268,
-      "comments": 175
-    },
-    {
-      "source": "Hacker News",
-      "title": "FLUX.2: Frontier Visual Intelligence",
-      "title_zh": "FLUX.2 ：前沿视觉智能",
-      "url": "https://bfl.ai/blog/flux-2",
-      "points": 251,
-      "comments": 78
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: We built an open source, zero webhooks payment processor",
-      "title_zh": "Show HN ：我们构建了一个开源的零webhooks支付处理器",
-      "url": "https://github.com/flowglad/flowglad",
-      "points": 241,
-      "comments": 147
+      "points": 322,
+      "comments": 240,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
       "title_zh": "Ilya Sutskever ：我们正在从扩展时代走向研究时代",
       "url": "https://www.dwarkesh.com/p/ilya-sutskever-2",
-      "points": 212,
-      "comments": 184
+      "points": 309,
+      "comments": 242,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "How to repurpose your old phone into a web server",
-      "title_zh": "如何将旧手机重新用于Web服务器",
-      "url": "https://far.computer/how-to/",
-      "points": 184,
-      "comments": 73
+      "title": "Show HN: We built an open source, zero webhooks payment processor",
+      "title_zh": "Show HN ：我们构建了一个开源的零webhooks支付处理器",
+      "url": "https://github.com/flowglad/flowglad",
+      "points": 303,
+      "comments": 175,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
-      "title_zh": "启动HN ： Onyx (YC W24) –开源聊天界面",
-      "url": "",
-      "points": 170,
-      "comments": 127
+      "title": "FLUX.2: Frontier Visual Intelligence",
+      "title_zh": "FLUX.2 ：前沿视觉智能",
+      "url": "https://bfl.ai/blog/flux-2",
+      "points": 300,
+      "comments": 84,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Python is not a great language for data science",
       "title_zh": "Python不是数据科学的优秀语言",
       "url": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
-      "points": 151,
-      "comments": 162
-    },
-    {
-      "source": "Hacker News",
-      "title": "A new bridge links the math of infinity to computer science",
-      "title_zh": "一座新的桥梁将无穷大数学与计算机科学联系起来",
-      "url": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
-      "points": 139,
-      "comments": 38
-    },
-    {
-      "source": "Hacker News",
-      "title": "Reinventing how .NET builds and ships (again)",
-      "title_zh": "重塑.NET的构建和发布方式（再次）",
-      "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
-      "points": 115,
-      "comments": 48
-    },
-    {
-      "source": "Hacker News",
-      "title": "Unifying our mobile and desktop domains",
-      "title_zh": "统一我们的移动和桌面域名",
-      "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
-      "points": 113,
-      "comments": 28
-    },
-    {
-      "source": "Hacker News",
-      "title": "What they don't tell you about maintaining an open source project",
-      "title_zh": "他们没有告诉你关于维护开源项目的内容",
-      "url": "https://andrej.sh/blog/maintaining-open-source-project/",
-      "points": 101,
-      "comments": 72
+      "points": 229,
+      "comments": 217,
+      "region": "Global",
+      "published": null,
+      "summary": ""
     },
     {
       "source": "Hacker News",
       "title": "Show HN: KiDoom – Running DOOM on PCB Traces",
       "title_zh": "显示HN ： KiDoom -在PCB迹线上运行DOOM",
       "url": "https://www.mikeayles.com/#kidoom",
-      "points": 100,
-      "comments": 12
+      "points": 229,
+      "comments": 25,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "How to repurpose your old phone into a web server",
+      "title_zh": "如何将旧手机重新用于Web服务器",
+      "url": "https://far.computer/how-to/",
+      "points": 228,
+      "comments": 86,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "New layouts with CSS Subgrid",
+      "title_zh": "使用CSS子网格的新布局",
+      "url": "https://www.joshwcomeau.com/css/subgrid/",
+      "points": 196,
+      "comments": 54,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Launch HN: Onyx (YC W24) – Open-source chat UI",
+      "title_zh": "启动HN ： Onyx (YC W24) –开源聊天界面",
+      "url": "",
+      "points": 194,
+      "comments": 135,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "A new bridge links the math of infinity to computer science",
+      "title_zh": "一座新的桥梁将无穷大数学与计算机科学联系起来",
+      "url": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+      "points": 181,
+      "comments": 82,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Reinventing how .NET builds and ships (again)",
+      "title_zh": "重塑.NET的构建和发布方式（再次）",
+      "url": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+      "points": 167,
+      "comments": 80,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Unifying our mobile and desktop domains",
+      "title_zh": "统一我们的移动和桌面域名",
+      "url": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+      "points": 146,
+      "comments": 40,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "the new update has been pretty hilarious",
+      "title_zh": "新的更新非常有趣",
+      "url": "https://www.reddit.com/r/memes/comments/1p71ic2/the_new_update_has_been_pretty_hilarious/",
+      "region": "Global",
+      "published": "2025-11-26T07:23:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/memes/comments/1p71ic2/the_new_update_has_been_pretty_hilarious/\"> <img alt=\"the new update has been pretty hilarious\" src=\"https://preview.redd.it/efp521n2zj3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=952234d38f04210b0fc0d72d0dcbb1c9149eb5fa\" title=\"the new update has been pretty hilarious\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/captainstrike141\"> /u/captainstrike141 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/memes/\"> r/memes </a> <br /> <span><a href=\"https://i.redd.it/efp521n2zj3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/memes/comments/1p71ic2/the_new_update_has_been_pretty_hilarious/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "When your job is to stop pitch invaders but your GOAT is just taking a freekick.",
+      "title_zh": "当你的工作是阻止入侵者，但你的山羊只是任意球。",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p700f7/when_your_job_is_to_stop_pitch_invaders_but_your/",
+      "region": "Global",
+      "published": "2025-11-26T05:55:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1p700f7/when_your_job_is_to_stop_pitch_invaders_but_your/\"> <img alt=\"When your job is to stop pitch invaders but your GOAT is just taking a freekick.\" src=\"https://external-preview.redd.it/d2E2NTQxc2xqajNnMXwtlHUzqJTKTf719dgmeeG2hNR8p_27kQdEbE4isP8B.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3426ae599018f09903adc18793d931778fd2a3e0\" title=\"When your job is to stop pitch invaders but your GOAT is just taking a freekick.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OkToday1443\"> /u/OkToday1443 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/interestingasfuck/\"> r/interestingasfuck </a> <br /> <span><a href=\"https://v.redd.it/l4if5ooljj3g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/interestingasfuck/comments/1p700f7/when_your_job_is_to_stop_pitch_invaders_but_your/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "He just really likes Star Wars",
+      "title_zh": "他真的很喜欢《星球大战》",
+      "url": "https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/",
+      "region": "Global",
+      "published": "2025-11-26T03:38:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\"> <img alt=\"He just really likes Star Wars\" src=\"https://a.thumbs.redditmedia.com/MGgkHk_0KIb2ksxpxYIlZwNzLfg3XAreK24IcBiyDp8.jpg\" title=\"He just really likes Star Wars\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spaniel_rage\"> /u/spaniel_rage </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/madlads/\"> r/madlads </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1p6xfaq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/madlads/comments/1p6xfaq/he_just_really_likes_star_wars/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "This man saves an entire family of deer stranded on a frozen lake in Ontario",
+      "title_zh": "这名男子拯救了整个被困在安大略省冰冻湖泊上的鹿家族",
+      "url": "https://www.reddit.com/r/BeAmazed/comments/1p6yd7z/this_man_saves_an_entire_family_of_deer_stranded/",
+      "region": "Global",
+      "published": "2025-11-26T04:26:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/BeAmazed/comments/1p6yd7z/this_man_saves_an_entire_family_of_deer_stranded/\"> <img alt=\"This man saves an entire family of deer stranded on a frozen lake in Ontario\" src=\"https://external-preview.redd.it/Z3Z0bnRtOXQzajNnMabBeQNernDCOh3uT_3M6xtwwNHg3kRudXLYeqbc0dw2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d39501c73d5a61baedcfd4544eb163c2d040d680\" title=\"This man saves an entire family of deer stranded on a frozen lake in Ontario\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CuriousWanderer567\"> /u/CuriousWanderer567 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/BeAmazed/\"> r/BeAmazed </a> <br /> <span><a href=\"https://v.redd.it/i676jvbt3j3g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/BeAmazed/comments/1p6yd7z/this_man_saves_an_entire_family_of_deer_stranded/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "meirl",
+      "title_zh": "meirl",
+      "url": "https://www.reddit.com/r/meirl/comments/1p70lst/meirl/",
+      "region": "Global",
+      "published": "2025-11-26T06:29:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/meirl/comments/1p70lst/meirl/\"> <img alt=\"meirl\" src=\"https://preview.redd.it/tkzftukppj3g1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6b2c4f13e71886ebd94545d6fb2fa2bd1245324f\" title=\"meirl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Miserable-Touch-4011\"> /u/Miserable-Touch-4011 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/meirl/\"> r/meirl </a> <br /> <span><a href=\"https://i.redd.it/tkzftukppj3g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/meirl/comments/1p70lst/meirl/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
       "title": "Voyager 1 Is About to Reach One Light-day from Earth",
       "title_zh": "旅行者1号即将从地球到达一个光日",
       "url": "https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-26T00:28:11+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\"> <img alt=\"Voyager 1 Is About to Reach One Light-day from Earth\" src=\"https://preview.redd.it/nqdbda25xh3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a643b0514cafc612745d593e1177bc65b2fdcbef\" title=\"Voyager 1 Is About to Reach One Light-day from Earth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After nearly 50 years in space, NASA’s Voyager 1 is about to hit a historic milestone. By November 15, 2026, it will be 16.1 billion miles (25.9 billion km) away, meaning a radio signal will take a full 24 hours — a full light-day — to reach it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Busy_Yesterday9455\"> /u/Busy_Yesterday9455 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/spaceporn/\"> r/spaceporn </a> <br /> <span><a href=\"https://i.redd.it/nqdbda25xh3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/spaceporn/comments/1p6teo0/voyager_1_is_about_to_reach_one_lightday_from/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "\"I'm crying the 3rd reich got concept art\"",
-      "title_zh": "“我哭了，第三帝国得到了概念艺术”",
-      "url": "https://www.reddit.com/r/BrandNewSentence/comments/1p6s7ir/im_crying_the_3rd_reich_got_concept_art/",
-      "points": null,
-      "comments": null
+      "title": "📡📡📡",
+      "title_zh": "📡📡📡",
+      "url": "https://www.reddit.com/r/shitposting/comments/1p70nmt/_/",
+      "region": "Global",
+      "published": "2025-11-26T06:32:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/shitposting/comments/1p70nmt/_/\"> <img alt=\"📡📡📡\" src=\"https://preview.redd.it/0rns7g97qj3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b194dbe6cd617d53c13f433b8ad34be65fed3f72\" title=\"📡📡📡\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheGenard\"> /u/TheGenard </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/shitposting/\"> r/shitposting </a> <br /> <span><a href=\"https://i.redd.it/0rns7g97qj3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/shitposting/comments/1p70nmt/_/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "This is what a 29-year-old cat looks like.",
-      "title_zh": "这是一只29岁的猫的样子。",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1p6rml9/this_is_what_a_29yearold_cat_looks_like/",
-      "points": null,
-      "comments": null
+      "title": "In “The Matrix”, it was 2199 and AI thought the best source of power was from painstakingly harvesting electricity from human beings in vast farms, instead of just building a few easily managed nuclear reactors.",
+      "title_zh": "在“黑客帝国”中，它是2199 ，人工智能认为最好的电力来源是从大型农场的人类那里精心收集电力，而不仅仅是建造几个易于管理的核反应堆。",
+      "url": "https://www.reddit.com/r/shittymoviedetails/comments/1p6vr6q/in_the_matrix_it_was_2199_and_ai_thought_the_best/",
+      "region": "Global",
+      "published": "2025-11-26T02:17:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/shittymoviedetails/comments/1p6vr6q/in_the_matrix_it_was_2199_and_ai_thought_the_best/\"> <img alt=\"In “The Matrix”, it was 2199 and AI thought the best source of power was from painstakingly harvesting electricity from human beings in vast farms, instead of just building a few easily managed nuclear reactors.\" src=\"https://preview.redd.it/i71pz5pqgi3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7acb2c7a03ed00d3797d57def14665b411d924a8\" title=\"In “The Matrix”, it was 2199 and AI thought the best source of power was from painstakingly harvesting electricity from human beings in vast farms, instead of just building a few easily managed nuclear reactors.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PercentageNonGrata\"> /u/PercentageNonGrata </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/shittymoviedetails/\"> r/shittymoviedetails </a> <br /> <span><a href=\"https://i.redd.it/i71pz5pqgi3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/shittymoviedetails/comments/1p6vr6q/in_the_matrix_it_was_2199_and_ai_thought_the_best/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Meirl",
-      "title_zh": "梅尔",
-      "url": "https://www.reddit.com/r/meirl/comments/1p6uo4h/meirl/",
-      "points": null,
-      "comments": null
+      "title": "The shower in my fancy airbnb",
+      "title_zh": "我精致的爱彼迎房源配备淋浴间",
+      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/",
+      "region": "Global",
+      "published": "2025-11-26T02:51:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/\"> <img alt=\"The shower in my fancy airbnb\" src=\"https://external-preview.redd.it/cDJveWNqM3NtaTNnMRBQZU8pRBNFwFPL4B31SBPHY120quV0_TjdyhlnHa9h.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=82604585a198cb6918568f7aa2754666d087c9bc\" title=\"The shower in my fancy airbnb\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hope you like hot showers </p> <p>I do realize you could take the handle off and mount it facing down (which I eventually did), but that reverses the temperature vs the color Indicators, which is also annoying. Also, come on people, how was this designed like this. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Zirnitra1248\"> /u/Zirnitra1248 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinfuriating/\"> r/mildlyinfuriating </a> <br /> <span><a href=\"https://v.redd.it/ypbeef0smi3g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1p6wh26/the_shower_in_my_fancy_airbnb/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Cat tucks ear mid jump to avoid table",
-      "title_zh": "猫咪收起耳朵中间跳跃，避开桌子",
-      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1p6qdns/cat_tucks_ear_mid_jump_to_avoid_table/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Leaked Call Shows Top Trump Aide Teaching Russia How to Suck Up to Trump",
-      "title_zh": "泄露的电话显示顶级特朗普助手教俄罗斯如何吸吮特朗普",
-      "url": "https://www.reddit.com/r/politics/comments/1p6t82i/leaked_call_shows_top_trump_aide_teaching_russia/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Clark gaslighting Lois into thinking he is not superman",
-      "title_zh": "克拉克点燃煤气，让露意丝认为他不是超人",
-      "url": "https://www.reddit.com/r/interesting/comments/1p6q8l5/clark_gaslighting_lois_into_thinking_he_is_not/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Brush head fell off, revealing this wonder",
-      "title_zh": "刷头掉落，露出这个奇迹",
-      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1p6ptbj/brush_head_fell_off_revealing_this_wonder/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "Restoring a rusty antique game",
-      "title_zh": "恢复生锈的古董游戏",
-      "url": "https://www.reddit.com/r/Satisfyingasfuck/comments/1p6rwyy/restoring_a_rusty_antique_game/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "anime_irl",
-      "title_zh": "anime_irl",
-      "url": "https://www.reddit.com/r/anime_irl/comments/1p6sec1/anime_irl/",
-      "points": null,
-      "comments": null
+      "title": "There is one house in my neighborhood where the roof is always covered in birds",
+      "title_zh": "我所在的街区有一栋房子，屋顶上总是满是鸟",
+      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/",
+      "region": "Global",
+      "published": "2025-11-26T05:05:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/\"> <img alt=\"There is one house in my neighborhood where the roof is always covered in birds\" src=\"https://preview.redd.it/ob5xbvwmaj3g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bc372dd9b40252c437831b3c7753609ee94f2e\" title=\"There is one house in my neighborhood where the roof is always covered in birds\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hangingdenim\"> /u/hangingdenim </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinteresting/\"> r/mildlyinteresting </a> <br /> <span><a href=\"https://i.redd.it/ob5xbvwmaj3g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1p6z3gd/there_is_one_house_in_my_neighborhood_where_the/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1370, Part 1 (Thread #1517)",
-      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1370天，第1部分（主题# 1517 ）",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p62oni/rworldnews_live_thread_russian_invasion_of/",
-      "points": null,
-      "comments": null
+      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1371, Part 1 (Thread #1518)",
+      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1371天，第1部分（主题# 1518 ）",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6xw9c/rworldnews_live_thread_russian_invasion_of/",
+      "region": "Global",
+      "published": "2025-11-26T04:02:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6xw9c/rworldnews_live_thread_russian_invasion_of/\"> <img alt=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1371, Part 1 (Thread #1518)\" src=\"https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg\" title=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1371, Part 1 (Thread #1518)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WorldNewsMods\"> /u/WorldNewsMods </a> <br /> <span><a href=\"https://www.reddit.com/live/18hnzysb1elcs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6xw9c/rworldnews_live_thread_russian_invasion_of/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Trump on leaked Witkoff-Russia call: He has to \"sell Ukraine to Russia\", it's deal-maker's job",
+      "title_zh": "特朗普在泄露的Witkoff-Russia电话中：他必须“向俄罗斯出售乌克兰” ，这是交易者的工作",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p70ohp/trump_on_leaked_witkoffrussia_call_he_has_to_sell/",
+      "region": "Global",
+      "published": "2025-11-26T06:34:01+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jackytheblade\"> /u/jackytheblade </a> <br /> <span><a href=\"https://www.pravda.com.ua/eng/news/2025/11/26/8009009/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p70ohp/trump_on_leaked_witkoffrussia_call_he_has_to_sell/\">[comments]</a></span>"
     },
     {
       "source": "Reddit r/worldnews",
       "title": "Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup",
       "title_zh": "Jair Bolsonaro因策划巴西政变被判处27年徒刑",
       "url": "https://www.reddit.com/r/worldnews/comments/1p6kvlr/jair_bolsonaro_ordered_to_start_27year_prison/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T18:51:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6kvlr/jair_bolsonaro_ordered_to_start_27year_prison/\"> <img alt=\"Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup\" src=\"https://external-preview.redd.it/_4aJnDo-15Wzj2gV4H9LVa77RI5g5T1eYum41DP8dh4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=975cdbe4cd16d41a652d00aba2cffa739ecfb8fe\" title=\"Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/guardian\"> /u/guardian </a> <br /> <span><a href=\"https://www.theguardian.com/world/2025/nov/25/jair-bolsonaro-brazil-prison\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6kvlr/jair_bolsonaro_ordered_to_start_27year_prison/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
       "title": "Italy now recognizes the crime of femicide and punishes it with life in prison",
       "title_zh": "意大利现在承认杀害妇女罪并处以终身监禁",
       "url": "https://www.reddit.com/r/worldnews/comments/1p6n1qc/italy_now_recognizes_the_crime_of_femicide_and/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "X exposes fake Gaza accounts from Pakistan",
-      "title_zh": "X揭露来自巴基斯坦的虚假加沙账户",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p6e2kf/x_exposes_fake_gaza_accounts_from_pakistan/",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump",
-      "title_zh": "Witkoff就如何向特朗普推销乌克兰计划向俄罗斯提供建议",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p6mwme/witkoff_advised_russia_on_how_to_pitch_ukraine/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T20:10:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6n1qc/italy_now_recognizes_the_crime_of_femicide_and/\"> <img alt=\"Italy now recognizes the crime of femicide and punishes it with life in prison\" src=\"https://external-preview.redd.it/_Tur52LMfVzLHbJrRNU6_-hLeXLYEeDsW-xrsAAIg9c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17ecdbfb49999513cd7846ceae76fc39bd15d61e\" title=\"Italy now recognizes the crime of femicide and punishes it with life in prison\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Not-Somebody-Famous\"> /u/Not-Somebody-Famous </a> <br /> <span><a href=\"https://apnews.com/article/italy-femicide-law-crime-gender-violence-women-99e4be4aaba9f6b940d834ed6c7cb4d0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6n1qc/italy_now_recognizes_the_crime_of_femicide_and/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
       "title": "Chinese airlines cancel flights on 12 Japan routes as tensions continue to rise",
       "title_zh": "由于紧张局势继续加剧，中国航空公司取消了12条日本航线的航班",
       "url": "https://www.reddit.com/r/worldnews/comments/1p6p88l/chinese_airlines_cancel_flights_on_12_japan/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T21:33:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6p88l/chinese_airlines_cancel_flights_on_12_japan/\"> <img alt=\"Chinese airlines cancel flights on 12 Japan routes as tensions continue to rise\" src=\"https://external-preview.redd.it/f88k-ssDJgQClXyyVaJIRw6SAR_-mp0fH8lsfLlqz1M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8a6a96e510fa993bd145ce58f5235fba2b1508e\" title=\"Chinese airlines cancel flights on 12 Japan routes as tensions continue to rise\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/captain-price-\"> /u/captain-price- </a> <br /> <span><a href=\"https://amp.scmp.com/economy/china-economy/article/3333975/chinese-airlines-cancel-flights-12-japan-routes-tensions-continue-rise\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6p88l/chinese_airlines_cancel_flights_on_12_japan/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Russia weighs how to prop up Russian Railways which is $51 billion in debt, sources say",
-      "title_zh": "消息人士称，俄罗斯权衡如何支撑510亿美元债务的俄罗斯铁路",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p6csew/russia_weighs_how_to_prop_up_russian_railways/",
-      "points": null,
-      "comments": null
+      "title": "Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump",
+      "title_zh": "Witkoff就如何向特朗普推销乌克兰计划向俄罗斯提供建议",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6xh3u/witkoff_advised_russia_on_how_to_pitch_ukraine/",
+      "region": "Global",
+      "published": "2025-11-26T03:41:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6xh3u/witkoff_advised_russia_on_how_to_pitch_ukraine/\"> <img alt=\"Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump\" src=\"https://external-preview.redd.it/NvgS-5UEdDOt79K00DxPY0iVlAsbqs7Z2QAjcloZIgc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d39f4710ec3579eb05c8e9b02f810f944d11d07f\" title=\"Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EsperaDeus\"> /u/EsperaDeus </a> <br /> <span><a href=\"https://www.bloomberg.com/news/articles/2025-11-25/witkoff-advised-russia-on-how-to-pitch-ukraine-plan-to-trump?srnd=homepage-europe\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6xh3u/witkoff_advised_russia_on_how_to_pitch_ukraine/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Macron Rejects Trump’s Peace Plan as Is, Backs Assurance Forces for Ukraine",
-      "title_zh": "马克龙拒绝特朗普的和平计划，支持乌克兰的保证力量",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p6b81f/macron_rejects_trumps_peace_plan_as_is_backs/",
-      "points": null,
-      "comments": null
+      "title": "Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump",
+      "title_zh": "Witkoff就如何向特朗普推销乌克兰计划向俄罗斯提供建议",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6mwme/witkoff_advised_russia_on_how_to_pitch_ukraine/",
+      "region": "Global",
+      "published": "2025-11-25T20:05:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6mwme/witkoff_advised_russia_on_how_to_pitch_ukraine/\"> <img alt=\"Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump\" src=\"https://external-preview.redd.it/FPuPwvFYciy47q6IlU3u388E4C1C5zUnlS-8Xaqr6Bg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e112e6210e0e1dddeb7414e00f31b484ec3a130\" title=\"Witkoff Advised Russia on How to Pitch Ukraine Plan to Trump\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bloomberg\"> /u/bloomberg </a> <br /> <span><a href=\"https://www.bloomberg.com/news/articles/2025-11-25/witkoff-advised-russia-on-how-to-pitch-ukraine-plan-to-trump\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6mwme/witkoff_advised_russia_on_how_to_pitch_ukraine/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Russian drones breach NATO airspace in long-range strikes",
-      "title_zh": "俄罗斯无人机在远程打击中侵犯北约领空",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p66yf9/russian_drones_breach_nato_airspace_in_longrange/",
-      "points": null,
-      "comments": null
+      "title": "X exposes fake Gaza accounts from Pakistan",
+      "title_zh": "X揭露来自巴基斯坦的虚假加沙账户",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6e2kf/x_exposes_fake_gaza_accounts_from_pakistan/",
+      "region": "Global",
+      "published": "2025-11-25T14:38:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1p6e2kf/x_exposes_fake_gaza_accounts_from_pakistan/\"> <img alt=\"X exposes fake Gaza accounts from Pakistan\" src=\"https://external-preview.redd.it/W3sp2HEUF8DUtHEHn5naNY8wO8PZxphZXgP0bFIsnDU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7dbe1d35f5c3f302e6dca102288368d9e26bfffe\" title=\"X exposes fake Gaza accounts from Pakistan\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/McAlpineFusiliers\"> /u/McAlpineFusiliers </a> <br /> <span><a href=\"https://www.israelhayom.com/2025/11/23/x-location-tracking-exposes-fake-gaza-accounts-pakistan/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6e2kf/x_exposes_fake_gaza_accounts_from_pakistan/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "All 24 schoolgirls abducted from Kebbi in Nigeria have been rescued, president says",
-      "title_zh": "总统说，在尼日利亚凯比被绑架的24名女学生全部获救",
-      "url": "https://www.reddit.com/r/worldnews/comments/1p6kxck/all_24_schoolgirls_abducted_from_kebbi_in_nigeria/",
-      "points": null,
-      "comments": null
+      "title": "‘Poland is for Poles not Jews,’ Polish MP at Auschwitz | The Jerusalem Post",
+      "title_zh": "“波兰是为波兰人而不是犹太人服务的” ，奥斯威辛集中营的波兰议员|《耶路撒冷邮报》",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p6qgt1/poland_is_for_poles_not_jews_polish_mp_at/",
+      "region": "Global",
+      "published": "2025-11-25T22:22:20+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/arrogant_ambassador\"> /u/arrogant_ambassador </a> <br /> <span><a href=\"https://www.jpost.com/diaspora/antisemitism/article-875074\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p6qgt1/poland_is_for_poles_not_jews_polish_mp_at/\">[comments]</a></span>"
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "U.S.-backed peace plan for Ukraine reportedly drew from Russian document — sources say",
+      "title_zh": "据报道，美国支持的乌克兰和平计划来自俄罗斯文件—消息人士称",
+      "url": "https://www.reddit.com/r/worldnews/comments/1p71efu/usbacked_peace_plan_for_ukraine_reportedly_drew/",
+      "region": "Global",
+      "published": "2025-11-26T07:16:34+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vishesh_07_028\"> /u/vishesh_07_028 </a> <br /> <span><a href=\"https://www.reuters.com/world/europe/us-peace-plan-ukraine-drew-russian-document-sources-say-2025-11-26/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1p71efu/usbacked_peace_plan_for_ukraine_reportedly_drew/\">[comments]</a></span>"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Uber and WeRide’s robotaxi service in Abu Dhabi is officially driverless",
+      "title_zh": "优步和WeRide在阿布扎比的机器人出租车服务正式实现无人驾驶",
+      "url": "https://techcrunch.com/2025/11/25/uber-and-werides-robotaxi-service-in-abu-dhabi-is-officially-driverless/",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 07:00:00 +0000",
+      "summary": "The commercial robotaxi service launched last year. Now, the human safety operator is gone."
     },
     {
       "source": "TechCrunch",
       "title": "Why ‘hold forever’ investors are snapping up venture capital ‘zombies’",
       "title_zh": "为什么“永远持有”的投资者正在抢购风险投资“僵尸”",
       "url": "https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 22:52:22 +0000",
+      "summary": "An investor explains the \"buy, fix, and hold\" model employed by Bending Spoons and similar companies that buy distressed startups."
     },
     {
       "source": "TechCrunch",
       "title": "YouTube is working on a feature that will fix the messy home feed",
       "title_zh": "YouTube正在开发一项功能，该功能将修复凌乱的主页提要",
       "url": "https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 22:31:48 +0000",
+      "summary": "YouTube is experimenting with a new feature that allows users to customize their home feed."
     },
     {
       "source": "TechCrunch",
       "title": "Character AI will offer interactive ‘Stories’ to kids instead of open-ended chat",
       "title_zh": "Character AI将为孩子们提供交互式“故事” ，而不是开放式聊天",
       "url": "https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 21:22:04 +0000",
+      "summary": "The company announced last month that it would no longer allow minors to use its chat features."
     },
     {
       "source": "TechCrunch",
       "title": "ChatGPT’s voice mode is no longer a separate interface",
       "title_zh": "ChatGPT的语音模式不再是一个单独的界面",
       "url": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 20:04:52 +0000",
+      "summary": "ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time."
     },
     {
       "source": "TechCrunch",
       "title": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
       "title_zh": "华纳音乐与AI音乐创业公司Suno签约，和解诉讼",
       "url": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 19:57:31 +0000",
+      "summary": "WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices, and compositions are used in new AI-generated music."
     },
     {
       "source": "TechCrunch",
       "title": "OpenAI and Perplexity are launching AI shopping assistants, but competing startups aren’t sweating it",
       "title_zh": "OpenAI和Perplexity正在推出人工智能购物助手，但竞争对手的初创公司并没有为此而烦恼",
       "url": "https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 19:35:06 +0000",
+      "summary": "Startup founders building AI shopping tools think general-purpose models are too broad to deliver truly personalized shopping experiences."
     },
     {
       "source": "TechCrunch",
       "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
       "title_zh": "Find Your Grind筹集了500万$ ，以发展平台，使学生能够探索独特的职业道路",
       "url": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 18:49:20 +0000",
+      "summary": "Nick Gross says that Find Your Grind gives students the tools to explore what careers are out there and what paths suit their strengths, interests, and visions for what they want their futures to look like."
     },
     {
       "source": "TechCrunch",
       "title": "Microsoft’s AI chatbot Copilot leaves WhatsApp on January 15",
       "title_zh": "微软人工智能聊天机器人Copilot于1月15日离开WhatsApp",
       "url": "https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 17:11:55 +0000",
+      "summary": "WhatsApp's new platform policies ban general-purpose AI chatbots like Copilot from using its service."
     },
     {
       "source": "TechCrunch",
       "title": "China’s Pony AI plans to triple global robotaxi fleet by the end of 2026",
       "title_zh": "中国的Pony AI计划到2026年底将全球机器人出租车车队增加三倍",
       "url": "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Tue, 25 Nov 2025 16:54:57 +0000",
+      "summary": "The Chinese autonomous vehicle company Pony.ai has global ambitions and plans to build a 3,000-strong robotaxi fleet to meet them."
     },
     {
-      "source": "TechCrunch",
-      "title": "Fleet Space finds massive lithium deposit using AI and satellites",
-      "title_zh": "Fleet Space使用人工智能和卫星发现大量锂矿床",
-      "url": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
-      "points": null,
-      "comments": null
+      "source": "The Verge",
+      "title": "Poco partners with Bose to put a subwoofer in its latest phone",
+      "title_zh": "Poco与Bose合作，在其最新手机中安装了低音炮",
+      "url": "https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer",
+      "region": "Global",
+      "published": "2025-11-26T04:15:00-05:00",
+      "summary": "Xiaomi spin-off brand Poco has partnered with Bose to help its new F8 phones stand out in an increasingly crowded market. Both the F8 Pro and F8 Ultra feature stereo speakers designed collaboratively with the audio company, and the Ultra goes one step further by including a subwoofer too. Both new F8 phones feature the [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Uber’s robotaxi service in UAE now includes fully driverless vehicles",
+      "title_zh": "优步在阿联酋的机器人出租车服务现已包括全自动驾驶车辆",
+      "url": "https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae",
+      "region": "Global",
+      "published": "2025-11-26T02:00:00-05:00",
+      "summary": "Uber and WeRide are now deploying fully driverless vehicles as part of its robotaxi service in the United Arab Emarites. Customers in Abu Dhabi who request an UberX or Uber Comfort may be matched with a fully autonomous WeRide vehicle if the route is part of the company’s service area. Uber and Chinese autonomous vehicle [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5",
+      "title_zh": "高通透露其不那么精英的Snapdragon 8 Gen 5",
+      "url": "https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5",
+      "region": "Global",
+      "published": "2025-11-26T01:30:00-05:00",
+      "summary": "When Qualcomm announced its high-end Snapdragon 8 Elite Gen 5 chipset in November, it mentioned that a non-Elite version was on the way, designed to power a more affordable tier of flagship phones. Now, that chip has finally arrived, with some drops in performance but the same core feature set. Qualcomm compares the 8 Gen [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "Campbell’s promises its soups are not made with 3D printed meat",
       "title_zh": "坎贝尔承诺其汤不是用3D打印肉制成的",
       "url": "https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T18:27:57-05:00",
+      "summary": "Campbell’s is insisting that its soups aren’t made with 3D-printed chicken, lab-grown chicken, or bioengineered meat. The food giant issued the explanation on its website after leaked audio allegedly captured Campbell&#8217;s vice president of information technology saying the company’s meat “came from a 3D printer.” “A recent video contained false comments about our ingredients,” Campbell’s [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "House overhauls KOSA in a new kids online safety package",
       "title_zh": "KOSA的房子在新的儿童在线安全套餐中进行大修",
       "url": "https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T18:05:55-05:00",
+      "summary": "The House Energy and Commerce Committee released a package of 19 bills aimed at protecting kids on the internet, teeing Congress up for a chance at passing some of the most substantive internet regulations in recent history, alongside a fight over online speech rights. The subcommittee on commerce will consider the bills during a hearing [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "David Sacks tried to kill state AI laws — and it blew up in his face",
       "title_zh": "大卫·萨克斯（ David Sacks ）试图杀死州的人工智能法律—这在他的脸上爆炸了",
       "url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T16:06:08-05:00",
+      "summary": "On Wednesday, a rumor began popping up in Washington about a momentous policy change: the White House, it was said, would issue an executive order on Friday that would finally preempt state AI laws, handing over those regulatory powers to the federal government. The minute it leaked online, lawyers and policymakers began to scour every [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "Warner Music Group partners with Suno to offer AI likenesses of its artists",
       "title_zh": "华纳音乐集团与Suno合作，提供其艺术家的人工智能肖像",
       "url": "https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T15:47:02-05:00",
+      "summary": "Warner Music Group has struck a licensing deal with the AI music creation platform Suno. Under the agreement, WMG will allow users to create AI-generated music on Suno using the voices, names, likenesses, images, and compositions of artists who opt in to the program. WMG, which owns record labels that have signed musicians like Ed [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "You can grab two months of Paramount Plus with Showtime for $2.99 a month",
       "title_zh": "您可以通过Showtime以每月$ 2.99的价格获得两个月的派拉蒙Plus",
       "url": "https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T15:03:31-05:00",
+      "summary": "In case you missed it, Paramount Plus is raising prices by $1 a month starting on January 15th, 2026, taking the ad-supported Essential plan from $7.99 to $8.99 and the ad-free Premium plan from $12.99 to $13.99. Thankfully, Paramount’s Black Friday promo has arrived just in time to (somewhat) soften the blow. Now through December [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "These are my favorite Switch 2 accessories",
       "title_zh": "这些是我最喜欢的Switch 2配件",
       "url": "https://www.theverge.com/buying-guides/720160/best-switch-2-accessories",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T14:30:00-05:00",
+      "summary": "The Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scratches, and drops, [&#8230;]"
     },
     {
       "source": "The Verge",
       "title": "Perplexity says its AI personal shopper ‘puts you first’",
       "title_zh": "Perplexity表示，其AI个人购物者“将您放在首位”",
       "url": "https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Wyze’s new security camera watches your yard from inside your home",
-      "title_zh": "Wyze的新型监控摄像头可从房源内监控您的院子",
-      "url": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Bose and Sony headphones are up to $200 off in the run-up to Black Friday",
-      "title_zh": "黑色星期五前， Bose和索尼耳机最高可优惠200 $",
-      "url": "https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025",
-      "points": null,
-      "comments": null
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday",
-      "title_zh": "苹果AirPods 4黑色星期五起售价仅为69 $",
-      "url": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "2025-11-25T14:26:11-05:00",
+      "summary": "Perplexity is ramping up its AI shopping experience going into the holiday season, just like OpenAI and Google, with a free AI-powered shopping feature that is available now to US users. Its AI assistant looks similar to what we’ve seen from ChatGPT’s shopping research, as users type in what they’re looking for and refine the [&#8230;]"
     },
     {
       "source": "Product Hunt",
-      "title": "Primeshot AI",
-      "title_zh": "Primeshot AI",
-      "url": "https://www.producthunt.com/products/primeshot",
-      "points": null,
-      "comments": null
+      "title": "FireCut for DaVinci Resolve",
+      "title_zh": "FireCut for DaVinci Resolve",
+      "url": "https://www.producthunt.com/products/firecut-ai",
+      "region": "Global",
+      "published": "2025-11-20T18:37:15-08:00",
+      "summary": "<p>\n            Your lightning-fast AI video editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firecut-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040662?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "ReadMeeting",
-      "title_zh": "ReadMeeting",
-      "url": "https://www.producthunt.com/products/readmeeting-2",
-      "points": null,
-      "comments": null
+      "title": "AskCodi",
+      "title_zh": "AskCodi",
+      "url": "https://www.producthunt.com/products/askcodi",
+      "region": "Global",
+      "published": "2025-11-24T04:22:56-08:00",
+      "summary": "<p>\n            Custom LLMs, without training. Use via openai compatible api\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/askcodi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041784?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Aden",
-      "title_zh": "Aden",
-      "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself",
-      "points": null,
-      "comments": null
+      "title": "InterviewFlowAI - AI Interviews",
+      "title_zh": "InterviewFlowAI -人工智能面试",
+      "url": "https://www.producthunt.com/products/interviewflowai",
+      "region": "Global",
+      "published": "2025-11-23T02:24:48-08:00",
+      "summary": "<p>\n            AI-powered phone & meet interviews for faster screening\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/interviewflowai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041395?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Loomoz",
-      "title_zh": "Loomoz",
-      "url": "https://www.producthunt.com/products/loomoz",
-      "points": null,
-      "comments": null
+      "title": "Rubber Duck",
+      "title_zh": "小黄鸭",
+      "url": "https://www.producthunt.com/products/rubber-duck",
+      "region": "Global",
+      "published": "2025-11-25T04:36:22-08:00",
+      "summary": "<p>\n            Catch App Store rejection issues before Apple does.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rubber-duck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042284?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "CatDoes v3",
-      "title_zh": "CatDoes v3",
-      "url": "https://www.producthunt.com/products/catdoes-2",
-      "points": null,
-      "comments": null
+      "title": "SlopCollector",
+      "title_zh": "SlopCollector",
+      "url": "https://www.producthunt.com/products/slopcollector",
+      "region": "Global",
+      "published": "2025-11-25T12:23:15-08:00",
+      "summary": "<p>\n            Find the slop in your supabase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/slopcollector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042458?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Claude Opus 4.5",
-      "title_zh": "Claude Opus 4.5",
-      "url": "https://www.producthunt.com/products/claude",
-      "points": null,
-      "comments": null
+      "title": "Orion 1.0",
+      "title_zh": "Orion 1.0",
+      "url": "https://www.producthunt.com/products/orion-2",
+      "region": "Global",
+      "published": "2025-11-25T22:18:32-08:00",
+      "summary": "<p>\n            WebKit. Extensions. Privacy. Check icon Pick all three.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orion-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042579?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "nao",
-      "title_zh": "NAO",
-      "url": "https://www.producthunt.com/products/nao-2",
-      "points": null,
-      "comments": null
+      "title": "Convo",
+      "title_zh": "Convo",
+      "url": "https://www.producthunt.com/products/convo-7",
+      "region": "Global",
+      "published": "2025-11-17T09:24:39-08:00",
+      "summary": "<p>\n            Meeting automation: tasks, briefs, feedback & more\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/convo-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039231?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Klariqo AI Voice Assistants",
-      "title_zh": "Klariqo AI语音助手",
-      "url": "https://www.producthunt.com/products/klariqo",
-      "points": null,
-      "comments": null
+      "title": "Questas",
+      "title_zh": "Questas",
+      "url": "https://www.producthunt.com/products/questas",
+      "region": "Global",
+      "published": "2025-11-24T06:52:44-08:00",
+      "summary": "<p>\n            Build interactive stories with AI images and videos\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/questas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1041854?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Sketch Copenhagen",
-      "title_zh": "哥本哈根素描",
-      "url": "https://www.producthunt.com/products/sketch",
-      "points": null,
-      "comments": null
+      "title": "Eva",
+      "title_zh": "Eva",
+      "url": "https://www.producthunt.com/products/evatar-ai",
+      "region": "Global",
+      "published": "2025-11-06T15:49:48-08:00",
+      "summary": "<p>\n            Just speak your ideas & Eva turns them into content & posts\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/evatar-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1035356?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "FlickNote - AI Voice Assistant",
-      "title_zh": "FlickNote - AI语音助手",
-      "url": "https://www.producthunt.com/products/flicknote",
-      "points": null,
-      "comments": null
+      "title": "DemoStudio",
+      "title_zh": "DemoStudio",
+      "url": "https://www.producthunt.com/products/demostudio",
+      "region": "Global",
+      "published": "2025-11-25T00:55:26-08:00",
+      "summary": "<p>\n            Recorder & Editor for better-looking product demos \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/demostudio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1042182?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine says 'understanding' reached on US peace plan, as Trump envoy to meet Putin",
-      "title_zh": "乌克兰表示已就美国和平计划达成“谅解” ，特朗普特使将与普京会面",
+      "title": "Trump's envoy to have Ukraine peace plan talks at Kremlin next week",
+      "title_zh": "特朗普特使下周在克里姆林宫举行乌克兰和平计划会谈",
       "url": "https://www.bbc.com/news/articles/cy95jvw57v2o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 07:17:02 GMT",
+      "summary": "Russia confirms the US president's close aide will travel to Russia, hours after Trump tasked him with meeting Putin."
     },
     {
       "source": "BBC World",
       "title": "Italian parliament unanimously votes to make femicide a crime",
       "title_zh": "意大利议会一致投票将杀害女性定为犯罪",
       "url": "https://www.bbc.com/news/articles/c1dzp050yn2o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 00:36:49 GMT",
+      "summary": "The gender-motivated murder of a woman will now be covered by a distinct clause in Italian law - punishable by a life sentence."
     },
     {
       "source": "BBC World",
       "title": "Russian mercenaries accused of cold-blooded killings in Mali - BBC speaks to eyewitnesses",
       "title_zh": "俄罗斯雇佣军被控在马里实施冷血杀戮--英国广播公司与目击者交谈",
       "url": "https://www.bbc.com/news/articles/crmx7x3yjyko?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 00:37:22 GMT",
+      "summary": "Refugees have given the BBC a harrowing account of atrocities committed by the Russian paramilitary force."
+    },
+    {
+      "source": "BBC World",
+      "title": "Twenty-four Nigerian schoolgirls released over a week after abduction",
+      "title_zh": "24名尼日利亚女学生在被绑架一周后获释",
+      "url": "https://www.bbc.com/news/articles/cgmnv3yd28zo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 08:54:33 GMT",
+      "summary": "Hundreds of children remain missing following other recent abductions in Nigeria."
     },
     {
       "source": "BBC World",
       "title": "New Zealand woman gets life sentence for 'suitcase murders' of her children",
       "title_zh": "新西兰女子因“手提箱谋杀”她的孩子而被判无期徒刑",
       "url": "https://www.bbc.com/news/articles/cp84xed0g18o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 01:25:44 GMT",
+      "summary": "Hakyung Lee killed her two kids and hid their bodies in suitcases months after her husband died of cancer."
     },
     {
       "source": "BBC World",
-      "title": "Israel receives coffin that Hamas says contains Gaza hostage's body",
-      "title_zh": "以色列收到哈马斯称藏有加沙人质尸体的棺材",
+      "title": "'Once in 300 years' rain hits Thai city as floods ravage South East Asia",
+      "title_zh": "由于洪水肆虐东南亚， “300年一遇”的雨水袭击了泰国城市",
+      "url": "https://www.bbc.com/news/articles/ckg97wx144jo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 09:29:52 GMT",
+      "summary": "The deadly floods have affected 2 million people, the majority of whom are still cut off from help."
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel confirms Hamas and PIJ returned body of Gaza hostage Dror Or",
+      "title_zh": "以色列证实哈马斯和PIJ归还了加沙人质Dror Or的尸体",
       "url": "https://www.bbc.com/news/articles/c17x0xjqj21o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 08:04:46 GMT",
+      "summary": "The handover means the bodies of two deceased hostages are still being held in Gaza six weeks after the ceasefire began."
     },
     {
       "source": "BBC World",
-      "title": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot",
-      "title_zh": "博尔索纳罗因巴西政变阴谋被判处27年徒刑",
-      "url": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "title": "Teens launch High Court challenge to Australia's social media ban",
+      "title_zh": "青少年发起高等法院对澳大利亚社交媒体禁令的挑战",
+      "url": "https://www.bbc.com/news/articles/c9d9l7w1g8yo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 06:37:56 GMT",
+      "summary": "They argue the law - which will block users under 16 from having social media accounts - is unconstitutional."
+    },
+    {
+      "source": "BBC World",
+      "title": "Robert Irwin wins Dancing with the Stars, a decade after sister's victory",
+      "title_zh": "罗伯特·欧文在姐姐获胜十年后赢得《与星共舞》",
+      "url": "https://www.bbc.com/news/articles/ckgl0jv7y61o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 06:02:00 GMT",
+      "summary": "Son of the late conservationist Steve Irwin, Robert was a fan favourite this season."
     },
     {
       "source": "BBC World",
       "title": "Parking inspector and wife arrested for €1m meter theft",
       "title_zh": "停车检查员和妻子因盗窃€ 100万计费器而被捕",
       "url": "https://www.bbc.com/news/articles/c997r8pyyz4o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "region": "Global",
+      "published": "Wed, 26 Nov 2025 02:01:07 GMT",
+      "summary": "The man is alleged to have stolen coins from parking meters in the German town of Kempten, police said."
     },
     {
-      "source": "BBC World",
-      "title": "Ex-wife of Dubai royal says she fears arrest as custody battle escalates",
-      "title_zh": "迪拜王室的前妻表示，随着监护权争夺战的升级，她担心被捕",
-      "url": "https://www.bbc.com/news/articles/cj01j710rmmo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "source": "Folha de S.Paulo",
+      "title": "Falha elétrica na linha 11-coral da CPTM permanece e atrapalha passageiros",
+      "title_zh": "Falha elétrica na linha 11-coral da CPTM permanentece e atrapalha passageiros",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/falha-eletrica-na-linha-11-coral-da-cptm-permanece-e-atrapalha-passageiros.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:14:00 -0300",
+      "summary": "Os passageiros da <a href=\"https://www1.folha.uol.com.br/folha-topicos/cptm/\">CPTM</a> (Companhia Paulista de Trens Metropolitanos) enfrentam desde a <a href=\"https://www1.folha.uol.com.br/cotidiano/2025/11/falha-eletrica-na-linha-11-coral-da-cptm-provoca-lentidao-nos-ramais-azul-e-vermelho-do-metro.shtml\" rel=\"\" target=\"\">manhã de terça-feira (25) </a>transtornos provocados por um problema elétrico na região da estação Corinthians-Itaquera da linha 11-coral.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/falha-eletrica-na-linha-11-coral-da-cptm-permanece-e-atrapalha-passageiros.shtml\">Leia mais</a> (11/26/2025 - 06h14)"
     },
     {
-      "source": "BBC World",
-      "title": "Foreign tourists to pay extra fee to visit US national parks",
-      "title_zh": "外国游客支付额外费用参观美国国家公园",
-      "url": "https://www.bbc.com/news/articles/c1kpnxvpgy2o?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "source": "Folha de S.Paulo",
+      "title": "Professora relata terror durante sequestro em massa de alunos na Nigéria",
+      "title_zh": "Professora relata terror durante sequestro em massa de alunos na Nigéria",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/professora-relata-terror-durante-sequestro-em-massa-de-alunos-na-nigeria.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "Martha Mathias, seu marido e seus dois filhos estavam dormindo em casa quando homens armados chegaram ao campus da Escola Católica St. Mary, no estado do Níger, na <a href=\"https://www1.folha.uol.com.br/folha-topicos/nigeria/\">Nigéria</a>, na madrugada da última sexta-feira (21).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/11/professora-relata-terror-durante-sequestro-em-massa-de-alunos-na-nigeria.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
     },
     {
-      "source": "BBC World",
-      "title": "Four new arrests made following Louvre jewellery heist",
-      "title_zh": "卢浮宫珠宝抢劫案后新逮捕了四人",
-      "url": "https://www.bbc.com/news/articles/cr5zm7n8ngpo?at_medium=RSS&at_campaign=rss",
-      "points": null,
-      "comments": null
+      "source": "Folha de S.Paulo",
+      "title": "Prefeitura de SP é condenada a pagar R$ 10 mil a criança que teria apanhado de professora",
+      "title_zh": "Prefeitura de SP é condenada a pagar R $ 1000万a criança que teria apanhado de professora",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/prefeitura-de-sp-e-condenada-a-pagar-r-10-mil-a-crianca-que-teria-apanhado-de-professora.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "Juliana (o nome é fictício para preservar a identidade dos envolvidos) diz ter estranhado quando viu o hematoma no rosto do filho de três anos ao buscá-lo na creche CEI Mario Celestino Teixeira, no distrito de Cidade Ademar, na zona sul de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>. A mãe havia recebido uma ligação dizendo que o menino estava com uma reação alérgica ocasionada provavelmente por uma picada, mas o vermelhão na altura do olho esquerdo a deixou intrigada.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/prefeitura-de-sp-e-condenada-a-pagar-r-10-mil-a-crianca-que-teria-apanhado-de-professora.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Maioria dos usuários de redes sociais reprovou prisão preventiva de Bolsonaro, diz levantamento",
+      "title_zh": "Maioria dos usuários de redes sociais reprovou prisão preventiva de Bolsonaro, diz levantamento",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/11/maioria-dos-usuarios-de-redes-sociais-reprovou-prisao-preventiva-de-bolsonaro-diz-levantamento.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "Levantamento da plataforma Brandwatch afirma que a maior parte dos usuários de redes sociais reprovou a <a href=\"https://www1.folha.uol.com.br/poder/2025/11/primeira-turma-do-stf-faz-sessao-extra-para-referendar-prisao-preventiva-de-bolsonaro.shtml\" rel=\"\" target=\"\">prisão preventiva</a> do ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), determinada no sábado (22), pelo ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2025/11/maioria-dos-usuarios-de-redes-sociais-reprovou-prisao-preventiva-de-bolsonaro-diz-levantamento.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "'Tremembé': Quem é Ullisses Campbell, que conquistou o true crime ao ouvir criminosos",
+      "title_zh": "'Tremembé' ： Quem é Ullisses Campbell, que conquistou o true crime ao ouvir criminosos",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2025/11/tremembe-quem-e-ullisses-campbell-que-conquistou-o-true-crime-ao-ouvir-criminosos.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "O fenômeno \"<a href=\"https://f5.folha.uol.com.br/colunistas/outro-canal/2025/11/tremembe-supera-expectativa-e-ja-e-serie-de-maior-audiencia-da-historia-da-amazon.shtml\" rel=\"\" target=\"\">Tremembé</a>\", cuja <a href=\"https://f5.folha.uol.com.br/colunistas/outro-canal/2025/11/serie-mais-vista-da-historia-da-amazon-no-brasil-tremembe-tera-segunda-temporada.shtml\" rel=\"\" target=\"\">segunda temporada já foi anunciada</a>, colocou holofotes sobre um autor que o público do crime real já conhecia bem: Ullisses Campbell, 49, paraense, jornalista desde os 19 anos, roteirista, e autor de livros que provocaram debates que ultrapassam o noticiário policial.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/cinema-e-series/2025/11/tremembe-quem-e-ullisses-campbell-que-conquistou-o-true-crime-ao-ouvir-criminosos.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Traços de DNA de lobo estão presentes em raças como labrador e chihuahua",
+      "title_zh": "Traços de DNA de lobo estão presentes em raças como labrador e chihuahua",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2025/11/tracos-de-dna-de-lobo-estao-presentes-em-racas-como-labrador-e-chihuahua.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "Em 2005, Tasha tornou-se o primeiro cão doméstico a ter seu genoma sequenciado, inaugurando uma nova era na <a href=\"https://www1.folha.uol.com.br/folha-topicos/genetica/\">genética</a> canina.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2025/11/tracos-de-dna-de-lobo-estao-presentes-em-racas-como-labrador-e-chihuahua.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Feirão da Serasa em SP oferece até 99% de desconto em dívidas até sábado (29); veja como participar",
+      "title_zh": "Feirão da Serasa em SP oferece até 99% de desconto em dívidas até sábado (29) ； veja como participar",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/feirao-da-serasa-em-sp-oferece-ate-99-de-desconto-em-dividas-ate-sabado-29-veja-como-participar.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 06:00:00 -0300",
+      "summary": "A <a href=\"https://www1.folha.uol.com.br/colunas/painelsa/2025/11/serasa-passa-a-ter-consignado-privado-da-caixa-para-contratacao-em-app.shtml\" rel=\"nofollow\" target=\"_blank\">Serasa</a>, órgão de proteção ao crédito, começou nesta terça-feira (25) um feirão de negociação de dívidas com a Febraban (Federação Brasileira de Bancos) e mais de 1.600 empresas. Descontos podem chegar a até 99% e parcelas começam a R$ 9,90. Ao todo, 63 milhões de dívidas podem ser negociadas até este sábado (29).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/11/feirao-da-serasa-em-sp-oferece-ate-99-de-desconto-em-dividas-ate-sabado-29-veja-como-participar.shtml\">Leia mais</a> (11/26/2025 - 06h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Podcast: o destino de Bolsonaro e outros presos com a conclusão da trama golpista",
+      "title_zh": "播客： o destino de Bolsonaro e outros presos com a conclusão da trama golpista",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2025/11/podcast-o-destino-de-bolsonaro-e-outros-presos-com-a-conclusao-da-trama-golpista.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 05:00:00 -0300",
+      "summary": "O ministro do Supremo Tribunal Federal <a href=\"https://www1.folha.uol.com.br/folha-topicos/alexandre-de-moraes/\">Alexandre de Moraes</a> oficializou nesta terça-feira (25) a conclusão do processo do núcleo crucial da trama golpista e <a href=\"https://www1.folha.uol.com.br/poder/2025/11/moraes-decide-manter-bolsonaro-preso-na-superintendencia-da-pf-em-brasilia.shtml\" rel=\"\" target=\"\">determinou que os oito condenados comecem a cumprir as penas</a>. O ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) será mantido na Superintendência da Polícia Federal, onde já cumpria prisão preventiva.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2025/11/podcast-o-destino-de-bolsonaro-e-outros-presos-com-a-conclusao-da-trama-golpista.shtml\">Leia mais</a> (11/26/2025 - 05h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "SP deve ter tempo seco e temperatura máxima de 25°C nesta quarta (26)",
+      "title_zh": "SP deve ter tempo seco e temperatura máxima de 25°C nesta quarta (26)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/sp-deve-ter-tempo-seco-e-temperatura-maxima-de-25c-nesta-quarta-26.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 05:00:00 -0300",
+      "summary": "A área de baixa pressão que provocou chuvas nos últimos dias se afasta do <a href=\"https://www1.folha.uol.com.br/folha-topicos/litoral-paulista/\" rel=\"\" target=\"\">litoral paulista</a> nesta quarta-feira (26), porém os ventos marítimos mantêm a faixa leste do estado com muitas nuvens, o que interfere na livre elevação das temperaturas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/sp-deve-ter-tempo-seco-e-temperatura-maxima-de-25c-nesta-quarta-26.shtml\">Leia mais</a> (11/26/2025 - 05h00)"
+    },
+    {
+      "source": "Folha de S.Paulo",
+      "title": "Brasília e Goiânia são as capitais com mais radares de velocidade por frota no país, diz estudo",
+      "title_zh": "巴西利亚和戈亚尼亚圣作为capitais com mais radares de velocidade por frota no país, diz estudo",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/brasilia-e-goiania-sao-as-capitais-com-mais-radares-de-velocidade-por-frota-no-pais-diz-estudo.shtml",
+      "region": "Brazil",
+      "published": "26 Nov 2025 04:00:00 -0300",
+      "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/brasilia/\">Brasília</a> é, proporcionamente a sua frota, a capital do país com mais radares de velocidade instalados. Os dados fazem parte de um estudo inédito produzido pelo Observatório Nacional de Segurança Viária, em parceria com a UFPR (Universidade Federal do Paraná).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/11/brasilia-e-goiania-sao-as-capitais-com-mais-radares-de-velocidade-por-frota-no-pais-diz-estudo.shtml\">Leia mais</a> (11/26/2025 - 04h00)"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Argentine Peso And Merval Rebound As Markets Test Government’s Debt Strategy",
+      "title_zh": "随着市场对政府债务策略的考验，阿根廷比索和梅瓦尔出现反弹",
+      "url": "https://www.riotimesonline.com/argentine-peso-and-merval-rebound-as-markets-test-governments-debt-strategy/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:29:33 +0000",
+      "summary": "The Argentine peso and stocks opened Wednesday with a calmer tone, but nothing suggests the problems are solved. In wholesale trading the official dollar closed Tuesday at about 1,447.5 pesos after a 1.6% jump, while Banco Nación lifted its retail rate to 1,470. The blue dollar climbed to 1,460 and the MEP and cash-with-settlement hovered [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Dollar Weakens Again As Peso Firms And Mexican Blue-Chips Extend Their Rally",
+      "title_zh": "随着比索公司和墨西哥蓝筹股的扩张，美元再次走弱",
+      "url": "https://www.riotimesonline.com/dollar-weakens-again-as-peso-firms-and-mexican-blue-chips-extend-their-rally/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:18:15 +0000",
+      "summary": "The Mexican currency is firming as global investors rotate back into high-yielding emerging markets on the back of a softer dollar and growing confidence in a December Fed rate cut. Early Wednesday the dollar buys about 18.38 pesos, stronger than Tuesday’s 18.49 close but still inside the 18.20–18.60 band that has contained trading this month [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Colombian Peso And Stocks Ride Official Dollar Sales As Markets Eye Turning Point",
+      "title_zh": "哥伦比亚比索和股票的官方美元销售额成为市场的转折点",
+      "url": "https://www.riotimesonline.com/colombian-peso-and-stocks-ride-official-dollar-sales-as-markets-eye-turning-point/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:12:42 +0000",
+      "summary": "Colombia woke up today to a slightly softer dollar and an equity market grazing record highs, capping a stretch in which official policy, rather than organic growth, has done much of the heavy lifting. The official TRM for Wednesday is 3,806 pesos per dollar, almost unchanged on the day, with spot early in the session [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Dollar Slips Against Brazilian Real As Rate-Cut Bets Gain Momentum",
+      "title_zh": "美元兑巴西雷亚尔下跌，降息押注势头增强",
+      "url": "https://www.riotimesonline.com/dollar-slips-against-brazilian-real-as-rate-cut-bets-gain-momentum/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 09:05:36 +0000",
+      "summary": "The Brazilian real strengthened modestly on Tuesday, with the onshore dollar closing around 5.38 after slipping roughly 0.3%. Early on Wednesday, USD/BRL was trading in the same neighborhood, consolidating gains as traders weighed shifting interest-rate expectations in Washington and Brasília. The immediate driver was a broad slide in the U.S. currency. The Dollar Index fell [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Crypto Markets Pause After Brutal November As Bitcoin Struggles Below 90,000",
+      "title_zh": "加密市场在残酷的11月之后暂停，因为比特币在9万以下挣扎",
+      "url": "https://www.riotimesonline.com/crypto-markets-pause-after-brutal-november-as-bitcoin-struggles-below-90000/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 08:59:08 +0000",
+      "summary": "Crypto markets opened Wednesday in damage-control mode rather than celebration. After a bruising November slide of roughly 24,000 dollars, bitcoin is circling 87,700 dollars with barely a 0.1% gain over the last 24 hours. Volumes are respectable but not euphoric, and the main sentiment gauge still sits in “extreme fear.” The sell-off has tracked the [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Ibovespa Extends Rally As Rate Hopes Outweigh Political Turbulence",
+      "title_zh": "随着利率希望超过政治动荡， Ibovespa扩大了反弹",
+      "url": "https://www.riotimesonline.com/ibovespa-extends-rally-as-rate-hopes-outweigh-political-turbulence/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 08:53:22 +0000",
+      "summary": "Brazil’s stock market stretched its winning streak on Tuesday, as investors focused on falling interest-rate expectations at home and abroad rather than the noisy political backdrop. The Ibovespa closed up 0.41% at 155,910 points, while the dollar slipped to R$ 5.38, showing that risk appetite toward Brazilian assets remains firm. Locally, comments from senior central-bank [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Global Economy Briefing: November 25, 2025",
+      "title_zh": "全球经济简报： 2025年11月25日",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-25-2025/",
+      "region": "Brazil",
+      "published": "Wed, 26 Nov 2025 07:29:55 +0000",
+      "summary": "A cross-current day pointed to steady services, softer goods, and cooler consumer appetite into year-end. Europe’s growth picture was flat but not falling—with Germany avoiding a Q3 contraction—while auto registrations across the big four showed post-surge payback. In the United States, producer prices stayed contained and retail cooled, even as pending home sales surprised higher. [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Brazil’s Biggest Bank Quietly Bets On Its Digital Rival Nubank",
+      "title_zh": "巴西最大银行悄悄押注其数字竞争对手Nubank",
+      "url": "https://www.riotimesonline.com/brazils-biggest-bank-quietly-bets-on-its-digital-rival-nubank/",
+      "region": "Brazil",
+      "published": "Tue, 25 Nov 2025 23:54:21 +0000",
+      "summary": "Brazil’s biggest traditional bank is quietly investing in the digital upstart that forced it to change. Itaú Unibanco, long the symbol of old-style Brazilian banking, has now built a stake of about 106 million dollars in Nubank after buying another 3.8 million shares in the third quarter of 2025. Those shares represent roughly 3.6% of [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Banco Master’s Collapse Shows How Brazil’s Political Banking Games Can Backfire",
+      "title_zh": "Banco Master的倒闭表明巴西的政治银行游戏可能会适得其反",
+      "url": "https://www.riotimesonline.com/banco-masters-collapse-shows-how-brazils-political-banking-games-can-backfire/",
+      "region": "Brazil",
+      "published": "Tue, 25 Nov 2025 23:54:13 +0000",
+      "summary": "Banco Master was not a household name, even in Brazil. Yet its sudden collapse has become one of the biggest tests of the country’s financial safety net – and a revealing case study in how deals around state-linked banks can go badly wrong. Master specialised in payroll-deducted loans, a product that often involves public employees [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Brazil’s Silent Drone Revolution Is Re-Wiring Its Army",
+      "title_zh": "巴西无声无人机革命正在重新布线其军队",
+      "url": "https://www.riotimesonline.com/brazils-silent-drone-revolution-is-re-wiring-its-army/",
+      "region": "Brazil",
+      "published": "Tue, 25 Nov 2025 23:53:35 +0000",
+      "summary": "Brazil’s Army is quietly building something new in the Paraíba Valley: combat units designed from the ground up around drones. One will be a full drone battalion inside the Army Aviation Command in Taubaté; another, a drone company embedded in the 12th Light Infantry (Airmobile) Brigade in Caçapava. From there, they can be flown or [&#8230;]"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Privilege to quit: Hope, desperation and the uneven right to stop",
+      "title_zh": "退出的特权：希望、绝望和不平等的停下来的权利",
+      "url": "https://www.thejakartapost.com/prosperity-and-progress/2025/11/26/privilege-to-quit-hope-desperation-and-the-uneven-right-to-stop.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 15:51:31 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/26/2025_11_26_169457_1764145850._medium.jpg\" style=\"text-align: center;\" /></p><p>When quitting is seen as failure, only the privileged get to walk away. What if the right to stop was a matter of justice and not just willpower?</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Wage-rule delays jolt businesses, rattle investment plans: Apindo",
+      "title_zh": "工资规则延迟了颠簸的企业，喋喋不休的投资计划： Apindo",
+      "url": "https://www.thejakartapost.com/business/2025/11/26/wage-rule-delays-jolt-businesses-rattle-investment-plans-apindo.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 15:30:53 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/08/28/2025_08_28_165944_1756384575._medium.jpg\" style=\"text-align: center;\" /></p><p>Businesses have urged the government to stick to the formula set out under Government Regulation No. 51/2023, which ties wage adjustments to regional economic growth, inflation and an index capturing local productivity and business capacity.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Seed shortage jeopardizes cacao replanting effort",
+      "title_zh": "种子短缺危及可可重新种植的努力",
+      "url": "https://www.thejakartapost.com/business/2025/11/26/seed-shortage-jeopardizes-cacao-replanting-effort.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 14:10:19 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/26/2025_11_26_169455_1764142822._medium.jpg\" style=\"text-align: center;\" /></p><p>Swathes of Indonesian cacao plantations need replanting to boost production, but a shortage of seeds could jeopardize the effort to replace old, unproductive trees.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Israel-Arab relations push could stall over Palestinian statehood",
+      "title_zh": "以色列-阿拉伯关系的推动可能会在巴勒斯坦建国问题上停滞不前",
+      "url": "https://www.thejakartapost.com/opinion/2025/11/26/israel-arab-relations-push-could-stall-over-palestinian-statehood.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 12:12:12 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/25/2025_11_25_169402_1764046080._medium.jpg\" style=\"text-align: center;\" /></p><p>Saudi Arabia has explicitly linked joining the Abraham accords to a plan for a Palestinian state.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "AI in journalism and democracy: Can we rely on it?",
+      "title_zh": "新闻和民主领域的人工智能：我们可以依靠它吗？",
+      "url": "https://www.thejakartapost.com/opinion/2025/11/26/ai-in-journalism-and-democracy-can-we-rely-on-it.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 11:11:11 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/09/16/2025_09_16_166536_1758013291._medium.jpg\" style=\"text-align: center;\" /></p><p>GenAI tools are reshaping the information environment in ways most audiences never see. From the data that trains them to the labor that maintains them, their inner workings raise urgent questions for journalism and democratic accountability.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "The AI boom hits a crossroads in 2026",
+      "title_zh": "人工智能热潮在2026年走到了十字路口",
+      "url": "https://www.thejakartapost.com/business/2025/11/26/the-ai-boom-hits-a-crossroads-in-2026.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 10:38:21 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/26/2025_11_26_169445_1764128296._medium.jpg\" style=\"text-align: center;\" /></p><p>After three years of breakneck growth and soaring valuations, the AI industry enters 2026 with some of the euphoria giving way to tough questions.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Clean air for Jakarta: From a local crisis to a G20 global priority",
+      "title_zh": "为雅加达提供清洁空气：从局部危机到G20全球优先事项",
+      "url": "https://www.thejakartapost.com/opinion/2025/11/26/clean-air-for-jakarta-from-a-local-crisis-to-a-g20-global-priority.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 10:10:10 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/09/26/2025_09_26_166941_1758854490._medium.jpg\" style=\"text-align: center;\" /></p><p>The G20's decision to include air quality on its agenda presents an opportunity for Jakarta to ramp up evidence-based efforts to take a lead in ensuring clean air for its residents as part of its aim to become a global city by 2045.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Testing ASEAN centrality in a shifting geopolitical currents",
+      "title_zh": "在不断变化的地缘政治潮流中测试东盟的中心地位",
+      "url": "https://www.thejakartapost.com/opinion/2025/11/26/testing-asean-centrality-in-a-shifting-geopolitical-currents.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 09:09:09 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/10/24/2025_10_24_168105_1761295367._medium.jpg\" style=\"text-align: center;\" /></p><p>As the geopolitical contours of the wider Asia-Pacific shift, ASEAN’s role as the central manager of regional affairs is under intense scrutiny. </p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "A new course for Nusantara’s defense: Peace through strength",
+      "title_zh": "捍卫努桑塔拉的新课程：通过力量实现和平",
+      "url": "https://www.thejakartapost.com/opinion/2025/11/26/a-new-course-for-nusantaras-defense-peace-through-strength.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 08:08:08 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/02/03/2025_02_03_159876_1738562699._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesia is endowed with abundant resources yet impoverished in sovereignty; vast in territory yet constrained in resolve; populous yet fragile in strength.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "N. Sumatra prosecutors receive Rp 113 billion from PTPN asset sales",
+      "title_zh": "苏门答腊检察官从PTPN资产销售中获得1130亿卢比",
+      "url": "https://www.thejakartapost.com/indonesia/2025/11/26/n-sumatra-prosecutors-receive-rp-113-billion-from-ptpn-asset-sales.html",
+      "region": "Indonesia",
+      "published": "Wed, 26 Nov 2025 07:39:04 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/10/18/2025_10_18_167817_1760754207._medium.jpg\" style=\"text-align: center;\" /></p><p>The money was received from PTPN 2’s subsidiary, PT Nusa Dua Propertindo (NDP) for the development of Citraland housing estate.</p>"
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "'Up to BCCI to decide my future': Gautam Gambhir faces heat after 2-0 whitewash; highlights past successes",
+      "title_zh": "“由BCCI决定我的未来” ： Gautam Gambhir在2-0粉饰后面临高温；突出过去的成功",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/blame-starts-with-me-gautam-gambhir-faces-heat-after-2-0-whitewash-but-reminds-critics-of-his-big-wins/articleshow/125584005.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:53:04 +0530",
+      "summary": "Head coach Gautam Gambhir accepted blame for India's Test series defeat, acknowledging the team's collapse against South Africa. While admitting collective failure, he highlighted past successes and stated his future rests with the BCCI. Gambhir defended his selection strategy, emphasising tough characters over flair for Test cricket."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Delhi blast: NIA takes Muzammil to Al-Falah campus rooms where ammonium nitrate was kept",
+      "title_zh": "德里爆炸： NIA将Muzammil带到保存硝酸铵的Al-Falah校园房间",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/nia-takes-muzammil-to-faridabad-hideouts-al-falah/articleshow/125573262.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 05:41:25 +0530",
+      "summary": "NIA recreated the Delhi blast crime scene with arrested Al-Falah University doctor Muzammil Ahmad Ganaie. He was taken to rented rooms where explosives were stored and to his university accommodation, believed to be the plot's nerve center. Investigators are probing the doctors' alleged links to handlers in Pakistan and Turkey."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "'Will be pleasantly surprised by the actions of Xi': Trump confirms China visit in April",
+      "title_zh": "“将对习近平的行动感到惊喜” ：特朗普确认4月访问中国",
+      "url": "https://timesofindia.indiatimes.com/world/us/will-be-pleasantly-surprised-by-the-actions-of-president-xi-trump-confirms-china-visit-in-april-praises-great-relationship-with-jinping/articleshow/125578844.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 09:23:43 +0530",
+      "summary": "President Donald Trump announced plans to visit Beijing in April, citing a strong personal rapport with Chinese counterpart Xi Jinping. The leaders discussed trade, Ukraine, and fentanyl during a recent phone call, aiming to maintain positive momentum. Trump also highlighted strong US-Japan ties during recent diplomatic outreach."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Meerut blue drum murder: Accused Muskan names newborn 'Radha'; in-laws demand DNA test",
+      "title_zh": "Meerut蓝鼓谋杀案：被告Muskan将新生儿命名为“Radha” ；姻亲要求进行DNA测试",
+      "url": "https://timesofindia.indiatimes.com/city/meerut/meerut-blue-drum-murder-accused-muskan-names-newborn-radha-in-laws-demand-dna-test/articleshow/125583577.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:28:50 +0530",
+      "summary": "Accused of murdering her husband and concealing his body, Muskan named her newborn daughter Radha. Her in-laws are demanding a DNA test to confirm the baby's parentage, stating they will only accept the child if proven to be Saurabh Rajput's biological daughter. The baby was born on what would have been Saurabh's birthday."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Pune airport chaos: Pilot refuses to fly plane to Delhi; cites duty-time cap",
+      "title_zh": "浦那机场混乱：飞行员拒绝飞往德里；引用值班时间限制",
+      "url": "https://timesofindia.indiatimes.com/city/pune/pilot-refuses-to-fly-delhi-bound-plane-due-to-duty-time-cap-amritsar-flight-delayed-too/articleshow/125572922.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 05:11:24 +0530",
+      "summary": "Over 100 Delhi-bound flyers faced a three-hour delay at Pune airport Tuesday morning after an IndiGo captain refused to fly due to flight duty time limitations. An Amritsar-bound IndiGo flight also experienced a similar delay for the same reason. Passengers expressed frustration over the lack of prior information and airline planning."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Nvidia publicly responds to 'losing' $250 billion to 'Google deal,' declares: We are…",
+      "title_zh": "英伟达公开回应“谷歌交易” “损失” 2500亿美元（ $ ） ，宣称：我们……",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-publicly-responds-to-losing-250-billion-to-google-deal-declares-we-are/articleshow/125580817.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 11:13:16 +0530",
+      "summary": "Nvidia, the AI chip giant, publicly defended its market dominance after reports surfaced of Meta Platforms considering billions in spending on Google's competing AI chips. This news sent Nvidia's stock down significantly, while Alphabet shares rose. Google's Tensor Processing Units (TPUs) are emerging as a serious challenger, with Meta potentially renting them from Google Cloud."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Near record highs again: Why Nifty-Sensex created Rs 4 lakh crore wealth in a day",
+      "title_zh": "再次接近历史新高：为什么Nifty-Sensex在一天内创造了40亿卢比的财富",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/nifty-sensex-near-record-highs-5-key-factors-behind-over-rs-4-lakh-crore-rally-in-a-day/articleshow/125584598.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:33:20 +0530",
+      "summary": "Indian stock markets are nearing record highs. A significant surge in investor wealth occurred on Wednesday. This rally is fueled by hopes of interest rate cuts in India and abroad. Global market optimism and declining crude oil prices are also contributing factors. Foreign investors are returning as buyers. Corporate earnings are showing signs of recovery, leading to broad market participation."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "'Not clicked at comedy club': Kunal Kamra wears T-shirt mocking RSS; BJP warns of police action",
+      "title_zh": "“没有点击喜剧俱乐部” ： Kunal Kamra穿着嘲弄RSS的T恤； BJP警告警方采取行动",
+      "url": "https://timesofindia.indiatimes.com/india/not-clicked-at-comedy-club-kunal-kamra-wears-t-shirt-mocking-rss-bjp-warns-of-police-action/articleshow/125582432.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 12:46:44 +0530",
+      "summary": "Comedian Kunal Kamra has sparked controversy with a social media post featuring a T-shirt seemingly mocking the RSS. The BJP has reacted strongly, with leaders warning of police action against such objectionable content. This incident follows Kamra's previous clashes with political figures, including Prime Minister Modi and Maharashtra Deputy Chief Minister Eknath Shinde."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Amazon's AI power play: Tech giant vetoes third-party tools; 'Kiro' takes centre stage",
+      "title_zh": "亚马逊的人工智能游戏：科技巨头否决第三方工具； “Kiro”占据中心舞台",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-sends-message-to-engineers-on-in-house-coding-tool-kiro-says-we-do-not-plan-to/articleshow/125562159.cms",
+      "region": "India",
+      "published": "Tue, 25 Nov 2025 15:45:34 +0530",
+      "summary": "Amazon has directed its software engineers to avoid using third-party AI coding tools like OpenAI's Codex and Anthropic's Claude Code, instead use its proprietary system, Kiro. This strategic move aims to bolster Amazon's competitive standing against rivals OpenAI and Google in the rapidly expanding AI code assistant market."
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "South Africa create history: First Test series win in India in 25 years",
+      "title_zh": "南非创造历史： 25年来首次在印度测试系列赛获胜",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/south-africa-create-history-first-test-series-win-in-india-in-25-years/articleshow/125584465.cms",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:13:20 +0530",
+      "summary": "South Africa registered a massive 408-run victory over India in the second Test, securing a 2-0 series sweep. Spinner Simon Harmer's exceptional 6-wicket haul dismantled India's batting for 140, marking India's heaviest Test defeat by runs and South Africa's first series win in India in 25 years. Marco Jansen was named player of the match for his all-round performance."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "Underground Madrassa Near Al Falah University Under Scanner Amid Delhi Blast Probe",
+      "title_zh": "在德里爆炸探测器中扫描Al Falah大学附近的地下Madrassa",
+      "url": "https://www.ndtv.com/india-news/faridabad-underground-madrassa-al-falah-university-delhi-blast-probe-9702807#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:27:19 +0530",
+      "summary": "An underground madrassa located just 900 metres from the Al Falah University has come under the scanner of the investigating agencies probing irregularities and terror links to the institution in connection with the Delhi blast."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "This Indian Video Now Has 5 Billion Views on YouTube",
+      "title_zh": "这段印度视频现在在YouTube上有50亿次观看",
+      "url": "https://www.ndtv.com/india-news/this-indian-video-now-has-5-billion-views-on-youtube-9702237#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:23:18 +0530",
+      "summary": "Currently, the video stands at 5,008,284,112 views."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "On Camera, Teen Basketball Player Dies In Freak Court Accident In Rohtak",
+      "title_zh": "在相机上，青少年篮球运动员在Rohtak的怪异球场事故中死亡",
+      "url": "https://www.ndtv.com/india-news/on-camera-teen-basketball-player-dies-in-freak-court-accident-in-rohtak-9701231#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:21:59 +0530",
+      "summary": "Hardik was practising at a basketball court in Rohtak's Lakhan Majra area"
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "Constitution India's Pride, Helps Shed Colonial Mindset: President Murmu",
+      "title_zh": "宪法印度的骄傲，帮助摆脱殖民思维：穆尔穆总统",
+      "url": "https://www.ndtv.com/india-news/president-droupadi-murmu-says-constitution-indias-pride-helps-shed-colonial-mindset-9702420#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:12:59 +0530",
+      "summary": "President Droupadi Murmu said India is presenting a new model of development for the world."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "Italian Man Hides Mother's Body, Dresses Like Her To Claim Her Pension",
+      "title_zh": "意大利男子隐藏母亲的身体，穿着像她一样的衣服来领取养老金",
+      "url": "https://www.ndtv.com/world-news/makeup-wig-clothes-italian-man-dresses-as-dead-mother-to-claim-her-pension-9701867#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 14:10:34 +0530",
+      "summary": "The man's (right) mother (left) died in 2022."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "This Adult Star Earns Rs 360 Crore Annually, Surpassing NBA Superstar's Earnings",
+      "title_zh": "这位成人明星的年收入为360亿卢比，超过了NBA超级巨星的收入",
+      "url": "https://www.ndtv.com/offbeat/sophie-rain-this-adult-star-earns-rs-360-crore-annually-surpassing-nba-superstars-earnings-7133564#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:59:11 +0530",
+      "summary": "The post about her earnings, shared on X, sparked widespread discussion."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "Pan Masala Baron's Daughter-In-Law Dies By Suicide At South Delhi Home",
+      "title_zh": "潘马萨拉男爵的媳妇在南德里家中自杀身亡",
+      "url": "https://www.ndtv.com/india-news/deepti-chaurasia-kamla-pasand-kamal-kishor-chaurasia-pan-masala-barons-daughter-in-law-dies-by-suicide-at-south-delhi-home-9702635#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:57:37 +0530",
+      "summary": "Deepti Chaurasia was found dead at her home at noon yesterday"
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "OnlyFans Model Sophie Rain Is Making Headlines Once Again. Here's Why",
+      "title_zh": "OnlyFans模特Sophie Rain再次成为头条新闻。原因如下",
+      "url": "https://www.ndtv.com/offbeat/onlyfans-model-sophie-rain-is-making-headlines-once-again-heres-why-7169019#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:46:03 +0530",
+      "summary": "Sophie Rain shared her personal beliefs on the podcast."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "India's First Fully Mobile, AI-Enabled Anti-Drone Patrol Vehicle Launched",
+      "title_zh": "印度首款完全移动、支持人工智能的反无人机巡逻车推出",
+      "url": "https://www.ndtv.com/india-news/indrajaal-ranger-indias-first-fully-mobile-ai-enabled-anti-drone-patrol-vehicle-launched-9702516#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:39:46 +0530",
+      "summary": "In a significant upgrade to India's border defense strategy, Indrajaal Drone Defence today announced the launch of the 'Indrajaal Ranger', the nation's first Anti-Drone Patrol Vehicle (ADPV)."
+    },
+    {
+      "source": "NDTV - Top Stories",
+      "title": "Video: Ex-Navy Captain Faces 740 kmph Winds For High-Altitude Aerial Shot",
+      "title_zh": "视频：前海军上尉面对740公里/小时的风，进行高空拍摄",
+      "url": "https://www.ndtv.com/india-news/captain-navtej-singh-video-ex-navy-captain-faces-740-kmph-winds-for-high-altitude-aerial-shot-9701529#publisher=newsstand",
+      "region": "India",
+      "published": "Wed, 26 Nov 2025 13:37:00 +0530",
+      "summary": "Captain Navtej Singh posted the video on Instagram"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "世博会临近闭幕 相关诈骗及假冒网站增多",
+      "title_zh": "世博会临近闭幕 相关诈骗及假冒网站增多",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20250930_16.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 11:11:03 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20250930_16_1574636_L.jpg\" /><small style=\"color: gray;\">Osaka Expo 2025 organizers warn of ticket fraud and fake websites</small></div>随着2025年大阪・关西世博会临近闭幕，入场预约愈发困难，在此背景下，出现了通过社交媒体虚假“转让入场券”的诈骗案件以及假冒的周边销售网站，日本国际博览会协会等方面正呼吁公众提高警惕。\n\n距离10月13日世博会闭幕仅剩下大约两周时间，入场预约名额几乎已满，官方网站已于9月30日结束售票。\n\n据悉，在入场券一票难求的情况下，日本国际博览会协会陆续接到多起“遭遇入场券诈骗，被骗走钱财”等咨询。\n\n日本国际博览会协会规定，严禁将入场券转让或转售给不特定对象，并提醒公众不要通过社交媒体等渠道购票。\n\n此外，负责安全工作的公司表示，以销售官方吉祥物周边为名的假冒网站迅速增多。\n\n自9月以来，已确认到约有400个假冒网站，这些网站打出大幅折扣促销的幌子，但购买者付款后却收不到商品，个人信息也存在被恶意利用的风险。"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "大阪市政府将暂停“特区民宿”营业申请",
+      "title_zh": "大阪市政府将暂停“特区民宿”营业申请",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20250930_18.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 11:11:03 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20250930_18_1574986_L.jpg\" /><small style=\"color: gray;\">Osaka City to suspend accepting applications to operate private lodging</small></div>随着访日外国游客相关需求的不断增长，在大阪府大阪市，利用国家战略特区设立的“特区民宿”的数量出现大幅增加。然而，在当地居民不断反映垃圾、噪音等一系列问题的背景下，大阪市市长横山英幸9月30日宣布，将暂停受理新的相关营业申请。\n\n大阪市政府于2016年启动了基于国家战略特区的“特区民宿”的相关制度。与一般的私人民宿不同，“特区民宿”的优势在于可以全年营业，不受年营业天数的限制。在此背景下，随着访日外国游客相关需求的不断增长，大阪市内获得“特区民宿”认证的设施数量出现大幅增加。截至今年8月底，大阪市内已有6853家设施获得认证，约占全国同类设施总数的9成。\n\n然而，当地居民相继反映称，噪音、垃圾处理不当等问题不断发生，且无法联系到设施运营商。\n\n针对这一问题，大阪市政府9月30日举行了“特区民宿”项目组会议。市长横山宣布，为了集中解决相关问题，对制度重新进行审视，决定暂停受理新的营业申请。关于从何时开始暂停，横山表示需要一定的时间进行通知，市政府计划在中央政府11月举办相关会议前敲定具体方针。\n\n另外，大阪市政府还计划加强对已经获得认证的运营商的“核查制度”，今后将成立专门小组处理相关投诉，并对运营商进行书面调查，确认其管理体系。<br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "日银短观：经济景气信心指数持续改善但未来或出现恶化",
+      "title_zh": "日银短观：经济景气信心指数持续改善但未来或出现恶化",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_B1.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 11:11:03 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20251001_B1_1574888_L.jpg\" /><small style=\"color: gray;\">Tankan: Mood improves slightly at Japan's major manufacturers</small></div>日本央行日本银行10月1日公布的“短观”、企业短期经济观测调查显示，制造业大企业的经济景气信心指数连续两个季度有所改善。在围绕美国关税措施的不透明感有所缓解的背景下，以出口相关行业为主出现好转，但从前景来看，预计景气将出现恶化的行业也较多。\n\n日本银行的“短观”调查每三个月开展一次，以全国约8800家企业为对象，通过回答景气现状“良好”的企业占比减去回答景气现状“不佳”的企业占比得出的数据作为指数，对经济景气状况做出判断。\n\n备受关注的制造业大企业的经济景气信心指数为正14点，比上次调查高出1点，连续两个季度有所改善。\n\n日美就关税措施达成协议等因素促成不透明感得到缓解，在此背景下，以“汽车”“生产用机械”等出口相关行业为主，16个行业中有9个行业的判断较上次有所改善。\n\n另一方面，显示三个月后的景气预期的指数方面，制造业大企业为正12点，比现状判断低2点。\n\n虽然关税税率趋于明朗，但其水平仍高于以往，鉴于此，开展调查的日本银行认为，仍有许多企业担心面向美国市场的出口及生产等今后将受到影响而保持警惕。"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "中国迎来国庆长假 日本为最受欢迎海外旅游目的地",
+      "title_zh": "中国迎来国庆长假 日本为最受欢迎海外旅游目的地",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_02.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 11:11:03 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20251001_02_1574845_L.jpg\" /><small style=\"color: gray;\">Japan tops Chinese outbound travel during extended holiday</small></div>中国从10月1日起迎来国庆节长假。由于今年正值二战结束80周年，中国国内举行了以抗日历史为主题的一系列宣传活动，因此有意见担心，反日情绪将进一步高涨。但据中国大型旅游预订网站的信息，日本仍然是最受欢迎的海外旅游目的地。\n\n由于今年的国庆节长假与中秋节假期重合，因此本次长假的假期长达8天，比往年多出1天。中国政府预测，长假期间全国出行人次将达23亿6000万人次，日均出行人次同比增长3%以上。\n\n据中国大型旅游预订网站携程网公布的信息，大阪是最受欢迎的海外旅游城市，其次是东京，第三为韩国的首尔。\n\n由于今年正值二战结束80周年，中国国内举行了以抗日历史为主题的一系列宣传活动，因此有意见担心，反日情绪将进一步高涨。不过，一系列问题对长假期间赴日旅游造成的影响或较为有限。"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "菲律宾宿务岛近海发生地震  救援工作持续进行",
+      "title_zh": "菲律宾宿务岛近海发生地震  救援工作持续进行",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_04.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 11:11:03 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20251001_04_1575034_L.jpg\" /><small style=\"color: gray;\">Death toll from powerful quake in Cebu, Philippines, rises to 60</small></div>9月30日，菲律宾中部度假胜地宿务岛近海发生了里氏6.9级地震。据当地媒体报道，地震目前已造成69人死亡。\n\n据美国地质调查局（USGS）公布，日本时间9月30日深夜，发生了震源位于菲律宾中部宿务岛近海的里氏6.9级地震。\n\n当地媒体援引来自菲律宾当局的信息报道称，地震目前已造成69人死亡。\n\n靠近震源的北部等地出现了建筑物坍塌等灾情，不少人据信被困在瓦砾废材下无法脱身，军队和警察正在灾区持续开展救援工作。<br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "教育问答 针对外籍儿童的学习支援⑩心理支援",
+      "title_zh": "教育问答 针对外籍儿童的学习支援⑩心理支援",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_ML05.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 06:11:02 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/zh/news/20251001_ML05_1_L.jpg\" /><small style=\"color: gray;\">教育问答 针对外籍儿童的学习支援⑩心理支援</small></div>日本各地涌现出许多为生活在日本的外籍儿童提供学习支援的团体，除了教孩子们学日语以外，还会为他们辅导功课等。本系列为您介绍各地一些富有特色的支援团体。本期介绍一个为儿童提供心理呵护的群马县团体。\n\n群马县伊势崎市的团体“G Community”每周六都会在伊势崎市和前桥市授课，为来自巴西、秘鲁等地在日本上中学的孩子提供日语学习及学校课程方面的援助。此外，该团体每个月还会面向外国孩子举行三次心理咨询活动，由持有各自国家相关资格证书的心理咨询师为孩子或家长提供咨询。\n\n据该团体介绍，由于日语不好，一些孩子会在学校遭受霸凌，有些还会拒绝上学，甚至出现暴力行为。该团体表示，如有必要，他们会与校方和医疗机构联系，为这些孩子提供支援。\n\n（以上是截至2025年6月10日的信息）"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "换领日本驾照条件收紧 新制度1日起实施",
+      "title_zh": "换领日本驾照条件收紧 新制度1日起实施",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_01.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 06:11:02 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20251001_01_1574796_L.jpg\" /><small style=\"color: gray;\">Japan tightens rules for converting foreign driver's licenses</small></div>日本对外国人在日换领日本驾照的制度进行了调整，收紧了有关条件。新制度于10月1日开始实施。\n\n根据有关规定，外国人如果被认定具有在日本驾驶所需的知识且具备相应技能，即可换领日本驾照。据日本警察厅统计，去年通过相应制度换领到日本驾照的外国人超过6万8600人，创下历史纪录。\n\n此前，根据有关规定，不持有住址官方证明“住民票”的外国游客，也可将入住的酒店等临时居所作为住址办理日本驾照换领手续。这引发了诸多担忧，例如，当事人出现交通肇事后有关部门的执法工作或将受到影响。警察厅一直在对如何调整相应制度进行探讨。\n\n10月1日起实施的新制度收紧了日本驾照的换领条件，例如，换领人无论国籍，原则上都需提交“住民票”复印件以作为住址证明，海外游客等短期居留者不具备换领资格；用于测试对日本交通规则理解程度的“知识测试”题目数量增加至50题，是以往的5倍，并且正确率只有达到90%才算测试合格。\n\n警察厅表示，今后将就新制度大力开展宣传活动，并继续努力采取措施防范交通事故。"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "斯里兰卡女性遗属要求入管公开所有监控视频案开庭",
+      "title_zh": "斯里兰卡女性遗属要求入管公开所有监控视频案开庭",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20250930_17.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 06:11:02 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20250930_17_1574656_L.jpg\" /><small style=\"color: gray;\">Japan govt. against releasing full video of woman who died at immigration center</small></div>斯里兰卡女性维什马·桑达玛丽在爱知县的名古屋出入国在留管理局的设施被拘押期间死亡，遗属提起诉讼要求入管方面公开其被拘押期间的所有监控视频。该案从9月30日开始庭审，日本政府方面表示将在法庭进行抗争。\n\n4年前，维什马在名古屋市的入管设施被拘押期间称身体不适，其后死亡。遗属提起诉讼要求国家赔偿。政府方面在这一诉讼的庭审过程中提交了记录维什马在押情况的长约5小时的监控视频作为证据，但其余另有约290小时的视频没有提交。\n\n维什马的遗属要求公开所有视频，但被入管方面拒绝，遗属方面认为入管方面的这一决定违法，于今年5月向东京地方法院提起了诉讼。\n\n此案的庭审从9月30日开始进行。维什马的妹妹在法庭上呼吁道：“为了查明我姐姐的死亡真相，绝对需要公开所有视频。”\n\n而政府方面则要求驳回诉讼，理由是“这些视频属于维什马的私人信息，她的遗属不能要求披露。监控摄像头的位置等信息如果被人知道也会妨碍安保工作的展开。”"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "刘海星接替刘建超出任中联部部长",
+      "title_zh": "刘海星接替刘建超出任中联部部长",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_ML01.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 06:11:02 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/zh/news/20251001_ML01_1_L.jpg\" /><small style=\"color: gray;\">刘海星接替刘建超出任中联部部长</small></div>9月30日，中共中央对外联络部官网显示，刘海星接替刘建超出任中联部部长。中联部尚未说明这一人事调整的原因。\n\n关于刘建超动向的官方报道止步于今年7月下旬，美国大报曾报道称，刘建超已被中国有关部门拘押，正在接受调查。\n\n刘建超历任中国外交部发言人等职，2022年出任中联部部长。他曾与日本政界人士多次会晤，今年1月还作为中方代表在北京出席了与日本联合执政的自民和公明两党的政党交流活动。\n\n关于在中国外交部门担任要职的官员，两年前，时任外交部长秦刚上任仅半年多就被免职。\n\n刘建超曾被认为是下任外交部长的有力人选，因此此次人事调整有何背景，势必会引发外界揣测。"
+    },
+    {
+      "source": "NHK WORLD-JAPAN",
+      "title": "卡塔尔称哈马斯承诺研究“20点计划”",
+      "title_zh": "卡塔尔称哈马斯承诺研究“20点计划”",
+      "url": "https://nwapi.nhk.jp/nhkworld/rdnewsweb/v6b/zh/detail/20251001_N01.json",
+      "region": "Japan",
+      "published": "Wed, 01 Oct 2025 06:11:02 +0000",
+      "summary": "<div><img src=\"https://www3.nhk.or.jp//nhkworld/upld/thumbnails/en/news/20251001_N01_1574793_L.jpg\" /><small style=\"color: gray;\">Hamas promises to study Trump's ceasefire plan</small></div>美国总统特朗普9月29日与以色列总理内塔尼亚胡会晤后，发布了包括在加沙地带实现停火和释放人质等内容的“20点计划”，伊斯兰组织哈马斯会作何回应成为人们关注的焦点。在这种情况下，调停国卡塔尔透露，哈马斯已承诺将研究该计划的内容。\n\n卡塔尔外交部发言人30日在记者会上透露，卡塔尔与另一个调停国埃及向哈马斯转达了该计划，哈马斯承诺其代表团将研究该计划的内容。\n\n美国哥伦比亚广播公司（CBS）电视台援引相关人士的话报道称，哈马斯倾向于接受该计划，最早10月1日就会向调停国作出回应。\n\n哈马斯运营的媒体则于29日援引一名干部的声明报道称，该计划“与以色列的构想接近”。\n\n除调停国卡塔尔和埃及，还有沙特阿拉伯和土耳其等也表示支持该计划。哈马斯会作何回应成为人们关注的焦点。"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Crown Prince rejects US proposal on Israel normalization in tense Trump meeting: Report",
+      "title_zh": "沙特王储在紧张的特朗普会议上拒绝美国关于以色列正常化的建议：报告",
+      "url": "https://saudigazette.com.sa/article/656878/SAUDI-ARABIA/MBS-rejects-US-plan-for-Israel-normalization-during-tense-Trump-meeting?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Wed, 26 Nov 2025 05:33:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Saudi Crown Prince Mohammed bin Salman rejected a US proposal to join the Abraham Accords during a closed-door meeting with President Donald Trump last week, according to"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi FM meets Italian and Bahraini counterparts to discuss enhancing bilateral ties",
+      "title_zh": "沙特外交部会见意大利和巴林同行，讨论加强双边关系",
+      "url": "https://saudigazette.com.sa/article/656875/SAUDI-ARABIA/Saudi-FM-meets-Italian-and-Bahraini-counterparts-to-discuss-enhancing-bilateral-ties?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Wed, 26 Nov 2025 00:11:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Saudi Minister of Foreign Affairs Prince Faisal bin Farhan held talks with Italian Deputy Prime Minister and Minister for Foreign Affairs and International Cooperation Antonio"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Crown Prince discusses regional developments with King of Jordan in phone call",
+      "title_zh": "王储通过电话与约旦国王讨论区域发展",
+      "url": "https://saudigazette.com.sa/article/656874/SAUDI-ARABIA/Crown-Prince-discusses-regional-developments-with-King-of-Jordan-in-phone-call?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Wed, 26 Nov 2025 00:03:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Saudi Crown Prince and Prime Minister Mohammed bin Salman received a phone call on Tuesday from King Abdullah of Jordan.During the call, they reviewed regional developments."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Cabinet hails outcomes of Crown Prince’s US visit in bolstering strategic partnership",
+      "title_zh": "内阁对王储访问美国加强战略伙伴关系的成果表示欢迎",
+      "url": "https://saudigazette.com.sa/article/656873/SAUDI-ARABIA/Cabinet-hails-outcomes-of-Crown-Princes-US-visit-in-bolstering-strategic-partnership?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 22:33:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Saudi Council of Ministers hailed the outcomes of the recent visit of Crown Prince and Prime Minister Mohammed bin Salman to the United States of America in further bolstering"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi naval forces join Medusa-14 exercise in Egypt",
+      "title_zh": "沙特海军部队参加在埃及举行的美杜莎-14演习",
+      "url": "https://saudigazette.com.sa/article/656877/SAUDI-ARABIA/Saudi-naval-forces-take-part-in-Medusa-14-exercise-in-Egypt?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 20:17:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Royal Saudi Naval Forces are participating in the Medusa-14 naval exercise in Egypt, a multinational training operation designed to enhance joint maritime capabilities"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia to implement new tax policy on sweetened beverages from January 1, 2026",
+      "title_zh": "沙特阿拉伯将于2026年1月1日起对含糖饮料实施新的税收政策",
+      "url": "https://saudigazette.com.sa/article/656872/SAUDI-ARABIA/Saudi-Arabia-to-implement-new-tax-policy-on-sweetened-beverages-from-January-1-2026?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 19:35:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Minister of Industry and Mineral Resources Bandar Alkhorayef announced that the new policy related to imposing selective tax on sweetened drinks will come into force starting"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia localizes housing supervisor profession, with minimum salary of SR5000",
+      "title_zh": "沙特阿拉伯将住房主管职业本地化，最低工资为5000沙特里亚尔",
+      "url": "https://saudigazette.com.sa/article/656869/SAUDI-ARABIA/Saudi-Arabia-localizes-housing-supervisor-profession-with-minimum-salary-of-SR5000?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 18:43:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Ministry of Human Resources and Social Development, in cooperation with the Ministry of Municipalities and Housing, has approved the Saudization of the housing supervisor"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "NCM issues updated color-coded alerts as rainfall intensifies across Saudi Arabia",
+      "title_zh": "随着沙特阿拉伯各地降雨量的增加， NCM发布更新的彩色编码警报",
+      "url": "https://saudigazette.com.sa/article/656870/SAUDI-ARABIA/NCM-issues-wide-ranging-weather-alerts-as-heavy-rain-and-flash-flood-risks-sweep-across-Kingdom?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 18:40:00 +0300",
+      "summary": "Saudi Gazette reportJEDDAH — The National Center of Meteorology (NCM) has released updated, color-coded weather alerts detailing expected rainfall intensity and potential flash-flood risks across several"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Tabuk emir receives Kuwaiti ambassador",
+      "title_zh": "塔布克埃米尔接待科威特大使",
+      "url": "https://saudigazette.com.sa/article/656871/SAUDI-ARABIA/Tabuk-emir-receives-Kuwaiti-ambassador?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 18:16:00 +0300",
+      "summary": "TABUK — Tabuk emir Prince Fahd bin Sultan bin Abdulaziz on Tuesday received Kuwait’s Ambassador to Saudi Arabia, Sheikh Sabah Nasser Sabah Al-Ahmad Al-Sabah, and his accompanying delegation at the"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Absher carries out over 42 million e-transactions in October",
+      "title_zh": "Absher在10月份进行了超过4200万次电子交易",
+      "url": "https://saudigazette.com.sa/article/656868/SAUDI-ARABIA/Absher-carries-out-over-42-million-e-transactions-in-October?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Tue, 25 Nov 2025 17:46:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Ministry of Interior&#039;s electronic platform Absher has carried out a total of 42,334,007 electronic transactions for beneficiaries during the last month of October."
     }
   ]
 }
