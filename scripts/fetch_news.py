@@ -28,7 +28,7 @@ def translate_to_zh(text: str) -> str:
 API_HN = "https://hn.algolia.com/api/v1/search?tags=front_page"
 
 
-def fetch_hn(limit=15):
+def fetch_hn(limit=15, region="Global"):
     """Hacker News 首页"""
     resp = requests.get(API_HN, timeout=10)
     resp.raise_for_status()
@@ -48,95 +48,159 @@ def fetch_hn(limit=15):
                 "url": url,
                 "points": points,
                 "comments": comments,
+                "region": region,
+                "published": None,
+                "summary": "",
             }
         )
     return items
 
 
-def fetch_rss(url: str, source_name: str, limit: int = 10):
+def fetch_rss(url, source_name, region="Global", limit=10):
     """通用 RSS 抓取"""
-    d = feedparser.parse(url)
+    feed = feedparser.parse(url)
     items = []
-    for entry in d.entries[:limit]:
-        title_en = entry.get("title", "No title")
-        title_zh = translate_to_zh(title_en)
+    for entry in feed.entries[:limit]:
+        title_en = entry.get("title", "").strip()
+        title_zh = translate_to_zh(title_en) if title_en else ""
         link = entry.get("link", "")
+
         items.append(
             {
                 "source": source_name,
                 "title": title_en,
                 "title_zh": title_zh,
-                "url": link,
-                "points": None,
-                "comments": None,
+                "url": link,          # 和 Hacker News 保持一致，都用 url 字段
+                "region": region,     # 地区标签
+                "published": entry.get("published", ""),
+                "summary": entry.get("summary", "").strip(),
             }
         )
     return items
 
 
-def build_summary(items, max_items: int = 5) -> str:
-    """
-    用前几条中文标题拼一段大白话总结：
-    “用大白话说，今天的热点大概是这些：1）…；2）…；…。”
-    """
-    zh_titles = []
-    for it in items:
-        t = it.get("title_zh") or it.get("title")
-        if not t:
-            continue
-        zh_titles.append(t)
-        if len(zh_titles) >= max_items:
-            break
-
-    if not zh_titles:
-        return ""
-
-    parts = []
-    for idx, t in enumerate(zh_titles, 1):
-        t_short = t
-        if len(t_short) > 40:
-            t_short = t_short[:38] + "..."
-        parts.append(f"{idx}）{t_short}")
-
-    return "用大白话说，今天的热点大概是这些： " + "； ".join(parts) + "。"
-
-
 def main():
     all_items = []
 
-    # 1. Hacker News
-    all_items += fetch_hn(limit=15)
+    # ========= 🌍 Global / 全球 =========
+    all_items += fetch_hn(limit=15, region="Global")
 
-    # 2. Reddit
-    all_items += fetch_rss("https://www.reddit.com/r/all/.rss", "Reddit r/all", limit=10)
     all_items += fetch_rss(
-        "https://www.reddit.com/r/worldnews/.rss", "Reddit r/worldnews", limit=10
+        "https://www.reddit.com/r/all/.rss",
+        "Reddit r/all",
+        region="Global",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://www.reddit.com/r/worldnews/.rss",
+        "Reddit r/worldnews",
+        region="Global",
+        limit=10,
     )
 
-    # 3. TechCrunch
-    all_items += fetch_rss("https://techcrunch.com/feed/", "TechCrunch", limit=10)
-
-    # 4. The Verge
     all_items += fetch_rss(
-        "https://www.theverge.com/rss/index.xml", "The Verge", limit=10
+        "https://techcrunch.com/feed/",
+        "TechCrunch",
+        region="Global",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://www.theverge.com/rss/index.xml",
+        "The Verge",
+        region="Global",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://www.producthunt.com/feed",
+        "Product Hunt",
+        region="Global",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "BBC World",
+        region="Global",
+        limit=10,
+    )
+    # 你也可以在这里继续加 NYTimes World 等其它 Global 源
+
+    # ========= 🇧🇷 Brazil / 巴西 =========
+    all_items += fetch_rss(
+        "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+        "Folha de S.Paulo",
+        region="Brazil",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://riotimesonline.com/feed/",
+        "The Rio Times",
+        region="Brazil",
+        limit=10,
     )
 
-    # 5. Product Hunt
-    all_items += fetch_rss("https://www.producthunt.com/feed", "Product Hunt", limit=10)
-
-    # 6. BBC World News
+    # ========= 🇮🇩 Indonesia / 印尼 =========
     all_items += fetch_rss(
-        "http://feeds.bbci.co.uk/news/world/rss.xml", "BBC World", limit=10
+        "https://rss.thejakartapost.com/home",
+        "The Jakarta Post",
+        region="Indonesia",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://www.kontan.co.id/feed",
+        "Kontan",
+        region="Indonesia",
+        limit=10,
+    )
+
+    # ========= 🇮🇳 India / 印度 =========
+    all_items += fetch_rss(
+        "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "Times of India - Top Stories",
+        region="India",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://feeds.feedburner.com/ndtvnews-top-stories",
+        "NDTV - Top Stories",
+        region="India",
+        limit=10,
+    )
+
+    # ========= 🇯🇵 Japan / 日本 =========
+    all_items += fetch_rss(
+        "https://feedx.net/rss/nhk.xml",
+        "NHK WORLD-JAPAN",
+        region="Japan",
+        limit=10,
+    )
+
+    # ========= 🇰🇷 South Korea / 韩国 =========
+    all_items += fetch_rss(
+        "https://www.koreaherald.com/rss",
+        "The Korea Herald",
+        region="South Korea",
+        limit=10,
+    )
+
+    # ========= 🇸🇦 Saudi Arabia / 沙特 =========
+    all_items += fetch_rss(
+        "https://www.arabnews.com/rss",
+        "Arab News",
+        region="Saudi Arabia",
+        limit=10,
+    )
+    all_items += fetch_rss(
+        "https://saudigazette.com.sa/rssFeed/74",
+        "Saudi Gazette",
+        region="Saudi Arabia",
+        limit=10,
     )
 
     # 北京时间（UTC+8）
     beijing_time = datetime.now(timezone.utc) + timedelta(hours=8)
 
-    summary = build_summary(all_items)
-
     out = {
         "last_updated": beijing_time.strftime("%Y-%m-%d %H:%M:%S"),
-        "summary": summary,
         "items": all_items,
     }
 
