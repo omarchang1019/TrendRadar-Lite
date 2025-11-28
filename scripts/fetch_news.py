@@ -224,9 +224,26 @@ def main():
 )
     
     # ========= 🇰🇷 South Korea / 韩国 =========
+    # The Korea Herald（英文，已在使用）
     all_items += fetch_rss(
         "https://www.koreaherald.com/rss",
         "The Korea Herald",
+        region="South Korea",
+        limit=10,
+    )
+
+    # The Korea Times（英文）
+    all_items += fetch_rss(
+        "https://www.koreatimes.co.kr/www/rss/nation.xml",
+        "The Korea Times",
+        region="South Korea",
+        limit=10,
+    )
+
+    # Yonhap News / 韩联社（英文版 Top News）
+    all_items += fetch_rss(
+        "https://en.yna.co.kr/feed/topnews.xml",
+        "Yonhap News",
         region="South Korea",
         limit=10,
     )
