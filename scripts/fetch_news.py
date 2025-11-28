@@ -217,12 +217,12 @@ def main():
 
     # ========= 🇯🇵 Japan / 日本 =========
     all_items += fetch_rss(
-        "https://feedx.net/rss/nhk.xml",
-        "NHK WORLD-JAPAN",
-        region="Japan",
-        limit=10,
-    )
-
+    "https://www3.nhk.or.jp/rss/news/cat0.xml",
+    "NHK News",
+    region="Japan",
+    limit=10,
+)
+    
     # ========= 🇰🇷 South Korea / 韩国 =========
     all_items += fetch_rss(
         "https://www.koreaherald.com/rss",
