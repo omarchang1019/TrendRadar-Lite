@@ -1,350 +1,404 @@
 {
-  "last_updated": "2025-12-06 11:35:50",
+  "last_updated": "2025-12-07 11:53:28",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Netflix to Acquire Warner Bros",
-      "title_zh": "Netflix收购华纳兄弟",
-      "url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
-      "points": 1492,
-      "comments": 1161,
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "title_zh": "GrapheneOS是唯一提供完整安全补丁的Android操作系统",
+      "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+      "points": 493,
+      "comments": 221,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Cloudflare outage on December 5, 2025",
-      "title_zh": "2025年12月5日Cloudflare中断",
-      "url": "https://blog.cloudflare.com/5-december-2025-outage/",
-      "points": 575,
-      "comments": 439,
+      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+      "title_zh": "Tiny Core Linux ：具有图形桌面的23 MB Linux发行版",
+      "url": "http://www.tinycorelinux.net/",
+      "points": 377,
+      "comments": 171,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Gemini 3 Pro: the frontier of vision AI",
-      "title_zh": "Gemini 3 Pro ：视觉AI的前沿",
-      "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
-      "points": 373,
-      "comments": 193,
+      "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
+      "title_zh": "Z-Image ：具有6B参数的强大且高效的图像生成模型",
+      "url": "https://github.com/Tongyi-MAI/Z-Image",
+      "points": 263,
+      "comments": 103,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Most technical problems are people problems",
-      "title_zh": "大多数技术问题是人员问题",
-      "url": "https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html",
-      "points": 342,
-      "comments": 250,
+      "title": "Autism's confusing cousins",
+      "title_zh": "自闭症的令人困惑的表亲",
+      "url": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+      "points": 239,
+      "comments": 252,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Patterns for Defensive Programming in Rust",
-      "title_zh": "Rust中的防御性编程模式",
-      "url": "https://corrode.dev/blog/defensive-programming/",
-      "points": 224,
-      "comments": 39,
+      "title": "HTML as an Accessible Format for Papers (2023)",
+      "title_zh": "HTML作为论文的无障碍格式（ 2023年）",
+      "url": "https://info.arxiv.org/about/accessible_HTML.html",
+      "points": 214,
+      "comments": 109,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Making RSS More Fun",
-      "title_zh": "让RSS更有趣",
-      "url": "https://matduggan.com/making-rss-more-fun/",
-      "points": 186,
-      "comments": 92,
+      "title": "The unexpected effectiveness of one-shot decompilation with Claude",
+      "title_zh": "使用Claude进行一次性反编译的意外效果",
+      "url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+      "points": 189,
+      "comments": 99,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "title_zh": "我是Peter Roberts ，移民律师，为YC和初创公司工作。AMA",
-      "url": "",
+      "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
+      "title_zh": "开发人员截图： 2002年与2015年（ 2015年）",
+      "url": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
+      "points": 189,
+      "comments": 77,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Kilauea erupts, destroying webcam [video]",
+      "title_zh": "基拉韦厄火山爆发，摧毁网络摄像头[视频]",
+      "url": "https://www.youtube.com/watch?v=TK2N99BDw7A",
       "points": 173,
-      "comments": 219,
+      "comments": 41,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Why we built Lightpanda in Zig",
-      "title_zh": "为什么我们在Zig中构建Lightpanda",
-      "url": "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig",
-      "points": 171,
-      "comments": 120,
+      "title": "Using LLMs at Oxide",
+      "title_zh": "在Oxide使用LLM",
+      "url": "https://rfd.shared.oxide.computer/rfd/0576",
+      "points": 161,
+      "comments": 58,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Judge Signals Win for Software Freedom Conservancy in Vizio GPL Case",
-      "title_zh": "法官信号赢得Vizio GPL案件中的软件自由保护",
-      "url": "https://fossforce.com/2025/12/judge-signals-win-for-software-freedom-conservancy-in-vizio-gpl-case/",
-      "points": 163,
-      "comments": 15,
+      "title": "OMSCS Open Courseware",
+      "title_zh": "OMSCS开放式课件",
+      "url": "https://sites.gatech.edu/omscsopencourseware/",
+      "points": 149,
+      "comments": 58,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Frank Gehry has died",
-      "title_zh": "弗兰克·盖里去世了",
-      "url": "https://www.bbc.co.uk/news/articles/c5y2p22z9gno",
-      "points": 143,
-      "comments": 53,
+      "title": "Coffee linked to slower biological ageing among those with severe mental illness",
+      "title_zh": "咖啡与严重精神疾病患者的生物衰老缓慢有关",
+      "url": "https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit",
+      "points": 108,
+      "comments": 62,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Leaving Intel",
-      "title_zh": "正在离开情报部门",
-      "url": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
-      "points": 138,
-      "comments": 48,
+      "title": "Trains cancelled over fake bridge collapse image",
+      "title_zh": "列车因虚假桥梁倒塌图像而取消",
+      "url": "https://www.bbc.com/news/articles/cwygqqll9k2o",
+      "points": 95,
+      "comments": 55,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
-      "title_zh": "YouTube发现对视频进行AI编辑并添加误导性的AI摘要",
-      "url": "https://social.growyourown.services/@FediTips/115668457530054406",
-      "points": 133,
-      "comments": 66,
+      "title": "Zebra-Llama: Towards Efficient Hybrid Models",
+      "title_zh": "Zebra-Llama ：打造高效混合动力车型",
+      "url": "https://arxiv.org/abs/2505.17272",
+      "points": 85,
+      "comments": 36,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: HCB Mobile – financial app built by 17 y/o, processing $6M/month",
-      "title_zh": "显示HN ： HCB移动–由17岁以下人士构建的金融应用程序，每月处理$ 600万",
-      "url": "https://hackclub.com/fiscal-sponsorship/mobile/",
-      "points": 115,
-      "comments": 49,
+      "title": "Bikeshedding, or why I want to build a laptop",
+      "title_zh": "自行车棚，或者我为什么要制造笔记本电脑",
+      "url": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
+      "points": 77,
+      "comments": 54,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Idempotency Keys for Exactly-Once Processing",
-      "title_zh": "Exactly-Once处理的幂等性密钥",
-      "url": "https://www.morling.dev/blog/on-idempotency-keys/",
-      "points": 97,
-      "comments": 40,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Adenosine on the common path of rapid antidepressant action: The coffee paradox",
-      "title_zh": "腺苷在快速抗抑郁作用的共同途径：咖啡悖论",
-      "url": "https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml",
-      "points": 87,
-      "comments": 39,
+      "title": "The past was not that cute",
+      "title_zh": "过去没那么可爱",
+      "url": "https://juliawise.net/the-past-was-not-that-cute/",
+      "points": 67,
+      "comments": 74,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Reddit r/all",
-      "title": "This is Karl Bushby. In 1998, he made a bar bet that he could walk from Chile to England. 27 years later, he is still walking. He has survived the Darién Gap, 57 days in a Russian prison, and traversing the Bering Strait on shifting ice.",
-      "title_zh": "这是卡尔·布什比。1998年，他在酒吧打赌他可以从智利步行到英格兰。27年后，他仍然在走路。他在俄罗斯监狱中度过了57天的达连峡谷，并在冰上穿越白令海峡。",
-      "url": "https://www.reddit.com/r/interestingasfuck/comments/1pfdkfs/this_is_karl_bushby_in_1998_he_made_a_bar_bet/",
+      "title": "This disturbingly good clay sculpture of a Coke and Mentos experiment",
+      "title_zh": "这个令人不安的粘土雕塑是一个可口可乐和曼托斯的实验",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1pg47gv/this_disturbingly_good_clay_sculpture_of_a_coke/",
       "region": "Global",
-      "published": "2025-12-06T02:09:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pfdkfs/this_is_karl_bushby_in_1998_he_made_a_bar_bet/\"> <img alt=\"This is Karl Bushby. In 1998, he made a bar bet that he could walk from Chile to England. 27 years later, he is still walking. He has survived the Darién Gap, 57 days in a Russian prison, and traversing the Bering Strait on shifting ice.\" src=\"https://preview.redd.it/gtqn6m1gsh5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7068581b98c71bc7bb4ab21c0b2d65b23f14b435\" title=\"This is Karl Bushby. In 1998, he made a bar bet that he could walk from Chile to England. 27 years later, he is still walking. He has survived the Darién Gap, 57 days in a Russian prison, and traversing the Bering Strait on shifting ice.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SystematicApproach\"> /u/SystematicApproach </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/interestingasfuck/\"> r/interestingasfuck </a> <br /> <span><a href=\"https://i.redd.it/gtqn6m1gsh5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pfdkfs/this_is_karl_bushby_in_1998_he_made_a_bar_bet/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-07T00:13:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1pg47gv/this_disturbingly_good_clay_sculpture_of_a_coke/\"> <img alt=\"This disturbingly good clay sculpture of a Coke and Mentos experiment\" src=\"https://external-preview.redd.it/aTA2OXd4MjVjbzVnMXIEttDX1IjuWwUGIa3yGmzKaeQUjOXvOJKMZED-43mK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=94a00476717412e95dc48a908db72abd7f1eb6dd\" title=\"This disturbingly good clay sculpture of a Coke and Mentos experiment\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>credit: jackjack_creator on ig </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Qwerty_47\"> /u/Qwerty_47 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/nextfuckinglevel/\"> r/nextfuckinglevel </a> <br /> <span><a href=\"https://v.redd.it/p83zqh85co5g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1pg47gv/this_disturbingly_good_clay_sculpture_of_a_coke/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "My MIL ordered us a Wine Advent Calendar, she was so excited for us to sample different wines. This showed up today:",
-      "title_zh": "我的MIL为我们订购了葡萄酒降临日历，她非常兴奋我们品尝不同的葡萄酒。这在今天出现了：",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1pfc8bv/my_mil_ordered_us_a_wine_advent_calendar_she_was/",
+      "title": "New rare footage of a live giant squid, caught feeding on diamondback squid",
+      "title_zh": "捕获以菱背鱿鱼为食的活体巨型鱿鱼的新罕见镜头",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/",
       "region": "Global",
-      "published": "2025-12-06T01:04:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1pfc8bv/my_mil_ordered_us_a_wine_advent_calendar_she_was/\"> <img alt=\"My MIL ordered us a Wine Advent Calendar, she was so excited for us to sample different wines. This showed up today:\" src=\"https://preview.redd.it/ky3fa2zugh5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ded9dd527469ada8123ae2a5e0024e6c81b4b909\" title=\"My MIL ordered us a Wine Advent Calendar, she was so excited for us to sample different wines. This showed up today:\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>They're tiny 2D pieces of plastic. Most of the labels are illegible AI swirl text. She's a sweet lady trying her best to do something nice, sucks she got scammed.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ultra_maroon\"> /u/ultra_maroon </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinfuriating/\"> r/mildlyinfuriating </a> <br /> <span><a href=\"https://i.redd.it/ky3fa2zugh5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1pfc8bv/my_mil_ordered_us_a_wine_advent_calendar_she_was/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T21:42:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\"> <img alt=\"New rare footage of a live giant squid, caught feeding on diamondback squid\" src=\"https://external-preview.redd.it/OW5jMjl0dmhsbjVnMVqV22wjGiQCiZ2s8Ug8taz8EOmFCmuMhbKbPj3qN2tk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=753c1693da31912a5603b38bcb943ae7f65c2490\" title=\"New rare footage of a live giant squid, caught feeding on diamondback squid\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Xenomorphian69420\"> /u/Xenomorphian69420 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/interestingasfuck/\"> r/interestingasfuck </a> <br /> <span><a href=\"https://v.redd.it/noyo6ruhln5g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/interestingasfuck/comments/1pg0ujj/new_rare_footage_of_a_live_giant_squid_caught/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "President Donald Trump wants the NFL to change its name so that soccer is the only sport named football. \"This is football, there is no question about it. We have to come up with another name for the NFL stuff.\"",
-      "title_zh": "唐纳德·特朗普总统希望NFL更名，以便足球成为唯一一项被命名为足球的运动。“这是足球，这是毫无疑问的。我们必须为NFL的东西想出另一个名字。”",
-      "url": "https://www.reddit.com/r/sports/comments/1pfc5x2/president_donald_trump_wants_the_nfl_to_change/",
+      "title": "Even Nobel Peace got commercialized",
+      "title_zh": "甚至诺贝尔和平奖也被商业化了",
+      "url": "https://www.reddit.com/r/Anticonsumption/comments/1pg1h8v/even_nobel_peace_got_commercialized/",
       "region": "Global",
-      "published": "2025-12-06T01:01:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/sports/comments/1pfc5x2/president_donald_trump_wants_the_nfl_to_change/\"> <img alt=\"President Donald Trump wants the NFL to change its name so that soccer is the only sport named football. &quot;This is football, there is no question about it. We have to come up with another name for the NFL stuff.&quot;\" src=\"https://external-preview.redd.it/ZWNteHpibjlnaDVnMULE5KypFWOx4wi5x-kObsQL1uPhqDq9BDKHl0eIkGWC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=62da0e2f5b37dc7a7f1bafcb7f77d5a8fab596b9\" title=\"President Donald Trump wants the NFL to change its name so that soccer is the only sport named football. &quot;This is football, there is no question about it. We have to come up with another name for the NFL stuff.&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BreakfastTop6899\"> /u/BreakfastTop6899 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/sports/\"> r/sports </a> <br /> <span><a href=\"https://v.redd.it/5o3f9tm9gh5g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/sports/comments/1pfc5x2/president_donald_trump_wants_the_nfl_to_change/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T22:09:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Anticonsumption/comments/1pg1h8v/even_nobel_peace_got_commercialized/\"> <img alt=\"Even Nobel Peace got commercialized\" src=\"https://preview.redd.it/cihbsb5jqn5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=803635c6f617b2bec6be0899196545da6b6b8655\" title=\"Even Nobel Peace got commercialized\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Comfortablejack\"> /u/Comfortablejack </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Anticonsumption/\"> r/Anticonsumption </a> <br /> <span><a href=\"https://i.redd.it/cihbsb5jqn5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Anticonsumption/comments/1pg1h8v/even_nobel_peace_got_commercialized/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "made me chuckle",
-      "title_zh": "make me chuckle",
-      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1pf8nnz/made_me_chuckle/",
+      "title": "EU hits Elon Musk’s X with 120 million euro fine for breaching bloc’s social media law",
+      "title_zh": "欧盟对埃隆·马斯克（ Elon Musk ）的X公司处以1.2亿欧元的罚款，原因是其违反了欧盟的社交媒体",
+      "url": "https://www.reddit.com/r/news/comments/1pg1ilq/eu_hits_elon_musks_x_with_120_million_euro_fine/",
       "region": "Global",
-      "published": "2025-12-05T22:26:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pf8nnz/made_me_chuckle/\"> <img alt=\"made me chuckle\" src=\"https://preview.redd.it/4ojfckfkog5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0265545659d772a08a41291d57e340364141984f\" title=\"made me chuckle\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/secretlyswos\"> /u/secretlyswos </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MadeMeSmile/\"> r/MadeMeSmile </a> <br /> <span><a href=\"https://i.redd.it/4ojfckfkog5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pf8nnz/made_me_chuckle/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T22:11:15+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AudibleNod\"> /u/AudibleNod </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/news/\"> r/news </a> <br /> <span><a href=\"https://apnews.com/article/x-elon-musk-twitter-european-union-regulations-0a135601e050518d5aa0a0155f973177\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/news/comments/1pg1ilq/eu_hits_elon_musks_x_with_120_million_euro_fine/\">[comments]</a></span>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Minneapolis Officers Ordered to Stand up to ICE",
-      "title_zh": "明尼阿波利斯警官被命令抵抗ICE",
-      "url": "https://www.reddit.com/r/law/comments/1pfag2p/minneapolis_officers_ordered_to_stand_up_to_ice/",
+      "title": "The New Formula for Success",
+      "title_zh": "成功的新公式",
+      "url": "https://www.reddit.com/r/MurderedByWords/comments/1pg0kfb/the_new_formula_for_success/",
       "region": "Global",
-      "published": "2025-12-05T23:43:27+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/law/comments/1pfag2p/minneapolis_officers_ordered_to_stand_up_to_ice/\"> <img alt=\"Minneapolis Officers Ordered to Stand up to ICE\" src=\"https://external-preview.redd.it/syBH6f8yUNN-W3_Ih4neO5jbe-VfVpZN14jX6VWBEeg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06af0937a472a61e11c96a8075135a90425b2057\" title=\"Minneapolis Officers Ordered to Stand up to ICE\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Different-Sock-8261\"> /u/Different-Sock-8261 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/law/\"> r/law </a> <br /> <span><a href=\"https://www.ms.now/news/minneapolis-police-chief-unlawful-force-ice-jobs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/law/comments/1pfag2p/minneapolis_officers_ordered_to_stand_up_to_ice/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T21:30:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MurderedByWords/comments/1pg0kfb/the_new_formula_for_success/\"> <img alt=\"The New Formula for Success\" src=\"https://preview.redd.it/ww2qz67ijn5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f9f9d5a59a98709e7abcb1904ac6f8b7f8f2593\" title=\"The New Formula for Success\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Comfortablejack\"> /u/Comfortablejack </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MurderedByWords/\"> r/MurderedByWords </a> <br /> <span><a href=\"https://i.redd.it/ww2qz67ijn5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MurderedByWords/comments/1pg0kfb/the_new_formula_for_success/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Meirl",
-      "title_zh": "梅尔",
-      "url": "https://www.reddit.com/r/meirl/comments/1pf7t7y/meirl/",
+      "title": "At this point this guy I like a comic book villain",
+      "title_zh": "此时此刻，我喜欢这个漫画书的恶棍",
+      "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/1pg025x/at_this_point_this_guy_i_like_a_comic_book_villain/",
       "region": "Global",
-      "published": "2025-12-05T21:51:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/meirl/comments/1pf7t7y/meirl/\"> <img alt=\"Meirl\" src=\"https://preview.redd.it/fce22byeig5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3d6019222bb9d2559e1607e7e92c2336eb3ea6a\" title=\"Meirl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/worldwide762\"> /u/worldwide762 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/meirl/\"> r/meirl </a> <br /> <span><a href=\"https://i.redd.it/fce22byeig5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/meirl/comments/1pf7t7y/meirl/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T21:08:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/BlackPeopleTwitter/comments/1pg025x/at_this_point_this_guy_i_like_a_comic_book_villain/\"> <img alt=\"At this point this guy I like a comic book villain\" src=\"https://preview.redd.it/5zfmcpwlfn5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e525aca4360f27fd51fd9e232484f622629ded62\" title=\"At this point this guy I like a comic book villain\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nordicgoons\"> /u/Nordicgoons </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/BlackPeopleTwitter/\"> r/BlackPeopleTwitter </a> <br /> <span><a href=\"https://i.redd.it/5zfmcpwlfn5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/BlackPeopleTwitter/comments/1pg025x/at_this_point_this_guy_i_like_a_comic_book_villain/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Arizona congresswoman who waited 7 weeks for Mike Johnson to swear her in says she was pepper sprayed by ICE at a taco joint",
-      "title_zh": "等待7周让迈克·约翰逊宣誓就职的亚利桑那州女议员说，她在玉米饼店被冰喷洒胡椒粉",
-      "url": "https://www.reddit.com/r/politics/comments/1pf6w3f/arizona_congresswoman_who_waited_7_weeks_for_mike/",
+      "title": "Going for a hike",
+      "title_zh": "去徒步旅行",
+      "url": "https://www.reddit.com/r/Unexpected/comments/1pg5co1/going_for_a_hike/",
       "region": "Global",
-      "published": "2025-12-05T21:14:09+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/politics/comments/1pf6w3f/arizona_congresswoman_who_waited_7_weeks_for_mike/\"> <img alt=\"Arizona congresswoman who waited 7 weeks for Mike Johnson to swear her in says she was pepper sprayed by ICE at a taco joint\" src=\"https://external-preview.redd.it/PL7Tm5vuIB2i83WmTByH0iL0yjFsk3u-sAsFmVKpj6I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a424fb8eeb17ac39bdc494a0ecc6096ee074dc5\" title=\"Arizona congresswoman who waited 7 weeks for Mike Johnson to swear her in says she was pepper sprayed by ICE at a taco joint\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theindependentonline\"> /u/theindependentonline </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/politics/\"> r/politics </a> <br /> <span><a href=\"https://www.independent.co.uk/news/world/americas/us-politics/adelita-grijalva-pepper-sprayed-ice-arizona-b2879149.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/politics/comments/1pf6w3f/arizona_congresswoman_who_waited_7_weeks_for_mike/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-07T01:07:24+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/solateor\"> /u/solateor </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Unexpected/\"> r/Unexpected </a> <br /> <span><a href=\"https://v.redd.it/sw1re0hvlo5g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Unexpected/comments/1pg5co1/going_for_a_hike/\">[comments]</a></span>"
     },
     {
       "source": "Reddit r/all",
-      "title": "He came completely planned..",
-      "title_zh": "他来完全是计划好的……",
-      "url": "https://www.reddit.com/r/MurderedByWords/comments/1pfbcwp/he_came_completely_planned/",
+      "title": "He’s the senior manager of this farm",
+      "title_zh": "他是这个农场的高级经理",
+      "url": "https://www.reddit.com/r/cats/comments/1pg4fnz/hes_the_senior_manager_of_this_farm/",
       "region": "Global",
-      "published": "2025-12-06T00:24:09+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MurderedByWords/comments/1pfbcwp/he_came_completely_planned/\"> <img alt=\"He came completely planned..\" src=\"https://preview.redd.it/jzzccrmm9h5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48485510afbbbab92b78c6289beb81b684ffe2cc\" title=\"He came completely planned..\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/msdela1\"> /u/msdela1 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MurderedByWords/\"> r/MurderedByWords </a> <br /> <span><a href=\"https://i.redd.it/jzzccrmm9h5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MurderedByWords/comments/1pfbcwp/he_came_completely_planned/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-07T00:23:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/cats/comments/1pg4fnz/hes_the_senior_manager_of_this_farm/\"> <img alt=\"He’s the senior manager of this farm\" src=\"https://b.thumbs.redditmedia.com/sH9p1PQFXvI4uSX41w6UXHg2LJ-ZnUZ55FaO4a5_QxY.jpg\" title=\"He’s the senior manager of this farm\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Faiiven\"> /u/Faiiven </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/cats/\"> r/cats </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1pg4fnz\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cats/comments/1pg4fnz/hes_the_senior_manager_of_this_farm/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Two men on top of the Abraj Al-Bait in Mecca",
-      "title_zh": "麦加Abraj Al-Bait上的两名男子",
-      "url": "https://www.reddit.com/r/interesting/comments/1pf7a29/two_men_on_top_of_the_abraj_albait_in_mecca/",
+      "title": "Education Dept. asks hundreds of fired employees to temporarily return",
+      "title_zh": "教育部要求数百名被解雇的员工暂时返回",
+      "url": "https://www.reddit.com/r/politics/comments/1pg38td/education_dept_asks_hundreds_of_fired_employees/",
       "region": "Global",
-      "published": "2025-12-05T21:30:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/interesting/comments/1pf7a29/two_men_on_top_of_the_abraj_albait_in_mecca/\"> <img alt=\"Two men on top of the Abraj Al-Bait in Mecca\" src=\"https://preview.redd.it/05amemraeg5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7de29418b7fb8b1589ec37217bc0d1b4fc43e6de\" title=\"Two men on top of the Abraj Al-Bait in Mecca\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thomasdequincey99\"> /u/thomasdequincey99 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/interesting/\"> r/interesting </a> <br /> <span><a href=\"https://i.redd.it/05amemraeg5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/interesting/comments/1pf7a29/two_men_on_top_of_the_abraj_albait_in_mecca/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T23:28:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/politics/comments/1pg38td/education_dept_asks_hundreds_of_fired_employees/\"> <img alt=\"Education Dept. asks hundreds of fired employees to temporarily return\" src=\"https://external-preview.redd.it/0RwUL6K4b4m9tNnXlomYTVoXirCv9O9b6eaj-YHV6No.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0c325ad088bd776a4080c882d0994335c6c0036\" title=\"Education Dept. asks hundreds of fired employees to temporarily return\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kootles10\"> /u/kootles10 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/politics/\"> r/politics </a> <br /> <span><a href=\"https://www.indystar.com/story/news/politics/2025/12/06/education-department-civil-rights-office-trump/87643095007/?fbclid=IwdGRjcAOhm11jbGNrA6GbWmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHszGWCrFwSlj2h1lgy-EwVIVKBYOP5Szt_2dIWUchl_r7aAqjOphSrfATlqD_aem_S3m14JLtSjYFr_KzUZAn9g\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/politics/comments/1pg38td/education_dept_asks_hundreds_of_fired_employees/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "[OC] Seen at rally against I.C.E. in Minneapolis.",
-      "title_zh": "[OC]在明尼阿波利斯举行的反对ICE的集会上见过。",
-      "url": "https://www.reddit.com/r/pics/comments/1pf5bhq/oc_seen_at_rally_against_ice_in_minneapolis/",
+      "title": "Amazon CEO Jeff Bezos partying with Ghislaine Maxwell at his exclusive Campfire Retreat (2018)",
+      "title_zh": "亚马逊首席执行官杰夫·贝索斯（ Jeff Bezos ）与吉斯琳·麦克斯韦（ Ghislaine Maxwell ）在其独家Campfire Retreat",
+      "url": "https://www.reddit.com/r/pics/comments/1pg01ju/amazon_ceo_jeff_bezos_partying_with_ghislaine/",
       "region": "Global",
-      "published": "2025-12-05T20:10:39+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/pics/comments/1pf5bhq/oc_seen_at_rally_against_ice_in_minneapolis/\"> <img alt=\"[OC] Seen at rally against I.C.E. in Minneapolis.\" src=\"https://preview.redd.it/j9t8i5ie0g5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2c3f46929b747495e2d48e37c1c0666be85ba7e\" title=\"[OC] Seen at rally against I.C.E. in Minneapolis.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bennetthaselton\"> /u/bennetthaselton </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/pics/\"> r/pics </a> <br /> <span><a href=\"https://i.redd.it/j9t8i5ie0g5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/pics/comments/1pf5bhq/oc_seen_at_rally_against_ice_in_minneapolis/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T21:07:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/pics/comments/1pg01ju/amazon_ceo_jeff_bezos_partying_with_ghislaine/\"> <img alt=\"Amazon CEO Jeff Bezos partying with Ghislaine Maxwell at his exclusive Campfire Retreat (2018)\" src=\"https://preview.redd.it/hjr9t42hfn5g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2aebf943eef229fd3f5deefd8931c26fc80e905b\" title=\"Amazon CEO Jeff Bezos partying with Ghislaine Maxwell at his exclusive Campfire Retreat (2018)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/80000-gvwr\"> /u/80000-gvwr </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/pics/\"> r/pics </a> <br /> <span><a href=\"https://i.redd.it/hjr9t42hfn5g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/pics/comments/1pg01ju/amazon_ceo_jeff_bezos_partying_with_ghislaine/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1380, Part 1 (Thread #1527)",
-      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1380天，第1部分（主题# 1527 ）",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pel9ru/rworldnews_live_thread_russian_invasion_of/",
+      "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1381, Part 1 (Thread #1528)",
+      "title_zh": "/r/WorldNews实时主题：俄罗斯入侵乌克兰第1381天，第1部分（主题# 1528 ）",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pffsqq/rworldnews_live_thread_russian_invasion_of/",
       "region": "Global",
-      "published": "2025-12-05T04:02:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pel9ru/rworldnews_live_thread_russian_invasion_of/\"> <img alt=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1380, Part 1 (Thread #1527)\" src=\"https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg\" title=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1380, Part 1 (Thread #1527)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WorldNewsMods\"> /u/WorldNewsMods </a> <br /> <span><a href=\"https://www.reddit.com/live/18hnzysb1elcs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pel9ru/rworldnews_live_thread_russian_invasion_of/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T04:02:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pffsqq/rworldnews_live_thread_russian_invasion_of/\"> <img alt=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1381, Part 1 (Thread #1528)\" src=\"https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg\" title=\"/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1381, Part 1 (Thread #1528)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WorldNewsMods\"> /u/WorldNewsMods </a> <br /> <span><a href=\"https://www.reddit.com/live/18hnzysb1elcs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pffsqq/rworldnews_live_thread_russian_invasion_of/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Putin arrest warrant will stand even if US-led peace talks agree Ukraine amnesty, ICC prosecutors say",
-      "title_zh": "国际刑事法院检察官说，即使美国领导的和平谈判同意乌克兰大赦，普京的逮捕令仍然有效",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pf4u8t/putin_arrest_warrant_will_stand_even_if_usled/",
+      "title": "Ukraine will not accept any peace deal requiring territorial concessions, Syrskyi tells UK broadcaster",
+      "title_zh": "乌克兰不会接受任何需要领土让步的和平协议， Syrskyi告诉英国广播公司",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg1960/ukraine_will_not_accept_any_peace_deal_requiring/",
       "region": "Global",
-      "published": "2025-12-05T19:51:55+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Raj_Valiant3011\"> /u/Raj_Valiant3011 </a> <br /> <span><a href=\"https://www.reuters.com/world/putin-arrest-warrant-will-stand-even-if-us-led-peace-talks-agree-ukraine-amnesty-2025-12-05/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pf4u8t/putin_arrest_warrant_will_stand_even_if_usled/\">[comments]</a></span>"
+      "published": "2025-12-06T22:00:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pg1960/ukraine_will_not_accept_any_peace_deal_requiring/\"> <img alt=\"Ukraine will not accept any peace deal requiring territorial concessions, Syrskyi tells UK broadcaster\" src=\"https://external-preview.redd.it/scY6Sn4bjcQM9dLGeZNlWqrqkrbT7gwEbD_MixvQ1Vg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9184f5c3747d39558e32232fea3e7ebdc89dadb\" title=\"Ukraine will not accept any peace deal requiring territorial concessions, Syrskyi tells UK broadcaster\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Serenes-Smile\"> /u/Serenes-Smile </a> <br /> <span><a href=\"https://kyivindependent.com/ukraine-will-not-accept-any-peace-deal-requiring-territorial-concessions-syrskyi-tells-uk-broadcaster/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg1960/ukraine_will_not_accept_any_peace_deal_requiring/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "French navy shoots at 5 drones buzzing nuclear submarine base, AFP reports",
-      "title_zh": "法新社报道，法国海军向核潜艇基地嗡嗡作响的5架无人机射击",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pf0zq0/french_navy_shoots_at_5_drones_buzzing_nuclear/",
+      "title": "Chernobyl radiation shield has stopped working after Russian drone strikes, UN warns",
+      "title_zh": "联合国警告说，俄罗斯无人机袭击后，切尔诺贝利辐射防护罩已停止工作",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pfsf06/chernobyl_radiation_shield_has_stopped_working/",
       "region": "Global",
-      "published": "2025-12-05T17:23:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pf0zq0/french_navy_shoots_at_5_drones_buzzing_nuclear/\"> <img alt=\"French navy shoots at 5 drones buzzing nuclear submarine base, AFP reports\" src=\"https://external-preview.redd.it/4LLlwHk3QqCWAJWGz2z5ZrMaQp_raCkQTnFTHfHBTi0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79f1200fde5920497e14d16e3933f12d26bd11db\" title=\"French navy shoots at 5 drones buzzing nuclear submarine base, AFP reports\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BringbackDreamBars\"> /u/BringbackDreamBars </a> <br /> <span><a href=\"https://www.politico.eu/article/drones-france-nuclear-submarine-base-reports/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pf0zq0/french_navy_shoots_at_5_drones_buzzing_nuclear/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T15:49:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pfsf06/chernobyl_radiation_shield_has_stopped_working/\"> <img alt=\"Chernobyl radiation shield has stopped working after Russian drone strikes, UN warns\" src=\"https://external-preview.redd.it/hJWS12EDTLQlYi08dX6ed-3O_2AD0MHHs-8xkWrWkHg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64a9404c6da27da97e902b9a8badab1ad66c6c50\" title=\"Chernobyl radiation shield has stopped working after Russian drone strikes, UN warns\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EsperaDeus\"> /u/EsperaDeus </a> <br /> <span><a href=\"https://www.politico.eu/article/chernobyl-radiation-shield-has-stopped-working-after-russian-drone-strikes-un-warns/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pfsf06/chernobyl_radiation_shield_has_stopped_working/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Sweden to cut development aid to five countries, divert money to Ukraine",
-      "title_zh": "瑞典削减对五个国家的发展援助，将资金转移到乌克兰",
-      "url": "https://www.reddit.com/r/worldnews/comments/1petwml/sweden_to_cut_development_aid_to_five_countries/",
+      "title": "Ukraine’s Intelligence Hackers Cripple Major Russian Logistics Network",
+      "title_zh": "乌克兰情报黑客瘫痪俄罗斯主要物流网络",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg0ixj/ukraines_intelligence_hackers_cripple_major/",
       "region": "Global",
-      "published": "2025-12-05T12:32:57+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Brennenstein\"> /u/Brennenstein </a> <br /> <span><a href=\"https://www.reuters.com/world/americas/sweden-cut-development-aid-five-countries-divert-money-ukraine-2025-12-05/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1petwml/sweden_to_cut_development_aid_to_five_countries/\">[comments]</a></span>"
+      "published": "2025-12-06T21:28:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pg0ixj/ukraines_intelligence_hackers_cripple_major/\"> <img alt=\"Ukraine’s Intelligence Hackers Cripple Major Russian Logistics Network\" src=\"https://external-preview.redd.it/XwSK0IFalosfSDD8ssnKpoCBBKdcjsikz7CuL_b_VCk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=502a8a4e41b2636bcf617e15b47fade13b061e7a\" title=\"Ukraine’s Intelligence Hackers Cripple Major Russian Logistics Network\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jackytheblade\"> /u/jackytheblade </a> <br /> <span><a href=\"https://www.kyivpost.com/post/65728\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg0ixj/ukraines_intelligence_hackers_cripple_major/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Russian Troops Shoot Ukrainian POW in Donetsk Region Moments After Surrendering",
-      "title_zh": "俄罗斯军队在投降后不久在顿涅茨克州射击乌克兰战俘",
-      "url": "https://www.reddit.com/r/worldnews/comments/1perf6v/russian_troops_shoot_ukrainian_pow_in_donetsk/",
+      "title": "\"The US continues to buy nuclear fuel from us for their nuclear power plants.\" - Putin",
+      "title_zh": "“美国继续从我们这里为他们的核电站购买核燃料。” -普京",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg5wrg/the_us_continues_to_buy_nuclear_fuel_from_us_for/",
       "region": "Global",
-      "published": "2025-12-05T10:10:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1perf6v/russian_troops_shoot_ukrainian_pow_in_donetsk/\"> <img alt=\"Russian Troops Shoot Ukrainian POW in Donetsk Region Moments After Surrendering\" src=\"https://external-preview.redd.it/v7COfcHluQ71V5AO2BKvWxuEIqr9gEcd6ZS2ZOH8Dvg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8267eb4431c432f40468d06cb2fbab76b1df3088\" title=\"Russian Troops Shoot Ukrainian POW in Donetsk Region Moments After Surrendering\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UNITED24Media\"> /u/UNITED24Media </a> <br /> <span><a href=\"https://united24media.com/latest-news/russian-troops-shoot-ukrainian-pow-in-donetsk-region-moments-after-surrendering-14042\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1perf6v/russian_troops_shoot_ukrainian_pow_in_donetsk/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-07T01:35:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pg5wrg/the_us_continues_to_buy_nuclear_fuel_from_us_for/\"> <img alt=\"&quot;The US continues to buy nuclear fuel from us for their nuclear power plants.&quot; - Putin\" src=\"https://external-preview.redd.it/wS32t_UrQ0ooxxnln70UgZUoNwYufe1SbryDqtZqY2c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c632b521038981bcab311d75b97f77a36e39b9f3\" title=\"&quot;The US continues to buy nuclear fuel from us for their nuclear power plants.&quot; - Putin\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/chodyou\"> /u/chodyou </a> <br /> <span><a href=\"https://www.indiatoday.in/india/story/if-us-has-right-to-buy-fuel-from-us-why-shouldnt-india-have-the-same-privilege-putin-calls-out-hypocrisy-2830923-2025-12-04\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg5wrg/the_us_continues_to_buy_nuclear_fuel_from_us_for/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "EU defense chief: Stop relying on Washington and craft our own peace plan – POLITICO",
-      "title_zh": "欧盟国防部长：停止依赖华盛顿，制定我们自己的和平计划-Politico",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pf5i3z/eu_defense_chief_stop_relying_on_washington_and/",
+      "title": "Chinese jets directed fire-control radar at Japanese aircraft, Japan says",
+      "title_zh": "日本称中国喷气式飞机将火控雷达对准日本飞机",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg6j69/chinese_jets_directed_firecontrol_radar_at/",
       "region": "Global",
-      "published": "2025-12-05T20:18:04+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Delicate-Mistress\"> /u/Delicate-Mistress </a> <br /> <span><a href=\"https://euromaidanpress.com/2025/12/05/eu-defense-chief-europe-must-develop-its-own-ukraine-peace-plan/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pf5i3z/eu_defense_chief_stop_relying_on_washington_and/\">[comments]</a></span>"
+      "published": "2025-12-07T02:06:24+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Any-Stick-8732\"> /u/Any-Stick-8732 </a> <br /> <span><a href=\"https://www.reuters.com/world/china/chinese-fighter-jets-directed-radar-japanese-aircraft-japan-says-2025-12-06/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg6j69/chinese_jets_directed_firecontrol_radar_at/\">[comments]</a></span>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Trump is meeting Mexican President Sheinbaum in person for the first time at World Cup draw",
-      "title_zh": "特朗普在世界杯抽签中首次亲自会见墨西哥总统谢因鲍姆",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pf2v98/trump_is_meeting_mexican_president_sheinbaum_in/",
+      "title": "Average price of rice in Japan hits new record high",
+      "title_zh": "日本大米平均价格创历史新高",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pfx9l4/average_price_of_rice_in_japan_hits_new_record/",
       "region": "Global",
-      "published": "2025-12-05T18:34:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pf2v98/trump_is_meeting_mexican_president_sheinbaum_in/\"> <img alt=\"Trump is meeting Mexican President Sheinbaum in person for the first time at World Cup draw\" src=\"https://external-preview.redd.it/Y6sk9WZPHGcvTjMe9sNiGy1PGqmtRvnruUu8jDqrpKs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b3f3e57b24341530327cd87a79d9a02f051f73c\" title=\"Trump is meeting Mexican President Sheinbaum in person for the first time at World Cup draw\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Not-Somebody-Famous\"> /u/Not-Somebody-Famous </a> <br /> <span><a href=\"https://apnews.com/article/trump-sheinbaum-meeting-world-cup-immigration-tariffs-9b3a3ab0e64ba435ce312c32dba9f70f\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pf2v98/trump_is_meeting_mexican_president_sheinbaum_in/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T19:09:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pfx9l4/average_price_of_rice_in_japan_hits_new_record/\"> <img alt=\"Average price of rice in Japan hits new record high\" src=\"https://external-preview.redd.it/aUm7MdVfFfQm9sV3vX-hTv8jHw5GXnZazyoQAgT_h2k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=51e6804af43cee914925a2d6144d0f11b9ca67bb\" title=\"Average price of rice in Japan hits new record high\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bkun9\"> /u/bkun9 </a> <br /> <span><a href=\"https://www.japantimes.co.jp/business/2025/12/06/average-rice-price-new-high/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pfx9l4/average_price_of_rice_in_japan_hits_new_record/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Germany votes to bring back voluntary military service programme for 18-year-olds",
-      "title_zh": "德国投票决定恢复18岁志愿兵役计划",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pewe2a/germany_votes_to_bring_back_voluntary_military/",
+      "title": "Russia unleashes massive drone and missile attack on Ukraine | CBC News",
+      "title_zh": "俄罗斯对乌克兰发动大规模无人机和导弹袭击| CBC新闻",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg0jn8/russia_unleashes_massive_drone_and_missile_attack/",
       "region": "Global",
-      "published": "2025-12-05T14:24:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pewe2a/germany_votes_to_bring_back_voluntary_military/\"> <img alt=\"Germany votes to bring back voluntary military service programme for 18-year-olds\" src=\"https://external-preview.redd.it/zG0F8fYqNswMwRpY-zbwjI7H07JRVZ-UfK5YCVpQrwQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9b2704d3c0eb4c00a2f8f2c25565a8c625eaeaf\" title=\"Germany votes to bring back voluntary military service programme for 18-year-olds\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pheexio\"> /u/pheexio </a> <br /> <span><a href=\"https://www.bbc.com/news/articles/ckg9drg8pg1o\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pewe2a/germany_votes_to_bring_back_voluntary_military/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T21:29:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pg0jn8/russia_unleashes_massive_drone_and_missile_attack/\"> <img alt=\"Russia unleashes massive drone and missile attack on Ukraine | CBC News\" src=\"https://external-preview.redd.it/cm8QKRlABP2LgMcSAYHvfPgi511MZkTIx6P297zhxOI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0cf31d9e3eed1f845570423faa45a21894c20bda\" title=\"Russia unleashes massive drone and missile attack on Ukraine | CBC News\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BusyHands_\"> /u/BusyHands_ </a> <br /> <span><a href=\"https://www.cbc.ca/news/world/russia-ukraine-attacks-amid-diplomatic-talks-9.7005804\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg0jn8/russia_unleashes_massive_drone_and_missile_attack/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Canada's unemployment rate fell to 6.5% in November, a steep drop from previous month",
-      "title_zh": "加拿大11月失业率降至6.5% ，较上月大幅下降",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pf1mah/canadas_unemployment_rate_fell_to_65_in_november/",
+      "title": "Bombed Chornobyl shelter no longer blocks radiation and needs major repair – IAEA",
+      "title_zh": "切尔诺贝利轰炸掩体不再阻挡辐射，需要大修–国际原子能机构",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pfihc5/bombed_chornobyl_shelter_no_longer_blocks/",
       "region": "Global",
-      "published": "2025-12-05T17:47:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pf1mah/canadas_unemployment_rate_fell_to_65_in_november/\"> <img alt=\"Canada's unemployment rate fell to 6.5% in November, a steep drop from previous month\" src=\"https://external-preview.redd.it/zx7cBdYRUZNSKPA6yqpwdT138bJ5sXZAsxuB2kIU_rk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f39a66e076fc6d6b24a2323ebdeaea133765c37d\" title=\"Canada's unemployment rate fell to 6.5% in November, a steep drop from previous month\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Immediate-Link490\"> /u/Immediate-Link490 </a> <br /> <span><a href=\"https://www.cbc.ca/news/business/canada-economy-jobs-november-2025-9.7004228\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pf1mah/canadas_unemployment_rate_fell_to_65_in_november/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-06T06:33:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pfihc5/bombed_chornobyl_shelter_no_longer_blocks/\"> <img alt=\"Bombed Chornobyl shelter no longer blocks radiation and needs major repair – IAEA\" src=\"https://external-preview.redd.it/GcvalAS4zF6fiKfs96UaxzHHHS4Nj3OgcstgH_l5Q3w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32acf23d9c1da1e0207bd8e4ba929a2515df9e52\" title=\"Bombed Chornobyl shelter no longer blocks radiation and needs major repair – IAEA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/apple_kicks\"> /u/apple_kicks </a> <br /> <span><a href=\"https://www.theguardian.com/world/2025/dec/06/chornobyl-disaster-shelter-no-longer-blocks-radiation-and-needs-major-repair-iaea\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pfihc5/bombed_chornobyl_shelter_no_longer_blocks/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "EU slaps €120M fine on Elon Musk’s X, straining ties with US",
-      "title_zh": "欧盟对埃隆·马斯克的X罚款1.2亿欧元，加剧了与美国的关系",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pesuna/eu_slaps_120m_fine_on_elon_musks_x_straining_ties/",
+      "title": "NATO fighters scrambled in Poland as Russia bombards Ukraine",
+      "title_zh": "俄罗斯轰炸乌克兰时，北约战斗机在波兰紧急起飞",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pg7zgk/nato_fighters_scrambled_in_poland_as_russia/",
       "region": "Global",
-      "published": "2025-12-05T11:37:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pesuna/eu_slaps_120m_fine_on_elon_musks_x_straining_ties/\"> <img alt=\"EU slaps €120M fine on Elon Musk’s X, straining ties with US\" src=\"https://external-preview.redd.it/ayOgA-_VWlf79jRAB5LNkPhNqNRyml3-O2vcj7ZCij0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f0abe2d5f1de1edcf7a8fb079346b53d6b8721a\" title=\"EU slaps €120M fine on Elon Musk’s X, straining ties with US\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sweet-Cuties\"> /u/Sweet-Cuties </a> <br /> <span><a href=\"https://www.politico.eu/article/eu-slaps-e120m-fine-on-x-straining-ties-with-us/?utm_source=RSS_Feed&amp;utm_medium=RSS&amp;utm_campaign=RSS_Syndication\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pesuna/eu_slaps_120m_fine_on_elon_musks_x_straining_ties/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-07T03:19:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pg7zgk/nato_fighters_scrambled_in_poland_as_russia/\"> <img alt=\"NATO fighters scrambled in Poland as Russia bombards Ukraine\" src=\"https://external-preview.redd.it/5LVGU4obZiMQJgcNI9-a6j7IYGQOMCOWCxbeg2g3w4o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=375d7836b3b617a4f1127b397c61f6d3f658a7e8\" title=\"NATO fighters scrambled in Poland as Russia bombards Ukraine\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dependent_Cap_456\"> /u/Dependent_Cap_456 </a> <br /> <span><a href=\"https://abcnews.go.com/International/nato-fighters-scrambled-poland-russia-bombards-ukraine/story?id=128167479\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pg7zgk/nato_fighters_scrambled_in_poland_as_russia/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
+      "title_zh": "Pat Gelsinger想在联邦调查局的帮助下拯救摩尔定律",
+      "url": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/",
+      "region": "Global",
+      "published": "Sun, 07 Dec 2025 00:18:51 +0000",
+      "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Meta reportedly delays mixed reality glasses until 2027",
+      "title_zh": "据报道， Meta将混合现实眼镜推迟到2027年",
+      "url": "https://techcrunch.com/2025/12/06/meta-reportedly-delays-mixed-reality-glasses-until-2027/",
+      "region": "Global",
+      "published": "Sat, 06 Dec 2025 21:24:35 +0000",
+      "summary": "aMeta lready sells VR headsets and Ray-Ban smart glasses, but these new glasses sound a bit different. Their format factor would reportedly be similar to the Apple Vision Pro, with a puck-like power source."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Is it time to ‘refound’ your startup?",
+      "title_zh": "是时候“重塑”你的创业公司了吗？",
+      "url": "https://techcrunch.com/2025/12/06/is-it-time-to-refound-your-startup/",
+      "region": "Global",
+      "published": "Sat, 06 Dec 2025 19:44:37 +0000",
+      "summary": "Sometimes, founding a startup just once isn’t enough."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "How would the Netflix-Warner Bros. deal reshape Hollywood?",
+      "title_zh": "Netflix-Warner Bros.交易将如何重塑好莱坞？",
+      "url": "https://techcrunch.com/2025/12/06/how-would-the-netflix-warner-bros-deal-reshape-hollywood/",
+      "region": "Global",
+      "published": "Sat, 06 Dec 2025 18:38:53 +0000",
+      "summary": "It’s only been a day since Netflix announced an $82.7 billion deal to acquire Warner Bros., and the acquisition has already been described as sending Hollywood into “full-blown panic mode,” “possibly a death blow to theatrical filmmaking,” and maybe even “the end of Hollywood” itself."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Creator IShowSpeed sued for allegedly punching, choking viral humanoid Rizzbot",
+      "title_zh": "创作者IShowSpeed因涉嫌殴打、窒息病毒人形机器人Rizzbot而被起诉",
+      "url": "https://techcrunch.com/2025/12/06/creator-ishowspeed-sued-for-allegedly-punching-choking-viral-humanoid-rizzbot/",
+      "region": "Global",
+      "published": "Sat, 06 Dec 2025 17:00:00 +0000",
+      "summary": "Creator IShowSpeed sued after punching, choking viral humanoid Rizzbot."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "After you check out your Spotify Wrapped 2025, explore these copycats",
+      "title_zh": "查看您的Spotify Wrapped 2025后，请浏览这些模仿者",
+      "url": "https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/",
+      "region": "Global",
+      "published": "Sat, 06 Dec 2025 14:00:00 +0000",
+      "summary": "Spotify’s annual Wrapped feature just dropped, giving listeners a fun, personalized summary of their listening habits. It has gained immense popularity over the years, and as a result, many companies have seized the opportunity to create similar year-in-review experiences, offering users a recap of their habits, preferences, or interactions from the past year. Here are [&#8230;]"
     },
     {
       "source": "TechCrunch",
@@ -383,58 +437,58 @@
       "summary": "The voluntary recall comes as scrutiny by federal regulators and local school district officials increases."
     },
     {
-      "source": "TechCrunch",
-      "title": "AWS needs you to believe in AI agents",
-      "title_zh": "AWS需要您相信AI代理",
-      "url": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+      "source": "The Verge",
+      "title": "Apple’s chip chief might be the next exec to leave",
+      "title_zh": "苹果芯片主管可能是下一个离职的高管",
+      "url": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 22:00:00 +0000",
-      "summary": "AWS announced a wave of new AI agent tools at re:Invent 2025, but can Amazon actually catch up to the AI leaders? While the cloud giant is betting big on enterprise AI with its third-gen chip and database discounts that got developers cheering, it&#8217;s still fighting to prove it can compete beyond infrastructure.&#160; This week [&#8230;]"
+      "published": "2025-12-06T14:55:52-05:00",
+      "summary": "Bloomberg’s Mark Gurman is reporting that Johny Srouji, senior vice president of hardware technologies, told Tim Cook he is “seriously considering” leaving Apple for another company in the near future. It was reported in October that Srouji was “evaluating his future at the tech giant.” While nothing is confirmed, it seems the executive is leaning [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Feds find more complaints of Tesla’s FSD running red lights and crossing lanes",
-      "title_zh": "联邦调查局发现更多关于特斯拉FSD闯红灯和穿越车道的投诉",
-      "url": "https://techcrunch.com/2025/12/05/feds-find-more-complaints-of-teslas-fsd-running-red-lights-and-crossing-lanes/",
+      "source": "The Verge",
+      "title": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
+      "title_zh": "Nintendo Switch 2和Ninja's Creami是本周最好的交易",
+      "url": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:46:32 +0000",
-      "summary": "The National Highway Traffic Safety Administration has identified at least 80 incidents."
+      "published": "2025-12-06T12:00:00-05:00",
+      "summary": "Cyber week has just about wrapped up, but there are still some amazing Cyber Monday leftovers that you can save money on. The one deal we can’t stop telling readers about is the unexpected $50 discount on Nintendo’s Switch 2 console bundle that includes Mario Kart World, bringing it down to $449.99 (was $499.99). Currently, [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "This startup built a Fitbit for your brain to combat chronic stress",
-      "title_zh": "这家初创公司为你的大脑构建了一个Fitbit来对抗慢性压力",
-      "url": "https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/",
+      "source": "The Verge",
+      "title": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+      "title_zh": "科技界正在沉浸在多年来最令人兴奋的蓝牙功能上",
+      "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:07:52 +0000",
-      "summary": "Forenza collaborated with data scientists and biomedical engineers to develop Awear, a small device worn behind the ear for continuous brainwave monitoring. The device transmits results to an app, which provides information about the wearer’s mood and offers AI-powered coaching advice for managing stress and improving emotional resilience."
+      "published": "2025-12-06T11:00:00-05:00",
+      "summary": "It's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is connect to the right broadcast. [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "SpaceX reportedly in talks for secondary sale at $800B valuation, which would make it America’s most valuable private company",
-      "title_zh": "据报道， SpaceX正在就以8000亿美元的估值进行二次出售进行谈判，这将使其成为美国最有价值的私营公司",
-      "url": "https://techcrunch.com/2025/12/05/spacex-reportedly-in-talks-for-secondary-sale-at-800b-valuation-which-would-make-it-americas-most-valuable-private-company/",
+      "source": "The Verge",
+      "title": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
+      "title_zh": "《广告狂人》的特效工头还没见过臭名昭著的4K重制版",
+      "url": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:04:40 +0000",
-      "summary": "The eye-popping figure reflects how routine mega-valuations have become in private markets."
+      "published": "2025-12-06T10:00:00-05:00",
+      "summary": "Everyone had a good laugh at HBO Max this week when the new 4K Mad Men remaster debuted with a number of glaring errors that should have been caught before the show was uploaded to the streamer's servers. Episodes went live with incorrect titles, and in one instance you could still see members of the [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Meta acquires AI device startup Limitless",
-      "title_zh": "Meta收购AI设备启动Limitless",
-      "url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "source": "The Verge",
+      "title": "AI ‘creators’ might just crash the influencer economy",
+      "title_zh": "人工智能“创作者”可能会使网红经济崩溃",
+      "url": "https://www.theverge.com/entertainment/839494/ai-literacy-tiktok",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:02:13 +0000",
-      "summary": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone."
+      "published": "2025-12-06T09:30:37-05:00",
+      "summary": "It was only in June that Jeremy Carrasco uploaded his first videos to TikTok and Instagram. In that short time, he's amassed over 300,000 followers on each platform. No, it's not exactly Charli D'Amelio numbers, but that does make him one of the biggest names in AI literacy on social media. Jeremy told The Verge [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "ChatGPT’s user growth has slowed, report finds",
-      "title_zh": "报告发现， ChatGPT的用户增长放缓",
-      "url": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
+      "source": "The Verge",
+      "title": "Horses deserves to be played, even if it&#8217;s not very good",
+      "title_zh": "马匹值得玩，即使它不是很好",
+      "url": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 20:06:03 +0000",
-      "summary": "ChatGPT's global monthly active users only grew by around 5% from August to November, while Gemini's users grew by about 30%."
+      "published": "2025-12-06T09:00:00-05:00",
+      "summary": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a bestseller on GOG.com, and has brought gamers of all stripes together in support of it. But as a game, [&#8230;]"
     },
     {
       "source": "The Verge",
@@ -473,328 +527,274 @@
       "summary": "Disney is bringing a “newly restored version” of the original, 1977 theatrical cut of Star Wars back to theaters on February 19th, 2027. It will only be available in theaters for “a limited time,” Disney says, and it’s being released as part of “Lucasfilm’s yearlong 50th anniversary celebration” for the franchise. Tickets aren’t on sale [&#8230;]"
     },
     {
-      "source": "The Verge",
-      "title": "Pantone’s ‘Cloud Dancer’ color party is a recession indicator",
-      "title_zh": "Pantone的“云舞者”色彩派对是经济衰退的指标",
-      "url": "https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party",
+      "source": "Product Hunt",
+      "title": "TruGen AI",
+      "title_zh": "TruGen AI",
+      "url": "https://www.producthunt.com/products/trugen-ai",
       "region": "Global",
-      "published": "2025-12-05T14:59:54-05:00",
-      "summary": "Pantone's color of the year for 2026 is white - sorry, Cloud Dancer. Pantone announced the shade on Thursday, and describes it as a \"discrete white hue offering a promise of clarity.\" The accompanying image shows a person with cropped hair in billowy white clothing, arms outstretched over a background of clouds. \"PANTONE 11-4201 Cloud [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Trump Mobile’s refurbished iPhones are an unsurprisingly bad deal",
-      "title_zh": "特朗普移动的翻新iPhone是一个出乎意料的糟糕交易",
-      "url": "https://www.theverge.com/report/839123/trump-mobile-refurbished-iphones-galaxy-phones-apple-samsung",
-      "region": "Global",
-      "published": "2025-12-05T14:34:38-05:00",
-      "summary": "It's been well established that the Trump Phone doesn't exist. But that isn't the only phone Trump Mobile sells. It also offers a range of refurbished Apple and Samsung handsets that you can buy right now. You really shouldn't though. I was relieved reading Allison's coverage over the last two weeks to discover that not [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Horses is a hit, but its studio might still be in trouble",
-      "title_zh": "马匹很受欢迎，但它的工作室可能仍然有麻烦",
-      "url": "https://www.theverge.com/news/839164/horses-interview-santa-ragione-steam-ban-censorship",
-      "region": "Global",
-      "published": "2025-12-05T14:00:31-05:00",
-      "summary": "After indie narrative horror game Horses was banned from Steam two years ago, it put the studio, Santa Ragione, at risk of closure. Studio cofounder and Horses producer Pietro Righi Riva had to make a difficult phone call to the game’s director, Italian filmmaker Andrea Lucco Borlera. “I was terrified for him,” Riva said in [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Chrome can now autofill details from your Google account",
-      "title_zh": "Chrome浏览器现在可以从您的Google帐户自动填充详细信息",
-      "url": "https://www.theverge.com/news/838987/google-chrome-android-ios-desktop-autofill-account-wallet",
-      "region": "Global",
-      "published": "2025-12-05T14:00:00-05:00",
-      "summary": "Google has announced several autofill improvements being rolled out to the mobile and desktop versions of Chrome. The updates will give autofill access to more of your data from places like Google Wallet and make it easier to select the right info a form is asking for when there are multiple suggestions. Autofill can now [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "You can now use Pixel phones as a Switch 2 webcam",
-      "title_zh": "您现在可以将Pixel手机用作Switch 2网络摄像头",
-      "url": "https://www.theverge.com/news/839133/google-pixel-smartphone-nintendo-switch-2-webcam",
-      "region": "Global",
-      "published": "2025-12-05T13:46:37-05:00",
-      "summary": "When it launched the Switch 2’s compatibility with various webcams was hit or miss. A webcam isn’t a necessary accessory, but since the Switch 2 lacks one of its own, you need one to take full advantage of the console’s GameChat feature that can livestream players’ faces during multiplayer matches. Switch 2 webcam compatibility has [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "The Luigi Mangione trial is all about narrative control",
-      "title_zh": "路易吉·曼乔内（ Luigi Mangione ）的试验完全是关于叙事控制",
-      "url": "https://www.theverge.com/policy/839054/luigi-mangione-evidence-suppression-new-york-internet-fandom-media",
-      "region": "Global",
-      "published": "2025-12-05T13:30:00-05:00",
-      "summary": "On Monday, several dozen members of the public are lined up outside 100 Centre Street in Lower Manhattan, hoping to squeeze into the courtroom to hear testimony from witnesses called by the state against Luigi Mangione - the man accused of shooting and killing UnitedHealthcare CEO Brian Thompson a year ago. Despite the endless news [&#8230;]"
+      "published": "2025-09-28T13:30:45-07:00",
+      "summary": "<p>\n            Bringing AI to Life with Human-Like Video Agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/trugen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1020976?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Orca",
-      "title_zh": "虎鯨",
-      "url": "https://www.producthunt.com/products/orca-3",
+      "title": "Cravit",
+      "title_zh": "Cravit",
+      "url": "https://www.producthunt.com/products/cravit",
       "region": "Global",
-      "published": "2025-12-04T16:08:45-08:00",
-      "summary": "<p>\n            AI Agent for Game Development\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orca-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046286?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-05T04:07:19-08:00",
+      "summary": "<p>\n            Discover new places through food missions with friends\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cravit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046493?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Kalycs",
-      "title_zh": "Kalycs",
-      "url": "https://www.producthunt.com/products/kalycs",
+      "title": "Proofly",
+      "title_zh": "Proofly",
+      "url": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader",
       "region": "Global",
-      "published": "2025-12-03T10:56:43-08:00",
-      "summary": "<p>\n            AI File Search & Organization on mac (local-first)\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kalycs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045707?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-05T01:46:23-08:00",
+      "summary": "<p>\n            Private AI proofreading that runs 100% on your device\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/proofly-on-device-ai-proofreader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046434?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Index for ChatGPT",
-      "title_zh": "ChatGPT索引",
-      "url": "https://www.producthunt.com/products/index-for-chatgpt",
+      "title": "Bean Recipe Adapt",
+      "title_zh": "豆类食谱改编",
+      "url": "https://www.producthunt.com/products/bean-2",
       "region": "Global",
-      "published": "2025-12-04T04:07:44-08:00",
-      "summary": "<p>\n            Auto table of contents for long ChatGPT conversations\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/index-for-chatgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046057?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-11-18T13:40:33-08:00",
+      "summary": "<p>\n            Tell Bean what to change and it updates recipe in realtime\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bean-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1039749?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Johari Window",
-      "title_zh": "Johari Window",
-      "url": "https://www.producthunt.com/products/johari-window",
+      "title": "Walk Mate",
+      "title_zh": "Walk Mate",
+      "url": "https://www.producthunt.com/products/walk-mate-daily-walk-routes",
       "region": "Global",
-      "published": "2025-11-21T06:54:13-08:00",
-      "summary": "<p>\n            Know Yourself Better\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/johari-window?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040865?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-02T13:41:04-08:00",
+      "summary": "<p>\n            Discover new walk paths while staying active.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/walk-mate-daily-walk-routes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045270?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Documentation.AI",
-      "title_zh": "Documentation.AI",
-      "url": "https://www.producthunt.com/products/documentation-ai",
+      "title": "Eureka",
+      "title_zh": "Eureka",
+      "url": "https://www.producthunt.com/products/eureka-4",
       "region": "Global",
-      "published": "2025-09-11T04:08:38-07:00",
-      "summary": "<p>\n            Build and update product documentation effortlessly with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/documentation-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1015226?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-05T11:17:58-08:00",
+      "summary": "<p>\n            Turn any knowledge into an explorable visual map, AI-powered\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/eureka-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046648?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Bun",
-      "title_zh": "小圆面包",
-      "url": "https://www.producthunt.com/products/bun-4",
+      "title": "Linkie",
+      "title_zh": "LINKIE",
+      "url": "https://www.producthunt.com/products/linkie-2",
       "region": "Global",
-      "published": "2025-12-04T06:34:41-08:00",
-      "summary": "<p>\n            A fast JS runtime Node.js replacement with built‑in tools\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bun-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046117?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-05T16:09:36-08:00",
+      "summary": "<p>\n            Your link-in-bio platform\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/linkie-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046704?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Gemini 3 Deep Think by Google",
-      "title_zh": "谷歌的Gemini 3 Deep Think",
-      "url": "https://www.producthunt.com/products/gemini-3-deep-think-by-google",
+      "title": "Browser Use Skills",
+      "title_zh": "浏览器使用技巧",
+      "url": "https://www.producthunt.com/products/browser-use",
       "region": "Global",
-      "published": "2025-12-04T11:23:51-08:00",
-      "summary": "<p>\n            Google’s best model for logical thinking and understanding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-3-deep-think-by-google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046222?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-05T05:11:52-08:00",
+      "summary": "<p>\n            Turn any website into a reliable API with 1 prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046514?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "8bitcn/ui",
-      "title_zh": "8bitcn/ui",
-      "url": "https://www.producthunt.com/products/8bitcn",
+      "title": "Haven",
+      "title_zh": "桃源",
+      "url": "https://www.producthunt.com/products/haven-8",
       "region": "Global",
-      "published": "2025-12-01T13:02:23-08:00",
-      "summary": "<p>\n            8‑bit UI components that work in any framework\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/8bitcn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1044782?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-11-19T13:59:29-08:00",
+      "summary": "<p>\n            Start with Haven. Bank with Confidence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/haven-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1040179?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Better Logger",
-      "title_zh": "更好的记录器",
-      "url": "https://www.producthunt.com/products/better-logger",
+      "title": "Ariel AI by Roamcalm",
+      "title_zh": "Roamcalm的Ariel AI",
+      "url": "https://www.producthunt.com/products/roamcalm",
       "region": "Global",
-      "published": "2025-12-04T04:27:06-08:00",
-      "summary": "<p>\n            Modern MacOS Log viewer for iOS developers with MCP support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/better-logger?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046070?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Talk Coach",
-      "title_zh": "AI Talk教练",
-      "url": "https://www.producthunt.com/products/ai-talk-coach",
-      "region": "Global",
-      "published": "2025-12-04T00:04:34-08:00",
-      "summary": "<p>\n            Your personal communication coach! \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-talk-coach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1045949?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-11-30T00:21:57-08:00",
+      "summary": "<p>\n            Turn your booking emails into travel itineraries\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/roamcalm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1044069?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
-      "title": "Putin says Russia ready to supply 'uninterrupted' fuel to India",
-      "title_zh": "普京表示，俄罗斯准备向印度供应“不间断”的燃料",
-      "url": "https://www.bbc.com/news/articles/c4g482m3yyzo?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky signals progress in talks with US on peace plan",
+      "title_zh": "泽伦斯基标志着与美国就和平计划进行谈判取得进展",
+      "url": "https://www.bbc.com/news/articles/cz680jx511no?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 12:50:31 GMT",
-      "summary": "Deals have been signed in civil nuclear energy and critical minerals during the Russian PM's stay in India."
+      "published": "Sat, 06 Dec 2025 20:18:07 GMT",
+      "summary": "The Ukrainian leader says he is \"determined\" to continue working with the US, as Russian strikes continue."
     },
     {
       "source": "BBC World",
-      "title": "Germany votes to bring in voluntary military service programme for 18-year-olds",
-      "title_zh": "德国投票决定引入18岁志愿兵役计划",
-      "url": "https://www.bbc.com/news/articles/ckg9drg8pg1o?at_medium=RSS&at_campaign=rss",
+      "title": "Deadly attack on kindergarten reported in Sudan",
+      "title_zh": "据报道，苏丹幼儿园遭到致命袭击",
+      "url": "https://www.bbc.com/news/articles/cpd61d0jl6no?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 15:43:16 GMT",
-      "summary": "The shift in its approach to its military follows a push to create Europe's strongest conventional army."
+      "published": "Sat, 06 Dec 2025 17:59:05 GMT",
+      "summary": "Drone strikes on a town in South Kordofan on Thursday are said to have killed at least 50 people."
     },
     {
       "source": "BBC World",
-      "title": "US Supreme Court agrees to hear case challenging birthright citizenship",
-      "title_zh": "美国最高法院同意审理对出生公民权提出质疑的案件",
-      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
+      "title": "'We've lost everything': Australia wildfire rips through homes",
+      "title_zh": "“我们失去了一切” ：澳大利亚野火肆虐房屋",
+      "url": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:54:01 GMT",
-      "summary": "Donald Trump's controversial executive order to end birthright citizenship had been rejected by lower courts."
+      "published": "Sat, 06 Dec 2025 15:43:08 GMT",
+      "summary": "Multiple homes were left damaged after a wildfire swept through a coastal area north of Sydney."
     },
     {
       "source": "BBC World",
-      "title": "Olympian and other Eritreans freed after 18 years without trial, relatives tell the BBC",
-      "title_zh": "亲属告诉英国广播公司，奥运选手和其他厄立特里亚人在未经审判的情况下在18年后获释",
-      "url": "https://www.bbc.com/news/articles/cx2500jkd41o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran arrests marathon organisers over women not wearing hijab",
+      "title_zh": "伊朗逮捕不戴头巾妇女的马拉松组织者",
+      "url": "https://www.bbc.com/news/articles/c3e0z97qn3eo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 14:11:51 GMT",
-      "summary": "Ex-cyclist Zeragaber Gebrehiwot, who attended the 1980 Moscow Games, is among 13 released from a notorious jail."
+      "published": "Sat, 06 Dec 2025 18:39:19 GMT",
+      "summary": "Images appeared online of unveiled women competing in the race on Friday."
     },
     {
       "source": "BBC World",
-      "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
-      "title_zh": "Netflix以720亿美元收购华纳兄弟电影和流媒体业务",
-      "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss",
+      "title": "Americans to get free entry to parks on Trump's birthday",
+      "title_zh": "美国人在特朗普生日那天免费进入公园",
+      "url": "https://www.bbc.com/news/articles/cr7l4n89lr1o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 21:52:59 GMT",
-      "summary": "The major Hollywood deal means Netflix will takeover ownership of franchises including Harry Potter and Game of Thrones."
+      "published": "Sat, 06 Dec 2025 19:32:41 GMT",
+      "summary": "At the same time, the Trump administration is  withdrawing free entry on Martin Luther King Jr Day and Juneteenth."
     },
     {
       "source": "BBC World",
-      "title": "Legendary architect Frank Gehry dies aged 96",
-      "title_zh": "传奇建筑师弗兰克·盖里去世，享年96岁",
-      "url": "https://www.bbc.com/news/articles/c5y2p22z9gno?at_medium=RSS&at_campaign=rss",
+      "title": "At least 11 killed in South Africa mass shooting",
+      "title_zh": "至少11人在南非大规模枪击事件中丧生",
+      "url": "https://www.bbc.com/news/articles/cwyvkrkl2jlo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 06 Dec 2025 02:04:36 GMT",
-      "summary": "Frank Gehry was acclaimed for his love of jagged angles and use of industrial materials."
+      "published": "Sat, 06 Dec 2025 20:05:46 GMT",
+      "summary": "Gunmen stormed a hostel near Pretoria and opened fire, killing 11 people including a three-year-old."
     },
     {
       "source": "BBC World",
-      "title": "Namibia loses bid to overturn ban on rhino horn trade",
-      "title_zh": "纳米比亚竞标推翻对犀牛角贸易的禁令",
-      "url": "https://www.bbc.com/news/articles/c30j7q6qjp9o?at_medium=RSS&at_campaign=rss",
+      "title": "Bethlehem Christmas tree lights up for first time since start of Gaza war",
+      "title_zh": "伯利恒圣诞树自加沙战争开始以来首次亮起",
+      "url": "https://www.bbc.com/news/articles/ce86z84e947o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 14:24:32 GMT",
-      "summary": "Namibia has built up large stockpiles of rhino horn after pioneering the practice of cutting them off to deter poachers."
+      "published": "Sat, 06 Dec 2025 15:08:31 GMT",
+      "summary": "For the past two years all public Christmas celebrations have been cancelled in Bethlehem in the occupied West Bank."
     },
     {
       "source": "BBC World",
-      "title": "Woman wanted by Interpol over trafficking of tiger parts arrested in India",
-      "title_zh": "国际刑警组织通缉一名在印度被捕的贩卖老虎器官的女子",
-      "url": "https://www.bbc.com/news/articles/c4gp8vjwll2o?at_medium=RSS&at_campaign=rss",
+      "title": "Staff and tourists among 23 killed in Goa nightclub fire, officials say",
+      "title_zh": "官员说，在果阿夜总会火灾中丧生的23名工作人员和游客",
+      "url": "https://www.bbc.com/news/articles/cdj82d0nd4eo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 18:13:48 GMT",
-      "summary": "Yangchen Lachungpa is accused of building trafficking corridors leading out of the country."
+      "published": "Sun, 07 Dec 2025 02:51:07 GMT",
+      "summary": "The fire was caused by a gas cylinder exploding in the club's kitchen, authorities say, with the nationalities of those killed not yet known."
     },
     {
       "source": "BBC World",
-      "title": "Trump hails 'historic' peace deal between DR Congo and Rwanda",
-      "title_zh": "特朗普对刚果民主共和国和卢旺达之间的“历史性”和平协议表示欢迎",
-      "url": "https://www.bbc.com/news/articles/cjrjn88jqn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Olympics flame arrives in Rome ahead of Winter Games",
+      "title_zh": "奥运圣火在冬季奥运会前抵达罗马",
+      "url": "https://www.bbc.com/news/videos/czdg0598ry0o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 10:52:41 GMT",
-      "summary": "The US president hopes that a peace deal will pave the way for greater American investment in the resource-rich region."
+      "published": "Sat, 06 Dec 2025 20:46:31 GMT",
+      "summary": "The Olympic Winter Games Milano Cortina 2026 is set to take place in February."
     },
     {
       "source": "BBC World",
-      "title": "India travel chaos worsens as IndiGo cancels hundreds of flights",
-      "title_zh": "由于IndiGo取消了数百个航班，印度旅行混乱恶化",
-      "url": "https://www.bbc.com/news/articles/clyz18z1gk0o?at_medium=RSS&at_campaign=rss",
+      "title": "National Guardsman 'slowly healing' after being shot in Washington DC",
+      "title_zh": "国民警卫队在华盛顿特区被枪杀后“慢慢愈合”",
+      "url": "https://www.bbc.com/news/articles/c0q5lejppeno?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 05 Dec 2025 09:15:16 GMT",
-      "summary": "IndiGo, India's largest carrier, has said operations will return to full normalcy only by 10 February."
+      "published": "Sat, 06 Dec 2025 17:20:51 GMT",
+      "summary": "Andrew Wolfe, 24, is expected to remain in acute care with a head wound for a few more weeks, his family says."
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "STJ não sabe quem pagou caravana de oito ministros à Itália",
-      "title_zh": "STJ不知道是谁付了八个大臣的大篷车到意大利",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2025/12/stj-nao-sabe-quem-pagou-caravana-de-oito-ministros-a-italia.shtml",
+      "title": "Militar do Exército persegue e atira contra suspeito de assalto no Guarujá",
+      "title_zh": "军队在瓜鲁雅追捕和射击抢劫嫌疑人",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/militar-do-exercito-persegue-e-atira-contra-suspeito-de-assalto-no-guaruja.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:59:00 -0300",
-      "summary": "A crise institucional no país não deve ter afetado o mercado dos <a href=\"https://www1.folha.uol.com.br/poder/2025/06/barroso-participa-de-6-eventos-em-maio-patrocinados-por-empresas-com-processo-no-stf.shtml\" rel=\"\" target=\"\">convescotes</a> acadêmicos internacionais.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2025/12/stj-nao-sabe-quem-pagou-caravana-de-oito-ministros-a-italia.shtml\">Leia mais</a> (12/05/2025 - 23h59)"
+      "published": "07 Dec 2025 00:18:00 -0300",
+      "summary": "Vídeos gravados por pedestres mostram o momento em que um militar do <a href=\"https://www1.folha.uol.com.br/folha-topicos/forcas-armadas/\" rel=\"\" target=\"\">Exército</a> mata a tiros um suspeito de praticar assaltos na <a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2025/01/prefeitura-de-guaruja-diz-que-esgoto-clandestino-pode-ser-causa-de-virose-e-notifica-sabesp.shtml\" rel=\"\" target=\"\">praia da Enseada</a>, no <a href=\"https://www1.folha.uol.com.br/folha-topicos/guaruja/\">Guarujá</a>, na manhã deste sábado (6).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/militar-do-exercito-persegue-e-atira-contra-suspeito-de-assalto-no-guaruja.shtml\">Leia mais</a> (12/07/2025 - 00h18)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Carlos Bolsonaro apoia Flávio e diz ser normal mercado se preocupar com nome que pode reduzir lucro",
-      "title_zh": "卡洛斯·博尔索纳罗（ Carlos Bolsonaro ）支持弗拉维奥（ Flávio ） ，并表示市场担心一个可能会降低利润的名字是正常的",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/carlos-bolsonaro-apoia-flavio-e-diz-ser-normal-mercado-se-preocupar-com-nome-que-pode-reduzir-lucro.shtml",
+      "title": "Marginal Pinheiros ganha dois clubes com piscinas de surfe e mensalidade de até R$ 3.300",
+      "title_zh": "Marginal Pinheiros赢得了两个带冲浪池的俱乐部，每月费用高达3,300雷亚尔",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/marginal-pinheiros-ganha-dois-clubes-com-piscinas-de-surfe-e-mensalidade-de-ate-r-3300.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:15:00 -0300",
-      "summary": "O vereador do <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro/\">Rio de Janeiro</a> <a href=\"https://www1.folha.uol.com.br/folha-topicos/carlos-bolsonaro/\">Carlos Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>) confirmou que seu pai, <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\">Jair Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>), <a href=\"https://www1.folha.uol.com.br/poder/2025/12/bolsonaro-escolheu-flavio-como-candidato-a-presidencia-para-2026-dizem-aliados.shtml\" rel=\"\" target=\"\">indicou seu irmão Flávio</a> para disputar a Presidência no ano que vem. Ele também minimizou a reação negativa do mercado ao anúncio.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/carlos-bolsonaro-apoia-flavio-e-diz-ser-normal-mercado-se-preocupar-com-nome-que-pode-reduzir-lucro.shtml\">Leia mais</a> (12/05/2025 - 23h15)"
+      "published": "06 Dec 2025 23:30:00 -0300",
+      "summary": "Ouvir o barulho das ondas e avistar areia branca cheia de espreguiçadeiras quase fazem parecer que você está na praia, se não fosse o contraste com a paisagem em volta, tomada de arranha-céus que formam o cenário típico da marginal Pinheiros, em São Paulo, onde foram inaugurados dois clubes de <a href=\"https://www1.folha.uol.com.br/folha-topicos/surfe/\">surfe</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/marginal-pinheiros-ganha-dois-clubes-com-piscinas-de-surfe-e-mensalidade-de-ate-r-3300.shtml\">Leia mais</a> (12/06/2025 - 23h30)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "O que mudou sobre impeachment de ministro do STF? O que diz cada lado? Tire dúvidas em 10 pontos",
-      "title_zh": "最高法院法官的弹劾有什么变化？双方都说了什么？用10分提问",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/o-que-mudou-sobre-impeachment-de-ministro-do-stf-o-que-diz-cada-lado-tire-duvidas-em-10-pontos.shtml",
+      "title": "Mauá (SP) confirma caso de intoxicação por metanol em licor",
+      "title_zh": "Mauá （ SP ）确认酒中甲醇中毒病例",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/12/maua-sp-confirma-caso-de-intoxicacao-por-metanol-em-licor.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "Uma decisão do ministro <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilmar-mendes/\">Gilmar Mendes</a>, do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), ampliou os pontos de atrito entre os Poderes ao suspender trechos da Lei do <a href=\"https://www1.folha.uol.com.br/folha-topicos/impeachment/\">Impeachment</a> sobre o afastamento de integrantes da corte na última quarta-feira (3).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/o-que-mudou-sobre-impeachment-de-ministro-do-stf-o-que-diz-cada-lado-tire-duvidas-em-10-pontos.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:19:00 -0300",
+      "summary": "A prefeitura de <a href=\"https://www1.folha.uol.com.br/folha-topicos/maua/\">Mauá</a>, na região metropolitana de São Paulo, confirmou um caso de <a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2025/10/crise-do-metanol-completa-um-mes-sem-conclusao-da-policia-sobre-adulteracao.shtml\" rel=\"\" target=\"\">intoxicação por metanol</a> nesta sexta-feira (5). A substância teria sido consumida em doses de licor, segundo o relato do paciente.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/12/maua-sp-confirma-caso-de-intoxicacao-por-metanol-em-licor.shtml\">Leia mais</a> (12/06/2025 - 23h19)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Centrão mantém preferência por Tarcísio, e ala vê possibilidade de Flávio não manter candidatura",
-      "title_zh": "Centrão仍然偏爱Tarcisio ，而Ala认为Flávio有可能不保持他的候选资格",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/centrao-mantem-preferencia-por-tarcisio-e-ala-ve-possibilidade-de-flavio-nao-manter-candidatura.shtml",
+      "title": "'Não me interessa pregar para convertido', diz Luis Lobianco",
+      "title_zh": "Luis Lobianco说： “我对向皈依者讲道不感兴趣。”",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2025/12/nao-me-interessa-pregar-para-convertido-diz-luis-lobianco.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "Dirigentes e líderes de partidos do centrão mantêm a preferência por <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/republicanos/\">Republicanos</a>) como candidato à Presidência mesmo após o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ) ter anunciado, nesta sexta-feira (5), que o pai o escolheu como sucessor para 2026.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/centrao-mantem-preferencia-por-tarcisio-e-ala-ve-possibilidade-de-flavio-nao-manter-candidatura.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:01:00 -0300",
+      "summary": "Se você ainda não assistiu a \"Titanique\", que se escreve assim mesmo, com quê u e no final, uma sátira musical do filme <a href=\"https://f5.folha.uol.com.br/voceviu/2023/06/titanic-onde-afundou-o-transatlantico-e-como-seus-restos-foram-encontrados-em-1985.shtml\" rel=\"\" target=\"\">\"Titanic\"</a>, para tudo e compra já o seu ingresso. Este texto continuará aqui, além do que, a entrevista com Lobianco está gravada também em vídeo, na TV Folha, então dá para ler ou ver depois.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2025/12/nao-me-interessa-pregar-para-convertido-diz-luis-lobianco.shtml\">Leia mais</a> (12/06/2025 - 23h01)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Desaceleração pode tornar governo Lula mais dependente de receitas extraordinárias em 2026; assista à C-Level Call",
-      "title_zh": "经济放缓可能会使卢拉政府在2026年更加依赖非凡的收入；观看C级电话会议",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/desaceleracao-pode-tornar-governo-lula-mais-dependente-de-receitas-extraordinarias-em-2026-assista-a-c-level-call.shtml",
+      "title": "STF tem ministros divididos em relação a decisão de Gilmar sobre impeachment",
+      "title_zh": "STF的部长们对Gilmar的弹劾决定存在分歧",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/stf-tem-ministros-divididos-em-relacao-a-decisao-de-gilmar-sobre-impeachment.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "A desaceleração da <a href=\"https://www1.folha.uol.com.br/folha-topicos/economia/\">economia</a> observada na divulgação do <a href=\"https://www1.folha.uol.com.br/mercado/2025/12/pib-do-brasil-sobe-01-no-terceiro-trimestre.shtml\" rel=\"\" target=\"\">PIB (Produto Interno Bruto) do terceiro trimestre de 2025</a> tem impacto fiscal e pode tornar o governo do presidente Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) mais dependente de receitas extraordinárias para fechar as contas de 2026. A avaliação é da repórter especial da <strong>Folha </strong><a href=\"https://www1.folha.uol.com.br/autores/idiana-tomazelli.shtml\" rel=\"\" target=\"\">Idiana Tomazelli</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/desaceleracao-pode-tornar-governo-lula-mais-dependente-de-receitas-extraordinarias-em-2026-assista-a-c-level-call.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) tem seus integrantes divididos e parte deles ainda sem posição definida sobre manter a decisão do decano <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilmar-mendes/\">Gilmar Mendes</a> <a href=\"https://www1.folha.uol.com.br/poder/2025/12/o-que-mudou-sobre-impeachment-de-ministro-do-stf-o-que-diz-cada-lado-tire-duvidas-em-10-pontos.shtml#o-que-gilmar-decidiu-sobre-impeachment-de-ministro-do-stf\" rel=\"\" target=\"\">que blindou a corte</a> ao restringir a propositura de impeachment contra ministros. A decisão vai a votação em plenário virtual na próxima sexta-feira (12).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/stf-tem-ministros-divididos-em-relacao-a-decisao-de-gilmar-sobre-impeachment.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Indicadores positivos mascaram que pobreza infantil é 5 vezes a de idosos",
-      "title_zh": "正面指标掩盖了儿童贫困率是老年人贫困率的5倍",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2025/12/indicadores-positivos-mascaram-que-pobreza-infantil-e-5-vezes-a-de-idosos.shtml",
+      "title": "A revolução silenciosa no sistema financeiro brasileiro",
+      "title_zh": "巴西金融体系的无声革命",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2025/12/a-revolucao-silenciosa-no-sistema-financeiro-brasileiro.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "O Brasil tem uma desigualdade entre gerações como nenhum outro país. As decisões orçamentárias e de políticas públicas em curso talvez tenham graves implicações no nosso futuro.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2025/12/indicadores-positivos-mascaram-que-pobreza-infantil-e-5-vezes-a-de-idosos.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "Ao fim de meu período no<a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-central/\" rel=\"\" target=\"\"> BC (Banco Central)</a>, recebi um vídeo simples, mas poderoso. Era de uma moradora de Tartarugalzinho, cidade de 15 mil habitantes no interior do Amapá. Ela relatava como o <a href=\"https://www1.folha.uol.com.br/folha-topicos/pix/\" rel=\"\" target=\"\">Pix</a> transformou a vida da comunidade. Sem agência bancária, a economia local -antes sufocada pela distância e pela falta de serviços financeiros- voltava a florescer. O comércio inteiro da cidade já funcionava à base do Pix.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2025/12/a-revolucao-silenciosa-no-sistema-financeiro-brasileiro.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Jair Bolsonaro tenta manter controle da direita ao lançar Flávio na disputa pelo Planalto",
-      "title_zh": "Jair Bolsonaro试图通过将Flávio扔进高原的争端中来保持对右翼的控制",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/jair-bolsonaro-tenta-manter-controle-da-direita-ao-lancar-flavio-na-disputa-pelo-planalto.shtml",
+      "title": "De bônus a sorteio de eletrônicos, varejo tenta atrair mão de obra para o Natal",
+      "title_zh": "从奖金到电子产品抽奖，零售商试图为圣诞节吸引劳动力",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/de-bonus-a-sorteio-de-eletronicos-varejo-tenta-atrair-mao-de-obra-para-o-natal.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "Três hipóteses podem explicar o <a href=\"https://www1.folha.uol.com.br/poder/2025/12/bolsonaro-escolheu-flavio-como-candidato-a-presidencia-para-2026-dizem-aliados.shtml\" rel=\"\" target=\"\">anúncio do senador Flávio Bolsonaro (PL)</a> como o indicado do ex-presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/jair-bolsonaro/\" rel=\"\" target=\"\">Jair Bolsonaro (PL)</a> para a corrida presidencial de 2026.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/jair-bolsonaro-tenta-manter-controle-da-direita-ao-lancar-flavio-na-disputa-pelo-planalto.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "Hestivenis Alves de Oliveira, o Nino, de 21 anos, está animado com a \"Black Box\" do <a href=\"https://www1.folha.uol.com.br/mercado/2025/04/diversificar-e-estrategia-para-deixar-varejista-a-prova-de-selic-diz-presidente-do-magalu-veja-video.shtml\" rel=\"\" target=\"\">Magazine Luiza</a> neste mês. A varejista vai sortear entre os quase 13 mil funcionários da área de logística -incluindo 2.900 temporários-, prêmios como televisores, smartphones, geladeiras, micro-ondas e até dinheiro (R$ 500). É o primeiro sorteio para recompensar membros da equipe que não faltaram e bateram metas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/de-bonus-a-sorteio-de-eletronicos-varejo-tenta-atrair-mao-de-obra-para-o-natal.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "São Paulo recebe concertos natalinos em dezembro; veja como comprar ingressos",
-      "title_zh": "圣保罗在12月举办圣诞音乐会；以下是购买门票的方法",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2025/12/sao-paulo-recebe-concertos-natalinos-em-dezembro-veja-como-comprar-ingressos.shtml",
+      "title": "'Sei fazer um sapato inteiro com as próprias mãos', diz Alexandre Birman, CEO do Azzas 2154",
+      "title_zh": "AZZAS 2154首席执行官亚历山大·伯曼（ Alexandre Birman ）说： “我可以用自己的双手制作一整双鞋。”",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/sei-fazer-um-sapato-inteiro-com-as-proprias-maos-diz-alexandre-birman-ceo-do-azzas-2154.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "A <a href=\"https://guia.folha.uol.com.br/passeios/2025/12/natal-no-centro-de-sao-paulo-tem-patinacao-no-gelo-gratis-e-projecoes-coloridas.shtml\" rel=\"nofollow\" target=\"\">programação de Natal</a> ganha destaque na capital paulista com apresentações neste mês. A temporada traz clássicos de <a href=\"https://www1.folha.uol.com.br/ilustrada/2023/12/como-as-musicas-de-natal-de-artistas-como-mariah-carey-alcancam-lucros-milionarios.shtml\" rel=\"nofollow\" target=\"\">Mariah Carey e Michael Bublé</a>, além de \"O Quebra-Nozes\", de Tchaikovsky.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/shows/2025/12/sao-paulo-recebe-concertos-natalinos-em-dezembro-veja-como-comprar-ingressos.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "Aos 12 anos, Alexandre Café Birman usava uma máquina de chanfrar calçados -equipamento que apara, afina e cria ângulos nas bordas do couro ou do material sintético para dar acabamento uniforme à peça. \"É uma maquininha que tem um rolete, com uma navalha, para passar sobre o material. Uma vez meu dedo ficou ali no meio\", diz o empresário de 49 anos, filho do fundador da Arezzo, <a href=\"https://www1.folha.uol.com.br/mercado/2023/12/se-tivesse-25-do-dinheiro-que-acumulei-ja-seria-o-bastante-diz-fundador-da-arezzo.shtml\" rel=\"\" target=\"\">Anderson Birman</a>. Machucou muito? \"Nada. Só um bifinho.\"\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/sei-fazer-um-sapato-inteiro-com-as-proprias-maos-diz-alexandre-birman-ceo-do-azzas-2154.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Cúpulas do Senado e STF buscam reduzir tensão com discussão de nova lei após blindagem a ministros",
-      "title_zh": "参议院和STF的峰会寻求在保护部长之后通过讨论新法律来缓解紧张局势",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/cupulas-do-senado-e-stf-buscam-reduzir-tensao-com-discussao-de-nova-lei-apos-blindagem-a-ministros.shtml",
+      "title": "Datafolha: 8% acham que Bolsonaro deveria apoiar Flávio, 22%, Michelle, e 20%, Tarcísio",
+      "title_zh": "Datafolha ： 8%的人认为Bolsonaro应该支持Flávio ， 22%的人认为Michelle ， 20%的人认为Tarcisio",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/datafolha-8-acham-que-bolsonaro-deveria-apoiar-flavio-22-michelle-e-20-tarcisio.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "As cúpulas do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) e do Senado passaram a discutir a votação de uma nova lei sobre <a href=\"https://www1.folha.uol.com.br/folha-topicos/impeachment/\">impeachment</a> de autoridades após a decisão de <a href=\"https://www1.folha.uol.com.br/folha-topicos/gilmar-mendes/\">Gilmar Mendes</a> que <a href=\"https://www1.folha.uol.com.br/poder/2025/12/gilmar-mendes-decide-que-so-pgr-pode-pedir-impeachment-de-ministros-do-stf.shtml\" rel=\"\" target=\"\">blindou ministros da corte</a> causar forte reação no Legislativo.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/cupulas-do-senado-e-stf-buscam-reduzir-tensao-com-discussao-de-nova-lei-apos-blindagem-a-ministros.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a>, senador pelo <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-RJ que se declarou o nome do pai para o pleito de 2026, só é visto como ideal para ser lançado pelo ex-presidente por 8% dos eleitores brasileiros. Preferem a ex-primeira-dama Michelle 22% e o governador <a href=\"https://www1.folha.uol.com.br/folha-topicos/tarcisio-de-freitas/\">Tarcísio de Freitas</a> (Republicanos-SP), 20%.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/datafolha-8-acham-que-bolsonaro-deveria-apoiar-flavio-22-michelle-e-20-tarcisio.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Governo aciona Caixa para destravar empréstimo aos Correios, mas mantém aporte no radar",
-      "title_zh": "政府激活Caixa以解锁对邮局的贷款，但仍保持在雷达上的贡献",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/governo-aciona-caixa-para-destravar-emprestimo-aos-correios-mas-mantem-aporte-no-radar.shtml",
+      "title": "Vera Iaconelli debate criação de filhos em live da CasaFolha; saiba como enviar perguntas",
+      "title_zh": "Vera Iaconelli在CasaFolha现场直播抚养孩子的辩论；学习如何发送问题",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/vera-iaconelli-debate-criacao-de-filhos-em-live-da-casafolha-saiba-como-enviar-perguntas.shtml",
       "region": "Brazil",
-      "published": "05 Dec 2025 23:00:00 -0300",
-      "summary": "O governo de Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (PT) acionou a <a href=\"https://www1.folha.uol.com.br/folha-topicos/caixa-economica-federal/\">Caixa Econômica Federal</a> para <a href=\"https://www1.folha.uol.com.br/mercado/2025/12/correios-suspendem-contratacao-do-emprestimo-de-r-20-bi-devido-a-custo-elevado.shtml\">destravar o empréstimo de R$ 20 bilhões</a> aos <a href=\"https://www1.folha.uol.com.br/folha-topicos/correios/\">Correios</a>, após o Tesouro Nacional rejeitar uma proposta feita por cinco bancos (incluindo o <a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-do-brasil/\">Banco do Brasil</a>) por considerar os juros elevados para uma operação com garantia soberana.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/governo-aciona-caixa-para-destravar-emprestimo-aos-correios-mas-mantem-aporte-no-radar.shtml\">Leia mais</a> (12/05/2025 - 23h00)"
+      "published": "06 Dec 2025 23:00:00 -0300",
+      "summary": "A psicanalista Vera Iaconelli participará de uma live na <a href=\"https://www1.folha.uol.com.br/folha-topicos/casafolha/#40\">CasaFolha</a> nesta segunda-feira (8), às 19h30. No encontro, ela vai tirar dúvidas ligadas a seu curso <a href=\"https://www1.folha.uol.com.br/poder/2024/10/pais-e-maes-vivem-uma-crise-dos-limites-com-seus-filhos-diz-vera-iaconelli-na-casafolha.shtml#:~:text=%22A%20gente%20est%C3%A1%20vivendo%20uma,%2C%20diz%20ela%2C%20%C3%A9%20in%C3%A9dita.\" rel=\"\" target=\"\">\"Criar filhos no século 21\"</a>, disponível no site <a href=\"https://casafolha.folha.com.br/\">casafolhasp.com.br</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/vera-iaconelli-debate-criacao-de-filhos-em-live-da-casafolha-saiba-como-enviar-perguntas.shtml\">Leia mais</a> (12/06/2025 - 23h00)"
     },
     {
       "source": "The Rio Times",
@@ -802,53 +802,44 @@
       "title_zh": "莫斯科会谈、基辅丑闻、西方疲劳：乌克兰战争进入最后阶段",
       "url": "https://www.riotimesonline.com/ukraines-war-is-entering-a-new-phase-and-the-west-is-not-ready/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 22:14:16 +0000",
+      "published": "Sat, 06 Dec 2025 19:59:16 +0000",
       "summary": "Key Points 1. Trump’s envoys in Moscow show that Washington, not Brussels, is now shaping the endgame more than Europe wants to admit. 2. Anti-corruption bodies built with Western money are cutting into Zelensky’s own circle, turning old “propaganda” accusations into uncomfortable facts. 3. Manpower strain, slow Russian gains and funding fatigue mean the war [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Paraguay’s Quiet Upgrade: How A Small Country Became A Big-Credibility Story",
-      "title_zh": "巴拉圭的安静升级：一个小国如何成为一个大信用故事",
-      "url": "https://www.riotimesonline.com/paraguays-quiet-upgrade-how-a-small-country-became-a-big-credibility-story/",
+      "title": "Bolivia’s 20% Inflation Shock: How Cheap Fuel Politics Finally Broke The Model",
+      "title_zh": "玻利维亚20 ％的通货膨胀冲击：廉价燃料政治如何最终打破模式",
+      "url": "https://www.riotimesonline.com/bolivias-price-shock-and-the-end-of-cheap-stability/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 22:05:25 +0000",
-      "summary": "Key Points Paraguay is one step away from earning a second investment-grade rating from the big agencies. Solid growth, low public debt and a strict fiscal rulebook set it apart from more volatile neighbors. The real test is whether the current reform push survives future political and external shocks. For many foreigners, Paraguay barely registers. [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:55:56 +0000",
+      "summary": "Key Points 1. Bolivia’s once-stable prices have jumped to nearly 20% inflation this year, after more than a decade of calm. 2. A model built on cheap fuel, strict controls and a frozen exchange rate is cracking as gas money dries up. 3. Without clearer rules and tighter budgets, Bolivia risks lasting inflation, shortages and [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "China’s Silent Naval Wall Around Taiwan And Japan",
-      "title_zh": "中国在台湾和日本周围的沉默海军围墙",
-      "url": "https://www.riotimesonline.com/chinas-silent-naval-wall-around-taiwan-and-japan/",
+      "title": "Argentina’s Quiet Test: Can A Crisis-Hit Country Earn Back Market Trust?",
+      "title_zh": "阿根廷的静悄悄测试：受危机影响的国家能否赢回市场信任？",
+      "url": "https://www.riotimesonline.com/argentinas-quiet-test-can-a-crisis-hit-country-earn-back-market-trust/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 22:00:07 +0000",
-      "summary": "Key Points China has quietly deployed more than 100 navy and coast guard ships across key Asian sea lanes. Taiwan and Japan are tightening security ties and raising defence spending in response. The standoff puts vital shipping routes and global chip supplies under a growing shadow of risk. China has turned what used to be [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:54:33 +0000",
+      "summary": "Key Points 1. Argentina is selling its first new dollar bond since 2018 to refinance old debts, not expand borrowing. 2. The move is designed to pay January’s heavy bills without draining the central bank’s thin reserves. 3. Success would reward a shift toward discipline; failure would expose how fragile the country still is. Argentina [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Brazil’s Industrial Elite Warn That Brazil’s Boom Is Losing Its Engine",
-      "title_zh": "巴西工业精英警告巴西的繁荣正在失去发动机",
-      "url": "https://www.riotimesonline.com/brazils-industrial-elite-warn-that-brazils-boom-is-losing-its-engine/",
+      "title": "São Paulo Nightlife Guide for Saturday, December 6, 2025",
+      "title_zh": "2025年12月6日（周六）圣保罗夜生活指南",
+      "url": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-december-6-2025/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:58:36 +0000",
-      "summary": "Key Points Brazil’s biggest industry lobby now sees growth slowing from about 3.4% in 2024 to 2.3% in 2025 and 1.9% in 2026. A 15% benchmark interest rate is punishing factories, retailers and construction, even as jobs and wages still look decent. The real story is a country stuck between strong private demand and a [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:38:49 +0000",
+      "summary": "Tonight’s easy wins: ÉDITH PIAF POR LIA PARIS at Blue Note (Paulista), Recital da Academia de Música da Osesp at Sala São Paulo (Campos Elíseos), Feira das Cores at Praça Oswaldo Cruz (Bela Vista), and recurring samba sessions at Casa de Francisca (Consolação). Also notable: Christopher Cross at Espaço das Américas (Vila Leopoldina), Gipsy Experience [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Fire Under Latam Jet Forces Emergency Slide Evacuation At Guarulhos",
-      "title_zh": "瓜鲁柳斯拉塔姆喷气式飞机部队紧急滑梯疏散下的火灾",
-      "url": "https://www.riotimesonline.com/fire-under-latam-jet-forces-emergency-slide-evacuation-at-guarulhos/",
+      "title": "Brazil’s Stock Market Euphoria Turns To Panic As Flávio Bolsonaro Shakes 2026 Race",
+      "title_zh": "随着弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）撼动2026年的比赛，巴西股市的兴奋情绪转向恐慌",
+      "url": "https://www.riotimesonline.com/brazils-stock-market-euphoria-turns-to-panic-as-flavio-bolsonaro-shakes-2026-race/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:55:21 +0000",
-      "summary": "Key Points A baggage-belt fire beside a Latam A320 forced an emergency evacuation at São Paulo’s main international airport, with no injuries. Passenger videos turned the incident into a viral case study in how Brazilian crews, airports and contractors handle real emergencies. The episode exposes both Brazil’s strong safety culture and the tension between professional [&#8230;]"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "São Paulo Tests 24-Hour Saturday Metro To Match Its Nightlife Economy",
-      "title_zh": "圣保罗测试24小时周六地铁，与夜生活经济相匹配",
-      "url": "https://www.riotimesonline.com/sao-paulo-tests-24-hour-saturday-metro-to-match-its-nightlife-economy/",
-      "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:47:22 +0000",
-      "summary": "Key Points São Paulo will run four core metro lines 24 hours from Saturday to Sunday in a three-month test of demand and costs. The pilot targets night workers and the nightlife economy while avoiding an open-ended, politically driven expansion of subsidies. Limited integration with private lines and commuter trains exposes both the strengths and [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:38:33 +0000",
+      "summary": "Key Points 1. Ibovespa hit a record above 165,000 points before crashing 4.31%, its worst fall in almost five years. 2. News that Flávio Bolsonaro, not São Paulo governor Tarcísio de Freitas, may lead the right in 2026 shattered hopes for a market-friendly alternative to the current left-wing government. 3. Banks and domestic cyclicals were [&#8230;]"
     },
     {
       "source": "The Rio Times",
@@ -856,386 +847,449 @@
       "title_zh": "白手起家的神话，继承的帝国：为什么亿万富翁阶级面临着即将到来的反弹",
       "url": "https://www.riotimesonline.com/self-made-myths-inherited-empires-why-the-billionaire-class-faces-a-coming-backlash/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:36:09 +0000",
+      "published": "Sat, 06 Dec 2025 19:36:09 +0000",
       "summary": "Key Points UBS now counts 2,919 billionaires with about $15.8 trillion in wealth, and both self-made fortunes and inheritances are growing fast. These elites are heavily concentrated in a few countries and cities, where money, media and politics mix in ways that resemble old royal courts. As frustration grows, the global demand to “tax the [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Brazil’s Banking Establishment Pushes Back As Nubank Redraws Retail Finance",
-      "title_zh": "随着Nubank重新吸引零售金融，巴西的银行机构推迟",
-      "url": "https://www.riotimesonline.com/brazils-banking-establishment-pushes-back-as-nubank-redraws-retail-finance/",
+      "title": "Rio Nightlife Guide for Saturday, December 6, 2025",
+      "title_zh": "2025年12月6日（周六）里约夜生活指南",
+      "url": "https://www.riotimesonline.com/rio-nightlife-guide-for-saturday-december-6-2025/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:28:15 +0000",
-      "summary": "Key Points Brazil’s biggest digital bank and the main banking federation are clashing over interest rates, bad loans and tax bills. The fight shows how costly credit remains in Brazil and how fiercely established banks defend their position. A failed plan to raise fintech taxes has turned into a wider struggle over who really serves [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:35:48 +0000",
+      "summary": "Tonight in Rio: Samba queen Alcione headlines at Qualistage (21:00), Zeca Pagodinho performs at Espaço Hall (21:00), Carioca da Gema hosts a vibrant Saturday roda de samba (19:30), and Beco das Garrafas features intimate bossa nova sets (20:00). Links for details and tickets are below. Top Picks Tonight Alcione — Qualistage (21:00) Why picked: The [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Supreme Court Backs Texas Map In Test Of Race, Power And Election Rules",
-      "title_zh": "最高法院在种族，权力和选举规则的测试中支持德克萨斯州地图",
-      "url": "https://www.riotimesonline.com/supreme-court-backs-texas-map-in-test-of-race-power-and-election-rules/",
+      "title": "Bond Jitters Hit Crypto As Bitcoin Slips Below $90,000 And Altcoins Whipsaw",
+      "title_zh": "Bond Jitters击中加密货币，比特币跌破$ 90,000 ， Altcoins Whipsaw",
+      "url": "https://www.riotimesonline.com/bond-jitters-hit-crypto-as-bitcoin-slips-below-90000-and-altcoins-whipsaw/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:27:13 +0000",
-      "summary": "Key Points A 6–3 Supreme Court majority let Texas use a Republican-drawn congressional map for the 2026 elections. The ruling could help Republicans secure up to five more House seats while minority-rights groups cry foul. The case tests how far states can push partisan gerrymanders without crossing the line into illegal racial discrimination. The US [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:33:48 +0000",
+      "summary": "Key Points 1. Bitcoin trades just under $90,000 after an overnight sell-off, with roughly 86% of tracked coins in the red. 2. Spot crypto ETFs are turning cautious, with November’s $3.4 billion pull from bitcoin funds contrasting with a 14-day streak of inflows into XRP products. 3. Altcoins stay a leverage playground, with Terra tokens [&#8230;]"
     },
     {
       "source": "The Rio Times",
-      "title": "Africa Intelligence Brief — December 5, 2025",
-      "title_zh": "非洲情报简报— 2025年12月5日",
-      "url": "https://www.riotimesonline.com/africa-intelligence-brief-december-5-2025/",
+      "title": "10 Key Sports Developments in Latin America (December 5, 2025)",
+      "title_zh": "拉丁美洲10大体育发展（ 2025年12月5日）",
+      "url": "https://www.riotimesonline.com/10-key-sports-developments-in-latin-america-december-5-2025/",
       "region": "Brazil",
-      "published": "Fri, 05 Dec 2025 21:20:14 +0000",
-      "summary": "Today’s tape reshapes energy flows, FX credibility, and supply-chain routes. Algiers locked a long-dated LNG pact into Europe’s mix, while the AU and EU moved a green-hydrogen corridor from concept toward engineering. Abuja advanced a single-window FX regime; Nairobi and regional regulators cut roaming costs that tax cross-border commerce; and Southern Africa opened the door [&#8230;]"
+      "published": "Sat, 06 Dec 2025 19:30:57 +0000",
+      "summary": "A setup day across the region: Mexico locked in Saturday’s Liguilla second legs (Monterrey–Toluca, Tigres–Cruz Azul). Brazil fixed its Round 38 times with Flamengo already champion and Santos fighting for survival, Colombia finalized the penultimate cuadrangulares window. Argentina confirmed Boca–Racing and Gimnasia–Estudiantes for the semifinals, Peru teed up Alianza–Cristal for a winner-takes-all return; Chile mapped [&#8230;]"
+    },
+    {
+      "source": "The Rio Times",
+      "title": "Rio de Janeiro News Brief for December 5, 2025",
+      "title_zh": "2025年12月5日里约热内卢新闻简报",
+      "url": "https://www.riotimesonline.com/rio-de-janeiro-news-brief-for-december-5-2025/",
+      "region": "Brazil",
+      "published": "Sat, 06 Dec 2025 19:18:26 +0000",
+      "summary": "Friday, December 5, 2025: Rio locked in operations for Sunday’s Flamengo title parade and the Lagoa Christmas tree inauguration; set overnight maintenance windows on the Rebouças and Santa Bárbara tunnels; diverted traffic in Campo Grande to keep drainage works moving; launched a targeted RSV (bronchiolitis) vaccination for pregnant women; confirmed Sunday opening at the Olympic [&#8230;]"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Rare sight: four Rafflesia species bloom simultaneously in Bengkulu",
-      "title_zh": "罕见景象：四种莱佛士在明古鲁同时盛开",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/rare-sight-four-rafflesia-species-bloom-simultaneously-in-bengkulu.html",
+      "title": "X gets $140 million EU fine for breaching content rules but TikTok settles",
+      "title_zh": "X因违反内容规则而被欧盟罚款1.4亿美元，但TikTok达成和解",
+      "url": "https://www.thejakartapost.com/business/2025/12/07/x-gets-140-million-eu-fine-for-breaching-content-rules-but-tiktok-settles.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 08:24:16 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2019/07/26/2019_07_26_77009_1564125137._medium.jpg\" style=\"text-align: center;\" /></p><p>Four species of the rare parasitic flower Rafflesia are blooming simultaneously in Bengkulu, a highly unusual phenomenon and a positive sign for the conservation of these iconic endemic plants.</p>"
+      "published": "Sun, 7 Dec 2025 08:55:56 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/06/20/2024_06_20_151653_1718874613._medium.jpg\" style=\"text-align: center;\" /></p><p>Elon Musk's social media company X was fined 120 million euros (US$140 million) by EU tech regulators on Friday for breaching online content rules, the first sanction under landmark legislation that once again drew criticism from the US government.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Where reading finds a home: Grassroots efforts lead Indonesia’s literacy revival...",
-      "title_zh": "阅读找到归宿：基层努力引领印尼的扫盲复兴……",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/where-reading-finds-a-home-grassroots-efforts-lead-indonesias-literacy-revival.html",
+      "title": "Residents climb over logs in walk to aid centre as flood deaths rise over 900",
+      "title_zh": "当洪水死亡人数超过900人时，居民爬上原木步行前往救援中心",
+      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/residents-climb-over-logs-in-walk-to-aid-centre-as-flood-deaths-rise-over-900.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 07:30:24 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/05/2025_12_05_169872_1764924712._medium.jpg\" style=\"text-align: center;\" /></p><p>Now increasingly visible in Jakarta and other cities, independent libraries and reading communities have become new hubs for readers, taking the lead in promoting reading culture as government initiatives continue to fall short.</p>"
+      "published": "Sat, 6 Dec 2025 19:49:58 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/06/2025_12_06_169924_1765024855._medium.jpg\" style=\"text-align: center;\" /></p><p>Aceh resident Munawar Liza Zainal said he felt \"betrayed\" by the government, which has so far shrugged off pressure to declare a national disaster. Declaring a national disaster would free up resources and help government agencies coordinate their response. </p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Analysis: Patrick Walujo exits as GoTo CEO, speeding up long-awaited Grab–GoTo m...",
-      "title_zh": "分析： Patrick Walujo退出GoTo首席执行官一职，加快了期待已久的Grab-GoTo...",
-      "url": "https://www.thejakartapost.com/opinion/2025/12/06/analysis-patrick-walujo-exits-as-goto-ceo-speeding-up-long-awaited-grabgoto-merger.html",
+      "title": "UN agency says Chornobyl nuclear plant's protective shield damaged",
+      "title_zh": "联合国机构称切尔诺贝利核电站的防护盾受损",
+      "url": "https://www.thejakartapost.com/world/2025/12/06/un-agency-says-chornobyl-nuclear-plants-protective-shield-damaged.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 07:00:01 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/05/2025_12_05_169880_1764927422._medium.jpg\" style=\"text-align: center;\" /></p><p>Patrick Walujo has stepped down as CEO of GoTo Gojek Tokopedia Tbk (GoTo), a move that appears to open the way for accelerated acquisition talks with Grab. Several major GoTo backers—including SoftBank, Provident, and Peak XV—were reported to have pushed for his removal, believing he had resisted the proposed takeover. The company has since announced its chief operating officer, Hans Patuwo, as the leading candidate to replace Patrick. The leadership transition comes at a sensitive moment for GoTo, amid persistent merger rumors that have reportedly drawn the attention of the Palace.</p>"
+      "published": "Sat, 6 Dec 2025 17:05:02 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/06/2025_12_06_169922_1764997921._medium.jpg\" style=\"text-align: center;\" /></p><p>The UN reported on Feb. 14 that Ukrainian authorities said a drone with a high explosive warhead struck the plant, caused a fire and damaged the protective cladding around reactor Number Four, which was destroyed in the 1986 disaster.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Why cacao-rich Indonesia is not (yet) a global chocolate producer",
-      "title_zh": "为什么富含可可的印度尼西亚（尚未）成为全球巧克力生产国",
-      "url": "https://www.thejakartapost.com/business/2025/12/06/why-cacao-rich-indonesia-is-not-yet-a-global-chocolate-producer.html",
+      "title": "At the 2026 World Cup draw, the winner is... Donald Trump",
+      "title_zh": "在2026年世界杯抽签中，获胜者是……唐纳德·特朗普",
+      "url": "https://www.thejakartapost.com/world/2025/12/06/at-the-2026-world-cup-draw-the-winner-is-donald-trump.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 06:30:06 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/30/2025_11_30_169612_1764477554._medium.jpg\" style=\"text-align: center;\" /></p><p>Why cacao-rich Indonesia is not (yet) a global chocolate producerBuilding on its decades-old role as a major cacao producer, Indonesia wants to push into the global chocolate market with a comprehensive supply chain from plantations via processing facilities to factories, but some key hurdles lie in the way.</p>"
+      "published": "Sat, 6 Dec 2025 16:04:46 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/06/2025_12_06_169921_1764997504._medium.jpg\" style=\"text-align: center;\" /></p><p>The former TV reality show host dominated the scene at Washington’s Kennedy Center on Friday, placing himself squarely at the center of one of the biggest events in the sporting world in a glitzy, celebrity-studded affair that bore the unmistakable stamp of the president.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Police identify 290 North Sumatra disaster victims",
-      "title_zh": "警方确认290名北苏门答腊灾难受害者",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/police-identify-290-north-sumatra-disaster-victims.html",
+      "title": "Without strong policies, AI may widen inequalities in Asia-Pacific, UNDP warns",
+      "title_zh": "联合国开发计划署警告称，如果没有强有力的政策，人工智能可能会扩大亚太地区的不平等",
+      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/without-strong-policies-ai-may-widen-inequalities-in-asia-pacific-undp-warns.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 06:18:19 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/03/2025_12_03_169761_1764743474._medium.jpg\" style=\"text-align: center;\" /></p><p>Local and national police are continuing to search for at least 122 people still missing in the aftermath of the flooding and landslides that struck northern Sumatra on Nov. 26.</p>"
+      "published": "Sat, 6 Dec 2025 15:03:26 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/05/2025_12_05_169886_1764938018._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesia is among the countries with transitional capacity, which have internet access for most people, but coverage and quality remain uneven with regulation, funding and skills still catching up. These nations are encouraged to draft national strategies that should outline greater investment in labor skills and strong AI policies.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Disease spreads among Sumatra flood victims",
-      "title_zh": "疾病在苏门答腊洪水受害者中蔓延",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/disease-spreads-among-sumatra-flood-victims.html",
+      "title": "Sri Lanka unveils cyclone aid plan as rains persist",
+      "title_zh": "斯里兰卡公布飓风援助计划，持续降雨",
+      "url": "https://www.thejakartapost.com/world/2025/12/06/sri-lanka-unveils-cyclone-aid-plan-as-rains-persist.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 06:00:53 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/05/2025_12_05_169887_1764945486._medium.jpg\" style=\"text-align: center;\" /></p><p>As fevers, typhoid and skin infections surge among survivors of last week’s deadly floods, authorities are stepping up medical outreach and disease-prevention efforts across Aceh, North Sumatra and West Sumatra to contain outbreaks and protect vulnerable communities.</p>"
+      "published": "Sat, 6 Dec 2025 14:02:00 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/06/2025_12_06_169920_1764996898._medium.jpg\" style=\"text-align: center;\" /></p><p>The government has confirmed 607 deaths, with another 214 people missing and feared dead, in what President Anura Kumara Dissanayake has called the country's most challenging natural disaster.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Turning the page",
-      "title_zh": "翻页",
-      "url": "https://www.thejakartapost.com/opinion/2025/12/06/turning-the-page.html",
+      "title": "Meta partners with news outlets to expand AI content",
+      "title_zh": "Meta与新闻媒体合作，扩展AI内容",
+      "url": "https://www.thejakartapost.com/business/2025/12/06/meta-partners-with-news-outlets-to-expand-ai-content.html",
       "region": "Indonesia",
-      "published": "Sat, 6 Dec 2025 05:54:24 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/04/23/2024_04_23_149670_1713888313._medium.jpg\" style=\"text-align: center;\" /></p><p>It is high time we throw out the misleading narrative that Indonesians lack reading interest; rather, the issue is more about whether the country has the systems and facilities in place to nurture reading.</p>"
+      "published": "Sat, 6 Dec 2025 13:30:26 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/03/01/2024_03_01_147923_1709301320._medium.jpg\" style=\"text-align: center;\" /></p><p>The expansion aims to make its AI assistant \"more responsive, accurate, and balanced\" by incorporating diverse viewpoints, acknowledging that \"real-time events can be challenging for current AI systems to keep up with.\"</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "‘The Palestine Laboratory’: How Israel turns occupation into export",
-      "title_zh": "“巴勒斯坦实验室” ：以色列如何将占领转化为出口",
-      "url": "https://www.thejakartapost.com/culture/2025/12/05/the-palestine-laboratory-how-israel-turns-occupation-into-export.html",
+      "title": "Chinese businessman named suspect in Cikande radioactive case",
+      "title_zh": "中国商人在Cikande放射性案件中命名嫌疑人",
+      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/chinese-businessman-named-suspect-in-cikande-radioactive-case.html",
       "region": "Indonesia",
-      "published": "Fri, 5 Dec 2025 21:34:31 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/04/2025_12_04_169808_1764816290._medium.jpg\" style=\"text-align: center;\" /></p><p>Antony Loewenstein’s award-winning investigation, now in Indonesian, reveals how Israel’s technologies of control, perfected in occupied Palestine, have become profitable, “field-tested” exports shaping global surveillance and warfare.</p>"
+      "published": "Sat, 6 Dec 2025 13:01:27 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/10/10/2025_10_10_167504_1760095353._medium.jpg\" style=\"text-align: center;\" /></p><p>The police have named Lin Jingzhang, director of PT Peter Metal Technology (PMT), a suspect in the case of radioactive contamination at the Modern Cikande Industrial Estate in Banten, as authorities face pressure to tighten supervision to prevent similar incidents from happening in the future.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Govt backtracks on early retirement of Cirebon-1 coal plant",
-      "title_zh": "政府对Cirebon-1煤电厂提前退役的回溯",
-      "url": "https://www.thejakartapost.com/business/2025/12/05/govt-backtracks-on-early-retirement-of-cirebon-1-coal-plant.html",
+      "title": "Mediators 'concerned' about Israel opening one-way Gaza exit",
+      "title_zh": "调解人“担心”以色列开放单向加沙出口",
+      "url": "https://www.thejakartapost.com/world/2025/12/06/mediators-concerned-about-israel-opening-one-way-gaza-exit.html",
       "region": "Indonesia",
-      "published": "Fri, 5 Dec 2025 20:30:52 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/07/09/2024_07_09_152268_1720517650._medium.jpg\" style=\"text-align: center;\" /></p><p>Experts are now pressing the government to spell out which plants might replace Cirebon-1 in the retirement pipeline and the criteria guiding that selection.</p>"
+      "published": "Sat, 6 Dec 2025 12:12:14 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/06/2025_12_06_169919_1764996611._medium.jpg\" style=\"text-align: center;\" /></p><p>Israel said it would open the Rafah crossing from Gaza to Egypt exclusively to allow residents to exit the Palestinian territory \"in the coming days\", a claim denied by Egypt which insisted that the key crossing be opened in both directions.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "One Indonesian missing as Hong Kong blaze death toll climbs",
-      "title_zh": "一名印度尼西亚人在香港火灾死亡人数攀升时失踪",
-      "url": "https://www.thejakartapost.com/world/2025/12/05/one-indonesian-missing-as-hong-kong-blaze-death-toll-climbs.html",
+      "title": "Over 700 animals at Bandung Zoo at risk of starvation amid legal dispute",
+      "title_zh": "万隆动物园700多只动物在法律纠纷中面临饥饿风险",
+      "url": "https://www.thejakartapost.com/indonesia/2025/12/06/over-700-animals-at-bandung-zoo-at-risk-of-starvation-amid-legal-dispute.html",
       "region": "Indonesia",
-      "published": "Fri, 5 Dec 2025 18:30:31 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/05/2025_12_05_169883_1764929940._medium.jpg\" style=\"text-align: center;\" /></p><p>A total of 129 Indonesian citizens have been confirmed as survivors of the fire, according to the ministry’s latest data, with nine dead and one still receiving hospital treatment. </p>"
+      "published": "Sat, 6 Dec 2025 10:31:03 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/11/20/2025_11_20_169197_1763573025._medium.jpg\" style=\"text-align: center;\" /></p><p>Zoo spokesperson Sulhan Syafi'i said the remaining funds for animal feed will only last until Dec. 10, and so far the zoo has received no emergency assistance from either the Bandung administration or the central government.</p>"
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Putin promises non-stop energy, PM says Russia ties like pole star",
-      "title_zh": "普京承诺不间断的能源，总理说俄罗斯像极星一样联系",
-      "url": "https://timesofindia.indiatimes.com/india/putin-promises-non-stop-energy-pm-says-russia-ties-like-pole-star/articleshow/125797946.cms",
+      "title": "Goa nightclub inferno: How cylinder blast sparked deadly blaze, killing 25 people",
+      "title_zh": "果阿夜总会地狱：汽缸爆炸如何引发致命火灾，造成25人死亡",
+      "url": "https://timesofindia.indiatimes.com/city/goa/23-killed-in-goas-arpora-nightclub-fire-how-a-cylinder-blast-sparked-deadly-blaze-staffers-trapped-inside-died-of-suffocation/articleshow/125812286.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 04:25:47 +0530",
-      "summary": "India and Russia reaffirmed their strong ties, signing over a dozen agreements to boost economic partnership to $100 billion by 2030. Both nations committed to uninterrupted fuel shipments and discussed civil nuclear cooperation. Discussions also covered defense, manpower mobility, and India's UN Security Council bid, with leaders expressing satisfaction with the summit's outcomes."
+      "published": "Sun, 07 Dec 2025 06:39:37 +0530",
+      "summary": "A devastating fire at a North Goa nightclub, Birch by Romeo Lane, claimed at least 25 lives late Saturday night, primarily club employees. Officials suspect a cylinder blast triggered the blaze, with most victims succumbing to suffocation. The Chief Minister indicated potential non-compliance with fire safety norms, promising action against management and officials."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "‘Babri’ event row: Calcutta HC orders Bengal govt to pull out all stops; beef up security",
-      "title_zh": "“Babri”活动行：加尔各答HC命令孟加拉政府撤出所有停靠点；加强安全",
-      "url": "https://timesofindia.indiatimes.com/india/hc-tells-bengal-govt-to-pull-out-all-stops-ahead-of-babri-event/articleshow/125798135.cms",
+      "title": "Flight chaos triggers fare cap: IndiGo gets 2-day fix window; rescheduling fees scrapped",
+      "title_zh": "航班混乱引发票价上限： IndiGo获得2天修复窗口；取消重新安排费用",
+      "url": "https://timesofindia.indiatimes.com/india/govt-caps-flight-fares-gives-indigo-2-days-to-normalise/articleshow/125812074.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 05:16:06 +0530",
-      "summary": "Calcutta High Court has ordered the Bengal government to prevent communal unrest in Murshidabad's Beldanga ahead of a suspended TMC MLA's controversial \"Babri Masjid\" foundation-laying ceremony on December 6.  Authorities have deployed significant security forces to maintain law and order, with the MLA proceeding with arrangements despite the court's directive."
+      "published": "Sun, 07 Dec 2025 04:46:43 +0530",
+      "summary": "The government has imposed a Rs 18,000 domestic airfare cap and ordered IndiGo to restore full operations within two days, citing exorbitant fares and mass cancellations.  Aviation authorities invoked powers to ensure fair pricing and mandated refunds, aiming to protect passengers from opportunistic charges amidst a significant operational disruption."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Bengal: Suspended TMC MLA to lay 'Babri Masjid' foundation stone in Murshidabad;",
-      "title_zh": "孟加拉：暂停TMC MLA ，在Murshidabad奠定“Babri Masjid”奠基石；",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/heavy-security-deployed-tmc-mla-humayun-kabir-to-lay-babri-masjid-foundation-stone-in-murshidabad/articleshow/125798901.cms",
+      "title": "Delhi horror: 4-yr-old girl kidnapped, sexually assaulted; accused thrashed by locals",
+      "title_zh": "德里恐怖事件： 4岁女孩被绑架、性侵犯；被当地人指控殴打",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/four-year-old-girl-kidnapped-and-sexually-assaulted-in-narela-accused-arrested-by-police/articleshow/125808870.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 08:23:03 +0530",
-      "summary": "Murshidabad braces for a tense Saturday as suspended TMC MLA Humayun Kabir plans to inaugurate a structure named \"Babri Masjid.\"  Authorities have deployed over 3,500 security personnel following a Calcutta High Court directive to prevent communal unrest. Kabir insists the event will be peaceful, focusing solely on religious recitation, while the TMC denies involvement, alleging a political conspiracy."
+      "published": "Sat, 06 Dec 2025 23:58:09 +0530",
+      "summary": "A 4-year-old girl was kidnapped and sexually assaulted in Narela by 25-year-old Rizwan, who was later arrested. The accused, reportedly under the influence of alcohol, lured the child into an empty room and locked it from the inside. The girl was rescued by her teacher and locals before police intervention."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Airport chaos: India’s World Cup winner stranded for 12 hours; slams IndiGo",
-      "title_zh": "机场混乱：印度世界杯冠军被困12小时；抨击IndiGo",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fish-market-indias-world-cup-winner-blasts-indigo-after-being-stranded-for-12-hours/articleshow/125798819.cms",
+      "title": "'Mota ho jaunga wapis': Rohit Sharma refuses to eat cake after India win - Watch",
+      "title_zh": "“Mota ho jaunga wapis” ： Rohit Sharma在印度获胜后拒绝吃蛋糕-观看",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/mota-ho-jaunga-wapis-rohit-sharma-refuses-to-eat-cake-after-india-win-watch/articleshow/125812655.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 08:04:35 +0530",
-      "summary": "IndiGo faces widespread passenger anger and flight disruptions due to new pilot rest regulations. Thousands were stranded, including cricketer Madan Lal, as over 1,000 flights were cancelled. The airline admitted to planning gaps and expects full normalisation between December 10 and 15."
+      "published": "Sun, 07 Dec 2025 08:17:41 +0530",
+      "summary": "Yashasvi Jaiswal's maiden ODI century (116*) powered India to a commanding nine-wicket victory over South Africa, clinching the series 2-1. Rohit Sharma also shone with 75 runs, crossing 20,000 international runs. The duo's 155-run opening stand set the stage for a dominant chase, with Virat Kohli adding an unbeaten 65."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Feud over cow dung ends in murder: DU student stabbed to death in family brawl; 2 arrested",
-      "title_zh": "牛粪之争以谋杀告终： DU学生在家庭斗殴中被刺死； 2人被捕",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/du-student-stabbed-to-death-by-relatives-in-sangam-vihar/articleshow/125794290.cms",
+      "title": "Night shift bust: Bengaluru prison warder held for smuggling cigarettes in underwear",
+      "title_zh": "夜班半身像：班加罗尔监狱看守因走私内衣香烟而被拘留",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-central-prisons-warder-arrested-for-smuggling-cigarettes/articleshow/125809064.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:59:52 +0530",
-      "summary": "A Delhi University student was tragically stabbed to death in Sangam Vihar after intervening in a dispute between his mother and aunt over household waste. The 27-year-old LLB student's attempt to de-escalate the argument reportedly led to a violent confrontation with relatives, resulting in his fatal injury. Police have apprehended two individuals and are searching for others involved."
+      "published": "Sun, 07 Dec 2025 00:12:51 +0530",
+      "summary": "A Bengaluru Central Prison warder, Rahul Patil, was arrested for attempting to smuggle cigarettes and absorbent paper into the barracks. The banned items were discovered during a frisking at the prison entrance. This incident follows a recent ban on cigarette sales within the prison canteen."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "‘Metaverse’ budget cut: Zuckerberg plans slash resources; company loses $70 billion",
-      "title_zh": "“元宇宙”预算削减：扎克伯格计划削减资源；公司损失700 $",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-losing-more-than-70-billion-mark-zuckerberg-seems-to-have-finally-admitted-that-one-of-his-biggest-bet-is-not-working/articleshow/125785609.cms",
+      "title": "A softer side of Elon Musk: Ex-wife recalls Christmas with Tesla CEO",
+      "title_zh": "伊隆·马斯克的软弱一面：前妻回忆起特斯拉首席执行官的圣诞节",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-ex-wife-talulah-riley-remembers-christmas-with-tesla-ceo-he-got-up-in-the-middle-of-the-night-and-disappeared-only-to-/articleshow/125804503.cms",
       "region": "India",
-      "published": "Fri, 05 Dec 2025 14:38:42 +0530",
-      "summary": "Meta is reportedly slashing its Metaverse budget by up to 30% for 2026, signaling a potential shift away from its ambitious virtual reality vision after incurring over $70 billion in losses. This move comes as the company doubles down on artificial intelligence, investing heavily in AI infrastructure and talent acquisition."
+      "published": "Sat, 06 Dec 2025 17:00:05 +0530",
+      "summary": "Elon Musk's ex-wife Talulah Riley shared how he expressed his love despite immense pressure running multiple companies.  Forgetting a Christmas gift, Musk braved the snow barefoot to retrieve flowers from frozen ground, demonstrating his deep affection.  Nvidia CEO Jensen Huang also praised Musk's early adoption of AI technology, highlighting his unique vision."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Pan masala cess gets Lok Sabha nod in boost to defence priorities",
-      "title_zh": "Pan masala cess获得Lok Sabha点头提升防务重点",
-      "url": "https://timesofindia.indiatimes.com/india/pan-masala-cess-gets-lok-sabha-nod-in-boost-to-defence-priorities/articleshow/125798118.cms",
+      "title": "Top finish! '12 sixes, 302 runs' - Virat Kohli says 'I feel really free in my mind'",
+      "title_zh": "顶级！ “12个6 ， 302次跑步” - Virat Kohli说“我心里真的很自由”",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/virat-kohli-says-i-feel-really-free-in-my-mind/articleshow/125812749.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 05:02:26 +0530",
-      "summary": "Finance Minister Nirmala Sitharaman stated the government aims to prevent UPA-era defence shortages by ensuring a steady revenue stream for modern warfare capabilities. A new cess on pan masala manufacturing units will fund national security and public health, addressing concerns about potential price drops and health impacts."
+      "published": "Sun, 07 Dec 2025 08:45:55 +0530",
+      "summary": "Virat Kohli is back in top form, scoring 376 runs in his last four ODIs with two centuries and feeling liberated. After a Player of the Series award, he expressed his best rhythm in years, contributing to India's series win. Kohli, who holds the world record with 53 ODI centuries, rated his 135 in Ranchi as his best knock of the series."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Ring missing? Mandhana's first post since wedding postponement - Watch",
-      "title_zh": "戒指不见了？ Mandhana推迟婚礼后的第一个帖子-观看",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ring-missing-smriti-mandhanas-first-post-since-wedding-postponement-goes-viral-watch/articleshow/125791118.cms",
+      "title": "'Stay self-decided': EAM on Hasina's extradition; future hinges on circumstances",
+      "title_zh": "“保持自我决定” ： EAM关于Hasina的引渡；未来取决于情况",
+      "url": "https://timesofindia.indiatimes.com/india/hasinas-stay-in-india-is-her-personal-decision-jaishankar/articleshow/125812094.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 05:00:00 +0530",
-      "summary": "Indian cricketer Smriti Mandhana broke her social media silence with a toothpaste ad post, sparking speculation due to her missing engagement ring. Her wedding to Palash Muchhal was indefinitely postponed due to family medical emergencies, with recent nazar emojis in bios addressing further rumours.  Mandhana is set to return to cricket soon."
+      "published": "Sun, 07 Dec 2025 05:01:48 +0530",
+      "summary": "In a recent statement, External Affairs Minister S Jaishankar highlighted that Sheikh Hasina's visit to India is a personal decision shaped by last year's developments. He underscored India's unwavering support for Bangladesh, reiterating the importance of democratic values. Jaishankar also defended India's sovereignty in foreign relations, stressing that no nation has the authority to dictate its alliances with others."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "FDTL norms on hold: Govt steps in to fix IndiGo chaos; normalcy eyed by Dec 15",
-      "title_zh": "FDTL规范搁置：政府介入修复IndiGo混乱； 12月15日前恢复正常",
-      "url": "https://timesofindia.indiatimes.com/india/indigo-chaos-forces-govt-to-withdraw-safety-rule/articleshow/125798220.cms",
+      "title": "IndiGo fiasco: Body of Tripura med student who died in UP stuck in Delhi",
+      "title_zh": "IndiGo惨败：死于UP的Tripura医学生的身体被困在德里",
+      "url": "https://timesofindia.indiatimes.com/india/indigo-fiasco-body-of-tripura-med-student-who-died-in-up-stuck-in-delhi/articleshow/125812309.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 05:35:10 +0530",
-      "summary": "The government has temporarily suspended new pilot duty time rules to ease IndiGo's widespread flight cancellations, aiming for normalcy by December 15. This decision, made in the interest of passengers, follows significant disruptions and a substantial market value loss for IndiGo. Pilots' associations, however, criticize the move, citing safety concerns and questioning the airline's preparation."
+      "published": "Sun, 07 Dec 2025 06:38:43 +0530",
+      "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Ind vs SA: Pichai on Gemini’s creative power; ‘Nano Banana Pro’ prompt for AI miniature stadiums",
-      "title_zh": "Ind vs SA ： Pichai谈双子座的创造力； “Nano Banana Pro”提示AI微型体育场",
-      "url": "https://timesofindia.indiatimes.com/technology/social/ind-vs-sa-3rd-odi-create-ai-generated-miniature-stadiums-with-nano-banana-pro-use-this-prompt-suggested-by-sundar-pichai/articleshow/125795665.cms",
+      "title": "Lessons in Leadership: Nvidia CEO to Cambridge students - Here's what he said",
+      "title_zh": "领导力课程： Nvidia首席执行官致剑桥大学学生-以下是他所说的话",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-to-students-at-cambridge-university-strategy-is-not-just-about-choosing-what-to-do-it-is-/articleshow/125803718.cms",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 06:00:00 +0530",
-      "summary": "India faces a series decider against South Africa today in Visakhapatnam.  Google CEO Sundar Pichai has sparked a viral trend by sharing AI-generated miniature stadium visuals.  Fans can now use a detailed prompt to create their own AI-powered visualizations of the crucial IND vs SA match, bringing the game to life with unique digital art."
+      "published": "Sat, 06 Dec 2025 15:52:51 +0530",
+      "summary": "Nvidia CEO Jensen Huang, honored with the Hawking Fellowship, shared leadership insights at Cambridge, emphasizing strategic sacrifice and unwavering conviction. He revealed seeing Nvidia's future vision early, stressing the importance of gut-checking assumptions and learning from failure. Huang described the CEO role as a lifetime of sacrifice, inspiring others through example rather than seeking personal glory."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"Attack On US Firms\": JD Vance, Marco Rubio On EU Slapping X With Huge Fine",
-      "title_zh": "“攻击美国公司” ： JD Vance ， Marco Rubio在欧盟以巨额罚款拍打X",
-      "url": "https://www.ndtv.com/world-news/attack-on-us-firms-jd-vance-marco-rubio-on-eu-slapping-x-with-huge-fine-9759594#publisher=newsstand",
+      "title": "Tourists Among 25 Killed In Massive Fire At Goa Club",
+      "title_zh": "25名游客在果阿俱乐部的大火中丧生",
+      "url": "https://www.ndtv.com/india-news/several-killed-in-goa-club-fire-gas-cylinder-explosion-suspected-9764853#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 08:46:27 +0530",
-      "summary": "X was guilty of breaching the DSA's transparency obligation, said a Commission statement."
+      "published": "Sun, 07 Dec 2025 09:09:11 +0530",
+      "summary": "Officials noted the blast was so powerful that the flames engulfed the entire building within seconds"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"One Of The Greatest Honours Of My Life\": Trump On FIFA Peace Prize Award",
-      "title_zh": "“我生命中最伟大的荣誉之一” ：特朗普获得国际足联和平奖",
-      "url": "https://www.ndtv.com/world-news/one-of-the-greatest-honours-of-my-life-trump-on-fifa-peace-prize-award-9760504#publisher=newsstand",
+      "title": "Goa Night Club Fire News Live Updates: PM Modi Calls Arpora Incident Deeply Saddening",
+      "title_zh": "果阿夜总会火灾新闻现场更新： PM Modi致电Arpora事件，令人深感悲痛",
+      "url": "https://www.ndtv.com/india-news/birch-by-romeo-lane-goa-fire-live-updates-tourists-among-25-killed-in-arpora-pm-narendra-modi-droupadi-murmu-pramod-sawant-9765060#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 08:38:15 +0530",
-      "summary": "Trump was given a medal as well and donned it as Infantino lauded him."
+      "published": "Sun, 07 Dec 2025 09:07:58 +0530",
+      "summary": "Goa Nightclub Fire News Updates: The fire at Birch by Romeo Lane broke out around 1 am"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Maharashtra's Ruling Alliance Presents Report On 1 Year Of Governance",
-      "title_zh": "马哈拉施特拉邦执政联盟提交1年治理报告",
-      "url": "https://www.ndtv.com/india-news/devendra-fadnavis-maharashtra-government-mahayuti-alliance-maharashtras-ruling-alliance-presents-report-on-1-year-of-governance-9760494#publisher=newsstand",
+      "title": "Days After Trudeau's Post, Katy Perry Makes Their Relationship Instagram Official",
+      "title_zh": "在特鲁多发布帖子几天后，凯蒂·佩里（ Katy Perry ）将他们的关系正式发布在Instagram",
+      "url": "https://www.ndtv.com/world-news/days-after-trudeaus-post-katy-perry-makes-their-relationship-instagram-official-9764979#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 08:32:01 +0530",
-      "summary": "Bawankule said the government is fully committed to the vision of Viksit Maharashtra 2047."
+      "published": "Sun, 07 Dec 2025 08:59:49 +0530",
+      "summary": "American singer Katy Perry and former Canadian prime minister Justin Trudeau are in a relationship. The announcement was officially made by Perry in a series of photographs on her Instagram account, including one with Trudeau."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Jhol Momo To Badam Halwa: Inside Lavish State Dinner Hosted For Putin At Rashtrapati Bhavan",
-      "title_zh": "Jhol Momo到Badam Halwa ：在Rashtrapati Bhavan为普京举办的豪华国宴",
-      "url": "https://www.ndtv.com/world-news/jhol-momo-zafrani-paneer-roll-badam-halwa-inside-putins-state-dinner-at-rashtrapati-bhavan-putin-in-india-putin-india-visit-pm-modi-9760364#publisher=newsstand",
+      "title": "₹22 lakh to finish school? CA breaks down rising cost crushing middle-class homes",
+      "title_zh": "₹ 22 lakh完成学业？加利福尼亚州打破了不断上涨的成本，压垮了中产阶",
+      "url": "https://www.ndtv.com/business-news/22-lakh-to-finish-school-ca-breaks-down-rising-cost-crushing-middle-class-homes-9765058#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:56:58 +0530",
-      "summary": "Putin was also served a healthy mix of beverages."
+      "published": "Sun, 07 Dec 2025 08:52:53 +0530",
+      "summary": "Cities such as Delhi, Bengaluru, and Hyderabad have seen some of the steepest revisions"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "In UP, Cops Suspended For Dumping Unidentified Body In Another Area",
-      "title_zh": "在UP中，警察因在另一个区域倾倒身份不明的尸体而被停职",
-      "url": "https://www.ndtv.com/india-news/in-up-cops-suspended-for-dumping-unidentified-body-in-another-area-9760387#publisher=newsstand",
+      "title": "\"Very Painful Day For All In Goa\": Chief Minister As Club Fire Kills 25",
+      "title_zh": "“果阿所有人都非常痛苦的一天” ：首席部长，因为俱乐部火灾杀死了25人",
+      "url": "https://www.ndtv.com/india-news/birch-by-romeo-lane-goa-fire-very-painful-day-for-all-in-goa-chief-minister-pramod-sawant-as-club-fire-kills-25-9764993#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:46:29 +0530",
-      "summary": "The action came after CCTV footage exposed the police personnel. (Representational)"
+      "published": "Sun, 07 Dec 2025 08:21:32 +0530",
+      "summary": "At least 25 people were killed after a massive fire broke out at a restaurant-cum-club Goa's Arpora."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "12 Labourers From UP Stranded In Kyrgyzstan, Families Allege They Are Being Tortured",
-      "title_zh": "来自UP的12名工人滞留在吉尔吉斯斯坦，家人声称他们正在遭受酷刑",
-      "url": "https://www.ndtv.com/india-news/12-labourers-from-up-stranded-in-kyrgyzstan-families-allege-they-are-being-tortured-9760371#publisher=newsstand",
+      "title": "\"Not Could Be, It Will Be\": Aviation Minister Ram Mohan Naidu on  action against IndiGo",
+      "title_zh": "“不可能，一定会” ：航空部长Ram Mohan Naidu就针对IndiGo的行动发表讲话",
+      "url": "https://www.ndtv.com/india-news/indigo-disruptions-indigo-flight-cancellations-not-could-be-it-will-be-aviation-minister-on-action-against-indigo-9758927#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:35:54 +0530",
-      "summary": "Families of the stranded men have alleged that they are being tortured in Kyrgyzstan."
+      "published": "Sun, 07 Dec 2025 08:03:14 +0530",
+      "summary": "\"The fault is at Indigo,\" Ram Mohan Naidu said."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "IndiGo Flight Crisis Live Updates: Delhi Airport Says Airline's Ops Getting Back To Normal",
-      "title_zh": "IndiGo航班危机实时更新：德里机场称航空公司的运营恢复正常",
-      "url": "https://www.ndtv.com/india-news/indigo-flight-disruption-live-updates-delhi-mumbai-flight-cancelled-news-updates-all-domestic-flights-out-of-delhi-cancelled-till-midnight-today-9755290#publisher=newsstand",
+      "title": "UP Teacher On Poll Duty Dies Of Brain Haemorrhage, Family Blames 'Pressure'",
+      "title_zh": "UP Teacher On Poll Duty死于脑出血，家庭指责“压力”",
+      "url": "https://www.ndtv.com/india-news/up-teacher-on-poll-duty-dies-of-brain-haemorrhage-family-blames-pressure-9764925#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:30:08 +0530",
-      "summary": "Tens of thousands of IndiGo passengers have been affected."
+      "published": "Sun, 07 Dec 2025 08:03:04 +0530",
+      "summary": "BLOs assist a voter in filling out the enumeration form for the SIR of electoral rolls (File)"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Pro-Khalistan Terrorist Group, Sikh Businessman Sanctioned In UK",
-      "title_zh": "亲哈利斯坦恐怖组织，锡克教商人在英国受到制裁",
-      "url": "https://www.ndtv.com/world-news/uk-sanctions-british-sikh-businessman-gurpreet-singh-rehal-group-over-pro-khalistan-activities-9760349#publisher=newsstand",
+      "title": "\"Not Unconstitutional\": Suspended Trinamool MLA Lays 'Babri Mosque' Foundation",
+      "title_zh": "“并非违宪” ： Trinamool MLA暂停了“巴布里清真寺”基金会",
+      "url": "https://www.ndtv.com/india-news/babri-masjid-humayun-kabir-not-unconstitutional-suspended-trinamool-mla-lays-murshidabad-babri-mosque-foundation-9764928#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 07:18:31 +0530",
-      "summary": "It also announced an asset freeze against \"Babbar Akali Lehar\" for supporting the same terrorist group."
+      "published": "Sun, 07 Dec 2025 08:02:43 +0530",
+      "summary": "Humayun Kabir laid the foundation stone for a mosque, modelled on Ayodhya's Babri Masjid, in Murshidabad"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "27-Year-Old Delhi University Law Student Stabbed To Death: Cops",
-      "title_zh": "27岁的德里大学法学院学生被刺死：警察",
-      "url": "https://www.ndtv.com/delhi-news/27-year-old-delhi-university-law-student-stabbed-to-death-cops-9760299#publisher=newsstand",
+      "title": "\"She Has To Make Up Her Mind\": S Jaishankar On Sheikh Hasina's India Stay",
+      "title_zh": "“她必须下定决心” ： S Jaishankar在Sheikh Hasina的印度住宿",
+      "url": "https://www.ndtv.com/india-news/she-has-to-make-up-her-mind-external-affairs-minister-s-jaishankar-on-former-bangladeshi-prime-minister-sheikh-hasinas-india-stay-9761403#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 06:38:41 +0530",
-      "summary": "The incident was reported around 11.30 am in Sangam Vihar, the police said. (Representational)"
+      "published": "Sun, 07 Dec 2025 07:56:48 +0530",
+      "summary": "Sheikh Hasina fled to India in August last year"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"Getting Back To Normalcy\": Delhi Airport Issues Advisory Amid IndiGo Chaos",
-      "title_zh": "“恢复正常” ： IndiGo混乱中的德里机场问题咨询",
-      "url": "https://www.ndtv.com/india-news/delhi-airport-issues-advisory-amid-indigo-cancellation-chaos-9760285#publisher=newsstand",
+      "title": "\"European Union Should Be Abolished\": Elon Musk After $140 Million Fine On X",
+      "title_zh": "“欧盟应该废除” ： Elon Musk在X上被罚款$ 1.4亿",
+      "url": "https://www.ndtv.com/tech/european-union-should-be-abolished-elon-musk-after-140-million-fine-on-x-9764475#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 06 Dec 2025 06:22:35 +0530",
-      "summary": "IndiGo has categorically stated that things are expected to return to normal between December 10 and 15."
+      "published": "Sun, 07 Dec 2025 07:52:32 +0530",
+      "summary": "Musk said that he loved Europe, but not the bureaucratic monster that is the EU."
     },
     {
       "source": "NHK News",
-      "title": "首都圏強盗事件 市川と横浜の被害金が指示役の1人に渡ったか",
-      "title_zh": "市川和横滨在东京地区抢劫案中的损失是否转移给了其中一位董事？",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014995981000.html",
+      "title": "中国軍戦闘機が自衛隊機にレーダー照射 強く抗議 小泉防衛相",
+      "title_zh": "中国战斗机以雷达辐射强烈抗议自卫队飞机，小泉防卫大臣",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996291000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 11:48:47 +0900",
-      "summary": "去年、闇バイトを実行役に首都圏で相次いだ18件の強盗事件のうち、千葉県市川市の住宅で50代の女性を殴って現金などを奪ったとして指示役とみられる4人が逮捕された事件で、奪われた現金などが、横浜市で起きた別の事件の被害金と合わせて4人のうちの1人に渡っていた疑いがあることが捜査関係者への取材で分かりました。警視庁などは4人がほかの強盗事件にも関わった疑いがあるとみて調べています。"
+      "published": "Sun, 07 Dec 2025 11:54:20 +0900",
+      "summary": "日中関係が冷え込む中、防衛省は、中国軍の戦闘機が、6日午後、沖縄本島南東の公海上空で航空自衛隊の戦闘機に対し、2度にわたって、レーダーを断続的に照射したと発表しました。小泉防衛大臣は「極めて遺憾だ」として、中国側に強く抗議し、再発防止を厳重に申し入れたことを明らかにしました。中国軍機による自衛隊機へのレーダー照射を防衛省が公表するのは初めてだということです。"
     },
     {
       "source": "NHK News",
-      "title": "山口 宇部市のガス漏れ 供給停止続く 6日も復旧作業",
-      "title_zh": "在山口宇部市供气停止后，修复工作持续了6天",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014995951000.html",
+      "title": "首都圏強盗事件 他人のSNSアカウント買い取り実行役募集か",
+      "title_zh": "大都会区抢劫，购买别人的社交媒体帐户，招募高管？",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996511000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 12:21:40 +0900",
-      "summary": "4日、広範囲でガス漏れが相次いだ山口県宇部市では、現在も多くの地域でガスの供給が停止されたままで、ガス会社は6日も復旧作業を進めています。"
+      "published": "Sun, 07 Dec 2025 11:48:54 +0900",
+      "summary": "去年、闇バイトを実行役に首都圏で相次いだ18件の強盗事件のうち、千葉県市川市の住宅で50代の女性を殴って現金などを奪ったとして指示役とみられる4人が逮捕された事件で、容疑者らのスマートフォンに、SNSの他人のアカウントを買い取った形跡があったことが捜査関係者への取材で分かりました。アカウントは闇バイトの募集に使われていたということで、警視庁などは容疑者らが他人になりすまして実行役を集めていた疑いがあるとみて調べています。"
     },
     {
       "source": "NHK News",
-      "title": "ノーベル賞 授賞式会場のコンサートホールを公開",
-      "title_zh": "在诺贝尔奖颁奖典礼上打开音乐厅",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014995921000.html",
+      "title": "高市首相 就任後初の石川県訪問 地震と豪雨災害の現場視察",
+      "title_zh": "当前时间位于川口（ Kawaguchi ）的川口站（ Kawaguchi Station ）尽头。",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996521000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 10:10:22 +0900",
-      "summary": "ことしのノーベル賞の授賞式が日本時間の今月11日、スウェーデンで行われるのを前に、授賞式の会場となるコンサートホールがメディアに公開されました。"
+      "published": "Sun, 07 Dec 2025 11:50:21 +0900",
+      "summary": "高市総理大臣は、就任後初めて石川県を訪問し、去年の能登半島地震と豪雨災害の現場を視察しています。"
     },
     {
       "source": "NHK News",
-      "title": "高市首相“「UHC」実現へ世界銀行などと途上国人材育成支援”",
-      "title_zh": "“[UHC]现在是韩国世界上最大的破产银行。”",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014995991000.html",
+      "title": "ノーベル化学賞 北川進さん「面白いと思うことを突き詰めて」",
+      "title_zh": "诺贝尔化学奖北川进先生“坚持你认为有趣的东西”",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996391000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 12:03:41 +0900",
-      "summary": "高市総理大臣は、すべての人が適切な保健医療サービスを支払い可能な費用で受けられるようにする「ユニバーサル・ヘルス・カバレッジ」の実現を目指し、世界銀行やWHO＝世界保健機関と緊密に連携しながら、途上国の人材育成を支援していく考えを示しました。"
+      "published": "Sun, 07 Dec 2025 08:20:18 +0900",
+      "summary": "ノーベル賞の授賞式に出席するためスウェーデンを訪れている京都大学の北川進さんが現地の日本人の学校を訪れ子どもたちを前に「面白いと思うことを突き詰めてほしい」とメッセージを贈りました。"
     },
     {
       "source": "NHK News",
-      "title": "米・ウクライナ ロシアとの和平案めぐり高官レベルの協議続く",
-      "title_zh": "与美国和乌克兰就和平计划的高层讨论仍在继续",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014995911000.html",
+      "title": "高市首相 “高校生などの扶養控除縮小 決定していない” X投稿",
+      "title_zh": "高市首相“高中生抚养费减免没有减少” X帖子",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996471000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 12:02:47 +0900",
-      "summary": "アメリカとウクライナはロシアとの和平案をめぐって高官レベルの協議を続け、ウクライナ側は独立と主権を守ることが最優先だと改めて強調しました。和平案については領土の扱いなどで立場に隔たりがあるとされ、アメリカとウクライナは6日も協議するとしています。"
+      "published": "Sun, 07 Dec 2025 10:22:24 +0900",
+      "summary": "来年度の税制改正をめぐり、高市総理大臣は6日夜、旧ツイッターの「X」に、高校生などを扶養する人の所得税や住民税の扶養控除の縮小について指示しておらず、与党の税制調査会で決定していないと投稿しました。"
     },
     {
       "source": "NHK News",
-      "title": "サッカーW杯 日本はオランダ チュニジアなどと同組【全結果】",
-      "title_zh": "日本足球世界杯与荷兰、突尼斯等同组【全部结果】",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014994061000.html",
+      "title": "ハワイ島 キラウエア火山で噴火 広い範囲で注意を呼びかけ",
+      "title_zh": "夏威夷岛基拉韦厄火山大范围喷发警报",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996441000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 08:58:13 +0900",
-      "summary": "来年、アメリカ、カナダ、メキシコの3か国で開催されるサッカーワールドカップの組み合わせ抽せんが行われ、日本はグループFに入り、オランダ、ヨーロッパ予選プレーオフの勝者、それにチュニジアと対戦することになりました。記事後半では12グループ、すべての組み合わせをお伝えしています。"
+      "published": "Sun, 07 Dec 2025 09:31:32 +0900",
+      "summary": "ハワイ島のキラウエア火山で噴火が始まり、火山ガスも発生していることからUSGS＝アメリカの地質調査所は広い範囲で注意を呼びかけています。"
     },
     {
       "source": "NHK News",
-      "title": "【全チーム紹介】サッカーW杯 2026 出場チームを詳しく",
-      "title_zh": "【各队介绍】详细了解参加2026年世界杯足球赛的队伍",
-      "url": "http://www3.nhk.or.jp/news/html/20251206/k10014994071000.html",
+      "title": "香港 立法会議員選挙の投票始まる 投票率が最大の焦点",
+      "title_zh": "香港立法会选举开始时的选民投票率是最大的焦点",
+      "url": "http://www3.nhk.or.jp/news/html/20251207/k10014996491000.html",
       "region": "Japan",
-      "published": "Sat, 06 Dec 2025 08:49:16 +0900",
-      "summary": "「出場チームはどんな特徴が？」来年、アメリカ、カナダ、メキシコの3か国で開催されるサッカーワールドカップ。これまでに48チーム中、42チームの出場が決まっています。出場を決めた予選の成績や世界ランキング、過去の大会での成績、それに注目選手などをグループごとに全チーム、詳しくお伝えしています。（世界ランキングは2025年11月時点）"
+      "published": "Sun, 07 Dec 2025 11:25:02 +0900",
+      "summary": "香港で議会に当たる立法会の議員選挙の投票が始まりました。150人以上が犠牲となった大規模な火災を受けて香港政府は被災者支援などにつなげるとして投票を呼びかけていますが、候補者が親中派で占められる中、市民の関心は低調で、投票率が最大の焦点です。"
     },
     {
       "source": "The Korea Times",
-      "title": "S. Korea to face Mexico, South Africa, European qualifier at 2026 FIFA World Cup",
-      "title_zh": "韩国将在2026年FIFA世界杯上面对墨西哥、南非和欧洲预选赛",
-      "url": "https://www.koreatimes.co.kr/southkorea/20251206/s-korea-to-face-mexico-south-africa-european-qualifier-at-2026-fifa-world-cup?utm_source=rss",
+      "title": "Number of military draft dodgers going abroad tops 900 over past 5 years",
+      "title_zh": "过去5年，出国服役的道奇人数量超过900人",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20251207/number-of-military-draft-dodgers-going-abroad-tops-900-over-past-5-years?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 06 Dec 2025 03:32:03 GMT",
-      "summary": "SEOUL — South Korea will take on Mexico, South Africa, and a European playoff qualifier in the group stage of the 2026 FIFA World Cup. The draw for the 23rd edition of football's premier event took place at the Kennedy Center in Washington on Friday (local time). Co-hosted by the United States, Canada and Mexico, the 2026 World Cup, set to run from June 11 to July 19, will be the largest tournament in history. South Korea will play in their 11th consecutive World Cup and 12th overall. They have reached the knockout stage three times — reaching the semifinals in 2002 as co-hosts and the round of 16 in 2010 in South Africa and in 2022 in Qatar. There will be 12 groups of four teams each at the upcoming World Cup. The top two teams from each group will qualify for the knockout stage, and the eight best third-placed teams will join them. At Friday's draw, the 42 countries that had already qualified were placed into four \"pots,\" based on their FIFA ranking positions from November. The three co-hosts — United States, Canada, and Mexico — were automatically placed in Pot 1, regardless of"
+      "published": "Sun, 07 Dec 2025 03:47:02 GMT",
+      "summary": "More than 900 Korean men evaded mandatory military service over the past five years by failing to return home after overseas travel, a ruling party lawmaker said Sunday. Of the 3,127 draft dodgers identified between January 2021 and October 2025, 912 violated overseas travel rules, according to Hwang Hee, a lawmaker of the ruling Democratic Party, citing data from the Military Manpower Administration. In Korea, all able-bodied men must serve mandatory military service for at least 18 months. Under the Military Service Act, men aged 25 and older who have not completed their military service must obtain approval from the Military Manpower Administration before traveling overseas or remaining abroad. Violators face criminal complaints and restrictions on passport issuance until age 37. Despite authorities' efforts to crack down on draft evasion, violations tied to overseas travel have continued to rise. In 2021, the number of such draft dodgers came to 158, followed by 185 in 2022, 196 in 2023 and 197 in 2024, the data showed. In the first 10 months of this year, the number of such violators"
     },
     {
-      "source": "The Korea Times",
-      "title": "Korean psychologist Suh Eun-kook on the simple secrets to happiness",
-      "title_zh": "韩国心理学家Suh Eun-kook谈幸福的简单秘诀",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20251206/korean-psychologist-suh-eun-kook-on-the-simple-secrets-to-happiness?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 06 Dec 2025 03:32:03 GMT",
-      "summary": "“Are you happy?” It’s a simple question, and on the surface, there’s nothing unusual about it. Yet many people hesitate to answer yes. Life may feel generally okay, but admitting happiness often seems to require having a little more. Statistics suggest the same. According to the U.N.’s World Happiness Report 2025, released in March, Korea ranked 58th among 147 countries. It placed near the bottom among developed nations and ranked lower than Taiwan, Vietnam, Thailand, Kazakhstan, Japan and the Philippines in Asia. Koreans love comparing rankings and speak often of healing, yet still hesitate to call themselves happy. Why? Suh Eun-kook, a psychology professor at Yonsei University and author of the book whose Korean title translates as “The Origin of Happiness,” offers one explanation. He argues that people should seek “Darwinian happiness rather than Aristotelian happiness,” a phrase that may sound abstract but has resonated deeply. The book has sold more than 200,000 copies, reflecting Koreans’ intense preoccupation with happiness. Suh studied under Ed Diener, consid"
+      "source": "Saudi Gazette",
+      "title": "Saudi official says Israeli government needs reform, warns against ‘spoilers’ of the 20-point peace plan",
+      "title_zh": "沙特官员表示以色列政府需要改革，并警告不要破坏20点和平计划的“破坏者”",
+      "url": "https://saudigazette.com.sa/article/657189/SAUDI-ARABIA/Saudi-FM-official-Israeli-government-must-reform-for-peace?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 21:56:00 +0300",
+      "summary": "Saudi Gazette report DOHA — Saudi Arabia’s Minister Plenipotentiary at the Ministry of Foreign Affairs, Dr. Manal Radwan, said on Saturday that meaningful peace cannot be achieved without reforming"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "19,790 residency, labor, and border law violators arrested in one week",
+      "title_zh": "19,790名居留、劳工和边境法律违规者在一周内被捕",
+      "url": "https://saudigazette.com.sa/article/657188/SAUDI-ARABIA/19790-residency-labor-and-border-law-violators-arrested-in-one-week?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 20:22:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Saudi security authorities have arrested a total of 19,790 illegal residents during the last week. The arrests were made in the joint inspections, carried out by the"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Move to slap SR500 fine on companies if failed to disclose beneficial owner data",
+      "title_zh": "如果未能披露受益所有者数据，则对公司处以SR500罚款",
+      "url": "https://saudigazette.com.sa/article/657187/SAUDI-ARABIA/Move-to-slap-SR500-fine-on-companies-if-failed-to-disclose-beneficial-owner-data?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 19:47:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The Ministry of Commerce unveiled plans to penalize companies if they failed to disclose beneficial owner data or submit annual confirmation of that data. The proposed penalty"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi embassy in Ethiopia warns of Marburg virus outbreak",
+      "title_zh": "沙特驻埃塞俄比亚大使馆警告马尔堡病毒爆发",
+      "url": "https://saudigazette.com.sa/article/657186/SAUDI-ARABIA/Saudi-embassy-in-Ethiopia-warns-of-Marburg-virus-outbreak?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 18:44:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Saudi Arabia’s Embassy in Ethiopia has issued an alert to Saudi citizens residing in or traveling to Ethiopia, urging them to avoid traveling to the South Omo Zone in South"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "NCM issues detailed map of six-day heavy rainfall across Saudi Arabia",
+      "title_zh": "NCM发布沙特阿拉伯六天强降雨详细地图",
+      "url": "https://saudigazette.com.sa/article/657182/SAUDI-ARABIA/National-Center-for-Meteorology-maps-six-day-heavy-rainfall-across-Saudi-Arabia?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 17:53:00 +0300",
+      "summary": "Saudi Gazette report RIYADH — The National Center for Meteorology (NCM) has released a detailed weather map outlining a six-day sequence of heavy rainfall expected to impact wide areas of Saudi Arabia"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Indonesian president highlights MWL’s role in confronting Islamophobia during meeting with Sheik Al-Issa",
+      "title_zh": "印度尼西亚总统在与Sheik Al-Issa会晤时强调了MWL在应对伊斯兰恐惧症方面的作用",
+      "url": "https://saudigazette.com.sa/article/657181/SAUDI-ARABIA/Indonesian-president-highlights-MWLs-role-in-confronting-Islamophobia-during-meeting-with-Sheik-Al-Issa?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 17:43:00 +0300",
+      "summary": "Saudi Gazette reportJAKARTA — Indonesian President Prabowo Subianto received Muslim World League (MWL) Secretary General and Chairman of Organization of Muslim Scholars Sheikh Mohammed Al-Issa in Jakarta.Speaking"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia and 7 Islamic countries reject Israel’s exit-only plans for Gaza’s Rafah Crossing",
+      "title_zh": "沙特阿拉伯和7个伊斯兰国家拒绝以色列仅退出加沙拉法口岸的计划",
+      "url": "https://saudigazette.com.sa/article/657173/SAUDI-ARABIA/Saudi-Arabia-and-7-Islamic-countries-reject-Israels-exit-only-plans-for-Gazas-Rafah-Crossing?ref=rss&format=simple&link=link",
+      "region": "Saudi Arabia",
+      "published": "Sat, 06 Dec 2025 16:13:00 +0300",
+      "summary": "Saudi Gazette reportRIYADH — The foreign ministers of Saudi Arabia and seven other Islamic countries reiterated their absolute rejection of any attempts to expel the Palestinian people of Gaza from their"
     },
     {
       "source": "Saudi Gazette",
@@ -1263,69 +1317,6 @@
       "region": "Saudi Arabia",
       "published": "Fri, 05 Dec 2025 18:31:00 +0300",
       "summary": "Saudi Gazette report RIYADH — The Gulf Cooperation Council (GCC) on Friday expressed deep concern over two proposed European Union laws on corporate sustainability due diligence and corporate sustainability"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Civil Defense urges caution as thunderstorms and heavy rainfall expected across Saudi Arabia",
-      "title_zh": "民防部门敦促谨慎行事，因为预计整个沙特阿拉伯将出现雷暴和暴雨",
-      "url": "https://saudigazette.com.sa/article/657165/SAUDI-ARABIA/Civil-Defense-warns-of-heavy-rain-and-thunderstorms-across-Saudi-Arabia?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Fri, 05 Dec 2025 16:35:00 +0300",
-      "summary": "Saudi Gazette report RIYADH — The General Directorate of Civil Defense has urged the public to exercise caution, remain in safe areas, avoid valleys and flood-prone locations, and refrain from swimming"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Visiting the Noble Rawdah: Updated entry times and permit rules",
-      "title_zh": "参观Noble Rawdah ：更新的入场时间和许可证规则",
-      "url": "https://saudigazette.com.sa/article/657160/SAUDI-ARABIA/Updated-visiting-hours-and-permit-rules-for-the-Noble-Rawdah?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Fri, 05 Dec 2025 16:04:00 +0300",
-      "summary": "Saudi Gazette report MADINAH — Saudi authorities has outlined the latest procedures for visiting the Noble Rawdah in the Prophet’s Mosque, emphasizing that entry requires a permit issued through the"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Thunderstorms to hit most Saudi regions from Saturday to Thursday",
-      "title_zh": "雷暴将于周六至周四袭击沙特大部分地区",
-      "url": "https://saudigazette.com.sa/article/657143/SAUDI-ARABIA/Thunderstorms-to-hit-most-Saudi-regions-from-Saturday-to-Thursday?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Thu, 04 Dec 2025 23:06:00 +0300",
-      "summary": "Saudi Gazette reportRIYADH — The National Center for Meteorology (NCM) forecasts thunderstorms of varying intensity across most regions of Saudi Arabia, starting from Saturday, Dec. 6 and continuing"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia's global trade up 8.6% annually reaching SR540 billion in 3Q 2025",
-      "title_zh": "沙特阿拉伯的全球贸易额每年增长8.6% ， 2025年第三季度达到5400亿里亚尔",
-      "url": "https://saudigazette.com.sa/article/657142/SAUDI-ARABIA/Saudi-Arabias-global-trade-up-86-annually-reaching-SR540-billion-in-3Q-2025?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Thu, 04 Dec 2025 22:28:00 +0300",
-      "summary": "Saudi Gazette reportRIYADH — Saudi Arabia’s international trade totaled around SR540.5 billion in the third quarter of 2025, an 8.6 percent year-on-year increase, or SR43 billion from SR497.5 billion"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Minister Al-Sheikh discusses Islamic cooperation with Pakistani counterpart",
-      "title_zh": "谢赫部长与巴基斯坦同行讨论伊斯兰合作",
-      "url": "https://saudigazette.com.sa/article/657141/SAUDI-ARABIA/Minister-Al-Sheikh-discusses-Islamic-cooperation-with-Pakistani-counterpart?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Thu, 04 Dec 2025 19:23:00 +0300",
-      "summary": "Saudi Gazette reportJEDDAH — Minister of Islamic Affairs, Call and Guidance Sheikh Abdullatif Al-Sheikh received Pakistan’s Minister of Religious Affairs and Interfaith Harmony Sardar Muhammad Yousaf"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "SFDA: Feed products record 60% growth in first half of 2025",
-      "title_zh": "SFDA ：饲料产品在2025年上半年实现60%的增长",
-      "url": "https://saudigazette.com.sa/article/657140/SAUDI-ARABIA/SFDA-Feed-products-record-60-growth-in-first-half-of-2025?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Thu, 04 Dec 2025 18:41:00 +0300",
-      "summary": "Saudi Gazette reportRIYADH — The Saudi Food and Drug Authority (SFDA) announced a 60 percent increase in the availability of feed products in Saudi Arabia during the first half of 2025, compared to the"
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi nonprofit sector revenues surge 22% to SR73 billion in 2024",
-      "title_zh": "沙特非营利部门收入在2024年飙升22%至730亿里亚尔",
-      "url": "https://saudigazette.com.sa/article/657139/SAUDI-ARABIA/Saudi-nonprofit-sector-revenues-surge-22-to-SR73-billion-in-2024?ref=rss&format=simple&link=link",
-      "region": "Saudi Arabia",
-      "published": "Thu, 04 Dec 2025 18:21:00 +0300",
-      "summary": "Saudi Gazette reportRIYADH — The revenues of nonprofit sector in Saudi Arabia surged 22 percent to SR73.1 billion during the year 2024 compared with the year 2023.Expenditures recorded a growth of 17"
     }
   ]
 }
