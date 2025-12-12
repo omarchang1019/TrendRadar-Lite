@@ -1,13 +1,13 @@
 {
-  "last_updated": "2025-12-12 09:23:42",
+  "last_updated": "2025-12-12 11:51:37",
   "items": [
     {
       "source": "Hacker News",
       "title": "GPT-5.2",
       "title_zh": "GPT-5.2",
       "url": "https://openai.com/index/introducing-gpt-5-2/",
-      "points": 743,
-      "comments": 590,
+      "points": 829,
+      "comments": 685,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -17,7 +17,7 @@
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
       "title_zh": "用后见之明对十年前的Hacker News讨论进行自动分级",
       "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
-      "points": 568,
+      "points": 578,
       "comments": 251,
       "region": "Global",
       "published": null,
@@ -28,8 +28,8 @@
       "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
       "title_zh": "iPhone拼写错误？不仅仅是你– iOS键盘坏了[视频]",
       "url": "https://www.youtube.com/watch?v=hksVvXONrIo",
-      "points": 462,
-      "comments": 322,
+      "points": 506,
+      "comments": 345,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -39,8 +39,8 @@
       "title": "The highest quality codebase",
       "title_zh": "最高质量的代码库",
       "url": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "points": 420,
-      "comments": 289,
+      "points": 450,
+      "comments": 309,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -50,8 +50,8 @@
       "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
       "title_zh": "英国上议院试图禁止16岁以下人士使用VPN",
       "url": "https://alecmuffett.com/article/134925",
-      "points": 260,
-      "comments": 247,
+      "points": 317,
+      "comments": 313,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -61,8 +61,8 @@
       "title": "Craft software that makes people feel something",
       "title_zh": "制作能让人感受到某种东西的软件",
       "url": "https://rapha.land/craft-software-that-makes-people-feel-something/",
-      "points": 239,
-      "comments": 115,
+      "points": 262,
+      "comments": 127,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -72,8 +72,8 @@
       "title": "EFF launches Age Verification Hub",
       "title_zh": "EFF推出年龄验证中心",
       "url": "https://www.eff.org/press/releases/eff-launches-age-verification-hub-resource-against-misguided-laws",
-      "points": 225,
-      "comments": 207,
+      "points": 261,
+      "comments": 229,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -83,8 +83,8 @@
       "title": "Litestream VFS",
       "title_zh": "Litestream VFS",
       "url": "https://fly.io/blog/litestream-vfs/",
-      "points": 215,
-      "comments": 71,
+      "points": 246,
+      "comments": 77,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -94,8 +94,8 @@
       "title": "French supermarket's Christmas advert is worldwide hit (without AI) [video]",
       "title_zh": "法国超市的圣诞广告在全球广受欢迎（无人工智能） [视频]",
       "url": "https://www.youtube.com/watch?v=Na9VmMNJvsA",
-      "points": 205,
-      "comments": 120,
+      "points": 243,
+      "comments": 137,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -105,8 +105,8 @@
       "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
       "title_zh": "Rivian推出定制硅片、R2激光雷达路线图和Universal Hands Free",
       "url": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
-      "points": 201,
-      "comments": 280,
+      "points": 242,
+      "comments": 323,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -116,8 +116,8 @@
       "title": "Denial of service and source code exposure in React Server Components",
       "title_zh": "React Server组件中的拒绝服务和源代码暴露",
       "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
-      "points": 192,
-      "comments": 93,
+      "points": 225,
+      "comments": 119,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -127,30 +127,8 @@
       "title": "Going Through Snowden Documents, Part 1",
       "title_zh": "浏览斯诺登文件，第1部分",
       "url": "https://libroot.org/posts/going-through-snowden-documents-part-1/",
-      "points": 188,
-      "comments": 112,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "My productivity app is a never-ending .txt file (2020)",
-      "title_zh": "我的生产力应用程序是一个永无止境的.txt文件（ 2020 ）",
-      "url": "https://jeffhuang.com/productivity_text_file/",
-      "points": 154,
-      "comments": 109,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "The Walt Disney Company and OpenAI Partner on Sora",
-      "title_zh": "华特迪士尼公司和OpenAI在SORA上的合作伙伴",
-      "url": "https://openai.com/index/disney-sora-agreement/",
-      "points": 144,
-      "comments": 413,
+      "points": 206,
+      "comments": 133,
       "region": "Global",
       "published": null,
       "summary": ""
@@ -160,29 +138,69 @@
       "title": "Programmers and software developers lost the plot on naming their tools",
       "title_zh": "程序员和软件开发人员在命名他们的工具时失去了情节",
       "url": "https://larr.net/p/namings.html",
-      "points": 140,
-      "comments": 223,
+      "points": 179,
+      "comments": 286,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "My productivity app is a never-ending .txt file (2020)",
+      "title_zh": "我的生产力应用程序是一个永无止境的.txt文件（ 2020 ）",
+      "url": "https://jeffhuang.com/productivity_text_file/",
+      "points": 177,
+      "comments": 128,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "An SVG is all you need",
+      "title_zh": "SVG是您所需要的一切",
+      "url": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
+      "points": 176,
+      "comments": 74,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Reddit r/all",
-      "title": "Trump using a walker after he signed an executive order banning states from regulating AI",
-      "title_zh": "特朗普在签署禁止各州监管人工智能的行政命令后使用助行器",
-      "url": "https://www.reddit.com/r/pics/comments/1pkdzao/trump_using_a_walker_after_he_signed_an_executive/",
+      "title": "Tyler Robinson, who is Accused of Killing Charlie Kirk, Appears in Court for the 1st Time (AP News)",
+      "title_zh": "泰勒·罗宾逊（ Tyler Robinson ）被指控杀害查理·柯克（ Charlie Kirk ） ，首次出庭（美联社新闻）",
+      "url": "https://www.reddit.com/r/pics/comments/1pkehi3/tyler_robinson_who_is_accused_of_killing_charlie/",
       "region": "Global",
-      "published": "2025-12-12T00:40:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/pics/comments/1pkdzao/trump_using_a_walker_after_he_signed_an_executive/\"> <img alt=\"Trump using a walker after he signed an executive order banning states from regulating AI\" src=\"https://preview.redd.it/k5aw5ol36o6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09846fbd659e75ac585837fe861f3e7003d84b17\" title=\"Trump using a walker after he signed an executive order banning states from regulating AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rex-In-Effect\"> /u/Rex-In-Effect </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/pics/\"> r/pics </a> <br /> <span><a href=\"https://i.redd.it/k5aw5ol36o6g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/pics/comments/1pkdzao/trump_using_a_walker_after_he_signed_an_executive/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-12T01:04:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/pics/comments/1pkehi3/tyler_robinson_who_is_accused_of_killing_charlie/\"> <img alt=\"Tyler Robinson, who is Accused of Killing Charlie Kirk, Appears in Court for the 1st Time (AP News)\" src=\"https://preview.redd.it/mqz2v9g9ao6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aea3165d6ff72e58f61a41a3ec9615d455d3373e\" title=\"Tyler Robinson, who is Accused of Killing Charlie Kirk, Appears in Court for the 1st Time (AP News)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok_Finance_8292\"> /u/Ok_Finance_8292 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/pics/\"> r/pics </a> <br /> <span><a href=\"https://i.redd.it/mqz2v9g9ao6g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/pics/comments/1pkehi3/tyler_robinson_who_is_accused_of_killing_charlie/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.",
-      "title_zh": "88岁的老将埃德·班巴斯（ Ed Bambas ）能够在GoFundMe活动筹集177万美元后退休。",
-      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/",
+      "title": "Star Wars: Fate Of The Old Republic Announced at The Game Awards",
+      "title_zh": "《星球大战：旧共和国的命运》在游戏颁奖典礼上宣布",
+      "url": "https://www.reddit.com/r/StarWars/comments/1pkeqgk/star_wars_fate_of_the_old_republic_announced_at/",
       "region": "Global",
-      "published": "2025-12-11T21:33:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/\"> <img alt=\"88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.\" src=\"https://external-preview.redd.it/bWU2bHhraG04bjZnMUeVDRytcQUBLeSdwtrYZwBPZ_E_7lCki6i4Nq_VSSSk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4374e2497e083fdcea6c0d341a73f82b4f87b3f3\" title=\"88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DepressingAura\"> /u/DepressingAura </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MadeMeSmile/\"> r/MadeMeSmile </a> <br /> <span><a href=\"https://v.redd.it/cxjkyagm8n6g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-12T01:15:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/StarWars/comments/1pkeqgk/star_wars_fate_of_the_old_republic_announced_at/\"> <img alt=\"Star Wars: Fate Of The Old Republic Announced at The Game Awards\" src=\"https://preview.redd.it/rmxm19n9co6g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5bf63bc8c1dc7bdfc64f3994bfd3471c6690c54\" title=\"Star Wars: Fate Of The Old Republic Announced at The Game Awards\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Moth_LovesLamp\"> /u/Moth_LovesLamp </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/StarWars/\"> r/StarWars </a> <br /> <span><a href=\"https://i.redd.it/rmxm19n9co6g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/StarWars/comments/1pkeqgk/star_wars_fate_of_the_old_republic_announced_at/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "this is how my 19yo Son tops up the Toilet Paper reserve",
+      "title_zh": "这就是我的19岁儿子如何补充卫生纸储备",
+      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1pkf57f/this_is_how_my_19yo_son_tops_up_the_toilet_paper/",
+      "region": "Global",
+      "published": "2025-12-12T01:34:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1pkf57f/this_is_how_my_19yo_son_tops_up_the_toilet_paper/\"> <img alt=\"this is how my 19yo Son tops up the Toilet Paper reserve\" src=\"https://preview.redd.it/s47ib9hnfo6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56b8fe4c0ae1c1d4b788d1bad102785d83af120b\" title=\"this is how my 19yo Son tops up the Toilet Paper reserve\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/harrisonau\"> /u/harrisonau </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinfuriating/\"> r/mildlyinfuriating </a> <br /> <span><a href=\"https://i.redd.it/s47ib9hnfo6g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1pkf57f/this_is_how_my_19yo_son_tops_up_the_toilet_paper/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "No Man's Sky Wins Best Ongoing Game at The Game Awards 2025",
+      "title_zh": "No Man's Sky赢得2025年游戏大奖的最佳持续游戏",
+      "url": "https://www.reddit.com/r/NoMansSkyTheGame/comments/1pkfyr8/no_mans_sky_wins_best_ongoing_game_at_the_game/",
+      "region": "Global",
+      "published": "2025-12-12T02:13:41+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/NoMansSkyTheGame/comments/1pkfyr8/no_mans_sky_wins_best_ongoing_game_at_the_game/\"> <img alt=\"No Man's Sky Wins Best Ongoing Game at The Game Awards 2025\" src=\"https://preview.redd.it/nal5zk1nmo6g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=319fdb4dfd196d6e05878cd117253fb5e273c363\" title=\"No Man's Sky Wins Best Ongoing Game at The Game Awards 2025\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Moth_LovesLamp\"> /u/Moth_LovesLamp </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/NoMansSkyTheGame/\"> r/NoMansSkyTheGame </a> <br /> <span><a href=\"https://i.redd.it/nal5zk1nmo6g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/NoMansSkyTheGame/comments/1pkfyr8/no_mans_sky_wins_best_ongoing_game_at_the_game/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
@@ -195,42 +213,6 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Timing is everything",
-      "title_zh": "找准时机就是一切",
-      "url": "https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/",
-      "region": "Global",
-      "published": "2025-12-11T21:18:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/\"> <img alt=\"Timing is everything\" src=\"https://external-preview.redd.it/NHB5NjN6ZHc1bjZnMbh7UJhVNcVv4caS0HCpeKmmLi5I6wrY5KexA-s1_nPC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f43f609e460c580399bb1c9c635f6ba48536498b\" title=\"Timing is everything\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/quittingdotatwo\"> /u/quittingdotatwo </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/funny/\"> r/funny </a> <br /> <span><a href=\"https://v.redd.it/10lfk84v5n6g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "FBI official can’t back up Antifa claims after calling it America’s top terror threat — grilled by Rep. Bennie Thompson",
-      "title_zh": "联邦调查局官员在称其为美国最大的恐怖威胁之后无法支持Antifa的说法—由众议员本尼·汤普森（ Bennie Thompson ）拷问",
-      "url": "https://www.reddit.com/r/law/comments/1pk7krp/fbi_official_cant_back_up_antifa_claims_after/",
-      "region": "Global",
-      "published": "2025-12-11T20:09:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/law/comments/1pk7krp/fbi_official_cant_back_up_antifa_claims_after/\"> <img alt=\"FBI official can’t back up Antifa claims after calling it America’s top terror threat — grilled by Rep. Bennie Thompson\" src=\"https://external-preview.redd.it/OXNmZDF0Mm10bTZnMcL7WmCgn8KoSvHSfxW7WHrmzcPZcW7eAUsAY-4ffmwS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ce91be4a61345ccf1366b8ec71261b411830594\" title=\"FBI official can’t back up Antifa claims after calling it America’s top terror threat — grilled by Rep. Bennie Thompson\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After describing Antifa as the leading terrorist organization in the U.S., an FBI official appeared unable to offer supporting facts when pressed by Rep. Bennie Thompson (D-Mississippi) on Dec. 11, 2025. Watch the exchange here: <a href=\"https://www.youtube.com/watch?v=k-XBpm1uJII\">https://www.youtube.com/watch?v=k-XBpm1uJII</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JaNkO2018\"> /u/JaNkO2018 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/law/\"> r/law </a> <br /> <span><a href=\"https://v.redd.it/pnp4q03mtm6g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/law/comments/1pk7krp/fbi_official_cant_back_up_antifa_claims_after/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "TIL Venus flytraps are only found in North and South Carolina (within 100 miles of Wilmington NC), and nowhere else in the world.",
-      "title_zh": "TIL Venus捕蝇器仅在北卡罗来纳州和南卡罗来纳州（北卡罗来纳州威尔明顿市100英里范围内）发现，在世界其他任何地方都找不到。",
-      "url": "https://www.reddit.com/r/todayilearned/comments/1pk8ffm/til_venus_flytraps_are_only_found_in_north_and/",
-      "region": "Global",
-      "published": "2025-12-11T20:43:56+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/todayilearned/comments/1pk8ffm/til_venus_flytraps_are_only_found_in_north_and/\"> <img alt=\"TIL Venus flytraps are only found in North and South Carolina (within 100 miles of Wilmington NC), and nowhere else in the world.\" src=\"https://external-preview.redd.it/47alq16dr9leriBuGiaAhrIKGTjGClWOkjkVYUXJeCE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a32723a3404084767e0a2c779a4bc9f7a4767a75\" title=\"TIL Venus flytraps are only found in North and South Carolina (within 100 miles of Wilmington NC), and nowhere else in the world.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Spiketop_\"> /u/Spiketop_ </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/todayilearned/\"> r/todayilearned </a> <br /> <span><a href=\"https://en.wikipedia.org/wiki/Venus_flytrap\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/todayilearned/comments/1pk8ffm/til_venus_flytraps_are_only_found_in_north_and/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
-      "title": "We are now joined on Zoom by a combat veteran you deported to Korea",
-      "title_zh": "现在，您驱逐到韩国的一名退伍军人也加入了Zoom",
-      "url": "https://www.reddit.com/r/clevercomebacks/comments/1pk70vt/we_are_now_joined_on_zoom_by_a_combat_veteran_you/",
-      "region": "Global",
-      "published": "2025-12-11T19:47:37+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/clevercomebacks/comments/1pk70vt/we_are_now_joined_on_zoom_by_a_combat_veteran_you/\"> <img alt=\"We are now joined on Zoom by a combat veteran you deported to Korea\" src=\"https://preview.redd.it/ngval3skpm6g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=203fe9a165d6184e6c23dc0edf53252e9373f01c\" title=\"We are now joined on Zoom by a combat veteran you deported to Korea\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://bsky.app/profile/atrupar.com/post/3m7pyay4ndm2w\">https://bsky.app/profile/atrupar.com/post/3m7pyay4ndm2w</a></p> <p>Edit: thanks to <a href=\"https://www.reddit.com/u/Meditative_Rose78\">u/Meditative_Rose78</a>, <a href=\"https://www.reddit.com/u/ryne87\">u/ryne87</a> and the anonymous user who gave me an award!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Stand_With_Students\"> /u/Stand_With_Students </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/clevercomebacks/\"> r/clevercomebacks </a> <br /> <span><a href=\"https://i.redd.it/ngval3skpm6g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/clevercomebacks/comments/1pk70vt/we_are_now_joined_on_zoom_by_a_combat_veteran_you/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/all",
       "title": "This is Dennis, my feral cat. I have never touched him and he hisses when I feed him.",
       "title_zh": "这是丹尼斯，我的野猫。我从来没有碰过他，当我喂他时，他会嘶嘶作响。",
       "url": "https://www.reddit.com/r/cats/comments/1pkbcg8/this_is_dennis_my_feral_cat_i_have_never_touched/",
@@ -240,21 +222,39 @@
     },
     {
       "source": "Reddit r/all",
-      "title": "Flat [OC]",
-      "title_zh": "扁平[OC]",
-      "url": "https://www.reddit.com/r/comics/comments/1pk8k4m/flat_oc/",
+      "title": "Full art of Deadpool, joining in season 6",
+      "title_zh": "死侍的全部艺术，加入第6季",
+      "url": "https://www.reddit.com/r/marvelrivals/comments/1pkgnn1/full_art_of_deadpool_joining_in_season_6/",
       "region": "Global",
-      "published": "2025-12-11T20:49:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/comics/comments/1pk8k4m/flat_oc/\"> <img alt=\"Flat [OC]\" src=\"https://preview.redd.it/ktser2sl0n6g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=44c6a7cae84c39b42fbf6dda74ef8ef5d0cd31c5\" title=\"Flat [OC]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.patreon.com/c/mangakaiki\">Patreon :D</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kaikimanga\"> /u/kaikimanga </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/comics/\"> r/comics </a> <br /> <span><a href=\"https://i.redd.it/ktser2sl0n6g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/comics/comments/1pk8k4m/flat_oc/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-12T02:46:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/marvelrivals/comments/1pkgnn1/full_art_of_deadpool_joining_in_season_6/\"> <img alt=\"Full art of Deadpool, joining in season 6\" src=\"https://preview.redd.it/io6kq9afso6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1b55537ae7447624328f76056784cc60a0aaace\" title=\"Full art of Deadpool, joining in season 6\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KevinPigaChu\"> /u/KevinPigaChu </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/marvelrivals/\"> r/marvelrivals </a> <br /> <span><a href=\"https://i.redd.it/io6kq9afso6g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/marvelrivals/comments/1pkgnn1/full_art_of_deadpool_joining_in_season_6/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Yes, your life might be significantly better, but think of the landlords.",
-      "title_zh": "是的，你的生活可能会好得多，但想想房东。",
-      "url": "https://www.reddit.com/r/Snorkblot/comments/1pk5geu/yes_your_life_might_be_significantly_better_but/",
+      "title": "88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.",
+      "title_zh": "88岁的老将埃德·班巴斯（ Ed Bambas ）能够在GoFundMe活动筹集177万美元后退休。",
+      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/",
       "region": "Global",
-      "published": "2025-12-11T18:46:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Snorkblot/comments/1pk5geu/yes_your_life_might_be_significantly_better_but/\"> <img alt=\"Yes, your life might be significantly better, but think of the landlords.\" src=\"https://preview.redd.it/wtt4lkngem6g1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=067d92fa2021a79d50730221681c325b328fe4e1\" title=\"Yes, your life might be significantly better, but think of the landlords.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LordJim11\"> /u/LordJim11 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Snorkblot/\"> r/Snorkblot </a> <br /> <span><a href=\"https://i.redd.it/wtt4lkngem6g1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Snorkblot/comments/1pk5geu/yes_your_life_might_be_significantly_better_but/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-11T21:33:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/\"> <img alt=\"88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.\" src=\"https://external-preview.redd.it/bWU2bHhraG04bjZnMUeVDRytcQUBLeSdwtrYZwBPZ_E_7lCki6i4Nq_VSSSk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4374e2497e083fdcea6c0d341a73f82b4f87b3f3\" title=\"88 year old veteran, Ed Bambas, able to retire after GoFundMe campaign raises 1.77 million dollars.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DepressingAura\"> /u/DepressingAura </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MadeMeSmile/\"> r/MadeMeSmile </a> <br /> <span><a href=\"https://v.redd.it/cxjkyagm8n6g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1pk9ob6/88_year_old_veteran_ed_bambas_able_to_retire/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Timing is everything",
+      "title_zh": "找准时机就是一切",
+      "url": "https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/",
+      "region": "Global",
+      "published": "2025-12-11T21:18:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/\"> <img alt=\"Timing is everything\" src=\"https://external-preview.redd.it/NHB5NjN6ZHc1bjZnMbh7UJhVNcVv4caS0HCpeKmmLi5I6wrY5KexA-s1_nPC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f43f609e460c580399bb1c9c635f6ba48536498b\" title=\"Timing is everything\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/quittingdotatwo\"> /u/quittingdotatwo </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/funny/\"> r/funny </a> <br /> <span><a href=\"https://v.redd.it/10lfk84v5n6g1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/funny/comments/1pk9a8h/timing_is_everything/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "You deserve peace too ❤️",
+      "title_zh": "您也应该得到平静 ❤️",
+      "url": "https://www.reddit.com/r/Adulting/comments/1pkeq7k/you_deserve_peace_too/",
+      "region": "Global",
+      "published": "2025-12-12T01:15:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Adulting/comments/1pkeq7k/you_deserve_peace_too/\"> <img alt=\"You deserve peace too ❤️\" src=\"https://preview.redd.it/mhk7epq7co6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4045379c9faddc9a7a0c78d9bd5add23584a8dc\" title=\"You deserve peace too ❤️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/evamariee21\"> /u/evamariee21 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Adulting/\"> r/Adulting </a> <br /> <span><a href=\"https://i.redd.it/mhk7epq7co6g1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Adulting/comments/1pkeq7k/you_deserve_peace_too/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
@@ -267,15 +267,6 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Russia demands Trump administration provide reasoning for seizure of oil tanker",
-      "title_zh": "俄罗斯要求特朗普政府为扣押油轮提供理由",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/",
-      "region": "Global",
-      "published": "2025-12-11T18:42:05+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/\"> <img alt=\"Russia demands Trump administration provide reasoning for seizure of oil tanker\" src=\"https://external-preview.redd.it/u1cn0apdtgore7lOpMWAZP7z6Ff_SVjJWhSgoosrxr4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f187bb3aa15861399e0b2440e2e13b1054db6ff1\" title=\"Russia demands Trump administration provide reasoning for seizure of oil tanker\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://thehill.com/policy/international/5644572-lavrov-questions-us-venezuela-seizure/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/worldnews",
       "title": "EU triggers emergency clause to indefinitely immobilise Russian assets",
       "title_zh": "欧盟触发紧急状态条款，无限期停用俄罗斯资产",
       "url": "https://www.reddit.com/r/worldnews/comments/1pkc59g/eu_triggers_emergency_clause_to_indefinitely/",
@@ -285,21 +276,21 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Danish intelligence classifies Trump’s America as a security risk",
-      "title_zh": "丹麦情报部门将特朗普的美国归类为安全风险",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/",
+      "title": "Russia demands Trump administration provide reasoning for seizure of oil tanker",
+      "title_zh": "俄罗斯要求特朗普政府为扣押油轮提供理由",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/",
       "region": "Global",
-      "published": "2025-12-11T13:41:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/\"> <img alt=\"Danish intelligence classifies Trump’s America as a security risk\" src=\"https://external-preview.redd.it/BxY07F7iRuObqqnOrMfzGD8j5polfR_K0Z2F0FVmQrc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b778cb66c61959c7ecf50187d3b36e15658f7af\" title=\"Danish intelligence classifies Trump’s America as a security risk\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HydrolicKrane\"> /u/HydrolicKrane </a> <br /> <span><a href=\"https://www.politico.eu/article/danish-intelligence-classifies-donald-trump-america-as-security-risk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-11T18:42:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/\"> <img alt=\"Russia demands Trump administration provide reasoning for seizure of oil tanker\" src=\"https://external-preview.redd.it/u1cn0apdtgore7lOpMWAZP7z6Ff_SVjJWhSgoosrxr4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f187bb3aa15861399e0b2440e2e13b1054db6ff1\" title=\"Russia demands Trump administration provide reasoning for seizure of oil tanker\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lurker_bee\"> /u/lurker_bee </a> <br /> <span><a href=\"https://thehill.com/policy/international/5644572-lavrov-questions-us-venezuela-seizure/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk5c3l/russia_demands_trump_administration_provide/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "Trump plans envision major U.S. investment in Russia and restoring Russian oil flows to Europe",
-      "title_zh": "特朗普计划设想美国在俄罗斯的重大投资，并恢复俄罗斯石油流向欧洲",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pk0uvy/trump_plans_envision_major_us_investment_in/",
+      "title": "[Canada] Another Conservative crosses the floor, bringing Liberals 1 MP shy of majority",
+      "title_zh": "[加拿大]另一位保守党人越过议席，使自由党获得1 MP的多数票",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pkf6d1/canada_another_conservative_crosses_the_floor/",
       "region": "Global",
-      "published": "2025-12-11T15:50:16+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thenatoorat90\"> /u/thenatoorat90 </a> <br /> <span><a href=\"https://www.reuters.com/world/europe/trump-plans-envision-major-us-investment-russia-restoring-oil-flows-europe-wsj-2025-12-11/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk0uvy/trump_plans_envision_major_us_investment_in/\">[comments]</a></span>"
+      "published": "2025-12-12T01:36:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pkf6d1/canada_another_conservative_crosses_the_floor/\"> <img alt=\"[Canada] Another Conservative crosses the floor, bringing Liberals 1 MP shy of majority\" src=\"https://external-preview.redd.it/3-cc8ZtHPSDj2_YdR6ZKeHGrkGs1Hbpf2AW_Gfbxd7Q.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bdbe8aa182bc0687e228cb06879c050d701cb3cf\" title=\"[Canada] Another Conservative crosses the floor, bringing Liberals 1 MP shy of majority\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Immediate-Link490\"> /u/Immediate-Link490 </a> <br /> <span><a href=\"https://www.cbc.ca/news/politics/mp-crosses-floor-to-liberals-9.7012767\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pkf6d1/canada_another_conservative_crosses_the_floor/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
@@ -312,6 +303,24 @@
     },
     {
       "source": "Reddit r/worldnews",
+      "title": "Trump plans envision major U.S. investment in Russia and restoring Russian oil flows to Europe",
+      "title_zh": "特朗普计划设想美国在俄罗斯的重大投资，并恢复俄罗斯石油流向欧洲",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pk0uvy/trump_plans_envision_major_us_investment_in/",
+      "region": "Global",
+      "published": "2025-12-11T15:50:16+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thenatoorat90\"> /u/thenatoorat90 </a> <br /> <span><a href=\"https://www.reuters.com/world/europe/trump-plans-envision-major-us-investment-russia-restoring-oil-flows-europe-wsj-2025-12-11/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk0uvy/trump_plans_envision_major_us_investment_in/\">[comments]</a></span>"
+    },
+    {
+      "source": "Reddit r/worldnews",
+      "title": "Danish intelligence classifies Trump’s America as a security risk",
+      "title_zh": "丹麦情报部门将特朗普的美国归类为安全风险",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/",
+      "region": "Global",
+      "published": "2025-12-11T13:41:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/\"> <img alt=\"Danish intelligence classifies Trump’s America as a security risk\" src=\"https://external-preview.redd.it/BxY07F7iRuObqqnOrMfzGD8j5polfR_K0Z2F0FVmQrc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b778cb66c61959c7ecf50187d3b36e15658f7af\" title=\"Danish intelligence classifies Trump’s America as a security risk\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HydrolicKrane\"> /u/HydrolicKrane </a> <br /> <span><a href=\"https://www.politico.eu/article/danish-intelligence-classifies-donald-trump-america-as-security-risk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pjxsr0/danish_intelligence_classifies_trumps_america_as/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/worldnews",
       "title": "US considering idea of creating G7 alternative with Russia and China",
       "title_zh": "美国考虑与俄罗斯和中国创建七国集团替代方案的想法",
       "url": "https://www.reddit.com/r/worldnews/comments/1pjvhso/us_considering_idea_of_creating_g7_alternative/",
@@ -321,21 +330,12 @@
     },
     {
       "source": "Reddit r/worldnews",
-      "title": "EU approves legal workaround to sideline Orbán, keep Russian assets frozen forever",
-      "title_zh": "欧盟批准法律解决方案，将Orbán置于次要位置，永久冻结俄罗斯资产",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pk2dk2/eu_approves_legal_workaround_to_sideline_orbán/",
+      "title": "US sides with Russia on UN resolution on Chornobyl disaster",
+      "title_zh": "美国与俄罗斯支持联合国关于切尔诺贝利灾难的决议",
+      "url": "https://www.reddit.com/r/worldnews/comments/1pkf9pv/us_sides_with_russia_on_un_resolution_on/",
       "region": "Global",
-      "published": "2025-12-11T16:48:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pk2dk2/eu_approves_legal_workaround_to_sideline_orbán/\"> <img alt=\"EU approves legal workaround to sideline Orbán, keep Russian assets frozen forever\" src=\"https://external-preview.redd.it/oDBZTM2qjvGG3_tZlgtlwMEdjIjMhMTv-i6sD-Vxux4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2606a9acd6996cbc026b031de4f62d8e480d7144\" title=\"EU approves legal workaround to sideline Orbán, keep Russian assets frozen forever\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Opposite-Whereas-323\"> /u/Opposite-Whereas-323 </a> <br /> <span><a href=\"https://www.politico.eu/article/eu-approves-legal-workaround-sideline-hungary-orban-russia-assets-frozen-forever/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk2dk2/eu_approves_legal_workaround_to_sideline_orbán/\">[comments]</a></span> </td></tr></table>"
-    },
-    {
-      "source": "Reddit r/worldnews",
-      "title": "Ukraine Hits Russian Oil Platform in the Caspian—A First-Ever Strike on Moscow’s Offshore Energy Empire",
-      "title_zh": "乌克兰在里海击中俄罗斯石油平台--对莫斯科海上能源帝国的首次打击",
-      "url": "https://www.reddit.com/r/worldnews/comments/1pjv0d0/ukraine_hits_russian_oil_platform_in_the_caspiana/",
-      "region": "Global",
-      "published": "2025-12-11T11:15:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pjv0d0/ukraine_hits_russian_oil_platform_in_the_caspiana/\"> <img alt=\"Ukraine Hits Russian Oil Platform in the Caspian—A First-Ever Strike on Moscow’s Offshore Energy Empire\" src=\"https://external-preview.redd.it/-qdn5WXGJub47sbXgI2C2GdrA8O8JjJG16FxI_DJSXM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e22e4a0d83769d2a124f54f7821bdb0cef0a34f9\" title=\"Ukraine Hits Russian Oil Platform in the Caspian—A First-Ever Strike on Moscow’s Offshore Energy Empire\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eaglemaxie\"> /u/eaglemaxie </a> <br /> <span><a href=\"https://united24media.com/latest-news/ukraine-hits-russian-oil-platform-in-the-caspian-a-first-ever-strike-on-moscows-offshore-energy-empire-14187\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pjv0d0/ukraine_hits_russian_oil_platform_in_the_caspiana/\">[comments]</a></span> </td></tr></table>"
+      "published": "2025-12-12T01:40:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pkf9pv/us_sides_with_russia_on_un_resolution_on/\"> <img alt=\"US sides with Russia on UN resolution on Chornobyl disaster\" src=\"https://external-preview.redd.it/nvYz_ljIvcheJ--Q6kCAYwkLpvVmuMMEh1vY-vPAx0U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdbfd6f92148f773b3c5dbd3bf11b142c27452d5\" title=\"US sides with Russia on UN resolution on Chornobyl disaster\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Crossstoney\"> /u/Crossstoney </a> <br /> <span><a href=\"https://kyivindependent.com/us-sides-with-russia-in-un-resolution-on-chornobyl-disaster/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pkf9pv/us_sides_with_russia_on_un_resolution_on/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/worldnews",
@@ -345,6 +345,15 @@
       "region": "Global",
       "published": "2025-12-11T18:37:31+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1pk57vb/tanker_seized_by_us_off_venezuela_was_part_of/\"> <img alt=\"Tanker Seized By US Off Venezuela Was Part Of Iranian Shadow Fleet\" src=\"https://external-preview.redd.it/hyP3SEERPs7vReHAJACP_AoLOygJ2g_HDil-0D-rrBU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03c44842b4e096673f49000c6cdeab7e7eb23da0\" title=\"Tanker Seized By US Off Venezuela Was Part Of Iranian Shadow Fleet\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Strongbow85\"> /u/Strongbow85 </a> <br /> <span><a href=\"https://www.rferl.org/a/tanker-seized-us-venezuela-iranian-shadow-fleet/33620478.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1pk57vb/tanker_seized_by_us_off_venezuela_was_part_of/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "TechCrunch",
+      "title": "World launches its ‘super app,’ including crypto pay and encrypted chat features",
+      "title_zh": "World推出“超级应用程序” ，包括加密支付和加密聊天功能",
+      "url": "https://techcrunch.com/2025/12/11/world-launches-its-super-app-including-crypto-pay-and-encrypted-chat-features/",
+      "region": "Global",
+      "published": "Fri, 12 Dec 2025 01:40:54 +0000",
+      "summary": "Tools for Humanity, the company behind the app, is seeking to expand its \"real human network.\""
     },
     {
       "source": "TechCrunch",
@@ -428,13 +437,49 @@
       "summary": "Google Labs is testing a product that will work with your browser tabs to make web apps for you."
     },
     {
-      "source": "TechCrunch",
-      "title": "Rivian’s AI assistant is coming to its EVs in early 2026",
-      "title_zh": "Rivian的人工智能助手将于2026年初登陆其电动汽车",
-      "url": "https://techcrunch.com/2025/12/11/rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/",
+      "source": "The Verge",
+      "title": "Tomb Raider announces two new games",
+      "title_zh": "古墓丽影宣布两款新游戏",
+      "url": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
       "region": "Global",
-      "published": "Thu, 11 Dec 2025 17:55:12 +0000",
-      "summary": "And when it does, the AI assistant will roll out to every existing EV in its lineup, not just the next-generation versions of its R1T truck and R1S SUV."
+      "published": "2025-12-11T22:11:15-05:00",
+      "summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 2026 is Tomb Raider: Legacy of Atlantis. [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "The best Christmas gifts we love under $50",
+      "title_zh": "50 $以下我们最喜欢的圣诞礼物",
+      "url": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
+      "region": "Global",
+      "published": "2025-12-11T21:50:15-05:00",
+      "summary": "One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Tim Sweeney on the future of Fortnite after another win over Apple",
+      "title_zh": "Tim Sweeney谈《堡垒之夜》在再次战胜苹果之后的未来",
+      "url": "https://www.theverge.com/news/843265/apple-epic-games-tim-sweeney-interview",
+      "region": "Global",
+      "published": "2025-12-11T21:48:49-05:00",
+      "summary": "Shortly after appeals court judges ruled against Apple's contempt appeal in a years-long antitrust dispute against the makers of Fortnite, I got to talk to Epic Games CEO Tim Sweeney in an interview. According to Sweeney, today's ruling \"completely shuts down\" Apple's App Store rules that allow it to collect \"junk fees.\" The three-judge Ninth [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Control’s action-RPG sequel launches in 2026",
+      "title_zh": "Control的动作RPG续集将于2026年推出",
+      "url": "https://www.theverge.com/entertainment/841950/control-resonant-sequel-announce-ps5-xbox-steam",
+      "region": "Global",
+      "published": "2025-12-11T21:05:26-05:00",
+      "summary": "Remedy Entertainment is finally showing off the much-anticipated sequel to Control. The new game, dubbed Control Resonant, expands on the original with a new action-RPG framework. It takes place seven years later and shifts the setting from the unsettling Oldest House of the original to a more open Manhattan, while putting players in the role [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "The next Star Wars game is the spiritual successor to Knights of the Old Republic",
+      "title_zh": "下一个星球大战游戏是旧共和国骑士团的精神继承者",
+      "url": "https://www.theverge.com/games/843188/star-wars-fate-of-the-old-republic-casey-hudson",
+      "region": "Global",
+      "published": "2025-12-11T20:48:01-05:00",
+      "summary": "The next Star Wars game is coming from the director of Mass Effect and Knights of the Old Republic. Star Wars: Fate of the Old Republic was revealed during The Game Awards with a brief trailer that got Geoff Keighley so excited his voice started cracking. Like any announcement trailer, it was brief, featuring a [&#8230;]"
     },
     {
       "source": "The Verge",
@@ -482,85 +527,22 @@
       "summary": "It’s hard to buy a bad pair of wireless earbuds these days, and with constant discounts and deals wherever you look, now is as good a time as any to splurge on the pair you’ve been eyeing. The market has come a long way since the early era of true wireless earbuds, when we had [&#8230;]"
     },
     {
-      "source": "The Verge",
-      "title": "Google brings Gemini’s Chrome integration to iPhone and iPad",
-      "title_zh": "谷歌将Gemini的Chrome集成引入iPhone和iPad",
-      "url": "https://www.theverge.com/news/842987/google-gemini-chrome-ios",
-      "region": "Global",
-      "published": "2025-12-11T17:51:27-05:00",
-      "summary": "Built-in Gemini AI features in Chrome are now becoming more widely available on the iOS version of Google's browser, as reported by 9to5Google and Engadget. They're popping up several months after the features' rollout on the desktop version started in September. Once the new Gemini features are active on your iPhone or iPad, Chrome users [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tim Cook’s lobbying hangs over a key kids online safety vote",
-      "title_zh": "蒂姆·库克（ Tim Cook ）的游说活动笼罩着一场关键的儿童在线安全投票",
-      "url": "https://www.theverge.com/policy/842993/kids-online-safety-markup-energy-commerce-tim-cook-apple",
-      "region": "Global",
-      "published": "2025-12-11T17:50:24-05:00",
-      "summary": "At a congressional meeting to vote on the future of kids online safety, the most spirited debate of the day was about a bill that wasn't even on the agenda and Apple CEO Tim Cook. 18 bills that aim to regulate the internet to protect children are now headed for a vote before the full [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Amazon Prime Video pulls AI-powered recaps after Fallout flub",
-      "title_zh": "亚马逊Prime视频在Fallout失败后拉动人工智能驱动的回顾",
-      "url": "https://www.theverge.com/news/842978/amazon-prime-video-ai-fallout-recap",
-      "region": "Global",
-      "published": "2025-12-11T17:46:11-05:00",
-      "summary": "Amazon Prime Video has pulled its AI-powered video recap of Fallout after viewers noticed that it got key parts of the story wrong. The streaming service began testing Video Recaps last month, and now they're missing from the shows included in the test, including Fallout, The Rig, Tom Clancy's Jack Ryan, Upload, and Bosch. The [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Apple loses contempt appeal in Epic case",
-      "title_zh": "苹果在Epic案件中失去藐视法庭上诉",
-      "url": "https://www.theverge.com/news/842991/apple-epic-appeal-loses-contempt",
-      "region": "Global",
-      "published": "2025-12-11T17:44:27-05:00",
-      "summary": "Apple has lost its appeal of a massive district court ruling in its ongoing antitrust dispute with Epic Games. That April ruling from Judge Yvonne Gonzalez Rogers said that Apple \"willingly\" failed to comply with a 2021 order allowing mobile app developers to link to payment options outside of Apple's, and she barred Apple from [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "The best phone to buy right now",
-      "title_zh": "现在最适合购买的手机",
-      "url": "https://www.theverge.com/22163811/best-phone",
-      "region": "Global",
-      "published": "2025-12-11T17:00:00-05:00",
-      "summary": "Haven’t you heard? Phones are boring now. And that’s just fine! Most people buying a new phone just want something familiar that works better than the device they’re replacing. If that’s your MO, then you’re sure to find something reliable in my recommendations below. But even if you’re looking for something a little more extra, [&#8230;]"
-    },
-    {
       "source": "Product Hunt",
       "title": "ClickUp 4.0",
       "title_zh": "ClickUp 4.0",
       "url": "https://www.producthunt.com/products/clickup",
       "region": "Global",
       "published": "2025-12-07T14:23:04-08:00",
-      "summary": "<p>\n            All your work: tasks, docs, chat, and AI with 100% context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clickup?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1047423?app_id=339\">Link</a>\n          </p>"
+      "summary": "<p>\n            All your work: tasks, docs, chat, and AI with 100% context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clickup?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1047423?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "The Almanac",
-      "title_zh": "The Almanac",
-      "url": "https://www.producthunt.com/products/the-almanac",
+      "title": "Helploom",
+      "title_zh": "帮助室",
+      "url": "https://www.producthunt.com/products/helploom",
       "region": "Global",
-      "published": "2025-12-10T00:33:11-08:00",
-      "summary": "<p>\n            Look up people and how they connect\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-almanac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048530?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FireWally",
-      "title_zh": "FireWally",
-      "url": "https://www.producthunt.com/products/firewally",
-      "region": "Global",
-      "published": "2025-12-10T02:45:35-08:00",
-      "summary": "<p>\n            A free Mac firewall powered by Apple Intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firewally?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048596?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Finesse by Skippr AI",
-      "title_zh": "Finesse by Skippr AI",
-      "url": "https://www.producthunt.com/products/skippr-2",
-      "region": "Global",
-      "published": "2025-12-05T12:47:40-08:00",
-      "summary": "<p>\n            AI Product Refinement, Right in Your Browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skippr-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1046661?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-10T09:00:51-08:00",
+      "summary": "<p>\n            Unlimited customer support with live chat and help center\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/helploom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048723?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -569,43 +551,34 @@
       "url": "https://www.producthunt.com/products/macaly",
       "region": "Global",
       "published": "2025-12-10T02:00:16-08:00",
-      "summary": "<p>\n            The best editing experience in vibe-coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/macaly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048573?app_id=339\">Link</a>\n          </p>"
+      "summary": "<p>\n            The best editing experience in vibe-coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/macaly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048573?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Odies AI Coworkers",
-      "title_zh": "Odies AI同事",
-      "url": "https://www.producthunt.com/products/odies-ai-coworkers",
+      "title": "Agentfield",
+      "title_zh": "Agentfield",
+      "url": "https://www.producthunt.com/products/agentfield",
       "region": "Global",
-      "published": "2025-12-09T23:49:59-08:00",
-      "summary": "<p>\n            Smart, caring companions that literally live on your screen\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/odies-ai-coworkers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048516?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-10T17:16:44-08:00",
+      "summary": "<p>\n            Build & scale AI \\ agents as microservices with IAM\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentfield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048850?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Preflight",
-      "title_zh": "起航前",
-      "url": "https://www.producthunt.com/products/preflight-2",
+      "title": "Signal by Vouch",
+      "title_zh": "Signal by Vouch",
+      "url": "https://www.producthunt.com/products/vouch-4",
       "region": "Global",
-      "published": "2025-12-10T04:07:31-08:00",
-      "summary": "<p>\n            Run collaborative AI-powered bug bashes without spreadsheets\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/preflight-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048628?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-09T15:16:00-08:00",
+      "summary": "<p>\n            Modern landing pages with a short video for you to stand out\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vouch-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048372?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Guess Whale",
-      "title_zh": "猜测鲸鱼",
-      "url": "https://www.producthunt.com/products/guess-whale",
+      "title": "Fei Studio",
+      "title_zh": "FEI Studio",
+      "url": "https://www.producthunt.com/products/autonomyai",
       "region": "Global",
-      "published": "2025-12-10T09:58:09-08:00",
-      "summary": "<p>\n            Guess the prompt and commune with the machines\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/guess-whale?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048750?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Nimbalyst Beta",
-      "title_zh": "Nimbalyst Beta",
-      "url": "https://www.producthunt.com/products/nimbalyst",
-      "region": "Global",
-      "published": "2025-12-09T11:09:33-08:00",
-      "summary": "<p>\n            Local, WYSIWYG markdown and mockup editor for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nimbalyst?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048305?app_id=339\">Link</a>\n          </p>"
+      "published": "2025-12-03T13:52:09-08:00",
+      "summary": "<p>\n            Unify design, product & dev into a single AI native workflow\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autonomyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1045763?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -614,7 +587,34 @@
       "url": "https://www.producthunt.com/products/korey",
       "region": "Global",
       "published": "2025-12-09T15:57:05-08:00",
-      "summary": "<p>\n            Send your bugs and ideas to your favorite coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/korey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1048379?app_id=339\">Link</a>\n          </p>"
+      "summary": "<p>\n            Send your bugs and ideas to your favorite coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/korey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048379?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dex by Thirdlayer",
+      "title_zh": "Dex by Thirdlayer",
+      "url": "https://www.producthunt.com/products/dex-5",
+      "region": "Global",
+      "published": "2025-12-02T22:24:15-08:00",
+      "summary": "<p>\n            Turn tabs into automated workflows and tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dex-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1045417?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FireWally",
+      "title_zh": "FireWally",
+      "url": "https://www.producthunt.com/products/firewally",
+      "region": "Global",
+      "published": "2025-12-10T02:45:35-08:00",
+      "summary": "<p>\n            A free Mac firewall powered by Apple Intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/firewally?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1048596?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Expensent",
+      "title_zh": "支出",
+      "url": "https://www.producthunt.com/products/expensent",
+      "region": "Global",
+      "published": "2025-12-08T16:52:31-08:00",
+      "summary": "<p>\n            Automatically forwards invoices to your accountant\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/expensent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1047903?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
@@ -708,93 +708,93 @@
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Operação prende 46 pessoas, incluindo capitão da PM, em seis estados",
-      "title_zh": "行动在六个州逮捕了46人，其中包括首相队长",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/operacao-prende-46-pessoas-incluindo-capitao-da-pm-em-seis-estados.shtml",
+      "title": "Vendaval de quarta (10) foi o terceiro mais forte na cidade de SP desde 2006",
+      "title_zh": "周三的风暴（ 10 ）是自2006年以来SP市第三强的风暴",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/vendaval-de-quarta-10-foi-o-terceiro-mais-forte-na-cidade-de-sp-desde-2006.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:11:00 -0300",
-      "summary": "Uma operação da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-civil/\">Polícia Civil</a> da <a href=\"https://www1.folha.uol.com.br/folha-topicos/bahia-estado/\">Bahia</a> prendeu 46 pessoas nesta quinta-feira (11) em seis estados, entre elas um capitão da <a href=\"https://www1.folha.uol.com.br/folha-topicos/policia-militar/\">Polícia Militar</a>. Mauro Grunfeld foi preso em casa, no bairro da Graça, em <a href=\"https://www1.folha.uol.com.br/folha-topicos/salvador/\">Salvador</a>. Ele é investigado por participação em um esquema que abastecia facções criminosas com armas e teria atuação ligada ao tráfico de <a href=\"https://www1.folha.uol.com.br/folha-topicos/drogas/\">drogas</a> e à lavagem de dinheiro.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/operacao-prende-46-pessoas-incluindo-capitao-da-pm-em-seis-estados.shtml\">Leia mais</a> (12/11/2025 - 22h11)"
+      "published": "12 Dec 2025 00:05:00 -0300",
+      "summary": "A passagem do <a href=\"https://www1.folha.uol.com.br/cotidiano/2025/12/enel-repete-demora-em-sp-e-deixa-13-milhao-sem-luz-24-horas-depois-do-apagao.shtml\" rel=\"\" target=\"\">ciclone extratropical</a> pela região Sul do país provocou um vendaval entre quarta (10) e quinta-feira (11) na cidade de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>, derrubando árvores e deixando um caos com a queda da energia elétrica em mais de 2,2 milhões de residências.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/vendaval-de-quarta-10-foi-o-terceiro-mais-forte-na-cidade-de-sp-desde-2006.shtml\">Leia mais</a> (12/12/2025 - 00h05)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Vasco vira nos acréscimos e abre vantagem sobre o Fluminense na semi da Copa do Brasil",
-      "title_zh": "Vasco在Copa do Brasil半决赛中交出了新品，并开启了优于Fluminense的优势",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/12/vasco-vira-nos-acrescimos-e-sai-na-frente-do-fluminense-na-semi-da-copa-do-brasil.shtml",
+      "title": "Presidente do BB mantém posição entre mulheres mais poderosas do mundo em lista da Forbes",
+      "title_zh": "BB总裁在《福布斯》榜单中跻身全球最具影响力女性之列",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/presidente-do-bb-mantem-posicao-entre-mulheres-mais-poderosas-do-mundo-em-lista-da-forbes.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:09:00 -0300",
-      "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/vasco/\">Vasco</a> arrancou nos acréscimos uma vitória importante e de virada sobre o <a href=\"https://www1.folha.uol.com.br/folha-topicos/fluminense/\">Fluminense</a> nesta quinta-feira (11), no jogo de ida da semifinal da <a href=\"https://www1.folha.uol.com.br/folha-topicos/copa-do-brasil/\">Copa do Brasil</a>. Vegetti marcou o gol que selou o 2 a 1 para os cruzmaltinos no Maracanã.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/12/vasco-vira-nos-acrescimos-e-sai-na-frente-do-fluminense-na-semi-da-copa-do-brasil.shtml\">Leia mais</a> (12/11/2025 - 22h09)"
+      "published": "11 Dec 2025 23:51:00 -0300",
+      "summary": "A presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-do-brasil/\">Banco do Brasil</a>, Tarciana Medeiros, foi eleita, pelo segundo ano consecutivo, a 18ª mulher mais poderosa do mundo pela revista Forbes. Ela é a única brasileira da lista, que reúne as cem mulheres que mais se destacaram em diversos setores, como finanças, negócios, entretenimento e tecnologia, em 2025.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/presidente-do-bb-mantem-posicao-entre-mulheres-mais-poderosas-do-mundo-em-lista-da-forbes.shtml\">Leia mais</a> (12/11/2025 - 23h51)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Segurança pública sem hipocrisia",
-      "title_zh": "没有虚伪的公共安全",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/seguranca-publica-sem-hipocrisia.shtml",
+      "title": "A Fazenda 17: Toninho Tornado é o 15º eliminado",
+      "title_zh": "农场17 ：托尼尼奥龙卷风是第15个被淘汰的",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-17/2025/12/a-fazenda-17-toninho-tornado-e-o-15o-eliminado.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:00:00 -0300",
-      "summary": "Nós, que vivemos, trabalhamos e sonhamos com um Brasil seguro, não podemos ignorar a realidade das nossas favelas e territórios dominados pelo crime armado.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/seguranca-publica-sem-hipocrisia.shtml\">Leia mais</a> (12/11/2025 - 22h00)"
+      "published": "11 Dec 2025 23:48:00 -0300",
+      "summary": "<a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-17/toninho-tornado.shtml\" rel=\"\" target=\"\">Toninho Tornado</a> foi o eliminado desta quinta-feira (11) em <a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-17/\" rel=\"\" target=\"\">A Fazenda 17</a>. O humorista foi o menos votado pelo público na roça contra o casal <a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-17/duda-wendling.shtml\" rel=\"\" target=\"\">Duda Wendling</a> e <a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-17/luiz-mesquita.shtml\" rel=\"\" target=\"\">Luiz Mesquita</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-17/2025/12/a-fazenda-17-toninho-tornado-e-o-15o-eliminado.shtml\">Leia mais</a> (12/11/2025 - 23h48)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Mais mortes e menos nascimentos pressionam gastos",
-      "title_zh": "更多的死亡和更少的出生给支出带来压力",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/mais-mortes-e-menos-nascimentos-pressionam-gastos.shtml",
+      "title": "Oficial da Marinha é condenado a 80 anos de prisão por matar ex-sogros a facadas no Rio",
+      "title_zh": "海军军官因在里约刺伤前姻亲而被判处80年徒刑",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/oficial-da-marinha-e-condenado-a-80-anos-de-prisao-por-matar-ex-sogros-a-facadas-no-rio.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:00:00 -0300",
-      "summary": "Dados do <a href=\"https://www1.folha.uol.com.br/folha-topicos/ibge/\">IBGE</a> divulgados na quarta (10) reafirmam a tendência de <a href=\"https://www1.folha.uol.com.br/folha-topicos/envelhecimento/\">envelhecimento</a> da população brasileira, que pressiona a <a href=\"https://www1.folha.uol.com.br/folha-topicos/previdencia-social/\">Previdência Social</a> e o sistema de <a href=\"https://www1.folha.uol.com.br/folha-topicos/saude/\">saúde</a>. Nesse sentido, trata-se de um alerta para que governos implementem reformas em prol do uso racional do dinheiro público e da contenção de gastos, que crescem de forma insustentável nos últimos anos.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/mais-mortes-e-menos-nascimentos-pressionam-gastos.shtml\">Leia mais</a> (12/11/2025 - 22h00)"
+      "published": "11 Dec 2025 23:24:00 -0300",
+      "summary": "O oficial da Marinha Cristiano da Silva Lacerda foi condenado nesta quarta-feira (11) a 80 anos de prisão, em regime fechado, pelo <a href=\"https://www1.folha.uol.com.br/cotidiano/2022/06/casal-de-idosos-e-assassinado-a-facadas-na-zona-sul-do-rio.shtml\" rel=\"\" target=\"\">assassinato dos ex-sogros</a> Geraldo Pereira Coelho, 73, e Osélia da Silva Coelho, 72. O júri popular ocorreu no Tribunal de Justiça do <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro/\">Rio</a>, três anos após o crime, cometido em um condomínio de alto padrão no Jardim Botânico, zona sul da cidade.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/oficial-da-marinha-e-condenado-a-80-anos-de-prisao-por-matar-ex-sogros-a-facadas-no-rio.shtml\">Leia mais</a> (12/11/2025 - 23h24)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Saúde mental e drogas não podem ser um tabu na aviação",
-      "title_zh": "在航空中，心理健康和药物不能成为禁忌",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/saude-mental-e-drogas-nao-podem-ser-um-tabu-na-aviacao.shtml",
+      "title": "Por que romance lésbico de Juquinha e Lorena em 'Três Graças' gera frenesi nas redes",
+      "title_zh": "为什么Juquinha和Lorena在“TrêsGraças”中的女同性恋浪漫在网络中引起了狂热",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/12/por-que-romance-lesbico-de-juquinha-e-lorena-em-tres-gracas-gera-frenesi-nas-redes.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:00:00 -0300",
-      "summary": "Perdi meu filho em um acidente aéreo em 2022. Tão dolorosa quanto a perda é a certeza de que a tragédia poderia ter sido evitada. João Augusto Hjertquist Tremeschin, ou simplesmente Guto, era piloto e tinha 37 anos quando foi escalado para estar a bordo de um <a href=\"https://www1.folha.uol.com.br/cotidiano/2022/08/queda-de-helicoptero-deixa-dois-mortos-em-sp.shtml\" rel=\"\" target=\"\">helicóptero que se chocou com a serra da Cantareira</a>, em São Paulo, cinco minutos após a decolagem.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/saude-mental-e-drogas-nao-podem-ser-um-tabu-na-aviacao.shtml\">Leia mais</a> (12/11/2025 - 22h00)"
+      "published": "11 Dec 2025 23:16:00 -0300",
+      "summary": "Foi no embalo de \"Relicário\", regravação de Anavitória da música eternizada na voz de <a href=\"https://www1.folha.uol.com.br/folha-topicos/cassia-eller/\" rel=\"\" target=\"\">Cássia Eller</a>, que <a href=\"https://f5.folha.uol.com.br/televisao/2025/12/tres-gracas-juquinha-e-lorena-conquistam-fas-lgbtqia-no-exterior-e-viralizam-nas-redes.shtml\" rel=\"\" target=\"\">Juquinha e Lorena</a> deram o primeiro beijo na novela \"<a href=\"https://www1.folha.uol.com.br/ilustrada/2025/10/em-tres-gracas-aguinaldo-silva-faz-vila-para-orfaos-de-odete-com-grazi-massafera.shtml\" rel=\"\" target=\"\">Três Graças</a>\", nesta quarta-feira (10). O gesto foi ovacionado por fãs nas redes sociais, em um frenesi inédito para um casal de mulheres no horário nobre da televisão brasileira.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/12/por-que-romance-lesbico-de-juquinha-e-lorena-em-tres-gracas-gera-frenesi-nas-redes.shtml\">Leia mais</a> (12/11/2025 - 23h16)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Entidades médicas se manifestam contra 'chip da beleza' e testosterona em mulheres",
-      "title_zh": "医疗实体公开反对女性的“美容芯片”和睾丸激素",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/12/entidades-medicas-se-manifestam-contra-chip-da-beleza-e-testosterona-em-mulheres.shtml",
+      "title": "Conflito sobre cassação de Zambelli decorre de entendimentos diferentes da Constituição",
+      "title_zh": "关于Zambelli弹劾的冲突源于对宪法的不同理解",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/conflito-sobre-cassacao-de-zambelli-decorre-de-entendimentos-diferentes-da-constituicao.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:00:00 -0300",
-      "summary": "Associações médicas de endocrinologia, ginecologia e cardiologia publicaram na quarta-feira (10) um documento sobre o uso de testosterona em mulheres para fins estéticos e reposição na <a href=\"https://www1.folha.uol.com.br/folha-topicos/menopausa/\">menopausa</a>. Em maio, as mesmas entidades já haviam emitido um <a href=\"https://www1.folha.uol.com.br/equilibrio/2025/12/uso-de-testosterona-em-mulheres-avanca-sem-respaldo-clinico.shtml\" rel=\"\" target=\"\">alerta contra as indicações crescentes</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2025/12/entidades-medicas-se-manifestam-contra-chip-da-beleza-e-testosterona-em-mulheres.shtml\">Leia mais</a> (12/11/2025 - 22h00)"
+      "published": "11 Dec 2025 23:04:00 -0300",
+      "summary": "O conflito em torno da cassação da deputada federal <a href=\"https://www1.folha.uol.com.br/folha-topicos/carla-zambelli/\">Carla Zambelli</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a>-SP), determinada pelo <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal), mas negada pela Câmara na madrugada desta quinta-feira (11), se dá em razão da possibilidade de mais de uma interpretação constitucional sobre o tema, segundo especialistas ouvidos pela <b>Folha</b>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2025/12/conflito-sobre-cassacao-de-zambelli-decorre-de-entendimentos-diferentes-da-constituicao.shtml\">Leia mais</a> (12/11/2025 - 23h04)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Um passo contra a sonegação e o crime organizado",
-      "title_zh": "打击逃税和有组织犯罪的措施",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/um-passo-contra-a-sonegacao-e-o-crime-organizado.shtml",
+      "title": "Maria Clara Pacheco e Caio Bonfim são eleitos atletas do ano no Prêmio Brasil Olímpico",
+      "title_zh": "Maria Clara Pacheco和Caio Bonfim当选为巴西奥林匹克奖年度运动员",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/12/maria-clara-pacheco-e-caio-bonfim-sao-eleitos-atletas-do-ano-no-premio-brasil-olimpico.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 22:00:00 -0300",
-      "summary": "<a href=\"https://www1.folha.uol.com.br/mercado/2025/12/camara-aprova-texto-base-do-projeto-do-devedor-contumaz-com-punicao-a-sonegadores.shtml\" rel=\"\" target=\"\">Com 436 votos favoráveis e apenas 2 contrários</a>, a <a href=\"https://www1.folha.uol.com.br/folha-topicos/camara-dos-deputados/\">Câmara dos Deputados</a> enfim aprovou, na terça-feira (9), o projeto de lei que tipifica o devedor contumaz e institui o Código de Defesa do Contribuinte.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2025/12/um-passo-contra-a-sonegacao-e-o-crime-organizado.shtml\">Leia mais</a> (12/11/2025 - 22h00)"
+      "published": "11 Dec 2025 23:04:00 -0300",
+      "summary": "Maria Clara Pacheco, campeã mundial de <a href=\"https://www1.folha.uol.com.br/folha-topicos/taekwondo/\">taekwondo</a> (até 57 kg), e <a href=\"https://www1.folha.uol.com.br/esporte/2025/08/caio-bonfim-ve-mais-praticantes-e-menos-preconceito-na-marcha-atletica.shtml\" rel=\"\" target=\"\">Caio Bonfim, campeão mundial nos 20 km da marcha atlética</a>, foram eleitos nesta quinta-feira (11) os \"Melhores Atletas do Ano\" no Prêmio Brasil Olímpico, realizado pelo <a href=\"https://www1.folha.uol.com.br/folha-topicos/cob/\">COB</a> (Comitê Olímpico do Brasil).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2025/12/maria-clara-pacheco-e-caio-bonfim-sao-eleitos-atletas-do-ano-no-premio-brasil-olimpico.shtml\">Leia mais</a> (12/11/2025 - 23h04)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Maduro chama captura de petroleiro de 'pirataria criminosa' e acusa EUA de sequestro",
-      "title_zh": "马杜罗称油轮捕获为“犯罪海盗行为”并指责美国绑架",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/12/maduro-chama-captura-de-petroleiro-de-pirataria-criminosa-e-acusa-eua-de-sequestro.shtml",
+      "title": "'Cazuza - Além da Música' resgata um pedaço dos anos 1980 que continua atual",
+      "title_zh": "“Cazuza - Além da Música”拯救了20世纪80年代的一件时尚作品",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2025/12/cazuza-alem-da-musica-resgata-um-pedaco-dos-anos-1980-que-continua-atual.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 21:55:00 -0300",
-      "summary": "O ditador da Venezuela, <a href=\"https://www1.folha.uol.com.br/folha-topicos/nicolas-maduro/\">Nicolás Maduro</a>, disse nesta quinta-feira (11) que<a href=\"https://www1.folha.uol.com.br/mundo/2025/12/petroleiro-capturado-pelos-eua-perto-da-venezuela-sera-levado-a-porto-americano-diz-casa-branca.shtml\" rel=\"\" target=\"\"> a captura do navio petroleiro que saía de um porto venezuelano pelos Estados Unidos </a>na quarta (10) foi um \"ato de pirataria naval criminosa\". Maduro disse ainda que os tripulantes do cargueiro foram sequestrados pelo governo <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trump/\">Donald Trump</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2025/12/maduro-chama-captura-de-petroleiro-de-pirataria-criminosa-e-acusa-eua-de-sequestro.shtml\">Leia mais</a> (12/11/2025 - 21h55)"
+      "published": "11 Dec 2025 23:01:00 -0300",
+      "summary": "<a href=\"https://www1.folha.uol.com.br/ilustrada/2025/06/cazuza-boas-novas-mostra-tensao-e-catarse-de-sua-ultima-turne.shtml\" rel=\"\" target=\"\">Cazuza</a> sempre viveu muito publicamente, inclusive <a href=\"https://www1.folha.uol.com.br/ilustrada/2024/05/por-que-cazuza-lembrado-por-madonna-e-simbolo-da-luta-contra-o-hiv-e-a-aids.shtml\" rel=\"\" target=\"\">morreu dessa forma, aos 32, em 1990</a>. Não é de se esperar, portanto, que um documentário sobre um dos maiores nomes da música brasileira nos anos 1980 traga alguma revelação a seu respeito.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2025/12/cazuza-alem-da-musica-resgata-um-pedaco-dos-anos-1980-que-continua-atual.shtml\">Leia mais</a> (12/11/2025 - 23h01)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Enel repete demora em SP e deixa 1,3 milhão sem luz 24 horas depois do pico do apagão",
-      "title_zh": "Enel在SP中重复延迟，并在停电高峰后24小时内留下130万盏灯",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/enel-repete-demora-em-sp-e-deixa-13-milhao-sem-luz-24-horas-depois-do-apagao.shtml",
+      "title": "Correios vão à Justiça por falta de acordo com funcionários sobre salários e benefícios",
+      "title_zh": "Correios因与员工在工资和福利方面缺乏一致意见而诉诸法院",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/correios-vao-a-justica-por-falta-de-acordo-com-funcionarios-sobre-salarios-e-beneficios.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 21:46:00 -0300",
-      "summary": "Mais de um dia após o início do apagão causado pela passagem de um <a href=\"https://www1.folha.uol.com.br/cotidiano/2025/12/ciclone-extratropical-deve-provocar-fortes-rajadas-de-vento-em-sp-nesta-quarta-10.shtml\">ciclone extratropical</a> pelo estado de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>, moradores da capital paulista ainda convivem nesta quinta-feira (11) com a falta de energia, que em alguns bairros, chega a superar 50 horas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2025/12/enel-repete-demora-em-sp-e-deixa-13-milhao-sem-luz-24-horas-depois-do-apagao.shtml\">Leia mais</a> (12/11/2025 - 21h46)"
+      "published": "11 Dec 2025 23:00:00 -0300",
+      "summary": "Os <a href=\"https://www1.folha.uol.com.br/folha-topicos/correios/\">Correios</a> acionaram o <a href=\"https://www1.folha.uol.com.br/colunas/monicabergamo/2025/12/justica-do-trabalho-registra-alta-de-acoes-entre-2022-e-2024.shtml\">TST</a> (Tribunal Superior do Trabalho) diante da falta de acordo com os empregados sobre <a href=\"https://www1.folha.uol.com.br/mercado/2025/12/correios-estimam-gasto-de-r-151-bi-com-pessoal-e-dao-beneficios-acima-do-minimo-da-clt.shtml\">salários e benefícios da categoria</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2025/12/correios-vao-a-justica-por-falta-de-acordo-com-funcionarios-sobre-salarios-e-beneficios.shtml\">Leia mais</a> (12/11/2025 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Viúva e filho de Chorão perdem direitos sobre o nome da Charlie Brown Jr.",
-      "title_zh": "哭泣的遗孀和儿子失去了小查理·布朗的名字的权利。",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/12/viuva-e-filho-de-chorao-perdem-direitos-sobre-o-nome-da-charlie-brown-jr.shtml",
+      "title": "Acordo de Paris faz 10 anos e evidencia incompetência de países diante da mudança climática",
+      "title_zh": "10年前的《巴黎协定》，显示出各国在应对气候变化方面的无能",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/12/acordo-de-paris-faz-10-anos-e-evidencia-incompetencia-de-paises-diante-da-mudanca-climatica.shtml",
       "region": "Brazil",
-      "published": "11 Dec 2025 21:46:00 -0300",
-      "summary": "<a href=\"https://f5.folha.uol.com.br/colunistas/biblioteca-da-vivi/2018/10/viuva-de-chorao-narra-sucesso-e-declinio-do-vocalista-do-charlie-brown-morto-em-2013.shtml\" rel=\"\" target=\"\">Graziela Gonçalves</a> e <a href=\"https://www1.folha.uol.com.br/ilustrada/2020/02/assinatura-de-chorao-em-contrato-com-empresa-que-o-cobrou-apos-a-morte-e-falsa-diz-pericia.shtml\" rel=\"\" target=\"\">Alexandre Ferreira Lima Abrão</a>, a viúva e o filho do músico e <a href=\"https://www1.folha.uol.com.br/ilustrada/2023/03/relembre-a-trajetoria-de-chorao-da-charlie-brown-jr-que-morreu-ha-dez-anos.shtml\" rel=\"\" target=\"\">Chorão</a>, morto em 2013, perderam os direitos sobre o nome da banda <a href=\"https://www1.folha.uol.com.br/folha-topicos/charlie-brown-jr/\" rel=\"\" target=\"\">Charlie Brown Jr</a>. O <a href=\"https://www1.folha.uol.com.br/folha/ciencia/ult306u655924.shtml\" rel=\"\" target=\"\">Instituto Nacional de Propriedade Intelectual</a> (Inpi) determinou que apenas a <a href=\"https://www1.folha.uol.com.br/folhateen/2025/04/por-que-snoopy-aos-75-anos-foi-adotado-pela-geracao-z.shtml\" rel=\"\" target=\"\">Peanuts Worldwide</a>, criadora dos personagens da turma do cão <a href=\"https://f5.folha.uol.com.br/nerdices/2021/03/snoopy-e-sua-turma-ganham-livros-colecionaveis-em-homenagem-a-seus-70-anos.shtml\" rel=\"\" target=\"\">Snoopy </a>e do garoto Charlie Brown, podem deter o nome em questão. A informação foi confirmada à <strong>Folha</strong>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2025/12/viuva-e-filho-de-chorao-perdem-direitos-sobre-o-nome-da-charlie-brown-jr.shtml\">Leia mais</a> (12/11/2025 - 21h46)"
+      "published": "11 Dec 2025 23:00:00 -0300",
+      "summary": "Há exatos dez anos, completados nesta sexta-feira (12), uma maratona de negociações climáticas terminou em festa. No centro de exposições de Le Bourget 195 países assinaram o <a href=\"https://www1.folha.uol.com.br/folha-topicos/acordo-de-paris/\">Acordo de Paris</a>. O documento histórico mudou a percepção mundial sobre a <a href=\"https://www1.folha.uol.com.br/folha-topicos/mudanca-climatica/\">mudança climática</a> e estabeleceu parâmetros para avaliá-la.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2025/12/acordo-de-paris-faz-10-anos-e-evidencia-incompetencia-de-paises-diante-da-mudanca-climatica.shtml\">Leia mais</a> (12/11/2025 - 23h00)"
     },
     {
       "source": "The Rio Times",
@@ -888,6 +888,33 @@
     },
     {
       "source": "The Jakarta Post",
+      "title": "Celebrating 75 years of Indonesia–China Relations: The way forward",
+      "title_zh": "庆祝印尼-中国关系75周年：前进之路",
+      "url": "https://www.thejakartapost.com/opinion/2025/12/12/celebrating-75-years-of-indonesiachina-relations-the-way-forward.html",
+      "region": "Indonesia",
+      "published": "Fri, 12 Dec 2025 10:10:10 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/11/10/2024_11_10_157110_1731234319._medium.jpg\" style=\"text-align: center;\" /></p><p>Creativity is required on how best Indonesia and China can move together to elevate the ties, thereby contributing to the strengthening of the regional security architecture.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Manias, panics and artificial intelligence",
+      "title_zh": "狂热、恐慌和人工智能",
+      "url": "https://www.thejakartapost.com/opinion/2025/12/12/manias-panics-and-artificial-intelligence.html",
+      "region": "Indonesia",
+      "published": "Fri, 12 Dec 2025 09:09:09 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/08/28/2025_08_28_165929_1756361651._medium.jpg\" style=\"text-align: center;\" /></p><p>As technology companies push ahead to map the course of AI, sitting on the sidelines may seem safe for now, but taking this option risks losing out in the future.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Use of elephants in post-flood cleanup in Aceh draws criticism",
+      "title_zh": "在亚齐洪灾后清理中使用大象引发批评",
+      "url": "https://www.thejakartapost.com/indonesia/2025/12/12/use-of-elephants-in-post-flood-cleanup-in-aceh-draws-criticism.html",
+      "region": "Indonesia",
+      "published": "Fri, 12 Dec 2025 08:33:21 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/11/2025_12_11_170160_1765443685._medium.jpg\" style=\"text-align: center;\" /></p><p>“Elephants are a protected species. Involving them in heavy post-disaster work puts their safety at risk. Deploying elephants also contradicts conservation principles, which place animal welfare as a priority,” Daniel Johan, a member of House of Representatives Commission IV overseeing agriculture, forestry and fisheries, said.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
       "title": "Responsible AI: A new pathway for managing disaster risks",
       "title_zh": "负责任的人工智能：管理灾害风险的新途径",
       "url": "https://www.thejakartapost.com/opinion/2025/12/12/responsible-ai-a-new-pathway-for-managing-disaster-risks.html",
@@ -950,81 +977,54 @@
       "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/11/2025_12_11_170161_1765444801._medium.jpg\" style=\"text-align: center;\" /></p><p>Danantara has previously inked partnerships with the sovereign wealth funds of Qatar, China and Russia to form a joint investment fund for strategic sectors.</p>"
     },
     {
-      "source": "The Jakarta Post",
-      "title": "Central Java, Yogyakarta give assistance to students affected by Sumatra disaste...",
-      "title_zh": "中爪哇、日惹为受苏门答腊灾难影响的学生提供援助...",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/12/central-java-yogyakarta-give-assistance-to-students-affected-by-sumatra-disasters.html",
-      "region": "Indonesia",
-      "published": "Fri, 12 Dec 2025 06:23:24 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/11/2025_12_11_170150_1765434669._medium.jpg\" style=\"text-align: center;\" /></p><p>Yogyakarta provided Rp 1 billion each to the three affected provinces in the northern part of Sumatra.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Batam Customs Office uncovers new way to smuggle used clothing",
-      "title_zh": "巴淡岛海关发现走私旧衣服的新方法",
-      "url": "https://www.thejakartapost.com/indonesia/2025/12/12/batam-customs-office-uncovers-new-way-to-smuggle-used-clothing.html",
-      "region": "Indonesia",
-      "published": "Fri, 12 Dec 2025 06:15:12 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/11/2025_12_11_170170_1765460447._medium.jpg\" style=\"text-align: center;\" /></p><p>For a fee, packages containing used clothing can be taken by passengers as carry on luggage or registered as checked baggage.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Sumatra’s prolonged plight",
-      "title_zh": "苏门答腊的长期困境",
-      "url": "https://www.thejakartapost.com/opinion/2025/12/12/sumatras-prolonged-plight.html",
-      "region": "Indonesia",
-      "published": "Fri, 12 Dec 2025 06:06:06 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/12/01/2025_12_01_169664_1764568906._medium.jpg\" style=\"text-align: center;\" /></p><p>The government's response to the Sumatra flooding and landslides is turning into a case study of what not to do after a major disaster.</p>"
+      "source": "Times of India - Top Stories",
+      "title": "Fled by IndiGo, caught at Indigo: How Luthra brothers’ escape plan crumbled; deportation next",
+      "title_zh": "由IndiGo逃离，在Indigo被捕： Luthra兄弟的逃生计划如何崩溃；接下来的驱逐出境",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/fled-by-indigo-caught-at-indigo-how-luthra-brothers-escape-plan-crumbled/articleshow/125863657.cms",
+      "region": "India",
+      "published": "Fri, 12 Dec 2025 07:08:27 +0530",
+      "summary": "Goa nightclub co-owners Saurabh and Gaurav Luthra were apprehended by Thai police in Phuket after fleeing India following a deadly fire. Their passports were suspended, facilitating their detention and impending deportation back to India. Indian agencies are working to bring the brothers back by week's end."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Life collapsed overnight': Six months on, AI 171 victims' families struggle with loss",
-      "title_zh": "“一夜之间生活崩溃” ：六个月后， AI 171受害者家属与损失作斗争",
-      "url": "https://timesofindia.indiatimes.com/india/6-months-on-families-struggle-with-fallout-of-ai-171-crash/articleshow/125923334.cms",
+      "title": "Former Union home minister Shivraj Patil passes away at 90",
+      "title_zh": "前联邦内政部长Shivraj Patil去世，享年90岁",
+      "url": "https://timesofindia.indiatimes.com/india/former-union-home-minister-shivraj-patil-passes-away-at-90/articleshow/125924511.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 04:50:34 +0530",
+      "published": "Fri, 12 Dec 2025 08:24:41 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "‘Kept saying we’re Indian, they didn't listen’: Pregnant woman recounts deportation",
-      "title_zh": "“一直说我们是印度人，他们不听” ：孕妇讲述驱逐出境",
-      "url": "https://timesofindia.indiatimes.com/india/kept-saying-were-indian-they-didnt-listen-sunali-khatun/articleshow/125923318.cms",
+      "title": "Foxtail millet, gongura paneer &amp; more: PM hosts NDA MPs; what was on the all-vegetarian menu",
+      "title_zh": "Foxtail millet、gongura paneer等： PM主持NDA MPS ；全素菜单上的内容",
+      "url": "https://timesofindia.indiatimes.com/india/foxtail-millet-gongura-paneer-more-inside-all-vegetarian-dinner-at-pms-residence-for-nda-mps-what-was-on-the-menu/articleshow/125924151.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 04:41:31 +0530",
-      "summary": "A pregnant domestic worker, Sunali Khatun, recounts her harrowing experience of being deported to Bangladesh despite possessing Indian identity documents. Detained during an identity verification drive, she and her family were allegedly pushed across the border, leading to months of hardship and fear. Her father's legal intervention highlights the family's desperate plea for justice."
+      "published": "Fri, 12 Dec 2025 07:50:07 +0530",
+      "summary": "Prime Minister Narendra Modi hosted NDA MPs for a special dinner featuring a diverse vegetarian menu, highlighting regional flavours and millet-based dishes. The gathering followed the NDA's significant victory in the Bihar Assembly elections. MPs expressed optimism for future successes, with one predicting the next celebratory meal after West Bengal polls."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Luthra brothers detained in Phuket, India seeks return",
-      "title_zh": "在印度普吉岛被拘留的Luthra兄弟寻求回归",
-      "url": "https://timesofindia.indiatimes.com/india/luthra-brothers-detained-in-phuket-india-seeks-return/articleshow/125923304.cms",
+      "title": "‘Rs 5 lakh will become Rs 2.5cr’: 3 men die in occult ritual; one body found with lemon in mouth",
+      "title_zh": "“5万卢比将变成2.5卢比” ： 3名男子在神秘仪式中死亡；一具尸体被发现时嘴里含着柠檬",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/whiff-of-occult-as-money-doubling-ritual-claims-3-lives-in-cg/articleshow/125917563.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 04:31:31 +0530",
-      "summary": "Traced To Hotel Based On Travel, Passport Details"
+      "published": "Fri, 12 Dec 2025 07:42:56 +0530",
+      "summary": "Three men, including a businessman, died mysteriously at a farmhouse in Korba, Chhattisgarh. The incident involved alleged occult practices and a money-doubling fraud. Police detained five individuals, including an occult practitioner. Investigations are underway to determine the cause of death, examining forensic evidence and financial dealings. The deaths have caused shock and anxiety in the region."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "2nd T20I defeat: 'Gill &amp; SKY's form?' - Gambhir and co asked to 'answer'",
-      "title_zh": "第二次T20I击败： '吉尔和天空的形式？ - Gambhir和他的同事要求“回答”",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/ind-vs-sa-shubman-gill-surya-kumar-yadavs-form-gautam-gambhir-and-co-asked-to-answer-after-2nd-t20i-defeat/articleshow/125918242.cms",
+      "title": "'Constantly shaking hands': WH on Trump's bandages; calls his office 'Grand Central Terminal'",
+      "title_zh": "“不断握手” ：特朗普绷带上的WH ；称他的办公室为“中央车站”",
+      "url": "https://timesofindia.indiatimes.com/world/us/karoline-leavitt-reveals-why-there-are-bandages-on-trumps-hand-the-president-is-literally-/articleshow/125920902.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:00:00 +0530",
-      "summary": "India suffered a 51-run defeat to South Africa in the second T20I, raising concerns over Shubman Gill and Suryakumar Yadav's form. The team's bowling discipline also faltered, with numerous full tosses and expensive overs contributing to South Africa's 213/4. India's chase collapsed early, falling short at 162 despite Tilak Varma's 62."
+      "published": "Fri, 12 Dec 2025 02:09:11 +0530",
+      "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Amid trade deal push, PM, Trump get on call",
-      "title_zh": "在贸易协议推动下，总理、特朗普随时待命",
-      "url": "https://timesofindia.indiatimes.com/india/amid-trade-deal-push-pm-trump-get-on-call/articleshow/125923410.cms",
-      "region": "India",
-      "published": "Fri, 12 Dec 2025 05:16:26 +0530",
-      "summary": "Prime Minister Modi and President Trump held a productive conversation, reaffirming bilateral cooperation and discussing regional and global issues. The call signals renewed engagement, with progress noted in most areas except trade, where US tariffs remain a point of contention. Both leaders emphasized continued collaboration for global peace and prosperity."
-    },
-    {
-      "source": "Times of India - Top Stories",
-      "title": "Amazon layoffs: VP explains 14,000 jobs cuts; Done to remove organisational layers",
-      "title_zh": "亚马逊裁员：副总裁解释裁员1.4万人；完成裁撤组织层级",
+      "title": "Amazon layoffs: VP explains 14,000 jobs cuts; leaders push ‘biggest startup’ vision",
+      "title_zh": "亚马逊裁员：副总裁解释裁员1.4万人；领导者推动“最大的创业公司”愿景",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-senior-vp-amit-agarwal-on-layoffs-job-cuts-are-primarily-about-/articleshow/125912327.cms",
       "region": "India",
       "published": "Thu, 11 Dec 2025 18:14:34 +0530",
@@ -1032,35 +1032,35 @@
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "U19 Asia Cup: 'Explicit instructions' - Sooryavanshi &amp; handshake in focus as India face Pak",
-      "title_zh": "U19亚洲杯： “明确指示” - Sooryavanshi和握手成为印度面对Pak时的焦点",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/explicit-instructions-vaibhav-sooryavanshi-and-handshake-in-focus-as-india-set-to-take-on-pakistan-in-u-19-asia-cup/articleshow/125913938.cms",
+      "title": "'We learn… we try': Suryakumar Yadav scrambles for answers after heavy defeat",
+      "title_zh": "“我们学习……我们尝试” ： Suryakumar Yadav在惨败后争先恐后地寻找答案",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-south-africa/ind-vs-sa-we-learn-we-try-suryakumar-yadav-scrambles-for-answers-after-heavy-defeat/articleshow/125924370.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:00:00 +0530",
-      "summary": "India's U-19 Asia Cup campaign faces scrutiny over whether players will shake hands with Pakistan, a gesture previously omitted in senior tournaments. The BCCI's stance on this sporting courtesy at the junior level remains a key point of attention, with the ICC preferring to keep politics separate from youth cricket."
+      "published": "Fri, 12 Dec 2025 08:16:10 +0530",
+      "summary": "India's T20 captain Suryakumar Yadav acknowledged a \"far from good enough\" performance after a significant defeat to South Africa.  He highlighted early wickets and a muddled batting strategy, admitting the team's over-reliance on Abhishek Sharma.  Despite acknowledging bowling struggles with dew, Yadav stressed the team's commitment to learning and improving for future matches."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Family rift widens as Lalu daughter appeals to Nitish Kumar for 'safe home'",
-      "title_zh": "随着Lalu的女儿向Nitish Kumar寻求“安全的家” ，家庭裂痕扩大",
-      "url": "https://timesofindia.indiatimes.com/india/family-rift-widens-as-lalu-daughter-appeals-to-nitish-for-safe-home/articleshow/125920663.cms",
+      "title": "IBPS, SBI, RRBs: FinMin announces major recruitment reforms; what candidates must know",
+      "title_zh": "IBPS、SBI、RRB ： FinMin宣布重大招聘改革；候选人必须知道什么",
+      "url": "https://timesofindia.indiatimes.com/education/news/ibps-sbi-rrbs-finmin-announces-major-recruitment-reforms-heres-what-candidates-must-know-about-exams-and-results/articleshow/125924913.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 01:08:06 +0530",
-      "summary": "Lalu Prasad's daughter, Rohini Acharya, has voiced concerns about women's safety in Bihar, advocating for parental homes to be secure havens.  Her appeal follows a public fallout with her family, where she alleged accusations of ulterior motives behind her kidney donation to her father. Acharya believes societal and political shifts are crucial to protect women from exploitation."
+      "published": "Fri, 12 Dec 2025 08:51:32 +0530",
+      "summary": "The Finance Ministry has introduced major reforms to streamline recruitment examinations and result declarations for SBI, NBs and RRBs through IBPS. Officer-level results will now be announced first, followed by clerical-level results, with a standardised sequence across banks. The changes aim to enhance transparency, reduce attrition, and allow candidates to make informed choices. The move addresses operational challenges arising from workforce migration and ensures more predictable, stable recruitment in public sector banks, as quoted by the PTI."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Dhurandhar' Day 7: Ranveer–Akshaye spy thriller crosses Rs 200cr India, Rs 300cr global",
-      "title_zh": "“Dhurandhar”第7天： Ranveer-Akshaye间谍惊悚片穿越印度200卢比，全球300卢比",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-box-office-collection-day-7-ranveer-singh-akshaye-khannas-spy-thriller-crosses-rs-200-crore-mark-at-end-of-week-1-hits-rs-300-crore-worldwide/articleshow/125923355.cms",
+      "title": "Delhi AQI back to very poor after wind speed dips",
+      "title_zh": "德里空气质量在风速下降后恢复非常差",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/aqi-back-to-very-poor-after-wind-speed-dips/articleshow/125918583.cms",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:37:13 +0530",
-      "summary": "Ranveer Singh and Akshaye Khanna's spy thriller 'Dhurandhar' is a box office sensation, exceeding expectations and rewriting records. The film has shown remarkable consistency, crossing Rs 300 crore worldwide. Strong word-of-mouth and audience approval are driving its phenomenal success, particularly its action and narrative."
+      "published": "Fri, 12 Dec 2025 02:06:09 +0530",
+      "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Sam Altman pushes Oracle into first-ever $10bn burn and fresh borrowing spree",
-      "title_zh": "山姆·奥尔特曼（ Sam Altman ）将甲骨文推向有史以来第一个$ 100亿的焚烧和新借贷狂潮",
+      "title": "Oracle stumbles: AI bets strain finances; shares drop after historic surge",
+      "title_zh": "甲骨文跌跌撞撞：人工智能押注财务紧张；股价在历史性飙升后下跌",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-makes-oracle-do-what-it-has-never-done-in-its-history-burn-10-billion-and-borrow-/articleshow/125915195.cms",
       "region": "India",
       "published": "Thu, 11 Dec 2025 19:52:13 +0530",
@@ -1068,165 +1068,183 @@
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Eknath Shinde Announces New Framework For Mumbai's Pagdi Buildings",
-      "title_zh": "Eknath Shinde宣布孟买Pagdi建筑的新框架",
-      "url": "https://www.ndtv.com/mumbai-news/maharashtra-deputy-chief-minister-eknath-shinde-announces-new-framework-for-mumbais-pagdi-buildings-9795310#publisher=newsstand",
+      "title": "US, Japan Hold Joint Flight Drills Amid Rising Tensions With China",
+      "title_zh": "在与中国的紧张局势加剧之际，美国和日本举行联合飞行演习",
+      "url": "https://www.ndtv.com/world-news/us-japan-hold-joint-flight-drills-amid-rising-tensions-with-china-9795376#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:48:37 +0530",
-      "summary": "Eknath Shinde also stated that the rights of both tenants and landlords will be protected. (File)"
+      "published": "Fri, 12 Dec 2025 09:14:30 +0530",
+      "summary": "The 6th Air Wing of Japan Air Self-Defense Force's F-15 fighters hold a joint military drill."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Trump Says He Will Sign Order Curbing State AI Laws",
-      "title_zh": "特朗普表示他将签署遏制国家人工智能法律的命令",
-      "url": "https://www.ndtv.com/world-news/donald-trump-says-he-will-sign-order-curbing-state-ai-laws-9795317#publisher=newsstand",
+      "title": "6.7 Magnitude Earthquake Hits Japan, Tsunami Warning Issued",
+      "title_zh": "6.7级地震袭击日本，发布海啸预警",
+      "url": "https://www.ndtv.com/world-news/6-7-magnitude-earthquake-hits-japan-tsunami-warning-issued-9795674#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:41:27 +0530",
-      "summary": "U.S. President Donald Trump on Thursday said he would sign an executive order on artificial intelligence that would attempt to preempt a growing number of state laws governing the technology with a national standard."
+      "published": "Fri, 12 Dec 2025 09:13:02 +0530",
+      "summary": "Home to nearly 125 million people, Japan experiences around 1,500 jolts every year. (File)"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "'Need To Align Policy With Health-Based Science': Experts On Air Quality Standards",
-      "title_zh": "“需要使政策与基于健康的科学保持一致” ：空气质量标准专家",
-      "url": "https://www.ndtv.com/india-news/pollution-delhi-pollution-who-need-to-align-policy-with-health-based-science-experts-on-air-quality-standards-9794748#publisher=newsstand",
+      "title": "Goa Club Fire LIVE Updates: Thailand Begins Deportation Process Of Luthras",
+      "title_zh": "果阿俱乐部火灾现场更新：泰国开始驱逐Luthras",
+      "url": "https://www.ndtv.com/india-news/goa-nightclub-fire-live-updates-saurabh-luthra-gaurav-luthra-news-updates-luthra-brothers-detained-over-goa-club-fire-deportation-next-9789461#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 05:13:37 +0530",
-      "summary": "Experts pointed out that India ranks among the countries with the highest PM 2.5 pollution."
+      "published": "Fri, 12 Dec 2025 09:11:59 +0530",
+      "summary": "Goa Nightclub Fire Tragedy LIVE News Updates: Saurabh and Gaurav Luthra, who fled India following a fire at their nightclub in Goa that killed 25 people, were detained on Thursday morning."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Charlie Kirk Murder Accused Tyler Robinson Makes First In-Court Appearance",
-      "title_zh": "查理·柯克谋杀案被告泰勒·罗宾逊首次出庭",
-      "url": "https://www.ndtv.com/world-news/charlie-kirk-murder-accused-tyler-robinson-makes-first-in-court-appearance-9795275#publisher=newsstand",
+      "title": "PM Modi Greets Rajinikanth On 75th Birthday",
+      "title_zh": "莫迪总理迎接Rajinikanth 75岁生日",
+      "url": "https://www.ndtv.com/india-news/pm-modi-greets-rajinikanth-on-75th-birthday-9795712#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 04:44:27 +0530",
-      "summary": "Tyler Robinson, accused of fatally shooting Charlie Kirk, appears during a hearing in Court, Thursday."
+      "published": "Fri, 12 Dec 2025 09:10:56 +0530",
+      "summary": "PM  Modi greeted superstar Rajinikanth on his 75th birthday"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "ChatGPT Blamed For US Murder-Suicide In Fresh Lawsuit",
-      "title_zh": "ChatGPT在新的诉讼中因美国谋杀自杀而受到指责",
-      "url": "https://www.ndtv.com/world-news/chatgpt-blamed-for-us-murder-suicide-in-fresh-lawsuit-9795260#publisher=newsstand",
+      "title": "9 Dead As Bus Loses Control At Sharp Turn, Plunges Into Ravine In Andhra",
+      "title_zh": "9人死亡，因为公共汽车在急转弯时失去控制，陷入安得拉邦的峡谷",
+      "url": "https://www.ndtv.com/india-news/9-dead-as-bus-veers-off-road-plunges-into-ravine-in-andhra-pradesh-9795524#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 04:35:07 +0530",
-      "summary": "The case joins a growing number of wrongful death lawsuits filed against OpenAI in recent months."
+      "published": "Fri, 12 Dec 2025 09:10:01 +0530",
+      "summary": "The incident took place around 5:30 am near the Tulasipakalu village."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"Doesn't Want Any More Talk\": Trump \"Frustrated\" With Russia-Ukraine War",
-      "title_zh": "“不想再谈了” ：特朗普对俄乌战争“沮丧”",
-      "url": "https://www.ndtv.com/world-news/donald-trump-frustrated-with-russia-ukraine-war-9795208#publisher=newsstand",
+      "title": "Former Lok Sabha Speaker Shivraj Patil Dies At 90",
+      "title_zh": "前Lok Sabha议长Shivraj Patil去世，享年90岁",
+      "url": "https://www.ndtv.com/india-news/former-union-minister-shivraj-patil-dies-at-90-9795600#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 03:59:04 +0530",
-      "summary": "The White House official said that US Donald Trump is \"extremely frustrated\" with Russia and Ukraine."
+      "published": "Fri, 12 Dec 2025 09:04:37 +0530",
+      "summary": "Shivraj  Patil was a former Speaker of the Lok Sabha and held key portfolios in the Union cabinet."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Mumbai Househelp Arrested For Stealing Jewellery Worth Rs 3.5 Crore",
-      "title_zh": "Mumbai Househelp因盗窃价值3.5亿卢比的珠宝而被捕",
-      "url": "https://www.ndtv.com/india-news/house-help-arrested-for-theft-of-jewellery-worth-rs-3-5-crore-9794883#publisher=newsstand",
+      "title": "Kilmar Abrego Garcia, Man Wrongly Deported To El Salvador, Freed",
+      "title_zh": "Kilmar Abrego Garcia ，男子被错误地驱逐到萨尔瓦多，获释",
+      "url": "https://www.ndtv.com/world-news/kilmar-abrego-garcia-man-wrongly-deported-to-el-salvador-freed-9795612#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 03:33:55 +0530",
-      "summary": "She was detained and later placed under arrest as she admitted to the crime, the official said."
+      "published": "Fri, 12 Dec 2025 08:58:14 +0530",
+      "summary": "Kilmar Abrego Garcia was freed from immigration detention on a judge's order Thursday."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "US Sanctions Nicolas Maduro's Family, 6 Ships Carrying Venezuela Oil",
-      "title_zh": "美国制裁尼古拉斯·马杜罗的家人， 6艘运载委内瑞拉石油的船只",
-      "url": "https://www.ndtv.com/world-news/us-sanctions-nicolas-maduros-family-6-ships-carrying-venezuela-oil-9795157#publisher=newsstand",
+      "title": "3 Arrested For Thrashing Man For Selling Chicken Patties Near Kolkata Gita Event Granted Bail",
+      "title_zh": "3名男子因在加尔各答Gita活动附近出售鸡肉馅饼而被捕获准保释",
+      "url": "https://www.ndtv.com/india-news/man-thrashed-for-selling-chicken-patties-near-kolkata-gita-event-3-arrested-9790307#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 03:26:13 +0530",
-      "summary": "The US imposed sanctions on three nephews of Venezuelan President Nicols Maduro."
+      "published": "Fri, 12 Dec 2025 08:54:03 +0530",
+      "summary": "Golder is the prime accused in the assault of the vendor Sheikh Riajul"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "US Bringing Seized Tanker To Port As Venezuela War Fears Build",
-      "title_zh": "随着委内瑞拉战争的恐慌加剧，美国将扣押的油轮运往港口",
-      "url": "https://www.ndtv.com/india-news/us-bringing-seized-tanker-to-port-as-venezuela-war-fears-build-9795048#publisher=newsstand",
+      "title": "Indian Artefacts Among 600 \"High Value\" Items Stolen From UK Museum",
+      "title_zh": "从英国博物馆被盗的600件“高价值”物品中的印度文物",
+      "url": "https://www.ndtv.com/world-news/bristol-museum-uk-news-indian-artefacts-among-600-high-value-items-stolen-from-uk-museum-9795537#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 02:12:09 +0530",
-      "summary": "An oil tanker seized by American forces off the Venezuelan coast will be brought to a port in the US."
+      "published": "Fri, 12 Dec 2025 08:41:53 +0530",
+      "summary": "Cops released a grainy CCTV footage of four white male suspects seen at the site."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Still No Free Movement In Manipur? National Human Rights Commission Seeks Report",
-      "title_zh": "曼尼普尔仍然没有自由流动？国家人权委员会寻求报告",
-      "url": "https://www.ndtv.com/india-news/still-no-free-movement-in-manipur-national-human-rights-commission-nhrc-seeks-report-9794899#publisher=newsstand",
+      "title": "Disney Invests $1 Billion In OpenAI, Licenses Over 200 Characters For Use In Sora",
+      "title_zh": "迪士尼向OpenAI投资10亿美元，授权200多个字符在Sora中使用",
+      "url": "https://www.ndtv.com/world-news/disney-invests-1-billion-in-openai-licenses-over-200-characters-for-use-in-sora-9795214#publisher=newsstand",
       "region": "India",
-      "published": "Fri, 12 Dec 2025 01:03:16 +0530",
-      "summary": "Petition sought free movement on National Highway-2 in Manipur's Kangpokpi section"
+      "published": "Fri, 12 Dec 2025 08:34:14 +0530",
+      "summary": "Walt Disney has licensed its fiercely protected characters for AI content creation."
     },
     {
       "source": "NHK News",
-      "title": "秋田内陸線で列車脱線 運転士を救出 乗客はおらず",
-      "title_zh": "没有乘客在秋田内陆线上救出脱轨者",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001751000.html",
+      "title": "【津波注意報】青森県 岩手県 北海道 宮城県",
+      "title_zh": "前往北海府",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001931000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 10:16:35 +0900",
-      "summary": "12日朝、秋田県北秋田市で秋田内陸線の列車が脱線し、列車内から運転士の男性が救出されました。警察によりますと、乗客はおらず、ほかに脱線に巻き込まれた人はいないということです。"
+      "published": "Fri, 12 Dec 2025 12:49:52 +0900",
+      "summary": "青森県東方沖を震源とする地震があり、気象庁は津波注意報を青森県太平洋沿岸と岩手県、北海道太平洋沿岸中部、宮城県に発表しました。"
     },
     {
       "source": "NHK News",
-      "title": "北海道～北陸 大雪や吹雪 交通影響に十分注意 厳しい冷え込み",
-      "title_zh": "朝鲜对朝鲜大规模赌博计划五十周年",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001701000.html",
+      "title": "【地震速報】北海道 青森 秋田 岩手 宮城で震度4 津波注意報",
+      "title_zh": "[] Kita-do (北道) 4 (北道)",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015000541000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 10:09:07 +0900",
-      "summary": "強い寒気と冬型の気圧配置の影響で、北海道から北陸を中心に雪や風が強まっていて、大雪や吹雪による交通への影響に十分注意が必要です。また全国的に厳しい冷え込みとなっていて、体調管理に気をつけてください。"
+      "published": "Fri, 12 Dec 2025 12:09:59 +0900",
+      "summary": "12日午前11時44分ごろ、東北や北海道の広い範囲で震度4の揺れを観測する地震がありました。この地震で、気象庁は津波注意報を青森県太平洋沿岸と岩手県、北海道太平洋沿岸中部、宮城県に発表しました。▽予想される津波の高さは1メートルです。▽津波注意報が出た地域の方は、海岸や川の河口付近から離れ、近づかないで下さい。▽津波は何度も押し寄せ、急に高くなることがあります。▽津波は、強い力で人や物を押し流します。海岸や海中での作業などは切り上げて、海岸や川の河口近くから離れて下さい。▽様子を見に行かないで下さい。"
     },
     {
       "source": "NHK News",
-      "title": "後発地震注意情報 日頃の備え確認するよう呼びかけ 気象庁",
-      "title_zh": "地震防范信息日常准备致电确认日本气象厅",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001341000.html",
+      "title": "【ライブ】津波注意報 北海道・東北で震度4 各地の様子",
+      "title_zh": "东北高速公路和东北高速公路4",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001981000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 09:52:04 +0900",
-      "summary": "今月8日の青森県東方沖の地震を受けて、気象庁は、千島海溝と日本海溝沿いでは巨大地震の可能性がふだんより高まっているとして、「北海道・三陸沖後発地震注意情報」を出して引き続き日頃の備えを確認するよう呼びかけています。"
+      "published": "Fri, 12 Dec 2025 12:26:08 +0900",
+      "summary": "青森県東方沖を震源とする地震があり、気象庁は津波注意報を青森県太平洋沿岸と岩手県、北海道太平洋沿岸中部、宮城県に発表しました。"
     },
     {
       "source": "NHK News",
-      "title": "地震で鉄塔損傷 避難指示続く 補修に3週間程度の見通し 八戸",
-      "title_zh": "一段时间内的闪避区域3",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001581000.html",
+      "title": "【ライブ】気象庁会見 北海道 東北で津波注意報 注意点は",
+      "title_zh": "[]东北路东北路",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015002021000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 06:39:56 +0900",
-      "summary": "今月8日、震度6強の揺れを観測した青森県八戸市の中心部で、ビルの屋上にある鉄塔に損傷が見つかり、避難指示が出されたことを受けて周辺の住民の避難が続いています。ビルを所有するNTT東日本は、補修には3週間程度かかるという見通しを示し、工事を委託する施工会社との調整を急ぐことにしています。"
+      "published": "Fri, 12 Dec 2025 12:50:22 +0900",
+      "summary": "青森県東方沖で起きた地震で津波注意報が発表されたことを受けて、気象庁は、12日午後0時50分から記者会見を開いています。今後の注意点や地震活動の状況などについて説明しています。"
     },
     {
       "source": "NHK News",
-      "title": "補正予算案 参院論戦へ 議員定数削減法案の会期内成立困難か",
-      "title_zh": "此法律的时限为",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001631000.html",
+      "title": "【地震】東通原発 女川原発 泊原発 福島第一原発 “異常なし”",
+      "title_zh": "TOHOKU HANA HANA HANA HANA HANA HANA HANA HANA HANA “”",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015002001000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 05:32:27 +0900",
-      "summary": "新たな経済対策の裏付けとなる今年度の補正予算案は衆議院を通過し、論戦の舞台は参議院に移ります。一方、衆議院議員の定数削減法案は、依然として審議入りのメドがたっておらず会期内の成立は難しいという見方が広がっています。"
+      "published": "Fri, 12 Dec 2025 12:43:30 +0900",
+      "summary": "東北電力によりますと、震度4の揺れを観測した青森県東通村にある東通原子力発電所は長期間運転を停止していますが、これまでのところ、先ほどの地震による異常は確認されていないということです。また、原発周辺の放射線量を測定するモニタリングポストの値にも変化はないということです。"
     },
     {
       "source": "NHK News",
-      "title": "ノーベル賞 坂口志文さん スウェーデン王室主催晩さん会に出席",
-      "title_zh": "诺贝尔奖坂口史文（ Shifumi Sakaguchi ）出席由瑞典王室主办的晚宴",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001741000.html",
+      "title": "【地震速報】北海道 青森県 岩手県で震度3（午後0時21分）",
+      "title_zh": "区域3 （ 0 21分钟后）",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015002071000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 09:18:52 +0900",
-      "summary": "ことしのノーベル生理学・医学賞を受賞した大阪大学の坂口志文さんは日本時間の12日、スウェーデン王室主催の晩さん会に出席しました。"
+      "published": "Fri, 12 Dec 2025 12:30:28 +0900",
+      "summary": "１２日午後０時２１分ごろ地震がありました。震源地は青森県東方沖で震源の深さは２０キロ、地震の規模を示すマグニチュードは５．７と推定されます。各市町村の震度は以下のとおりです。▼震度３が、北海道函館市、青森県八戸市、青森県五所川原市、青森県三沢市、青森県むつ市、青森県つがる市、青森県平内町、青森県外ヶ浜町、青森県中泊町、青森県野辺地町、青森県七戸町、青森県六戸町、青森県東北町、青森県おいらせ町、青森県三戸町、青森県五戸町、青森県南部町、青森県階上町、岩手県盛岡市、岩手県二戸市、岩手県八幡平市、岩手県軽米町、岩手県一戸町。"
     },
     {
       "source": "NHK News",
-      "title": "米ディズニー 主要キャラを動画生成AI「Sora」で使用可に",
-      "title_zh": "迪士尼关键人物现在可以在视频生成的人工智能“Sora”中使用",
-      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001681000.html",
+      "title": "【交通影響】東北新幹線 仙台～新青森で遅れ",
+      "title_zh": "东北新线～",
+      "url": "http://www3.nhk.or.jp/news/html/20251212/k10015001971000.html",
       "region": "Japan",
-      "published": "Fri, 12 Dec 2025 05:20:42 +0900",
-      "summary": "アメリカの娯楽大手、ウォルト・ディズニーは11日、オープンAIとの間でミッキーマウスなどの主要なキャラクターを動画生成AIで使用できるようにすることで合意したと発表しました。生成AIが多くの議論を呼ぶ中で新たな戦略を打ち出したかたちです。"
+      "published": "Fri, 12 Dec 2025 12:48:44 +0900",
+      "summary": "今回の地震による交通への影響です。"
     },
     {
       "source": "The Korea Times",
-      "title": "Korea, US hold 1st Nuclear Consultative Group meeting under Trump's 2nd term",
-      "title_zh": "韩美在特朗普第二任期内举行首次核磋商小组会议",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20251212/korea-us-hold-1st-nuclear-consultative-group-meeting-under-trumps-2nd-term?utm_source=rss",
+      "title": "Police book ex-oceans minister over alleged money from Unification Church",
+      "title_zh": "警方记录前海洋部长涉嫌统一教会的钱",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20251212/police-book-ex-oceans-minister-over-alleged-money-from-unification-church?utm_source=rss",
       "region": "South Korea",
-      "published": "Fri, 12 Dec 2025 01:17:03 GMT",
-      "summary": "Korea and the United States held a meeting of their key nuclear deterrence body in Washington earlier this week, the defense ministry said Friday, marking the first such talks under U.S. President Donald Trump's second term. The fifth meeting of the Nuclear Consultative Group (NCG) took place in Washington on Thursday, according to the ministry. The session was led by Kim Hong-cheol, the deputy minister for national defense policy, and Robert Soofer, acting deputy assistance secretary of defense in charge of nuclear deterrence, chemical and biological policy. During the meeting, Kim stressed that Korea will conduct the \"leading role\" in conventional defense capabilities. The meeting marked the first NCG gathering since both the Trump administration and the government of Korean President Lee Jae-myung took office in January and in June, respectively."
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
+      "summary": "Police have booked former Oceans Minister Chun Jae-soo and two former lawmakers on suspicions of taking illegal money and other gifts from the Unification Church, sources said Friday. A dedicated investigation team at the National Police Agency booked Chun, former ruling Democratic Party of Korea lawmaker Lim Jong-seong and former United Future Party lawmaker Kim Gyu-hwan on Thursday following an internal probe into the allegations, according to the sources. The three were booked as suspects and face charges of bribery or violating the Political Funds Act. All three have also been banned from leaving the country. Chun resigned as oceans minister on Thursday after a former church official named him and four others as previously undisclosed recipients of money from the church. Chun, Lim and Kim have all denied wrongdoing. People Power Party Rep. Na Kyung-won and Unification Minister Chung Dong-young — the other two people named — have not been booked."
+    },
+    {
+      "source": "The Korea Times",
+      "title": "Bill permitting gov't control of non-military DMZ access faces opposition",
+      "title_zh": "允许政府不控制非军事非军事区进入的法案面临反对",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20251212/bill-permitting-govt-control-of-non-military-dmz-access-faces-opposition?utm_source=rss",
+      "region": "South Korea",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
+      "summary": "An enactment bill permitting the South Korean government to control non-military access to the Demilitarized Zone (DMZ), which bisects the Korean Peninsula, has run into resistance from government ministries and the United Nations Command (UNC). Earlier this year, ruling party lawmakers proposed legislation to give the government the authority to regulate non-military access to the DMZ, as part of efforts to promote the peaceful use of the military buffer zone between the two Koreas. Currently, the U.S.-led UNC, which supervises the southern side of the DMZ, holds the authority to approve or deny access. The unification ministry has thrown its support behind the legislation, but it has run into objections from both the foreign and defense ministries, as well as reportedly from the UNC. In an opinion submitted to the parliamentary Foreign Affairs and Unification Committee, the defense ministry voiced concerns that allowing access to the DMZ without prior consultation with the UNC could create \"unnecessary confusion\" in the maintenance of the armistice of the 1950-53 Korean War. The foreign"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "US reaffirms extended deterrence commitment to S. Korea under Trump's 2nd term",
+      "title_zh": "美国重申在特朗普第二任期内对韩国的扩大威慑承诺",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20251212/us-reaffirms-extended-deterrence-commitment-to-s-korea-under-trumps-2nd-term?utm_source=rss",
+      "region": "South Korea",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
+      "summary": "The United States has reaffirmed its commitment to providing extended deterrence to South Korea during its first meeting of a key nuclear deterrence body with the South under U.S. President Donald Trump's second term, officials said Friday. The allies held the fifth meeting of the Nuclear Consultative Group (NCG) in Washington on Thursday, according to Seoul's defense ministry. This week's meeting was led by Kim Hong-cheol, the deputy minister for national defense policy, and Robert Soofer, acting deputy assistant secretary of defense in charge of nuclear deterrence, chemical and biological policy. According to a joint press statement, Soofer reiterated the U.S. commitment to provide extended deterrence to South Korea, utilizing the full range of U.S. defense capabilities, including nuclear. Kim stressed that South Korea will assume the \"leading role\" in the conventional defense of the Korean Peninsula. The allies also \"reviewed the progress on NCG workstreams and recognized the NCG as an enduring bilateral consultative body to strengthen the U.S.-ROK Alliance and enhance extended deterre"
     },
     {
       "source": "The Korea Times",
@@ -1234,7 +1252,7 @@
       "title_zh": "救援人员在倒塌的施工现场竞相寻找2名被困工人",
       "url": "https://www.koreatimes.co.kr/southkorea/20251212/rescuers-race-to-locate-2-trapped-workers-at-collapsed-construction-site?utm_source=rss",
       "region": "South Korea",
-      "published": "Fri, 12 Dec 2025 01:17:03 GMT",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
       "summary": "Rescue authorities have stepped up efforts to find two trapped workers under a pile of debris at a collapsed library construction site on their second day searching for them, officials said Friday. Search efforts were ongoing to locate the missing workers believed to be trapped under twisted steel and concrete debris after the structure collapsed the previous day in Gwangju. Four workers were initially trapped at the site, with firefighters recovering two of them — one was pronounced dead at the scene, and the other later at the hospital. Authorities suspect the collapse began as workers poured concrete on the two-story structure's rooftop. Officials have mobilized thermal-imaging cameras to locate the workers, while taking measures to stabilize the site in consideration of the possibility of further collapse. Search efforts are reportedly facing difficulties as the concrete has hardened with the rubble. \"While we conducted an overnight search to quickly find those trapped, we have yet to determine their location,\" a fire official said. \"We will continue to focus on search and rescue ope"
     },
     {
@@ -1243,7 +1261,7 @@
       "title_zh": "首尔地铁工会与管理层达成工资协议，撤回罢工计划",
       "url": "https://www.koreatimes.co.kr/southkorea/20251212/seoul-metro-unions-strike-wage-deal-with-management-withdraw-strike-plan?utm_source=rss",
       "region": "South Korea",
-      "published": "Fri, 12 Dec 2025 01:17:03 GMT",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
       "summary": "Two out of three labor unions of Seoul Metro, the operator of subway lines 1-8, decided Friday to withdraw their plan to launch an all-out strike after reaching a last-minute wage deal with the Seoul subway operator, officials said. Unionized workers had planned to launch a strike starting with the first train of Friday, brewing concerns over disruptions to commuters, but they took back their plan as they struck the deal with Seoul Metro early in the morning, according to the officials. Under the wage deal, the management agreed to hire 820 new employees to fill vacancies created by retirements and to raise workers' wages by at least 3 percent in line with wage guidelines for public institutions. The remaining labor union is also expected to reach a wage deal with the metro operator."
     },
     {
@@ -1252,7 +1270,7 @@
       "title_zh": "返回昌华大引发防御司令部搬迁浪潮",
       "url": "https://www.koreatimes.co.kr/southkorea/defense/20251212/return-to-cheong-wa-dae-triggers-wave-of-defense-headquarters-relocations?utm_source=rss",
       "region": "South Korea",
-      "published": "Fri, 12 Dec 2025 01:17:03 GMT",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
       "summary": "The presidential office is moving ahead with its plan to return to Cheong Wa Dae by the end of this month, setting in motion a series of relocations involving the Ministry of National Defense and the Joint Chiefs of Staff (JCS). If the schedule holds, the two organizations are expected to move back into the buildings they occupied prior to the presidential office’s transfer to Yongsan in 2022. Military officials say this would restore the layout that existed three years and seven months ago, although the exact timetable has not yet been finalized. According to defense officials, the ministry is preparing to return to the 10-story building in Yongsan that currently houses the presidential office. This building served as the ministry’s headquarters from 2003 until the Yoon Suk Yeol administration relocated the presidential office there shortly after taking office. Since then, the ministry has been operating out of the adjacent JCS building and the two organizations have shared the facility for more than three years. Several ministry units and direct-reporting commands have also been d"
     },
     {
@@ -1261,7 +1279,7 @@
       "title_zh": "首尔地铁罢工于周五上午开始，谈判破裂",
       "url": "https://www.koreatimes.co.kr/southkorea/20251212/seoul-subway-strike-begins-friday-morning-as-talks-collapse?utm_source=rss",
       "region": "South Korea",
-      "published": "Fri, 12 Dec 2025 01:17:03 GMT",
+      "published": "Fri, 12 Dec 2025 03:47:03 GMT",
       "summary": "Seoul Metro workers on subway lines 1 through 8 will launch a full strike starting with Friday’s first trains, a move that may disrupt morning commutes across the capital after overnight talks between the main union and management collapsed. The Seoul Transit Corporation Labor Union, the main union that takes up more than 57 percent of all employees, announced around 3:30 a.m. that final talks with management had broken down. Labor and management held last-minute negotiations on wages and collective bargaining at the company’s headquarters in Seongdong District on Thursday afternoon, but the session recessed after about 40 minutes. The two sides continued working-level talks through the night, yet failed to narrow differences and were unable to resume the main negotiation, leading to the collapse of the talks. Separate negotiations between the company and the two smaller unions are still underway. As of July this year, the main union accounted for 57.4 percent of unionized workers, followed by the No. 2 union at 16.4 percent and the No. 3 union at 12.6 percent."
     },
     {
