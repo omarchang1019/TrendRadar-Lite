@@ -1,144 +1,100 @@
 {
-  "last_updated": "2026-04-25 11:23:10",
+  "last_updated": "2026-04-26 11:46:50",
   "items": [
     {
       "source": "Hacker News",
-      "title": "DeepSeek v4",
-      "title_zh": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/news/news260424",
-      "points": 1829,
-      "comments": 1428,
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "title_zh": "新的10 GbE USB适配器更酷、更小、更便宜",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "points": 553,
+      "comments": 327,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "title_zh": "我取消了Claude ：代币问题、质量下降和支持不佳",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "points": 799,
-      "comments": 482,
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "title_zh": "1-Bit Hokusai的《The Great Wave》（ 2023年）",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "points": 534,
+      "comments": 88,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "title_zh": "谷歌计划在Anthropic投资高达400亿美元（ $ 400亿）",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "points": 383,
-      "comments": 422,
+      "title": "The Free Universal Construction Kit",
+      "title_zh": "免费通用施工套件",
+      "url": "https://fffff.at/free-universal-construction-kit/",
+      "points": 286,
+      "comments": 56,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "title_zh": "通过过度思考、范围蔓延和结构差异来破坏项目",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "points": 369,
-      "comments": 93,
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "title_zh": "使用编码辅助工具来恢复您永远无法完成的项目",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "points": 212,
+      "comments": 121,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-      "title_zh": "如何反社会–非连贯和孤立的社交体验指南",
-      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "points": 317,
-      "comments": 297,
+      "title": "USB Cheat Sheet (2022)",
+      "title_zh": "USB备忘单（ 2022 ）",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "points": 191,
+      "comments": 47,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "SDL Now Supports DOS",
-      "title_zh": "SDL现在支持DOS",
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "points": 229,
-      "comments": 83,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "MacBook Neo and how the iPad should be",
-      "title_zh": "MacBook Neo以及iPad应该是什么样子",
-      "url": "https://craigmod.com/essays/ipad_neo/",
-      "points": 217,
-      "comments": 123,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "My audio interface has SSH enabled by default",
-      "title_zh": "我的音频界面默认启用了SSH",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "title": "What async promised and what it delivered",
+      "title_zh": "Async承诺了什么以及它提供了什么",
+      "url": "https://causality.blog/essays/what-async-promised/",
       "points": 175,
-      "comments": 48,
+      "comments": 198,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "The Classic American Diner",
-      "title_zh": "经典美式餐厅",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "points": 168,
-      "comments": 108,
+      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+      "title_zh": "马丁·戈尔韦（ Martin Galway ）的1980年代Commodore 64游戏的音乐源文件",
+      "url": "https://github.com/MartinGalway/C64_music",
+      "points": 166,
+      "comments": 24,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "title_zh": "将会有一个深度学习的科学理论",
-      "url": "https://arxiv.org/abs/2604.21691",
-      "points": 161,
-      "comments": 50,
+      "title": "Discret 11, the French TV encryption of the 80s",
+      "title_zh": "Discret 11 ， 80年代的法国电视加密",
+      "url": "https://fabiensanglard.net/discret11/",
+      "points": 152,
+      "comments": 27,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "I'm done making desktop applications (2009)",
-      "title_zh": "我做完了桌面应用程序（ 2009年）",
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "points": 146,
-      "comments": 176,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Email could have been X.400 times better",
-      "title_zh": "电子邮件本可以改善X.400倍",
-      "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-      "points": 134,
-      "comments": 135,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Work with the garage door up (2024)",
-      "title_zh": "将车库门打开（ 2024年）",
-      "url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
-      "points": 128,
+      "title": "GPT‑5.5 Bio Bug Bounty",
+      "title_zh": "GPT ‑ 5.5 Bio Bug赏金",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "points": 137,
       "comments": 98,
       "region": "Global",
       "published": null,
@@ -146,115 +102,240 @@
     },
     {
       "source": "Hacker News",
-      "title": "Iliad fragment found in Roman-era mummy",
-      "title_zh": "在罗马时代木乃伊中发现的伊利亚特碎片",
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "points": 126,
-      "comments": 35,
+      "title": "OpenAI Privacy Filter",
+      "title_zh": "OpenAI隐私过滤器",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "points": 134,
+      "comments": 21,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Google Flow Music",
-      "title_zh": "Google Flow音乐",
-      "url": "https://www.flowmusic.app/",
-      "points": 120,
-      "comments": 93,
+      "title": "A web-based RDP client built with Go WebAssembly and grdp",
+      "title_zh": "使用Go WebAssembly和grdp构建的基于Web的RDP客户端",
+      "url": "https://github.com/nakagami/grdpwasm",
+      "points": 117,
+      "comments": 45,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "title_zh": "为什么阿尔茨海默病的进展如此之小？",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "points": 115,
+      "comments": 56,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "title_zh": "配备ChatGPT的业余爱好者解决了Erdős问题",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "points": 114,
+      "comments": 61,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Desmond Morris has died",
+      "title_zh": "德斯蒙德·莫里斯去世",
+      "url": "https://www.bbc.com/news/articles/c51y797v200o",
+      "points": 112,
+      "comments": 20,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Simulacrum of Knowledge Work",
+      "title_zh": "知识工作的模拟",
+      "url": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "points": 109,
+      "comments": 41,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "TechCrunch",
-      "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-      "title_zh": "史蒂夫·鲍尔默（ Steve Ballmer ）抨击了他支持的创始人，他承认犯有欺诈罪： “我被骗了，觉得自己很愚蠢”",
-      "url": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "title_zh": "Anthropic为代理商创建了一个测试市场",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 23:32:11 +0000",
-      "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor."
+      "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
     },
     {
       "source": "TechCrunch",
-      "title": "Palantir is reportedly helping the IRS investigate financial crimes",
-      "title_zh": "据报道， Palantir正在帮助美国国税局调查金融犯罪",
-      "url": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "title_zh": "缅因州州长否决数据中心暂停",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 21:53:44 +0000",
-      "summary": "The IRS has used Palantir's software since at least 2018, The Intercept reports."
+      "published": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
     },
     {
       "source": "TechCrunch",
-      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-      "title_zh": "Cohere收购并合并德国初创公司，打造“跨大西洋人工智能强国”",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "title_zh": "OpenAI首席执行官向Tumbler Ridge社区道歉",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 21:35:30 +0000",
-      "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments."
+      "published": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
     },
     {
       "source": "TechCrunch",
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "title_zh": "两名大学生筹集了510万美元的预种子资金，用于在iMessage中构建人工智能社交网络",
-      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "title": "The climate tech IPO window could finally be cracking open",
+      "title_zh": "气候科技IPO窗口终于可以打开了",
+      "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 21:05:59 +0000",
-      "summary": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech."
+      "published": "Sat, 25 Apr 2026 16:33:00 +0000",
+      "summary": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?"
     },
     {
       "source": "TechCrunch",
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "title_zh": "Meta的损失是Thinking Machines的收益",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "title_zh": "Cohere为何与Aleph Alpha合并",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
-      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+      "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
     },
     {
       "source": "TechCrunch",
-      "title": "X-energy stock pops 27% on first day of trading following upsized IPO",
-      "title_zh": "X-energy股票在IPO规模扩大后的首日交易中上涨27%",
-      "url": "https://techcrunch.com/2026/04/24/x-energy-stock-pops-27-on-first-day-of-trading-following-upsized-ipo/",
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "title_zh": "为什么东京是2026年最重要的科技目的地",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 20:10:54 +0000",
-      "summary": "Investors flocked to nuclear power startup X-energy in its first day of public trading on the Nasdaq."
+      "published": "Sat, 25 Apr 2026 15:03:00 +0000",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally."
     },
     {
       "source": "TechCrunch",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "title_zh": "随着创作者寻求对人工智能生成媒体的更多控制， ComfyUI的估值达到5亿美元$",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "title": "Apps to distract you from the endless cycle of doomscrolling",
+      "title_zh": "应用程序可以分散您对无休止的末日滚动周期的注意力",
+      "url": "https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 19:49:35 +0000",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
+      "published": "Sat, 25 Apr 2026 15:00:07 +0000",
+      "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
     },
     {
       "source": "TechCrunch",
-      "title": "X launches stand-alone XChat app on iOS",
-      "title_zh": "X在iOS上推出独立的XChat应用程序",
-      "url": "https://techcrunch.com/2026/04/24/x-launches-xchat-app-ios-messaging-iphone/",
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "title_zh": "特纳斯领导下的苹果：这家科技巨头的硬件战略接下来会发生什么",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 19:46:58 +0000",
-      "summary": "X's new app promises private chats, disappearing messages, audio and video calls, and more."
+      "published": "Sat, 25 Apr 2026 15:00:00 +0000",
+      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
     },
     {
       "source": "TechCrunch",
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "title_zh": "谷歌将向Anthropic投资高达400亿美元的现金和计算",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "title": "India’s Snabbit seeks fresh funding at a $400M valuation, sources say",
+      "title_zh": "消息人士称，印度的Snabbit以4亿美元的估值寻求新的资金",
+      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 18:00:03 +0000",
-      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model."
+      "published": "Sat, 25 Apr 2026 14:57:26 +0000",
+      "summary": "Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest."
     },
     {
       "source": "TechCrunch",
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "title_zh": "在人工智能驱动的短缺中， Mac minis被eBay淹没",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+      "title_zh": "消息人士称， Lachy Groom将以2亿美元的估值支持印度初创公司Pronto",
+      "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 16:42:19 +0000",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
+      "published": "Sat, 25 Apr 2026 03:30:00 +0000",
+      "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks."
+    },
+    {
+      "source": "The Verge",
+      "title": "Trump fires the entire National Science Board",
+      "title_zh": "特朗普解雇了整个国家科学委员会",
+      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "region": "Global",
+      "published": "2026-04-25T15:20:15-04:00",
+      "summary": "Multiple sources are reporting that the Trump administration has dismissed the entire National Science Board (NSB). The NSB advises the president and Congress on the National Science Foundation (NSF), which has already been funding research at historically low levels and has seen significant delays in doling out that funding. The NSF has been fundamental in [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "An influx of used EVs could drive down prices",
+      "title_zh": "二手电动汽车的涌入可能会降低价格",
+      "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+      "region": "Global",
+      "published": "2026-04-25T14:25:23-04:00",
+      "summary": "Part of what has held back electric cars has been the cost. But an influx of used vehicles over the next three years could bring prices down dramatically. In 2025, just 123,000 leases on EVs expired. That is expected to more than double to 300,000 in 2026, and double again to 600,000 in 2027 and [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Researchers say we’re talking less than ever",
+      "title_zh": "研究人员说，我们比以往任何时候都少说话",
+      "url": "https://www.theverge.com/science/918753/researchers-talking-less",
+      "region": "Global",
+      "published": "2026-04-25T11:03:53-04:00",
+      "summary": "Researchers at the University of Missouri-Kansas City and the University of Arizona say that between 2005 and 2019, the number of words we speak out loud to another human being fell by nearly 28 percent. And that has likely only gotten worse following the pandemic. The researchers actually counted the number of words we were [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+      "title_zh": "使用免费USB-C电缆， Sharge的Qi2.2 MagSafe快速电池降至70 $",
+      "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+      "region": "Global",
+      "published": "2026-04-25T11:00:00-04:00",
+      "summary": "I’ve been testing compact, magnetic Qi2 power banks that can snap onto your phone for an upcoming buying guide. They make recharging much easier than bringing along a huge battery that weighs down your bag. One of my favorites so far is the Sharge Icemag 3, a 10,000mAh model that can wirelessly output 25W to [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "The Govee smart lamp brightened up my room, and then my life",
+      "title_zh": "Govee智能灯照亮了我的房间，然后我的生活",
+      "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+      "region": "Global",
+      "published": "2026-04-25T09:30:00-04:00",
+      "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two years to get rid of a pair of old, broken Ikea [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Xbox’s weirdest studio is on a roll",
+      "title_zh": "Xbox最奇怪的工作室正在兴起",
+      "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+      "region": "Global",
+      "published": "2026-04-25T09:00:00-04:00",
+      "summary": "For a while there, it seemed like Double Fine might be struggling under the Microsoft corporate umbrella. The game studio led by Tim Schafer is beloved for offbeat titles like Br&#252;tal Legend and Broken Age, but after being acquired by Microsoft in 2019, its only new release for years was a long-awaited sequel to Psychonauts. [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Sho Miyake answers life’s greatest questions",
+      "title_zh": "Sho Miyake回答了生活中最伟大的问题",
+      "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+      "region": "Global",
+      "published": "2026-04-25T08:00:00-04:00",
+      "summary": "Acclaimed Japanese director Sho Miyake has arrived in the States. He's brought with him two feature films: Small, Slow But Steady and Two Seasons, Two Strangers, a pair of naturalistic portraits that deal with the uneasy human desire to relate to other people. Seclusion and unease are bedrocks to Miyake's growing filmography. \"I like these [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "The most exciting laptop I’ve seen in forever",
+      "title_zh": "我见过的最令人兴奋的笔记本电脑",
+      "url": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+      "region": "Global",
+      "published": "2026-04-25T08:00:00-04:00",
+      "summary": "Hi, friends! Welcome to Installer No. 125, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, send me cereal recommendations, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about NASA seamstresses and friction and Muskism and scooters, highlighting [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "The US gets the worst phones",
+      "title_zh": "美国获得最差的手机",
+      "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+      "region": "Global",
+      "published": "2026-04-25T07:00:00-04:00",
+      "summary": "Apple and Samsung dominate the US phone market, and they've done so for years. Together with Google, they've shaped our sense of what a smartphone is and what it can do, pushing the boundaries of mobile photography, software, and processing power. But over the last few years, they've sat back, content to iterate rather than [&#8230;]"
     },
     {
       "source": "The Verge",
@@ -266,211 +347,166 @@
       "summary": "Windows users will no longer be forced to run automatic updates in the middle of a game or a busy day. Microsoft is rolling out some long-awaited changes to Windows Update to users on its Dev and Experimental Windows Insider channels, including the ability to indefinitely delay updates up to 35 days at a time. [&#8230;]"
     },
     {
-      "source": "The Verge",
-      "title": "Alex Jones has uncovered another massive conspiracy",
-      "title_zh": "亚历克斯·琼斯发现了另一个巨大的阴谋",
-      "url": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
+      "source": "Product Hunt",
+      "title": "Gemini Personal Intelligence",
+      "title_zh": "双子座个人智能",
+      "url": "https://www.producthunt.com/products/gemini-personal-intelligence",
       "region": "Global",
-      "published": "2026-04-24T16:10:00-04:00",
-      "summary": "Alex Jones may soon lose Infowars, the digital perch that he's used for decades to traffic in conspiracy theories, to The Onion, the satirical newspaper. But not before he's uncovered something truly dastardly: comedian Tim Heidecker's past (publicly available) work. \"The Onion newspaper has been rocked by the discovery that their new creative director, produced [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
-      "title_zh": "涉嫌泄露派拉蒙新头像电影的人已被逮捕",
-      "url": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
-      "region": "Global",
-      "published": "2026-04-24T15:45:01-04:00",
-      "summary": "Following Paramount Skydance's move to launch an investigation into how its upcoming Avatar Aang: The Last Airbender animated feature leaked onto the internet, a suspect has been taken into custody by police. The Straits Times reports Singaporean police have arrested a 26-year-old man who is alleged to have uploaded the new Avatar movie (previously titled [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "BMW is one step closer to selling you a color-changing car",
-      "title_zh": "宝马距离向您出售变色汽车又近了一步",
-      "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
-      "region": "Global",
-      "published": "2026-04-24T13:31:44-04:00",
-      "summary": "At CES 2022, BMW debuted its BMW iX Flow concept car that could dynamically change its appearance using the same grayscale E Ink panels found in e-readers like the Kindle. It was followed by the BMW i Vision Dee concept and the BMW i5 Flow Nostokana that were both upgraded with color E Ink panels. [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
-      "title_zh": "谷歌帅气的Pixel Watch 4在两种尺寸配置下均可享受$ 40折扣",
-      "url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
-      "region": "Global",
-      "published": "2026-04-24T13:25:49-04:00",
-      "summary": "Spring has sprung, as they say, and to mark the occasion, Google is running a spring-centric promo until Sunday, April 26th. The limited-time discounts apply to a number of Google’s first-party devices, from the Pixel 10 Pro to the Pixel Buds Pro 2, as well as the wearables like the Pixel Watch 4. In fact, [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "The RAM shortage could get even worse if Samsung labor protests cut production",
-      "title_zh": "如果三星劳工抗议活动削减产量，内存短缺可能会变得更糟",
-      "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
-      "region": "Global",
-      "published": "2026-04-24T13:11:33-04:00",
-      "summary": "The RAM shortage caused by demand from AI datacenters is already driving up prices on phones, PS5s, and Raspberry Pis, but it could be about to get even worse. Samsung is facing employee protests over demands for wages that are more competitive with rival chip manufacturer SK Hynix, including removing Samsung's cap on bonus pay, [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "How Project Maven taught the military to love AI",
-      "title_zh": "Project Maven如何教会军队热爱人工智能",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "region": "Global",
-      "published": "2026-04-24T13:00:00-04:00",
-      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Xreal’s best AR glasses are $599 for good now",
-      "title_zh": "Xreal最好的AR眼镜现在是599 $",
-      "url": "https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale",
-      "region": "Global",
-      "published": "2026-04-24T12:33:30-04:00",
-      "summary": "The Xreal One Pro are the company’s best AR glasses, touting thin optics that keep out reflections so you can enjoy a crisp, contrast-rich image of whatever content you’re watching. Xreal has permanently cut their price from $649 to $599, making them $150 more than its entry-level (but still good) 1S glasses that debuted shortly [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "360-degree cameras have a new superpower",
-      "title_zh": "360度摄像头拥有全新的超强性能",
-      "url": "https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity",
-      "region": "Global",
-      "published": "2026-04-24T11:30:00-04:00",
-      "summary": "Imagine Google Street View, except you can walk around like it's a video game. Now imagine you don't need to wait for Google to come film because it's completely DIY. Insta360, the leading maker of 360-degree cameras, is now partnered with a 12-person UK startup called Splatica to help creators do just that. Last January, [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Tesla’s Cybercab goes into production — so why is Musk tapping the brakes?",
-      "title_zh": "特斯拉的Cybercab投入生产—那么为什么马斯克要踩刹车？",
-      "url": "https://www.theverge.com/transportation/918106/tesla-cybercab-production-robotaxi-elon-musk-earnings",
-      "region": "Global",
-      "published": "2026-04-24T11:17:27-04:00",
-      "summary": "Tesla's Cybercab is now in production at the company's Gigafactory in Austin, Texas, but Elon Musk is sounding unusually cautious about the rollout. The robotaxi's start of production was announced Thursday on X, with Tesla posting a video shot from inside a steering wheel-less Cybercab as it drove out of the factory with the caption, [&#8230;]"
+      "published": "2026-04-16T09:33:11-07:00",
+      "summary": "<p>\n            Gemini answers with context from your Google apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gemini-personal-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1125494?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Haiker",
-      "title_zh": "海克",
-      "url": "https://www.producthunt.com/products/haiker",
+      "title": "MiMo-V2.5 Voice",
+      "title_zh": "MiMo-V2.5语音",
+      "url": "https://www.producthunt.com/products/mimo-v2-5-voice",
       "region": "Global",
-      "published": "2026-04-23T07:43:39-07:00",
-      "summary": "<p>\n            Hacker News App for non-native english speaker\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/haiker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130748?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-23T11:36:14-07:00",
+      "summary": "<p>\n            Bilingual ASR for dialects, code-switching, and songs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mimo-v2-5-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1130884?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Universal Gas Framework (UGF)",
-      "title_zh": "通用气体框架（ UGF ）",
-      "url": "https://www.producthunt.com/products/universal-gas-framework-ugf",
+      "title": "PromptPaste",
+      "title_zh": "PromptPaste",
+      "url": "https://www.producthunt.com/products/promptpaste",
       "region": "Global",
-      "published": "2026-04-23T06:09:27-07:00",
-      "summary": "<p>\n            Route Actions, Not Liquidity\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/universal-gas-framework-ugf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130694?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-18T04:14:13-07:00",
+      "summary": "<p>\n            Your private AI prompt library on Mac, iPhone, and iPad\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/promptpaste?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1126694?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "NotchNest AI",
-      "title_zh": "NotchNest AI",
-      "url": "https://www.producthunt.com/products/notchnest-quick-access-hub",
+      "title": "Grok Voice Think Fast 1.0",
+      "title_zh": "Grok Voice Think Fast 1.0",
+      "url": "https://www.producthunt.com/products/grok-voice-think-fast-1-0",
       "region": "Global",
-      "published": "2026-04-23T05:41:19-07:00",
-      "summary": "<p>\n            AI powered by Apple Intelligence now in your Notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchnest-quick-access-hub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130673?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-23T23:06:02-07:00",
+      "summary": "<p>\n            Our most capable voice agent is now available via API\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/grok-voice-think-fast-1-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1131239?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Onboarding0",
-      "title_zh": "Onboarding0",
-      "url": "https://www.producthunt.com/products/onboarding0",
+      "title": "Euphony",
+      "title_zh": "妙音",
+      "url": "https://www.producthunt.com/products/euphony-2",
       "region": "Global",
-      "published": "2026-04-23T01:07:22-07:00",
-      "summary": "<p>\n            Turn company knowledge into AI-guided onboarding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/onboarding0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130487?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-21T09:08:15-07:00",
+      "summary": "<p>\n            Render AI chat data and Codex logs into browsable views\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/euphony-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129097?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Google Workspace Intelligence",
-      "title_zh": "Google Workspace Intelligence",
-      "url": "https://www.producthunt.com/products/google",
+      "title": "Inrō AI",
+      "title_zh": "Inrō AI",
+      "url": "https://www.producthunt.com/products/inro",
       "region": "Global",
-      "published": "2026-04-22T12:42:56-07:00",
-      "summary": "<p>\n            AI that understands and powers your Workspace\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130159?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-21T11:52:34-07:00",
+      "summary": "<p>\n            Your AI Agent for Instagram Marketing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/inro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1129227?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "BAND",
-      "title_zh": "丝带",
-      "url": "https://www.producthunt.com/products/band",
+      "title": "Clawdi",
+      "title_zh": "Clawdi",
+      "url": "https://www.producthunt.com/products/clawdi",
       "region": "Global",
-      "published": "2026-04-14T12:31:47-07:00",
-      "summary": "<p>\n            Coordinate and govern multi-agent work in a single chat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/band?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1123814?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-21T06:18:41-07:00",
+      "summary": "<p>\n            Best home for all AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/clawdi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1128941?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Spira AI",
-      "title_zh": "Spira AI",
-      "url": "https://www.producthunt.com/products/spira-ai",
+      "title": "Architecto",
+      "title_zh": "Architecto",
+      "url": "https://www.producthunt.com/products/architecto",
       "region": "Global",
-      "published": "2026-04-23T01:15:57-07:00",
-      "summary": "<p>\n            AI Influencer that always on trend, create & grow your brand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130495?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-09T23:55:36-07:00",
+      "summary": "<p>\n            Design, review, and document cloud architecture with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/architecto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1120331?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Codex 3.0 by OpenAI",
-      "title_zh": "OpenAI Codex 3.0",
-      "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+      "title": "ZeroHuman.",
+      "title_zh": "ZeroHuman。",
+      "url": "https://www.producthunt.com/products/zerohuman",
       "region": "Global",
-      "published": "2026-04-23T11:48:21-07:00",
-      "summary": "<p>\n            Codex can now build, test & debug on autopilot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codex-3-0-by-openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1130897?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-03-10T08:25:06-07:00",
+      "summary": "<p>\n            Your AI Co-Founder: OpenClaw x Paperclip x Spud\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zerohuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1094523?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "DeepSeek-V4",
-      "title_zh": "DeepSeek-V4",
-      "url": "https://www.producthunt.com/products/deepseek",
+      "title": "XChat",
+      "title_zh": "XChat",
+      "url": "https://www.producthunt.com/products/chat-by-x",
       "region": "Global",
-      "published": "2026-04-23T20:52:03-07:00",
-      "summary": "<p>\n            The open-source era of 1M context intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1131158?app_id=339\">Link</a>\n          </p>"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Beezi AI",
-      "title_zh": "Beezi AI",
-      "url": "https://www.producthunt.com/products/beezi-ai",
-      "region": "Global",
-      "published": "2026-03-30T13:16:38-07:00",
-      "summary": "<p>\n            Make AI development structured, secure, and cost-efficient.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/beezi-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1111779?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-04-12T08:42:24-07:00",
+      "summary": "<p>\n            The standalone, encrypted messaging app from X\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chat-by-x?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1121968?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
-      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-      "title_zh": "特朗普特使维特科夫和库什纳飞往巴基斯坦参加伊朗会谈",
-      "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "title_zh": "特朗普取消美国特使前往巴基斯坦就伊朗战争进行谈判的行程",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 22:02:50 GMT",
-      "summary": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US."
+      "published": "Sat, 25 Apr 2026 21:34:12 GMT",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
     },
     {
       "source": "BBC World",
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "title_zh": "北约表示，在报道美国可能寻求暂停西班牙之后， “没有规定”驱逐成员",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+      "title_zh": "武装团体在马里各地发动协同袭击时发生爆炸和枪击事件",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 16:04:29 GMT",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war."
+      "published": "Sat, 25 Apr 2026 21:13:49 GMT",
+      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
     },
     {
       "source": "BBC World",
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "title_zh": "卡蒂亚·阿德勒：欧洲的北约盟友抵制美国对西班牙的威胁",
-      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "title_zh": "墨西哥表示，不允许在坠机事件中丧生的美国特工在那里作业",
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 25 Apr 2026 00:10:51 GMT",
-      "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor."
+      "published": "Sat, 25 Apr 2026 17:40:51 GMT",
+      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab."
     },
     {
       "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "title_zh": "在报告美国“审查”后，第10位说福克兰群岛的主权属于英国",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "title_zh": "约旦河西岸的巴勒斯坦人和加沙的一些人在地方选举中投票",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 24 Apr 2026 22:55:05 GMT",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war."
+      "published": "Sat, 25 Apr 2026 17:01:55 GMT",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
+    },
+    {
+      "source": "BBC World",
+      "title": "Rights groups critical as Venezuela prisoner release scheme 'coming to an end'",
+      "title_zh": "作为委内瑞拉囚犯释放计划“即将结束”的人权组织至关重要",
+      "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 25 Apr 2026 17:36:58 GMT",
+      "summary": "More than 500 political prisoners are thought to still be in jail, despite the releases since the amnesty law was brought in."
+    },
+    {
+      "source": "BBC World",
+      "title": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "title_zh": "奥尔班在山体滑坡失败后退出匈牙利议会",
+      "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 25 Apr 2026 19:22:31 GMT",
+      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition."
+    },
+    {
+      "source": "BBC World",
+      "title": "Thirty-one sloths die in Florida before opening of attraction",
+      "title_zh": "佛罗里达州31棵树懒在景点开放前死亡",
+      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 25 Apr 2026 04:02:47 GMT",
+      "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say."
+    },
+    {
+      "source": "BBC World",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "title_zh": "俄罗斯对乌克兰的重大袭击造成7人死亡",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 25 Apr 2026 12:29:37 GMT",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
     },
     {
       "source": "BBC World",
@@ -483,33 +519,6 @@
     },
     {
       "source": "BBC World",
-      "title": "Meeting with the King would 'demonstrate human dignity', says Epstein survivor",
-      "title_zh": "爱泼斯坦幸存者说，与国王会面将“展现人的尊严”",
-      "url": "https://www.bbc.com/news/videos/cwy37w2y64ro?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 24 Apr 2026 23:00:21 GMT",
-      "summary": "A Buckingham Palace source confirmed the Royals will not meet with survivors of sex offender Jeffrey Epstein during their state visit to the US."
-    },
-    {
-      "source": "BBC World",
-      "title": "China car giant BYD says it can thrive without US",
-      "title_zh": "中国汽车巨头比亚迪表示，没有我们，它可以蓬勃发展",
-      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 24 Apr 2026 21:25:16 GMT",
-      "summary": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels."
-    },
-    {
-      "source": "BBC World",
-      "title": "Dozens of sloths died before opening of Sloth World attraction in Florida",
-      "title_zh": "在佛罗里达州的树懒世界景点开放之前，数十只树懒死亡",
-      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Sat, 25 Apr 2026 01:42:58 GMT",
-      "summary": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say."
-    },
-    {
-      "source": "BBC World",
       "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
       "title_zh": "与NHS和国防合同的“反唤醒”技术老板的病毒式宣言",
       "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
@@ -518,481 +527,517 @@
       "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West."
     },
     {
-      "source": "BBC World",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "title_zh": "美国司法部放弃对美联储主席杰罗姆·鲍威尔的调查",
-      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 24 Apr 2026 19:10:25 GMT",
-      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building."
+      "source": "Folha de S.Paulo",
+      "title": "Futebol 2020 x Futebol 1980",
+      "title_zh": "2020年足球vs 1980年足球",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/04/futebol-2020-x-futebol-1980.shtml",
+      "region": "Brazil",
+      "published": "26 Apr 2026 00:04:00 -0300",
+      "summary": "Sou um saudosista.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/04/futebol-2020-x-futebol-1980.shtml\">Leia mais</a> (04/26/2026 - 00h04)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Passagem aérea doméstica sobe 17,8% em março e chega à média de R$ 707 no Brasil, diz Anac",
-      "title_zh": "ANAC表示， 3月份国内机票价格上涨17.8% ，巴西平均机票价格达到707雷亚尔",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/passagem-aerea-domestica-sobe-178-em-marco-e-chega-a-media-de-r-707-no-brasil-diz-anac.shtml",
+      "title": "Magnetismo de João Gomes conduz 'Dominguinho' em show de gala com Fagner no Allianz",
+      "title_zh": "João Gomes的魅力在安联与Fagner的晚会表演中引领“Dominguinho”",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/magnetismo-de-joao-gomes-conduz-dominguinho-em-show-de-gala-com-fagner-no-allianz.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:21:00 -0300",
-      "summary": "Passageiros pagaram, em média, R$ 707,16 por passagem aérea para voos domésticos no Brasil em março deste ano, 17,8% a mais do que em 2025, informou a Anac (Agência Nacional de <a href=\"https://www1.folha.uol.com.br/folha-topicos/aviacao/\">Aviação</a>) nesta sexta-feira (24). Em relação ao mês de fevereiro, que teve tarifa real média de R$ 617,78, aumento foi de 14,5%.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/passagem-aerea-domestica-sobe-178-em-marco-e-chega-a-media-de-r-707-no-brasil-diz-anac.shtml\">Leia mais</a> (04/24/2026 - 23h21)"
+      "published": "26 Apr 2026 00:01:00 -0300",
+      "summary": "Há pouco menos de um ano, <a href=\"https://www1.folha.uol.com.br/folha-topicos/joao-gomes/\">João Gomes</a>, Mestrinho e Jota.Pê fizeram o primeiro <a href=\"https://www1.folha.uol.com.br/folha-topicos/show/\">show</a> do projeto \"Dominguinho\", na Casa Natura, em São Paulo. Havia menos de mil pessoas no espaço, mas era surpreendente ver como a maioria já sabia cantar de cor as músicas do álbum, então recém-lançado.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/magnetismo-de-joao-gomes-conduz-dominguinho-em-show-de-gala-com-fagner-no-allianz.shtml\">Leia mais</a> (04/26/2026 - 00h01)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Morre Fabiano Thomas Vannucci, que foi ator mirim da Globo, aos 53 anos",
-      "title_zh": "法比亚诺·托马斯·瓦努奇（ Fabiano Thomas Vannucci ）是Globo的儿童演员，享年53岁",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/morre-fabiano-thomas-vannucci-que-foi-ator-mirim-da-globo-aos-53-anos.shtml",
+      "title": "Geração Z prioriza crescimento no trabalho, enquanto boomers focam equilíbrio, diz levantamento",
+      "title_zh": "调查显示， Z世代优先考虑工作中的增长，而婴儿潮一代则专注于平衡",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/geracao-z-prioriza-crescimento-no-trabalho-enquanto-boomers-focam-equilibrio-diz-levantamento.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:08:00 -0300",
-      "summary": "O diretor de cinema Fabiano Thomas Vannucci morreu aos 53 anos após sofrer um infarto no <a href=\"https://www1.folha.uol.com.br/cotidiano/riodejaneiro/\" rel=\"\" target=\"\">Rio de Janeiro</a>. A informação foi confirmada nesta quinta (23) pela ex-mulher, a atriz <a href=\"https://fotografia.folha.uol.com.br/galerias/nova/8794-izabella-bicalho-estreia-show-em-sp\" rel=\"\" target=\"\">Izabella Bicalho</a>, que comunicou a causa da morte nas redes sociais.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/04/morre-fabiano-thomas-vannucci-que-foi-ator-mirim-da-globo-aos-53-anos.shtml\">Leia mais</a> (04/24/2026 - 23h08)"
+      "published": "26 Apr 2026 00:01:00 -0300",
+      "summary": "Enquanto 86% dos profissionais da <a href=\"https://www1.folha.uol.com.br/folha-topicos/geracao-z/\">Geração Z</a> (nascidos entre 1997 e 2012) apontam crescimento e promoção como foco principal, o <a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2023/09/voce-tem-dificuldade-em-manter-equilibrio-entre-a-vida-e-o-trabalho-veja-dicas-do-que-fazer.shtml\" rel=\"\" target=\"\">equilíbrio entre vida pessoal e profissional</a> é o aspecto mais valorizado entre os<a href=\"https://www1.folha.uol.com.br/equilibrio/2026/03/um-terco-dos-homens-da-geracao-z-diz-que-esposas-devem-obedecer-maridos-aponta-estudo.shtml\" rel=\"\" target=\"\"> baby boomers</a> (nascidos entre 1946 e 1964), com 66%, segundo levantamento da Robert Half, uma consultoria global de soluções em talentos.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/geracao-z-prioriza-crescimento-no-trabalho-enquanto-boomers-focam-equilibrio-diz-levantamento.shtml\">Leia mais</a> (04/26/2026 - 00h01)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "No Brasil, reduzir a pobreza pouco afeta a desigualdade",
-      "title_zh": "在巴西，减少贫困对不平等几乎没有影响",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/04/no-brasil-reduzir-a-pobreza-pouco-afeta-a-desigualdade.shtml",
+      "title": "Projetos de trens e metrôs precisam de governança metropolitana, afirma executiva de associação",
+      "title_zh": "协会高管表示，火车和地铁项目需要大都市治理",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/04/projetos-de-trens-e-metros-precisam-de-governanca-metropolitana-afirma-executiva-de-associacao.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "O artigo terceiro da Constituição Federal estabelece como objetivos fundamentais erradicar a <a href=\"https://www1.folha.uol.com.br/folha-topicos/como-fugir-da-pobreza/\" rel=\"\" target=\"\">pobreza </a>e reduzir as desigualdades. Como esses dois objetivos estão na mesma frase, talvez o constituinte tenha imaginado que, reduzindo um, reduziríamos o outro.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/04/no-brasil-reduzir-a-pobreza-pouco-afeta-a-desigualdade.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:58:00 -0300",
+      "summary": "O transporte de passageiros <a href=\"https://www1.folha.uol.com.br/blogs/sobre-trilhos/\" rel=\"\" target=\"\">sobre trilhos</a> precisa ter uma governança metropolitana para que os projetos sejam implantados e se desenvolvam, sem dependerem do interesse de um ou outro governante.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/04/projetos-de-trens-e-metros-precisam-de-governanca-metropolitana-afirma-executiva-de-associacao.shtml\">Leia mais</a> (04/25/2026 - 23h58)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Defender Neymar na Copa é viver no passado",
-      "title_zh": "在世界杯上为内马尔辩护是活在过去",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/04/defender-neymar-na-copa-e-viver-no-passado.shtml",
+      "title": "Saudades das placas de carro com três letras e quatro números",
+      "title_zh": "缺少带有三个字母和四个数字的车牌",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/04/saudades-das-placas-de-carro-com-tres-letras-e-quatro-numeros.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "Nesta sexta-feira (24), Estêvão completou 19 anos de idade. Tomara que tenha sido um aniversário feliz e que ele tenha chances de ir à Copa. Até o momento em que esta coluna foi escrita, nem o <a href=\"https://www1.folha.uol.com.br/folha-topicos/chelsea/\">Chelsea</a> nem o jogador se posicionaram oficialmente sobre a extensão da lesão muscular que ele sofreu na partida contra o Manchester United, no sábado (18).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marina-izidro/2026/04/defender-neymar-na-copa-e-viver-no-passado.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "GBS-1844. Era a placa do meu primeiro carro. Letras de um lado, números do outro. Em cima, a cidade e a sigla do Estado. Tinha uma lógica. Uma geografia embutida, o carro já vinha com sotaque.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/04/saudades-das-placas-de-carro-com-tres-letras-e-quatro-numeros.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Livro de ex-vendedor de água que virou best-seller reforça ideia do 'empreendedor de si'",
-      "title_zh": "前水卖家的书变成了畅销书，强化了“自主创业”的理念",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/livro-de-ex-vendedor-de-agua-que-virou-best-seller-reforca-ideia-do-empreendedor-de-si.shtml",
+      "title": "Veja quem votou na lista da Folha dos melhores livros brasileiros de não ficção do século",
+      "title_zh": "看看谁为Folha的本世纪最佳巴西非小说类书籍榜单投票",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/04/veja-quem-votou-na-lista-da-folha-dos-melhores-livros-brasileiros-de-nao-ficcao-do-seculo.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "Em 2017, o mineiro Rick Chesther, recém-chegado ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro-estado/\">Rio de Janeiro</a> e desempregado, pediu R$ 10 emprestados, comprou um pacote de água mineral e foi vender na praia de Copacabana.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/livro-de-ex-vendedor-de-agua-que-virou-best-seller-reforca-ideia-do-empreendedor-de-si.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "O corpo de cem jurados da lista organizada pela <strong>Folha</strong> para escolher <a href=\"https://www1.folha.uol.com.br/ilustrissima/2026/04/conheca-os-melhores-livros-brasileiros-de-nao-ficcao-do-seculo-21-segundo-juri-convidado-pela-folha.shtml\" rel=\"\" target=\"\">os melhores livros brasileiros de não ficção do século 21</a> reúne uma gama de diferentes perfis e especialidades.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/04/veja-quem-votou-na-lista-da-folha-dos-melhores-livros-brasileiros-de-nao-ficcao-do-seculo.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Por que tem gente que não acredita na ciência?",
-      "title_zh": "为什么有些人不相信科学？",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/por-que-tem-gente-que-nao-acredita-na-ciencia.shtml",
+      "title": "Zema fez as pazes com a Inconfidência Mineira, mas já a viu com outros olhos",
+      "title_zh": "Zema与Inconfidência Mineira和解，但已经用不同的眼光看到了她",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/04/zema-fez-as-pazes-com-a-inconfidencia-mineira-mas-ja-a-viu-com-outros-olhos.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "A noite do último dia 10 parecia final de Copa do Mundo: milhares de pessoas assistindo à TV e torcendo. Só que, em vez de um gol, o que esse monte de gente mais queria ver eram os astronautas que haviam partido rumo à <a href=\"https://www1.folha.uol.com.br/folha-topicos/lua/\">Lua</a> dias antes voltando à Terra em segurança. Tudo deu certo, e o momento entrou para a história.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/por-que-tem-gente-que-nao-acredita-na-ciencia.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "O ex-governador de Minas Gerais <a href=\"https://www1.folha.uol.com.br/folha-topicos/romeu-zema/\">Romeu Zema</a> fez as pazes com a Inconfidência Mineira. Açoitando os \"intocáveis\" do Supremo Tribunal Federal, valeu-se do aniversário da execução de <a href=\"https://www1.folha.uol.com.br/folha-topicos/tiradentes/\">Tiradentes</a> e disparou: \"Brasília explora o Brasil como os portugueses fizeram. (...) A luta dos inconfidentes não acabou\".\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/04/zema-fez-as-pazes-com-a-inconfidencia-mineira-mas-ja-a-viu-com-outros-olhos.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "STF se vê na mira de candidatos, e reação de ministros gera nova divisão interna",
-      "title_zh": "STF处于候选人的十字路口，部长们的反应产生了新的内部分歧",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/stf-se-ve-na-mira-de-candidatos-e-reacao-de-ministros-gera-nova-divisao-interna.shtml",
+      "title": "Os 'filhos de Tchernóbil' que foram acolhidos para tratamento no Brasil",
+      "title_zh": "在巴西接受治疗的“切尔诺贝利儿童”",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/os-filhos-de-tchernobil-que-foram-acolhidos-para-tratamento-no-brasil.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "Há um consenso entre ministros do <a href=\"https://www1.folha.uol.com.br/folha-topicos/stf/\">STF</a> (Supremo Tribunal Federal) de que as críticas à atuação da corte entraram de vez na pauta dos pré-candidatos da direita em 2026, mas os magistrados se dividem sobre qual a melhor forma de atravessar a campanha eleitoral e evitar um agravamento dos desgastes.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/04/stf-se-ve-na-mira-de-candidatos-e-reacao-de-ministros-gera-nova-divisao-interna.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "\"Foi a experiência mais maravilhosa da minha vida, eu me emociono até hoje\", relata Tânia Regina Welgacz ao lembrar de Dasha, a menina ucraniana de 9 anos, que veio ao Brasil pelo <a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2026/04/tchernobil-a-historia-das-milhares-de-criancas-atingidas-pela-catastrofe-que-foram-tratadas-em-cuba.shtml\" rel=\"\" target=\"\">Programa Crianças de Tchernóbil</a> no final dos anos 1990 e que <a href=\"https://www1.folha.uol.com.br/mundo/2016/04/1764118-curitiba-relembra-criancas-vitimas-de-tchernobil-nos-30-anos-da-tragedia.shtml\" rel=\"\" target=\"\">ela abrigou em sua casa</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/04/os-filhos-de-tchernobil-que-foram-acolhidos-para-tratamento-no-brasil.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Distrito do desejo na zona leste, Tatuapé se expande com espigões, complexos de uso misto e noite agitada",
-      "title_zh": "东部的Desire区， Tatuapé以尖刺、混合用途建筑群和繁华的夜晚扩展",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/distrito-do-desejo-na-zona-leste-tatuape-se-expande-com-espigoes-complexos-de-uso-misto-e-noite-agitada.shtml",
+      "title": "O arquivo de Cyro Etchegoyen",
+      "title_zh": "Cyro Etchegoyen的档案",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/04/o-arquivo-de-cyro-etchegoyen.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "Capital informal da zona leste de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>, o Tatuapé é o que alguns incorporadores especializados na mais populosa das cinco grandes regiões da cidade chamam de lugar aspiracional. É a parte da região que moradores de áreas mais distantes, ainda mais a leste, gostariam de estar.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/distrito-do-desejo-na-zona-leste-tatuape-se-expande-com-espigoes-complexos-de-uso-misto-e-noite-agitada.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "Três repórteres do ICL Notícias (Juliana Dal Piva, Chico Otavio e Igor Mello) desvendaram um dos mistérios dos \"anos de chumbo\": a conexão do aparelho repressivo da ditadura com os serviços de informação da Inglaterra. Conheciam-se algumas pistas, mas a trinca expôs o monstro nos seus detalhes, na série de reportagens \"Bandidos de Farda\".\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eliogaspari/2026/04/o-arquivo-de-cyro-etchegoyen.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Exposição de 'Toy Story' e 'Shrek: O Musical' são destaques para as crianças em maio",
-      "title_zh": "“玩具总动员”和“史莱克：音乐剧”展览是5月份的儿童亮点",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/exposicao-de-toy-story-e-shrek-o-musical-sao-destaques-para-as-criancas-em-maio.shtml",
+      "title": "Casos de câncer de pâncreas crescem entre jovens, aponta estudo",
+      "title_zh": "胰腺癌病例在年轻人中生长，研究发现",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/04/casos-de-cancer-de-pancreas-crescem-entre-jovens-aponta-estudo.shtml",
       "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "O mês de maio já chegou e está bastante movimentado. Há a abertura de uma exposição em que será possível conhecer mais sobre como foi produzida a <a href=\"https://www1.folha.uol.com.br/folha-topicos/animacao/\">animação</a> \"Toy Story\", a estreia do musical de Shrek, a Gamescom Latam, e a 7ª edição do Rolimã Fest.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/exposicao-de-toy-story-e-shrek-o-musical-sao-destaques-para-as-criancas-em-maio.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
-    },
-    {
-      "source": "Folha de S.Paulo",
-      "title": "Missão inédita para a Lua e navio achado após 200 anos; veja notícias curiosas",
-      "title_zh": "200年后发现的史无前例的月球和飞船任务；查看奇怪的新闻",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/missao-inedita-para-a-lua-e-navio-achado-apos-200-anos-veja-noticias-curiosas.shtml",
-      "region": "Brazil",
-      "published": "24 Apr 2026 23:00:00 -0300",
-      "summary": "Você viu que retornamos a <a href=\"https://www1.folha.uol.com.br/folha-topicos/lua/\">Lua</a> após 50 anos? Ou que foi encontrado um navio que havia sido destruído há 200 anos na Dinamarca? Essas são algumas das notícias mais curiosas que aconteceram neste mês.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/04/missao-inedita-para-a-lua-e-navio-achado-apos-200-anos-veja-noticias-curiosas.shtml\">Leia mais</a> (04/24/2026 - 23h00)"
+      "published": "25 Apr 2026 23:00:00 -0300",
+      "summary": "O perfil de pacientes com<a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2026/01/crescem-casos-de-cancer-de-pancreas-antes-dos-50-anos-aumento-e-maior-entre-mulheres.shtml\" rel=\"\" target=\"\"> câncer de pâncreas</a> está mudando. Embora a maioria dos diagnósticos ocorra após os 55 anos, um estudo conduzido por pesquisadores do Brasil e do Canadá revela que a incidência e a mortalidade pela doença<a href=\"https://www1.folha.uol.com.br/equilibrioesaude/2025/12/por-que-cada-vez-mais-pessoas-abaixo-dos-50-anos-estao-desenvolvendo-cancer.shtml\" rel=\"\" target=\"\"> em pessoas de até 49 anos </a>devem aumentar nas próximas décadas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/04/casos-de-cancer-de-pancreas-crescem-entre-jovens-aponta-estudo.shtml\">Leia mais</a> (04/25/2026 - 23h00)"
     },
     {
       "source": "The Jakarta Post",
-      "title": "El Niño set to return as early as May, impacting global weather patterns",
-      "title_zh": "厄尔尼诺现象最早将于5月回归，影响全球天气模式",
-      "url": "https://www.thejakartapost.com/world/2026/04/25/el-nio-set-to-return-as-early-as-may-impacting-global-weather-patterns.html",
+      "title": "DeepSeek unveils new AI model tailored for Huawei chips",
+      "title_zh": "DeepSeek推出专为华为芯片量身定制的新型AI模型",
+      "url": "https://www.thejakartapost.com/business/2026/04/26/deepseek-unveils-new-ai-model-tailored-for-huawei-chips.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 10:10:10 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/10/03/2024_10_03_155515_1727929816._medium.jpg\" style=\"text-align: center;\" /></p><p>A clear shift has been observed in the Equatorial Pacific, with sea-surface temperatures rising rapidly, suggesting a high likelihood of El Niño conditions developing between May and July this year.</p>"
+      "published": "Sun, 26 Apr 2026 08:49:54 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/01/30/2025_01_30_159765_1738210519._medium.jpg\" style=\"text-align: center;\" /></p><p>The close collaboration with Huawei on the new model, the V4, contrasts with DeepSeek's past reliance on Nvidia's AI chips.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "US hopes for progress, but Iran says not direct talks",
-      "title_zh": "美国希望取得进展，但伊朗表示不会直接谈判",
-      "url": "https://www.thejakartapost.com/world/2026/04/25/us-hopes-for-progress-but-iran-says-not-direct-talks.html",
+      "title": "Trump evacuated from press dinner in Washington after shots reportedly fired",
+      "title_zh": "据报道，在枪击事件发生后，特朗普从华盛顿的新闻晚宴上撤离",
+      "url": "https://www.thejakartapost.com/world/2026/04/26/trump-evacuated-from-press-dinner-in-washington-after-shots-reportedly-fired.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 09:46:15 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175084_1777084883._medium.jpg\" style=\"text-align: center;\" /></p><p>While Trump expressed confidence at the prospect of a lasting peace in Lebanon, sealing a deal to end the wider Middle East war is a thornier proposition, even as urgency mounts to reopen the Strait of Hormuz, a vital conduit for the world's oil and liquefied natural gas (LNG).</p>"
+      "published": "Sun, 26 Apr 2026 08:38:48 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/26/2026_04_26_175100_1777167472._medium.jpg\" style=\"text-align: center;\" /></p><p>Trump administration officials appeared to have been evacuated first and uncertainty remained as to what exactly happened.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "KPK proposes two-term limit for political party leaders",
-      "title_zh": "KPK提出政党领袖两届任期限制",
-      "url": "https://www.thejakartapost.com/indonesia/2026/04/25/kpk-proposes-two-term-limit-for-political-party-leaders.html",
+      "title": "US-Iran peace hopes fade as Trump scraps talks",
+      "title_zh": "随着特朗普废除谈判，美伊和平希望逐渐消失",
+      "url": "https://www.thejakartapost.com/world/2026/04/26/us-iran-peace-hopes-fade-as-trump-scraps-talks.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 08:08:08 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/07/17/2025_07_17_164598_1752758600._medium.jpg\" style=\"text-align: center;\" /></p><p>Capping political party leaders’ term to two terms would encourage leadership renewal and reduce long-term dominance by individuals, according to the antigraft body, helping raise accountability within the organizations and reducing corruption risks.</p>"
+      "published": "Sun, 26 Apr 2026 08:08:13 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/26/2026_04_26_175099_1777165481._medium.jpg\" style=\"text-align: center;\" /></p><p>Trump says that he scrapped the envoys' visit because the talks involved too much travel and expense to consider an inadequate offer from the Iranians.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Jakartans demand stable electricity after repeated outages",
-      "title_zh": "在多次停电后，雅加达人需要稳定的电力",
-      "url": "https://www.thejakartapost.com/indonesia/2026/04/25/jakartans-demand-stable-electricity-after-repeated-outages.html",
+      "title": "Bali trash issues raise concerns after landfill closure",
+      "title_zh": "巴厘岛垃圾问题在垃圾填埋场关闭后引发担忧",
+      "url": "https://www.thejakartapost.com/indonesia/2026/04/26/bali-trash-issues-raise-concerns-after-landfill-closure.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 07:45:32 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2019/08/05/2019_08_05_77508_1564987567._medium.jpg\" style=\"text-align: center;\" /></p><p>Jakartans are demanding more reliable electricity after a blackout hit parts of the city for hours on Thursday, disrupting public transport services, critical university admission tests and other operations in the second outage this month.</p>"
+      "published": "Sun, 26 Apr 2026 07:07:39 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/20/2026_04_20_174922_1776702424._medium.jpg\" style=\"text-align: center;\" /></p><p>Residents are forced to burn and throw their garbage to rivers after the 32-hectare Suwung landfill limits garbage collection ahead of its Aug. 1 closure.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Analysis: BPJS Kesehatan under strain as claims outpace revenues",
-      "title_zh": "分析： BPJS Kesehatan因索赔超过收入而承受压力",
-      "url": "https://www.thejakartapost.com/opinion/2026/04/25/analysis-bpjs-kesehatan-under-strain-as-claims-outpace-revenues.html",
+      "title": "WHO approves first malaria treatment for infants",
+      "title_zh": "世卫组织批准首个针对婴儿的疟疾治疗",
+      "url": "https://www.thejakartapost.com/culture/2026/04/25/who-approves-first-malaria-treatment-for-infants.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 07:00:02 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/24/2026_04_24_175061_1777012089._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesian popular culture is gaining global traction, with Joko Anwar’s Ghost in the Cell (2026) set to screen in 86 countries and music artists like NIKI, Anggun, Rossa and Voice of Baceprot touring internationally. Yet these successes remain largely driven by individual efforts, leaving the country’s creative industries with a fragmented and under-institutionalized global presence, highlighting the need to position the sector as a strategic industry.</p>"
+      "published": "Sat, 25 Apr 2026 18:06:40 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175097_1777089671._medium.jpg\" style=\"text-align: center;\" /></p><p>Up to now, infants have been treated with formulations intended for older children, carrying a greater risk of dosage errors, side effects and toxicity.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Govt backtracks on EV taxation as adoption rises",
-      "title_zh": "随着采用率的上升，政府对电动汽车税收的回溯",
-      "url": "https://www.thejakartapost.com/business/2026/04/25/govt-backtracks-on-ev-taxation-as-adoption-rises.html",
+      "title": "Forecast for strong El Nino fans worries about global crops as Iran war bites",
+      "title_zh": "随着伊朗战争的爆发，强烈的厄尔尼诺现象粉丝对全球作物的担忧",
+      "url": "https://www.thejakartapost.com/business/2026/04/25/forecast-for-strong-el-nino-fans-worries-about-global-crops-as-iran-war-bites.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 06:53:02 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/03/31/2026_03_31_174199_1774893911._medium.jpg\" style=\"text-align: center;\" /></p><p>The latest ministerial regulation appears to be the final blow to the remaining support for the EV industry, which had been showing signs of taking off in Indonesia. </p>"
+      "published": "Sat, 25 Apr 2026 16:04:50 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/03/26/2026_03_26_174013_1774460918._medium.jpg\" style=\"text-align: center;\" /></p><p>\"The last time we saw similar signals was during the severe 2015 to 2016 El Nino,\" a meteorologist has said.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Batam immigration detains 29 Chinese over construction work",
-      "title_zh": "巴淡岛移民局因建筑工程拘留29名中国人",
-      "url": "https://www.thejakartapost.com/indonesia/2026/04/25/batam-immigration-detains-29-chinese-over-construction-work.html",
+      "title": "Palestinian local elections give some Gazans a chance to vote for the first time...",
+      "title_zh": "巴勒斯坦地方选举让一些加沙人首次有机会投票...",
+      "url": "https://www.thejakartapost.com/world/2026/04/25/palestinian-local-elections-give-some-gazans-a-chance-to-vote-for-the-first-time-in-years.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 06:34:28 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/24/2026_04_24_175060_1777003154._medium.jpg\" style=\"text-align: center;\" /></p><p>As the workers were conducting physical works incompatible with their stay permits, immigration authorities may have to deport them all.</p>"
+      "published": "Sat, 25 Apr 2026 15:03:52 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175096_1777089369._medium.jpg\" style=\"text-align: center;\" /></p><p>Most electoral lists are aligned with President Mahmoud Abbas's secular-nationalist Fatah party or running as independents, with no lists affiliated with Fatah's archrival Hamas.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Making sense of Indonesia",
-      "title_zh": "了解印度尼西亚",
-      "url": "https://www.thejakartapost.com/opinion/2026/04/25/making-sense-of-indonesia.html",
+      "title": "EU, US sign critical minerals plan to counter China reliance",
+      "title_zh": "欧盟，美国签署关键矿产计划，以应对中国的依赖",
+      "url": "https://www.thejakartapost.com/business/2026/04/25/eu-us-sign-critical-minerals-plan-to-counter-china-reliance.html",
       "region": "Indonesia",
-      "published": "Sat, 25 Apr 2026 05:55:03 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/01/10/2025_01_10_159169_1736517264._medium.jpg\" style=\"text-align: center;\" /></p><p>Standard practice around that period mostly revolved foreign correspondents parachuted from the major capitals of the West to report from the “exotic” East, who often wrote with an outlook which literary critic Edward Said deemed “orientalist”.</p>"
+      "published": "Sat, 25 Apr 2026 14:02:22 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175094_1777088572._medium.jpg\" style=\"text-align: center;\" /></p><p>An action plan said that the EU and US would explore setting minimum prices on critical minerals, effectively preventing China or other outside powers from flooding the market with inexpensive exports.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Calls grow for firmer Indonesian stance on Gaza",
-      "title_zh": "印尼对加沙采取更坚定立场的呼声日益高涨",
-      "url": "https://www.thejakartapost.com/world/2026/04/24/calls-grow-for-firmer-indonesian-stance-on-gaza.html",
+      "title": "US-Kuwaiti journalist leaves Kuwait after release from detention",
+      "title_zh": "美籍科威特记者获释后离开科威特",
+      "url": "https://www.thejakartapost.com/world/2026/04/25/us-kuwaiti-journalist-leaves-kuwait-after-release-from-detention.html",
       "region": "Indonesia",
-      "published": "Fri, 24 Apr 2026 21:59:29 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/24/2026_04_24_175069_1777042704._medium.jpg\" style=\"text-align: center;\" /></p><p>Activists cite inaction as global efforts mount in Brussels.</p>"
+      "published": "Sat, 25 Apr 2026 13:01:20 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175092_1777086988._medium.jpg\" style=\"text-align: center;\" /></p><p>Shihab-Eldin had not been seen in public since March 2, after being detained by Kuwaiti authorities during a crackdown by Gulf nations on people filming or posting footage from the conflict that started when the US and Israel attacked Iran at the end of February.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Investment growth cools as global turmoil hurts investor appetite",
-      "title_zh": "由于全球动荡损害了投资者的胃口，投资增长降温",
-      "url": "https://www.thejakartapost.com/business/2026/04/24/investment-growth-cools-as-global-turmoil-hurts-investor-appetite.html",
+      "title": "Google to invest up to $40 billion in AI rival Anthropic",
+      "title_zh": "谷歌将向人工智能竞争对手Anthropic投资高达400 $",
+      "url": "https://www.thejakartapost.com/business/2026/04/25/google-to-invest-up-to-40-billion-in-ai-rival-anthropic.html",
       "region": "Indonesia",
-      "published": "Fri, 24 Apr 2026 20:00:13 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/07/03/2025_07_03_164162_1751518281._medium.jpg\" style=\"text-align: center;\" /></p><p>Foreign direct investment (FDI) reached Rp 250 trillion in Q1 2026, rising 8.5 percent year-on-year, although it slightly declined compared with Rp 256 trillion in the previous quarter.</p>"
+      "published": "Sat, 25 Apr 2026 12:41:12 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/04/25/2026_04_25_175095_1777088997._medium.jpg\" style=\"text-align: center;\" /></p><p>The investment comes just days after e-commerce giant Amazon said itwill invest up to $25 billion in the artificial intelligence (AI) startup.</p>"
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Rajya Sabha numbers game: AAP exodus pushes NDA 17 seats past majority",
-      "title_zh": "Rajya Sabha数字游戏： AAP EXODUS推动NDA 17个席位超过多数席位",
-      "url": "https://timesofindia.indiatimes.com/india/big-blow-to-aap-as-chadha-6-more-rajya-sabha-mps-quit-join-bjp/articleshow/130504022.cms",
+      "title": "Watch: Donald Trump ducks for cover as security rushes to evacuate him",
+      "title_zh": "观看：唐纳德特朗普躲藏起来，因为安全人员急于疏散他",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-donald-trump-ducks-for-cover-as-security-rushes-to-evacuate-him-after-shots-heard-at-white-house-press-dinner/articleshow/130525263.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 04:04:51 +0530",
-      "summary": ""
+      "published": "Sun, 26 Apr 2026 07:51:23 +0530",
+      "summary": "Panic erupted at the White House Correspondents' Dinner as gunshots were heard, forcing President Trump and Vice President Vance to be swiftly evacuated. Secret Service agents secured the venue, apprehending a suspect. Despite the scare, Trump praised security and declared \"the show must go on.\" The incident caused widespread confusion and a massive security response."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "EC suspends five cops for alleged misconduct during Bengal assembly elections",
-      "title_zh": "欧盟委员会暂停五名警察在孟加拉议会选举期间涉嫌不当行为",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/ec-suspends-five-diamond-harbour-cops/articleshow/130503786.cms",
+      "title": "Engine fire on SWISS Delhi-Zurich flight during take off roll; aircraft evacuated on runway",
+      "title_zh": "起飞过程中瑞士德里-苏黎世航班引擎起火；飞机在跑道上撤离",
+      "url": "https://timesofindia.indiatimes.com/india/engine-fire-on-swiss-delhi-zurich-flight-during-take-off-roll-aircraft-evacuated-on-runway/articleshow/130525692.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 06:52:00 +0530",
-      "summary": "Five police officers in Diamond Harbour have been suspended by the Election Commission for alleged misconduct and failing to remain neutral during the Bengal assembly elections. The commission has also warned the Superintendent of Police for not ensuring discipline among her team."
+      "published": "Sun, 26 Apr 2026 08:36:06 +0530",
+      "summary": "Six passengers were hospitalized after a SWISS flight from Delhi to Zurich was evacuated on the runway due to an engine fire during takeoff. The Airbus A330's engine number one failed at 104 knots, prompting the crew to abort the takeoff and evacuate all 232 passengers and crew using emergency slides."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "How Shreyas’s form fueling his rise in India’s T20I leadership scheme",
-      "title_zh": "Shreyas的形式如何推动他在印度T20I领导力计划中的崛起",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/how-shreyas-iyers-red-hot-form-is-fueling-his-rise-in-indias-t20i-leadership-scheme/articleshow/130507078.cms",
+      "title": "Preity Zinta punches Arya, batter’s reaction goes viral – Watch",
+      "title_zh": "Preity Zinta拳击Arya ，面糊的反应病毒式传播–观看",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-preity-zinta-playfully-punches-priyansh-arya-batters-reaction-goes-viral-watch/articleshow/130525424.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 08:25:52 +0530",
-      "summary": "In the past few years, since embracing the demands of captaincy, Iyer has not only shown how able a leader he can be, but also as a batter who has dominated seasons while balancing the dual roles of anchor and aggressor."
+      "published": "Sun, 26 Apr 2026 08:05:57 +0530",
+      "summary": "Punjab Kings pulled off a record chase against Delhi Capitals, but a playful moment stole the show as Preity Zinta jokingly punched Priyansh Arya, whose reaction went viral. Ravi Shastri quipped, “Oh, that was a good punch.” Earlier, KL Rahul’s 152 powered DC to 264/2, but Punjab responded strongly, with Prabhsimran, Arya, and Shreyas Iyer leading a stunning chase to stay unbeaten."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Gujarat woman critical after shooting at US store; husband held for ‘accidental’ firing",
-      "title_zh": "古吉拉特邦女子在美国商店开枪后受到批评；丈夫因“意外”开枪而被拘留",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/accidental-firing-leaves-gujarati-woman-fighting-for-life-in-us-hubby-held/articleshow/130503076.cms",
+      "title": "‘Taken offsite’: Who was the shooter at Trump’s White House dinner? First image emerges",
+      "title_zh": "“被带离现场” ：特朗普白宫晚宴上的枪手是谁？第一张照片出现",
+      "url": "https://timesofindia.indiatimes.com/world/us/taken-offsite-who-was-the-shooter-at-trumps-wh-dinner-what-we-know-so-far/articleshow/130525212.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 04:22:00 +0530",
-      "summary": "A Gujarat woman's life in Louisiana was shattered by a gunshot during a store negotiation, leaving her critically injured with severe jaw damage. Her husband faces weapon charges as doctors deem her recovery complex, requiring multiple surgeries. A crowdfunding effort is underway to support her extensive medical bills and her dream of a better future."
+      "published": "Sun, 26 Apr 2026 07:03:12 +0530",
+      "summary": "President Donald Trump was evacuated from the White House Correspondents' Dinner after shots were fired, with the suspect apprehended by the Secret Service. An individual reportedly attempted to enter with a gun but was stopped before reaching the ballroom. Trump praised law enforcement and urged the event to continue."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "What is voluntary retirement programme that Microsoft is offering its 8500-plus employees",
-      "title_zh": "微软为其8500多名员工提供的自愿退休计划是什么",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/explained-what-is-the-voluntary-retirement-programme-that-microsoft-is-offering-to-its-8500-plus-employees/articleshow/130506853.cms",
+      "title": "Blue Origin’s rockets whose photos Bezos shared &amp; Musk congratulated 'failed' minutes later",
+      "title_zh": "Blue Origin的火箭，贝索斯分享的照片和马斯克在几分钟后祝贺“失败”",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/blue-origins-new-glenn-rockets-whose-photos-jeff-bezos-shared-and-elon-musk-congratulated-failed-to-deliver-its-mission-minutes-later/articleshow/130522690.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 07:54:21 +0530",
-      "summary": "Microsoft is offering voluntary retirement to approximately 7% of its US workforce, marking its first such program in 51 years. This softer approach, unlike previous layoffs, aims to manage costs and reputation amid stock price pressure and AI infrastructure spending. The offer, based on an age and tenure formula, provides a choice for eligible employees."
+      "published": "Sun, 26 Apr 2026 01:20:20 +0530",
+      "summary": "Blue Origin's New Glenn rocket achieved a successful booster landing but failed to deliver its satellite payload to the correct orbit. This marks the program's first major mission failure. The FAA has grounded the rocket pending an investigation into the upper stage engine issue, impacting future flights."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Virat Kohli isn't a natural six-hitter but ... ': Kaif after RCB's win over GT",
-      "title_zh": "“Virat Kohli不是一个天生的六分球手，但......” ： RCB战胜GT后的Kaif",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-virat-kohli-isnt-a-natural-six-hitter-but-mohammad-kaif-after-rcbs-win-over-gt/articleshow/130506691.cms",
+      "title": "IPL: Will MS Dhoni play today against Gujarat Titans in Chepauk?",
+      "title_zh": "IPL ： Dhoni女士今天会在Chepauk对阵Gujarat Titans吗？",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-will-ms-dhoni-play-today-against-gujarat-titans-in-chepauk/articleshow/130525688.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 07:30:57 +0530",
-      "summary": "Mohammad Kaif praised Virat Kohli for crossing 300 IPL sixes, saying, \"Kohli isn't a natural six-hitter but he worked on his game…\" highlighting his adaptability. Kohli (81) and Devdutt Padikkal (55) then led RCB’s chase of 206. Kohli said, \"His innings was the difference…\" as their partnership sealed victory over GT."
+      "published": "Sun, 26 Apr 2026 08:29:16 +0530",
+      "summary": "Chennai Super Kings, buoyed by a massive win, face Gujarat Titans with MS Dhoni's return still a mystery. Despite being match-fit, Dhoni is reportedly delaying his comeback to maintain CSK's winning combination. Head coach Stephen Fleming confirmed his progress, while the team looks to leverage home advantage at Chepauk."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "US sanctions China's 'teapot' refinery &amp; 40 shipping companies over Iran oil trade",
-      "title_zh": "美国就伊朗石油贸易制裁中国“茶壶”炼油厂和40家航运公司",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/economic-fury-us-sanctions-chinas-teapot-refinery-40-shipping-companies-tightens-pressure-on-iran-oil-trade/articleshow/130506810.cms",
+      "title": "'Quite an evening': Trump wanted 'the show to go on' after shooting at White House Correspondents' Dinner",
+      "title_zh": "“相当一个晚上” ：特朗普在白宫记者晚宴上拍摄后希望“节目继续”",
+      "url": "https://timesofindia.indiatimes.com/world/us/quite-an-evening-trump-wanted-the-show-to-go-on-after-shooting-at-white-house-correspondents-dinner/articleshow/130525268.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 08:00:02 +0530",
-      "summary": "The US has tightened its grip on Iran's oil revenue by sanctioning a major Chinese refinery and numerous shipping entities involved in transporting Iranian crude. This move targets a \"shadow network\" and escalates pressure amid regional tensions. China has criticized the sanctions, urging an end to their political use and warning of harm to legitimate trade."
+      "published": "Sun, 26 Apr 2026 07:14:34 +0530",
+      "summary": "Shots were fired near the White House Correspondents' Dinner venue, prompting President Trump's temporary evacuation as a security precaution. The shooter was apprehended by law enforcement, who acted swiftly and bravely. Trump confirmed the incident and indicated plans to reschedule the event, emphasizing the safety of all attendees."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'No meeting planned': Iran rules out direct talks with US",
-      "title_zh": "“无会议计划” ：伊朗排除与美国直接会谈的可能性",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/no-meeting-is-planned-iran-rules-out-direct-talks-with-us-in-islamabad-asserts-engagement-through-pakistan/articleshow/130506161.cms",
+      "title": "‘Dhurandhar 2’ mints Rs 2.95 cr amid ‘Michael' and ‘Bhooth Bangla’ buzz",
+      "title_zh": "在“Michael”和“Bhooth Bangla”嗡嗡声中， “Dhurandhar 2”薄荷糖2.95卢比",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-38-ranveer-singh-sanjay-dutt-rakesh-beids-film-mints-rs-2-95-cr-amid-michael-bhooth-bangla-buzz/articleshow/130525173.cms",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 04:37:35 +0530",
-      "summary": ""
+      "published": "Sun, 26 Apr 2026 06:53:21 +0530",
+      "summary": "Ranveer Singh's 'Dhurandhar 2' continues its strong box office run, nearing Rs 1,130 crore in India and Rs 1,780 crore worldwide after 38 days. Despite competition, the film saw significant growth on its 6th Saturday, earning Rs 2.95 crore domestically.  Meanwhile, 'Bhooth Bangla' and 'Michael' also performed on Saturday."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "KPMG to lay off 10% of US audit team after failed retirement efforts",
-      "title_zh": "毕马威将在退休努力失败后解雇10%的美国审计团队",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-years-of-failed-attempts-to-get-staff-to-retire-early-kpmg-announces-to-cut-10-of-its-audit-partners-in-america/articleshow/130485096.cms",
+      "title": "'Dear cricket, give me one more chance': Karun Nair's old post resurfaces",
+      "title_zh": "“亲爱的蟋蟀，再给我一次机会” ：卡伦·奈尔的旧帖子重新浮出水面",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-dear-cricket-give-me-one-more-chance-karun-nairs-old-post-resurfaces-after-dc-horror-show/articleshow/130525274.cms",
       "region": "India",
-      "published": "Fri, 24 Apr 2026 11:28:41 +0530",
-      "summary": "KPMG is set to cut approximately 10% of its US audit partners after voluntary retirement schemes failed to yield desired results. The accounting giant, one of the Big Four, cited a need to align its partnership size with current business demands."
+      "published": "Sun, 26 Apr 2026 07:32:58 +0530",
+      "summary": "Karun Nair endured a tough night as Delhi Capitals lost to Punjab Kings, who chased a record 265. Nair dropped Shreyas Iyer twice, allowing him to score 71 and seal the win. The moment went viral, with fans resurfacing Nair’s old “Dear cricket” post. Visibly shaken, the 34-year-old’s struggles highlighted both the cost of missed chances and his ongoing journey of resilience."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Mumbai wedding horror: Man dies chasing men who made ‘gestures’ at woman; 10 injured",
-      "title_zh": "孟买婚礼恐怖片：男子在追逐对女子做出“手势”的男子时死亡； 10人受伤",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-wedding-attendee-falls-into-septic-tank-in-under-construction-sra-building-nearby-dies/articleshow/130500546.cms",
+      "title": "Starting January 1, Deloitte cuts parental leave, PTO, pension, IVF funding in US",
+      "title_zh": "从1月1日起，德勤削减美国的育儿假、带薪休假、养老金和试管婴儿资金",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/starting-january-1-deloitte-is-cutting-parental-leave-annual-pto-pension-plan-and-ivf-funding-for-some-employees-in-the-us-company-says-that-it-is-tailoring-benefits-to-better-align-/articleshow/130500258.cms",
       "region": "India",
-      "published": "Fri, 24 Apr 2026 23:01:00 +0530",
-      "summary": "A wedding guest died after falling into a 30-foot septic tank pit in an under-construction building in Bhandup West. The incident occurred when the deceased chased men who allegedly made gestures at a woman. Ten others were injured when a temporary platform they used to rescue the first victim gave way."
+      "published": "Sat, 25 Apr 2026 07:49:09 +0530",
+      "summary": "Deloitte plans to reduce paid family leave from 16 to eight weeks and cut annual paid time off by 5-10 days for a segment of its US workforce starting January 1, 2027. These changes, affecting internal roles under the 'Center' talent model, aim to tailor benefits to market alignment. New pension plan contributions and adoption/surrogacy reimbursements will also cease."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "2 UP Teens Were Filmed While Bathing In Yamuna. They Consume Poison",
-      "title_zh": "2 UP青少年在亚穆纳洗澡时被拍摄。他们消耗毒药",
-      "url": "https://www.ndtv.com/india-news/2-uttar-pradesh-teen-girls-were-filmed-while-bathing-in-yamuna-they-consume-poison-11406352#publisher=newsstand",
+      "title": "Trump Evacuated As Shots Fired At White House Dinner, Shooter Arrested",
+      "title_zh": "特朗普在白宫晚宴上开枪时撤离，枪手被捕",
+      "url": "https://www.ndtv.com/world-news/shots-heard-during-press-dinner-at-white-house-trump-evacuated-11409870#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 07:35:56 +0530",
-      "summary": "Three police teams have been deployed to investigate the matter"
+      "published": "Sun, 26 Apr 2026 08:29:53 +0530",
+      "summary": "Several people in the crowd said they heard what sounded like five to eight gunshots."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Arvind Kejriwal Wanted To Pacify AAP MPs, They Quit Before Meeting Him: Sources",
-      "title_zh": "Arvind Kejriwal想要安抚AAP议员，他们在见到他之前辞职：消息来源",
-      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-called-mps-at-his-house-but-didnt-know-what-was-coming-sources-11405115#publisher=newsstand",
+      "title": "White House Press Dinner Shooter \"Very Sick\", Was \"Heavily Armed\": Trump",
+      "title_zh": "白宫新闻晚宴射手“病得很重” ， “全副武装” ：特朗普",
+      "url": "https://www.ndtv.com/world-news/trump-says-white-house-press-dinner-shooter-was-armed-with-multiple-weapons-11410038#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 07:22:02 +0530",
-      "summary": "Arvind Kejriwal called a meeting with the MPs but it never happened"
+      "published": "Sun, 26 Apr 2026 08:29:37 +0530",
+      "summary": "US President Donald Trump addresses the press following the attack"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "H-1B Visas To Be Paused For 3 Years? Trump's Aides Introduce New Bill",
-      "title_zh": "H-1B签证暂停3年？特朗普的助手推出新法案",
-      "url": "https://www.ndtv.com/world-news/h-1b-visas-to-be-paused-for-3-years-president-donald-trumps-aides-introduce-new-bill-end-h-1b-visa-abuse-act-of-2026-11406305#publisher=newsstand",
+      "title": "\"Let The Show Go On\": Trump After Shooting During White House Press Dinner",
+      "title_zh": "“让表演继续” ：特朗普在白宫新闻发布会期间拍摄后",
+      "url": "https://www.ndtv.com/world-news/quite-an-evening-trump-after-shots-fired-during-press-dinner-at-white-house-11409900#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 07:21:33 +0530",
-      "summary": "The legislation has drawn support from several Republican lawmakers"
+      "published": "Sun, 26 Apr 2026 08:29:23 +0530",
+      "summary": "Trump also praised law enforcement and said the shooter had been apprehended after a shooting threat"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "20 Years On, No One On Trial For Malegaon Blasts That Killed 31",
-      "title_zh": "20年过去了，没有人因杀死31人的Malegaon爆炸案而受审",
-      "url": "https://www.ndtv.com/india-news/20-years-on-no-one-on-trial-for-malegaon-blasts-that-killed-31-11405574#publisher=newsstand",
+      "title": "Pinned On Ground: Trump Releases Photo Of White House Press Dinner Shooter",
+      "title_zh": "固定在地面上：特朗普发布白宫新闻晚宴射手的照片",
+      "url": "https://www.ndtv.com/world-news/president-donald-trump-evacuation-pinned-on-ground-trump-releases-photo-of-white-house-press-dinner-shooter-cole-tomas-allen-trump-dinner-11410063#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 06:38:49 +0530",
-      "summary": "On September 8, 2006, four improvised explosive devices (IEDs) detonated in the textile town of Malegaon."
+      "published": "Sun, 26 Apr 2026 08:26:26 +0530",
+      "summary": "The Secret Service confirmed that one suspect was in custody"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Raghav Chadha's BJP Shocker For Arvind Kejriwal. 6 Other MPs To Switch Too",
-      "title_zh": "Raghav Chadha为Arvind Kejriwal打造的BJP Shocker。6名其他议员也要转换",
-      "url": "https://www.ndtv.com/india-news/raghav-chadha-to-join-bjp-says-two-thirds-of-aap-members-in-rajya-sabha-are-merging-with-the-ruling-party-11403285#publisher=newsstand",
+      "title": "Trump Event Shooting Live Updates: Trump Says Press Dinner Shooter Was \"Probably Alone\"",
+      "title_zh": "特朗普活动拍摄现场更新：特朗普称记者晚宴射手“可能独自一人”",
+      "url": "https://www.ndtv.com/world-news/donald-trump-shooting-live-updates-us-president-jd-vance-melania-trump-rushed-from-white-house-correspondents-dinner-after-gunshots-heard-11409917#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:44:04 +0530",
-      "summary": "Raghav Chadha to join BJP, says two-thirds of AAP members in Rajya Sabha are merging with the ruling party"
+      "published": "Sun, 26 Apr 2026 08:12:40 +0530",
+      "summary": "Trump event shooting live updates: Donald Trump was evacuated after gunshots were heard at his event"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Highlights: Raghav Chadha Joins BJP In Presence Of Chief Nitin Nabin",
-      "title_zh": "亮点： Raghav Chadha在Nitin Nabin酋长面前加入BJP",
-      "url": "https://www.ndtv.com/india-news/raghav-chadha-bjp-aap-rajya-sabha-ashok-mittal-sanjay-pathak-live-updates-raghav-chadha-to-join-bjp-11403352#publisher=newsstand",
+      "title": "Donald Trump, JD Vance Unhurt After Shots Fired During White House Event: What We Know So Far",
+      "title_zh": "唐纳德特朗普， JD万斯在白宫活动期间开枪后未受伤：到目前为止我们所知道的",
+      "url": "https://www.ndtv.com/world-news/trump-jd-vance-unhurt-after-shots-fired-during-press-dinner-at-white-house-11409888#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:15:33 +0530",
-      "summary": "Raghav Chadha To Join BJP Highlights: Chadha was with AAP since 2012."
+      "published": "Sun, 26 Apr 2026 07:59:08 +0530",
+      "summary": "Trump, JD Vance Unhurt After Shots Fired During Press Dinner At White House"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Woman's Naked Body Found Floating In Ghaziabad Canal",
-      "title_zh": "在加济阿巴德运河发现女子裸体漂浮",
-      "url": "https://www.ndtv.com/india-news/womans-naked-body-found-floating-in-ghaziabad-canal-11405368#publisher=newsstand",
+      "title": "Video: Trump Ducks For Cover, Then Evacuated As Shots Heard At Press Dinner",
+      "title_zh": "视频：特朗普躲避掩护，然后在记者晚宴上听到枪声后撤离",
+      "url": "https://www.ndtv.com/world-news/trump-white-house-correspondents-dinner-video-trump-ducks-for-cover-then-evacuated-as-shots-heard-11409901#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:14:08 +0530",
-      "summary": "The matter is being investigated, and police are collecting data on missing persons reports."
+      "published": "Sun, 26 Apr 2026 07:53:53 +0530",
+      "summary": "Trump attended the White House correspondents' dinner on Saturday night."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "YSRCP MLC Arrested For 'Witness Tampering' In 2022 Driver Murder Case",
-      "title_zh": "YSRCP MLC因2022年“证人篡改”司机谋杀案被捕",
-      "url": "https://www.ndtv.com/india-news/ysrcp-mlc-arrested-for-witness-tampering-in-2022-driver-murder-case-11405367#publisher=newsstand",
+      "title": "All Not Well In Uddhav Sena? MPs' 'Courtesy' Meetings Spark Exodus Buzz",
+      "title_zh": "Uddhav Sena的一切都不顺利？ MPS “礼貌”会议引发Exodus Buzz",
+      "url": "https://www.ndtv.com/india-news/all-not-well-in-uddhav-sena-mps-courtesy-meetings-spark-exodus-buzz-11409388#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:07:34 +0530",
-      "summary": "The arrest was made when the MLC arrived at the court premises for a hearing."
+      "published": "Sun, 26 Apr 2026 00:46:20 +0530",
+      "summary": "A section of MPs is believed to be exploring other political options."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "'Not An Inch Lost To China During Ladakh Standoff': Ex-Army Chief MM Naravane",
-      "title_zh": "“在拉达克对峙期间没有一英寸输给中国” ：前陆军参谋长MM Naravane",
-      "url": "https://www.ndtv.com/india-news/ex-army-chief-mm-naravane-not-an-inch-lost-to-china-during-ladakh-standoff-11405939#publisher=newsstand",
+      "title": "Gunmen Attack Several Locations Across Mali's Capital",
+      "title_zh": "枪手袭击马里首都多个地点",
+      "url": "https://www.ndtv.com/world-news/gunmen-attack-several-locations-across-malis-capital-11409484#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:04:45 +0530",
-      "summary": "Political leadership doesn't interfere directly in military affairs, he said."
+      "published": "Sun, 26 Apr 2026 00:31:31 +0530",
+      "summary": "Residents in other cities in central and northern Mali reported gunfire and blasts."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Gurugram Man Invites Fiancee, Takes 'Sex-Enhancing' Drugs, Dies Of Overdose",
-      "title_zh": "古鲁格拉姆男子邀请未婚妻，服用“性增强”药物，因服药过量而死亡",
-      "url": "https://www.ndtv.com/india-news/gurugram-man-invites-fiancee-takes-sex-enhancing-drugs-dies-of-overdose-11405886#publisher=newsstand",
+      "title": "China Hints Its 4th Aircraft Carrier Will Be Nuclear-Powered",
+      "title_zh": "中国暗示其第四艘航空母舰将采用核动力",
+      "url": "https://www.ndtv.com/world-news/china-hints-its-4th-aircraft-carrier-will-be-nuclear-powered-11409483#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 25 Apr 2026 01:02:12 +0530",
-      "summary": "Police handed over the body to the family after a postmortem."
+      "published": "Sun, 26 Apr 2026 00:30:56 +0530",
+      "summary": "China was the last among the major countries to opt for aircraft carriers."
     },
     {
       "source": "NHK News",
-      "title": "【中継】岩手 大槌町 山林火災 住宅近く迫る 1000人規模で消火",
-      "title_zh": "【接力】岩手大土町森林消防站1000人灭火",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015107961000.html",
+      "title": "トランプ氏出席の夕食会で発砲か「発砲者は確保」とSNSに投稿",
+      "title_zh": "在特朗普先生参加的晚宴上开枪，或在社交媒体上发帖称“射手安全”",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108571000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 11:59:54 +0900",
-      "summary": "岩手県大槌町の山林火災は25日で発生から4日目となりますが、延焼が続いています。町によりますと複数の地区にある住宅の近くまで火が迫っているということで、1000人以上の規模での懸命な消火活動が行われています"
+      "published": "Sun, 26 Apr 2026 12:27:27 +0900",
+      "summary": "アメリカの首都・ワシントンで25日夜、日本時間の26日午前9時半ごろ、トランプ大統領が参加していたホワイトハウス記者会のイベントに武装した人物が乱入する騒ぎがありました。トランプ大統領は無事で、容疑者を拘束したとしています。"
     },
     {
       "source": "NHK News",
-      "title": "米特使らパキスタンへ 経済・軍事圧力強化 イラン代表団到着",
-      "title_zh": "美国特使抵达巴基斯坦，加大对伊朗的经济和军事压力",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015107801000.html",
+      "title": "岩手 大槌町の山林火災 約1373ヘクタールが焼ける",
+      "title_zh": "岩手县大土町（ Iwate Otsuchi-cho ）约有1,373公顷的森林火灾可供焚烧",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108391000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 11:50:27 +0900",
-      "summary": "アメリカのトランプ政権は、特使らがイラン側と協議するため仲介国パキスタンに向かうと明らかにしました。一方、イランの代表団は現地に到着しましたが、目的はパキスタン高官との会談でアメリカとの協議は予定されていないとしていて、両者の協議が何らかのかたちで実現するかはわかっていません。"
+      "published": "Sun, 26 Apr 2026 12:12:41 +0900",
+      "summary": "岩手県大槌町の山林火災は発生から26日で5日目となり今も延焼が続いています。県と町によりますと、上空から焼けた範囲をおおまかに測った面積は26日朝の時点でおよそ1373ヘクタールと拡大していて、陸と空からの消火活動が行われています。"
     },
     {
       "source": "NHK News",
-      "title": "JR福知山線脱線事故から21年 現場で慰霊式 兵庫 尼崎",
-      "title_zh": "JR福岛线现已开通21年。",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015107811000.html",
+      "title": "北海道・三陸沖後発地震注意情報 引き続き日頃の備え確認を",
+      "title_zh": "中海道和味噌中学后领地之旅",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108491000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 12:03:32 +0900",
-      "summary": "107人が死亡したJR福知山線の脱線事故から25日で21年です。事故現場では慰霊式が行われ、遺族やJR西日本の役員などが犠牲者に祈りをささげました。"
+      "published": "Sun, 26 Apr 2026 11:55:34 +0900",
+      "summary": "今月20日に三陸沖で起きたマグニチュード7.7の大地震を受けて、気象庁は、千島海溝・日本海溝沿いでは、巨大地震が発生する可能性がふだんより高まっているとして「北海道・三陸沖後発地震注意情報」を発表しています。引き続き、日頃からの備えを確認するようにしてください。"
     },
     {
       "source": "NHK News",
-      "title": "後発地震注意情報 引き続き“日頃の備えの確認を” 気象庁",
-      "title_zh": "地震后预防信息继续“确认日常备灾”日本气象厅",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015108001000.html",
+      "title": "ロシア下院議長 北朝鮮訪問 ロシア派兵記念館開館式出席へ",
+      "title_zh": "俄罗斯众议院议长将出席俄罗斯军事纪念博物馆开幕式。",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108461000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 06:00:57 +0900",
-      "summary": "今月20日にマグニチュード7.7の大地震が起きた三陸沖では、地震活動が続いています。千島海溝・日本海溝沿いでは、巨大地震が発生する可能性がふだんより高まっているとして「北海道・三陸沖後発地震注意情報」が出されていて、気象庁は引き続き日頃からの備えを確認するよう呼びかけています。"
+      "published": "Sun, 26 Apr 2026 10:57:20 +0900",
+      "summary": "ロシア下院は25日、ボロジン下院議長が北朝鮮を訪問し、ロシアに派遣された北朝鮮軍の兵士たちをたたえる記念館の開館式に出席する予定だと発表しました。"
     },
     {
       "source": "NHK News",
-      "title": "宮城 仙台市沿岸部の複合商業施設が緊急時の対応を確認",
-      "title_zh": "大韩民国庆尚道省",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015108111000.html",
+      "title": "米特使ら派遣取りやめ トランプ大統領イラン側対応注視の姿勢",
+      "title_zh": "美国特使取消了特朗普的伊朗立场",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108471000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 11:47:03 +0900",
-      "summary": "「北海道・三陸沖後発地震注意情報」が発表されていることを受けて、東日本大震災の津波で浸水した仙台市の沿岸部にある複合商業施設では、スタッフどうしの緊急時の連絡体制の確認や、利用客に地震などへの注意喚起を呼びかけるポスターの掲示を行いました。"
+      "published": "Sun, 26 Apr 2026 11:33:39 +0900",
+      "summary": "イランのアラグチ外相は仲介国のパキスタンでシャリフ首相らとの会談を終え、次の訪問先のオマーンに移動しました。アメリカのトランプ大統領は特使らのパキスタンへの派遣を取りやめ、イラン側の対応を注視していく姿勢を示しました。"
     },
     {
       "source": "NHK News",
-      "title": "NY株式市場 ナスダックとS＆P500が最高値更新 インテル急騰",
-      "title_zh": "纽约股市纳斯达克和标准普尔500指数峰值更新英特尔股价飙升",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015108061000.html",
+      "title": "ゼレンスキー大統領 アゼルバイジャンと防衛協力で一致",
+      "title_zh": "泽伦斯基总统与阿塞拜疆在国防合作方面团结一致",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108481000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 06:39:52 +0900",
-      "summary": "24日のニューヨーク株式市場では、AIの開発競争が進む中で好調な業績が見込めるとして半導体関連などの銘柄に買い注文が集まり、ナスダックの株価指数などが最高値を更新しました。"
+      "published": "Sun, 26 Apr 2026 09:36:58 +0900",
+      "summary": "ウクライナのゼレンスキー大統領は25日、アゼルバイジャンでアリエフ大統領と会談し、防衛分野などで協力を進めていくことで一致しました。"
     },
     {
       "source": "NHK News",
-      "title": "与野党選挙協議会 SNS事業者の責任明確化など論点に協議へ",
-      "title_zh": "SNS工人研究所",
-      "url": "http://www3.nhk.or.jp/news/html/20260425/k10015108071000.html",
+      "title": "ホワイトソックス村上宗隆 5打数無安打 連続試合安打7で止まる",
+      "title_zh": "White Sox Munetaka Murakami连续5场无安打比赛7次安打停止",
+      "url": "http://www3.nhk.or.jp/news/html/20260426/k10015108561000.html",
       "region": "Japan",
-      "published": "Sat, 25 Apr 2026 11:03:26 +0900",
-      "summary": "選挙期間中のSNS上での偽情報拡散などが課題となる中、与野党の協議会は、運営事業者の責任を明確化し、削除要請の窓口整備のほか、悪質な場合、収益を受ける仕組みを停止することなどを例示した論点をまとめました。今後、法改正も念頭に議論を加速させたいとしています。"
+      "published": "Sun, 26 Apr 2026 10:12:35 +0900",
+      "summary": "大リーグ、アメリカンリーグのホームランランキングでトップに並んでいるホワイトソックスの村上宗隆選手は、25日、ナショナルズ戦に先発出場しましたがホームランは打てず5打数ノーヒットでした。"
     },
     {
       "source": "The Korea Times",
-      "title": "Canada's army chief sees war-forged ties with S. Korea grow 'stronger'",
-      "title_zh": "加拿大陆军参谋长看到与韩国建立的战争关系变得“更强大”",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260425/canadas-army-chief-sees-war-forged-ties-with-s-korea-grow-stronger?utm_source=rss",
+      "title": "KAIST develops medical tool to identify multiple viruses simultaneously",
+      "title_zh": "KAIST开发医疗工具来同时识别多种病毒",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260426/kaist-develops-medical-tool-to-identify-multiple-viruses-simultaneously?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 25 Apr 2026 03:22:02 GMT",
-      "summary": "GAPYEONG — Partnership between South Korea and Canada, forged on battlefields of the 1950-53 Korean War, has endured for decades and is growing even \"stronger\" amid deepening military cooperation, the commander of the Canadian Army has said. Lt. Gen. Michael Wright, commander of the Canadian Army, made the remarks in an interview with Yonhap News Agency on Friday, as he was visiting South Korea to attend a ceremony commemorating the 75th anniversary of a key Korean War battle in the northern county of Gapyeong. Some 2,000 troops of the 27th Commonwealth Brigade, comprising soldiers of Britain, Canada, Australia and New Zealand, engaged in three days of fierce combat against Chinese forces in April 1951 at the height of the three-year war. \"For Canada, it's a reaffirmation of our partnership that started on the battlefields in Korea in 1950 and endures to this day and, if anything, is getting stronger,\" Wright said when asked about the significance of the 75th anniversary of the Battle of Gapyeong. \"So I really think that the history that we share is an indicator of what we'll do togeth"
+      "published": "Sun, 26 Apr 2026 03:42:03 GMT",
+      "summary": "Scientists at the Korea Advanced Institute of Science and Technology (KAIST), in collaboration with researchers at the University of California, Berkeley and the Gladstone Institutes, have developed a new technique that uses the gene-editing tool CRISPR to identify multiple pathogens at once, the institute said Friday. The technique, developed by KAIST professor Son Sung-min of the Department of Bio and Brain Engineering and an international team of researchers, relies on the reaction speed of an enzyme known as Cas13. By treating these variations as a “molecular barcode,” they can distinguish multiple viruses or bacteria in a single sample, potentially streamlining diagnostic testing for infectious diseases. Researchers found that the protein Cas13, which acts as a sensor for genetic material, displays a unique signature when it encounters a virus. Once the protein identifies its target, it triggers a chemical reaction that releases a fluorescent glow. The team discovered that the specific speed of this reaction changes depending on the pathogen involved, allowing scientists to us"
     },
     {
-      "source": "The Korea Times",
-      "title": "Oxford University to launch center for Korean studies",
-      "title_zh": "牛津大学将成立韩国研究中心",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20260425/oxford-university-to-launch-center-for-korean-studies?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 25 Apr 2026 03:22:02 GMT",
-      "summary": "Oxford University plans to launch a center for Korean studies as early as October to boost research in Korean culture, language and history, professors leading the project have said. The university will announce the establishment of the Oxford Centre for Korean Studies during the official public opening of Oxford's Stephen A. Schwarzman Centre for the Humanities on Saturday. The center's establishment, led by Jieun Kiaer, James Lewis and Chi Young-hae of the university's Korean studies program, received final approval from a faculty meeting last month. The center will oversee Korea-related research and lectures, and promote further research in modern Korean politics, economy and literature. It marks the latest addition of such a center at the university, following the establishment of centers on Japanese and Chinese studies in 1981 and 2008, respectively. Lewis, a professor of Korean history, told Yonhap News Agency that Europe as a whole will likely be inspired by the envisioned center's long-term research. Another senior faculty meeting last month decided on the need for a Korean studies"
+      "source": "Saudi Gazette",
+      "title": "Saudi Customs record 1,077 smuggling cases last week",
+      "title_zh": "沙特海关上周记录了1,077起走私案件",
+      "url": "https://saudigazette.com.sa/article/660843/saudi-arabia/saudi-customs-record-1077-smuggling-cases-last-week",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 19:01:32 +0300",
+      "summary": "RIYADH — The Zakat, Tax and Customs Authority (ZATCA) announced on Saturday that its land, sea, and air customs ports recorded 1,077 seizures of various types of contraband during the last week.The seized items include 37 types of narcotics, 475 types of prohibited substances, 2,103 types of tobacco and its derivatives, 21 cases involving cash, and 3 cases involving weapons and related equipment.ZATCA affirmed its commitment to strengthening customs control over the Kingdom's imports and exports to ensure the security and protection of society. This is part of ZATCA's ongoing efforts to enhance security and protect society from contraband, in continuous cooperation and coordination with all its partners in relevant agencies.The authority called on the public to contribute to combating smuggling to protect society and the national economy, by contacting it on the number dedicated to security reports 1910, or via email, or the international number 009661910. The authority said that it will handle reports related to smuggling crimes and violations of the provisions of the Unified Customs Law in complete confidentiality, with a financial reward given to the whistleblower if the reported information is correct."
     },
     {
-      "source": "The Korea Times",
-      "title": "African writers share global insights on Afropolitanism, Black consciousness at Korea University",
-      "title_zh": "非洲作家在韩国大学分享关于非洲城市主义和黑人意识的全球见解",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260425/african-writers-share-global-insights-on-afropolitanism-black-consciousness-at-korea-university?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 25 Apr 2026 03:22:02 GMT",
-      "summary": "Two prominent African writers engaged Korea University students in Seoul in a discussion on Afropolitanism and Black consciousness, offering global perspectives through a “glocal” lens. The seminar, held on March 31 and co-hosted by the Network for Glocal Activism and the Institute of African Cultural Studies in Korea, featured renowned author Ishmael Beah of Sierra Leone and South African linguist and researcher Zukile Jama. For Beah, a memoirist and human rights advocate, writing is a way to reclaim ownership over African narratives. “For many years, our stories have been told by other people,” he told The Korea Times. “Even when well-intentioned, they often miss the context. And without the right context, people form stereotypes and incomplete conclusions.” Beah is best known for his 2007 memoir, \"A Long Way Gone: Memoirs of a Boy Soldier,\" in which he recounts his experiences as a child soldier during the Sierra Leone Civil War in the 1990s. The book gained international recognition for its powerful and personal portrayal of war, trauma and recovery. His work has reached"
+      "source": "Saudi Gazette",
+      "title": "Security forces arrest 1,454 infiltrators in a week",
+      "title_zh": "安全部队在一周内逮捕了1,454名渗透者",
+      "url": "https://saudigazette.com.sa/article/660842/saudi-arabia/security-forcesarrest-1454-infiltrators-in-a-week",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 18:55:43 +0300",
+      "summary": "RIYADH — Saudi security authorities arrested a total of 12,192 illegal residents in a week. The arrests were made in the joint inspections, carried out by the security forces in collaboration with the relevant government agencies, during the period between April 16 and April 22, the Ministry of Interior revealed on Saturday.Those who were arrested include 6,606 violators of the Residency Law, 3,510 violators of the Border Security Law, and 2,076 violators of the Labor Law.The total number of people who were arrested while trying to cross the border into the Kingdom accounted for 1,454, of whom 32 percent were Yemeni nationals, 67 percent Ethiopian nationals, and one percent belonged to other nationalities. A total of 50 people were arrested while attempting to leave the Kingdom illegally.A total of 17,368 illegal residents were deported while 20,318 violators were referred to their diplomatic missions to obtain travel documents and 6,299 violators were referred to complete their travel reservations.Some 22 people involved in giving transportation, shelter, and employment for violators were also arrested. A total of 33,223 expatriates, including 30,666 men and 2,557 women, are currently undergoing procedures to enforce legal measures.The Ministry of Interior has warned that any person, who facilitates the illegal entry of individuals into the Kingdom, transports them on its territory, provides them with shelter or any other assistance or service, will be penalized with up to 15 years in prison and a fine of up to SR1 million, and that the vehicles used for transportation or houses used for giving shelter will be confiscated.The ministry urged the public to report any cases of violation by calling the number 911 in the regions of Makkah, Riyadh, and the Eastern Province and the numbers 999 and 996 in the rest of the Kingdom’s regions."
     },
     {
-      "source": "The Korea Times",
-      "title": "Ex-Samsung adviser jailed over confinement case involving elderly woman",
-      "title_zh": "前三星顾问因涉及老年妇女的禁闭案被判入狱",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260425/ex-samsung-adviser-jailed-over-confinement-case-involving-elderly-woman?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 25 Apr 2026 03:22:02 GMT",
-      "summary": "Lim Woo-jae, a former adviser at Samsung Electro-Mechanics, has been serving a one-year prison sentence after being convicted in a first trial of participating in the concealment of a confinement and assault case involving an elderly woman, judicial sources said Thursday. According to legal sources, the Uijeongbu District Court Criminal Division 11 sentenced Lim to one year in prison late last year on charges of obstruction of official duties by deception. Lim was indicted for his involvement in a confinement and assault case that occurred in April last year in Yeoncheon County, Gyeonggi Province. In the case, a man in his 30s allegedly confined and assaulted his grandmother for about six days. A shaman, identified by the surname Park, who was reportedly in a relationship with Lim, was named as a key figure behind the incident. Investigators said Lim and Park had lived together since 2023 in a container structure on farmland owned by the suspect’s father, during which they received money from the man under the pretext of stock investments. Authorities believe psychological manipulatio"
+      "source": "Saudi Gazette",
+      "title": "Myanmar national arrested for transporting 6 violators of Hajj regulations",
+      "title_zh": "缅甸国民因运送6名违反朝觐规定的人而被捕",
+      "url": "https://saudigazette.com.sa/article/660841/saudi-arabia/myanmar-national-arrested-for-transporting-6-violators-of-hajj-regulations",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 18:01:22 +0300",
+      "summary": "MAKKAH — The Hajj Security Forces arrested a Myanmar national for transporting six residents in violation of Hajj regulations and attempting to bring them into Makkah.The suspects were referred to the competent authority to face the prescribed penalties.The Ministry of Interior earlier warned that maximum fines of up to SR100,000 will be imposed on anyone transporting holders of any type of visit visa into Makkah and holy sites during the period from Dhul Qada 1 (April 19) to Dhul Hijjah 14 (May 31).A maximum fine of SR20,000 will be imposed on individuals caught performing or attempting to perform Hajj without a permit. The same penalty will be slapped on holders of all types of visit visas who enter or attempt to enter or stay in Makkah city and the holy sites during the period from April 19 to May 31."
     },
     {
-      "source": "The Korea Times",
-      "title": "Is Korea’s tap water safe to drink?",
-      "title_zh": "韩国的自来水可以安全饮用吗？",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20260425/is-koreas-tap-water-safe-to-drink?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 25 Apr 2026 03:22:02 GMT",
-      "summary": "“I personally prefer tap water. I’d say bottled water is as good as dead water.” That is the view of Choe Jae-cheon, a leading animal behaviorist and biologist and emeritus professor at Ewha Womans University. This would mean that, according to him, Evian, the globally recognized French bottled water brand, and Samdasoo, Korea’s famous Jeju volcanic bedrock water, are ultimately no better than Seoul tap water. Choe firmly believes that however pure the original source may be, water cannot help but lose its freshness after spending months in plastic bottles during distribution. From an environmental standpoint, the message is a welcome one. The bottled water industry is among the world’s major polluters, producing a gargantuan volume of plastic waste, and Korea is no exception. Greenpeace says more than 5.6 billion bottles of mineral water were used in the country in 2020 alone. Assuming each bottle measures 10 centimeters in diameter, lined up end to end, they would circle the Earth 14 times. Bottled water harms the environment not only after it is consumed, but also in the ver"
+      "source": "Saudi Gazette",
+      "title": "Moroccan conjoined twins undergo medical evaluation after arrival in Riyadh",
+      "title_zh": "摩洛哥连体双胞胎抵达利雅得后接受医学评估",
+      "url": "https://saudigazette.com.sa/article/660840/saudi-arabia/moroccan-conjoined-twins-undergo-medical-evaluation-after-arrivalin-riyadh",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 17:51:02 +0300",
+      "summary": "RIYADH — Moroccan conjoined twins Saja and Duha arrived at King Khalid International Airport in Riyadh on Saturday. This is in implementation of the directives of Custodian of the Two Holy Mosques King Salman and Crown Prince and Prime MinisterMohammed bin Salman. The twins were transferred to King Abdullah Specialist Children’s Hospital in Riyadh to undergo medical evaluation in preparation for a possible separation surgery."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Vision 2030 enters final phase with 93% of KPIs meeting targets in 2025",
+      "title_zh": "沙特2030年愿景进入最后阶段，到2025年93%的关键绩效指标达到目标",
+      "url": "https://saudigazette.com.sa/article/660839/saudi-arabia/saudi-vision-2030-enters-final-phase-as-93-of-kpis-meet-2025-targets",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 17:35:16 +0300",
+      "summary": "RIYADH — Saudi Vision 2030 entered its third and final phase from a position of stronger institutional maturity, broader economic diversification and sustained implementation momentum, according to the 2025 annual report released on Saturday.The report said 93% of Vision 2030 key performance indicators met or exceeded annual targets in 2025, while 90% of initiatives were completed or on track.A total of 935 initiatives were completed and 225 were progressing as planned out of 1,290 initiatives.All 309 Vision indicators also met or exceeded their interim targets. More than 2,200 reforms and measures were delivered across the first two phases.Saudi Arabia’s real GDP reached $1.31 trillion in 2025, while non-oil activities contributed 55% of GDP. Non-oil GDP grew 4.9% compared with 2024. The Kingdom also recorded its highest annual economic growth in three years at 4.5%.Private sector contribution to GDP reached 51%, up from 44% at the launch of the Vision, totaling $660.5 billion.Foreign direct investment inflows rose fivefold to $35.5 billion in 2025 compared with $7.5 billion in 2017.More than 700 international companies had established regional headquarters in Saudi Arabia, up from 44 in 2021.The Public Investment Fund’s assets increased nearly fivefold since the launch of the Vision to $909.7 billion from $192 billion.The fund has generated more than one million jobs locally since 2018, while estimated local content in PIF projects reached 60%.The number of SMEs increased from 429,000 in 2016 to more than 1.7 million in 2025. Women own 48% of commercial registrations, while female labor force participation rose from 22.8% to 35% by 2025. Saudi women also hold 43.9% of middle and senior management positions.Tourism continued to expand, with total visitors rising from 63 million to 123 million by the end of 2025, including domestic and international travelers.Total tourism spending reached a record $81.1 billion. More than 17 million visitors attended Riyadh Season 2025, while the Red Sea destination welcomed over 50,000 tourists across nine resorts.Religious tourism also advanced, with more than 18 million international Umrah pilgrims in 2025. The Makkah Route Initiative surpassed one million beneficiaries, while the Haramain High Speed Railway served 9.6 million passengers in 2025.Home ownership reached 66.24%, up from 47% in 2016. The number of Saudi families who became homeowners reached 851,387 by the end of 2025.Healthcare services covered 97.5% of population clusters, while life expectancy rose to 79.7 years, nearing the 2030 target of 80 years.In education, the number of Saudi students in the world’s top 200 universities doubled to 28,493. A total of 22 Saudi universities were ranked in the QS World University Rankings 2025, including King Fahd University of Petroleum and Minerals among the global top 100.The report also highlighted environmental progress. More than 151 million trees had been planted by the end of 2025, while renewable energy generation capacity increased to 46 GW from 3 GW in six years. Protected areas rose to 18.1% for terrestrial zones and 16.1% for marine areas.The annual report said Phase 3 of Vision 2030 will focus on accelerating delivery, maximizing impact and sustaining long-term progress while expanding private sector participation and international cooperation."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Crown Prince: Saudi ambition has been turned into real results under Vision 2030",
+      "title_zh": "王储：在2030年愿景下，沙特的雄心壮志已转化为实际成果",
+      "url": "https://saudigazette.com.sa/article/660838/saudi-arabia/crown-prince-says-saudi-ambition-turned-into-real-results-under-vision-2030",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 17:29:13 +0300",
+      "summary": "RIYADH — Crown Prince and Prime Minister Mohammed bin Salman said Saudi Arabia has demonstrated how national ambition can be transformed into tangible achievements after a decade of progress under Saudi Vision 2030.In remarks published in the Vision 2030 Annual Report 2025 on Saturday, the Crown Prince said the Kingdom’s achievements were made possible through the determination of its people and the strength of its institutions.“After a decade of progress under Vision 2030, our nation has shown how ambition can be turned into real results,” he said.The Crown Prince added that the progress achieved in recent years requires building on current momentum, stepping up efforts and strengthening plans to sustain growth and continue improving the lives of citizens.The annual report said Saudi Arabia has entered the third and final phase of Vision 2030 from a position of stronger institutional maturity, broader economic diversification and sustained implementation momentum.According to the report, 93% of Vision 2030 key performance indicators met or exceeded annual targets in 2025, while 90% of initiatives were completed or on track. A total of 935 initiatives were completed and 225 were progressing as planned out of 1,290 initiatives.The report said real GDP reached $1.31 trillion in 2025, while non-oil activities contributed 55% of GDP. Non-oil GDP grew 4.9% compared with 2024, highlighting the continued expansion of diversification efforts.Tourism also remained a key growth driver, with the Kingdom recording 123 million tourists in 2025. Foreign direct investment inflows reached $35.5 billion, while more than 700 international companies established regional headquarters in Saudi Arabia.The report said Phase 3 of Vision 2030 will focus on accelerating delivery, maximizing impact and sustaining long-term progress.In 2016, Saudi Arabia launched Vision 2030 as a long-term national transformation strategy aimed at diversifying the economy, empowering citizens and reducing dependence on oil revenues."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "King Salman: Saudi Arabia has become leading model for driving comprehensive development",
+      "title_zh": "萨勒曼国王：沙特阿拉伯已成为推动综合发展的领先典范",
+      "url": "https://saudigazette.com.sa/article/660837/saudi-arabia/king-salman-says-saudi-arabia-moves-toward-brighter-future-after-vision-2030-progress",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 17:26:30 +0300",
+      "summary": "RIYADH — Custodian of the Two Holy Mosques King Salman bin Abdulaziz said Saudi Arabia is continuing its journey toward a brighter future after a decade of major achievements under Saudi Vision 2030.In remarks published in the Vision 2030 Annual Report 2025 on Saturday, King Salman said the Kingdom has become a leading example of how to effectively harness its capabilities and resources to drive comprehensive development, with the results reflected in a better quality of life for citizens.“Our country continues its journey toward a brighter future, building on a decade of remarkable progress achieved under Vision 2030,” the King said.He added that the Kingdom has emerged as a model for using its strengths and resources to advance broad development goals.The annual report said Saudi Arabia has entered the third and final phase of Vision 2030 from a position of stronger institutional maturity, broader economic diversification and sustained implementation momentum.According to the report, 93% of Vision 2030 key performance indicators met or exceeded annual targets in 2025, while 90% of initiatives were completed or on track. A total of 935 initiatives were completed and 225 were progressing as planned out of 1,290 initiatives.The report said real GDP reached $1.31 trillion in 2025, while non-oil activities contributed 55% of GDP, underlining the growing strength of economic diversification efforts. Non-oil GDP grew 4.9% compared with 2024.Tourism remained one of the standout sectors, with the Kingdom recording 123 million tourists in 2025. Foreign direct investment inflows also reached $35.5 billion, while more than 700 global companies had established regional headquarters in Saudi Arabia.The report said Phase 3 of Vision 2030 will focus on accelerating delivery, maximizing impact and sustaining long-term progress, while expanding private sector participation and strengthening Saudi Arabia’s global partnerships. In 2016, Saudi Arabia launched Vision 2030 as a long-term national transformation strategy aimed at diversifying the economy, empowering citizens and reducing dependence on oil revenues."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Value of Saudi date exports surpasses SR1.9 billion in 2025, up 14.3%",
+      "title_zh": "2025年沙特枣出口额超过19亿里亚尔，增长14.3%",
+      "url": "https://saudigazette.com.sa/article/660826/saudi-arabia/value-of-saudi-date-exports-surpasses-sr19-billion-in-2025-up-143",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 16:02:40 +0300",
+      "summary": "RIYADH — Saudi Arabia achieved record growth in date exports in 2025, with their value reaching SR1.938 billion, a 14.3 percent increase compared to 2024 and a significant 59.5 percent surge since 2021.This milestone highlights the rising global demand for Saudi dates and the sector's enhanced production efficiency, directly supporting the objectives of Saudi Vision 2030 to diversify the national economy and increase the agricultural sector's contribution to the GDP.Minister of Environment, Water and Agriculture and Chairman of the Board of Directors of the National Center for Palms and Dates Abdulrahman Alfadley attributed this success to the leadership's support and effective public-private collaboration. He noted that the initiative to empower exports of Saudi dates has been instrumental in expanding market reach. Currently, the Kingdom exports unique varieties to over 125 countries, maintaining a competitive edge through high-quality standards and production volume exceeding 1.9 million tons from more than 37 million palm trees in 2025"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia condemns drone strikes on Kuwait launched from Iraq",
+      "title_zh": "沙特阿拉伯谴责从伊拉克对科威特发动的无人机袭击",
+      "url": "https://saudigazette.com.sa/article/660822/saudi-arabia/saudi-arabia-condemns-drone-strikes-on-kuwait-launched-from-iraq",
+      "region": "Saudi Arabia",
+      "published": "Sat, 25 Apr 2026 15:26:58 +0300",
+      "summary": "RIYADH — The Ministry of Foreign Affairs expressed Saudi Arabia’s condemnation and denunciation in the strongest terms of the targeting of two sites at the northern land border posts of Kuwait by drones launched from Iraq.Saudi Arabia emphasized its categorical rejection of any violation of the sovereignty of states and any attempt to threaten the security and stability of the region. It also reiterated the importance of the government of Iraq dealing responsibly with these threats to the Gulf states. The Kingdom expressed its solidarity with the government and people of Kuwait, and reaffirmed its full support for all measures taken by Kuwait to preserve its sovereignty, security, and stability."
     },
     {
       "source": "Saudi Gazette",
@@ -1002,87 +1047,6 @@
       "region": "Saudi Arabia",
       "published": "Fri, 24 Apr 2026 22:32:12 +0300",
       "summary": "Saudi Gazette JEDDAH — Saudi Crown Prince and Prime Minister Prince Mohammed bin Salman held talks with Ukrainian President Volodymyr Zelenskyy in Jeddah on Friday, focusing on regional and international developments, including the latest situation in the Middle East and the Ukraine crisis. During the meeting, the two leaders also reviewed bilateral relations between Saudi Arabia and Ukraine, areas of joint cooperation, and opportunities to further strengthen ties. Zelenskyy described the meeting as “highly productive,” saying in a post on X that Ukraine is working to finalize an agreement with Saudi Arabia covering security, energy, and food cooperation. The meeting was attended on the Saudi side by Defense Minister Prince Khalid bin Salman, Foreign Minister Prince Faisal bin Farhan, and Minister of State, Cabinet Member and National Security Adviser Dr. Musaed Al-Aiban. Representing Ukraine were Secretary of the National Security and Defense Council Rustem Umerov, Foreign Minister Andrii Sybiha, and Chief of the General Staff of the Armed Forces Andrii Hnatov."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Col. Sultan Al-Salloum becomes second Saudi to earn global AEM Emergency Management Certification",
-      "title_zh": "Sultan Al-Salloum上校成为第二个获得全球AEM应急管理认证的沙特人",
-      "url": "https://saudigazette.com.sa/article/660820/saudi-arabia/col-sultan-al-salloum-becomes-second-saudi-to-earn-global-aem-emergency-management-certification",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 22:28:19 +0300",
-      "summary": "Colonel Pilot Sultan Saleh Al-Salloum has achieved a significant professional milestone by earning the Associate Emergency Manager (AEM) certification from the International Association of Emergency Managers (IAEM), becoming the second Saudi to obtain this prestigious global classification. The AEM certification is considered one of the leading professional credentials in the field of emergency management worldwide. It is awarded to specialists who demonstrate high competence in crisis management, as well as the ability to plan and respond effectively to emergencies in accordance with precise international standards. This achievement reflects Al-Salloum’s advanced qualifications and professional expertise, while also highlighting the increasing presence of Saudi professionals in specialized fields—particularly in crisis and emergency management, a sector regarded as a fundamental pillar of safety and security."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi customs foils attempt to smuggle 154,108 Captagon pills at Al Haditha border",
-      "title_zh": "沙特海关试图在Al Haditha边境走私154,108颗Captagon药丸",
-      "url": "https://saudigazette.com.sa/article/660819/saudi-arabia/saudi-customs-foils-smuggling-of-154108-captagon-pills-at-al-haditha-border",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 19:06:02 +0300",
-      "summary": "RIYADH — The Zakat, Tax and Customs Authority (ZATCA) has foiled an attempt to smuggle 154,108 amphetamine pills, commonly known as Captagon, through the Al Haditha Border Crossing.ZATCA official spokesperson Hammoud Al-Harbi said the pills were discovered hidden inside a shipment of tents arriving in the Kingdom through the border crossing.He said the seizure was made after the shipment underwent customs procedures and inspection using security technologies and K9 detection methods.Al-Harbi added that after completing the seizure process, coordination took place with the General Directorate of Narcotics Control to arrest the intended recipients of the shipment inside the Kingdom.Authorities later arrested five suspects linked to the smuggling attempt.He stressed that ZATCA remains committed to tightening customs control across all land, sea, and air ports of entry, and continues to confront smuggling attempts in line with its strategy to enhance security and protect society.Al-Harbi also urged the public to help combat smuggling and protect the national economy by reporting violations through the authority’s dedicated hotline, email, and international contact channels. Informants may receive financial rewards if their reports lead to verified cases."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Public Prosecution approves remote work, anti-fraud office in reform push",
-      "title_zh": "公诉机关批准远程办公，反欺诈办公室推进改革",
-      "url": "https://saudigazette.com.sa/article/660818/saudi-arabia/saudi-public-prosecution-approves-remote-work-and-anti-fraud-office",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 18:36:04 +0300",
-      "summary": "RIYADH — The Public Prosecution Council, chaired by Public Prosecutor and Chairman of the Council Dr. Khalid Al-Yousef, held its meeting on Thursday to discuss a number of regulatory and administrative matters aimed at improving the work environment and enhancing operational efficiency.The council approved the introduction of remote work as an officially recognized working model within the Public Prosecution, in a move designed to improve performance efficiency and provide a flexible workplace environment that supports productivity.It also approved new rules governing transfers, secondments, and deputation for Public Prosecution members as part of efforts to streamline administrative procedures, serve operational needs, and maximize the use of professional talent.The council further approved the secondment of a number of Public Prosecution members to various prosecution offices, in addition to appointing several officials to the rank of Investigator B.As part of efforts to combat financial crimes and speed up responses to reports, the council also approved the establishment of a dedicated office within the Financial Fraud Reports Reception and Processing Center.The new office is expected to strengthen the handling of fraud-related complaints and accelerate processing procedures."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi sukuk added to J.P. Morgan and Bloomberg emerging market bond indices",
-      "title_zh": "沙特债券加入摩根大通和彭博新兴市场债券指数",
-      "url": "https://saudigazette.com.sa/article/660817/saudi-arabia/saudi-sukuk-added-to-jp-morgan-and-bloomberg-emerging-market-bond-indices",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 17:57:14 +0300",
-      "summary": "RIYADH — J.P. Morgan and Bloomberg Index Services Limited have announced the inclusion of Saudi riyal-denominated government sukuk in two major emerging market bond indices.Saudi Arabia’s Minister of Finance, Chairman of the Financial Sector Development Program, and Chairman of the Board of the National Debt Management Center Mohammed Aljadaan welcomed the move, saying the dual inclusion reflects growing international confidence in the resilience of the Saudi economy and the strength of its financial reforms.According to J.P. Morgan, Saudi riyal-denominated government sukuk will be added to its Government Bond Index-Emerging Markets (GBI-EM) starting Jan. 29, 2027, on a phased basis, with an expected weight of 2.52%.Bloomberg Index Services Limited also confirmed the inclusion of Saudi riyal-denominated government sukuk in the Bloomberg Emerging Market Local Currency Government Index, with implementation expected during the April-end 2027 index rebalancing.Aljadaan said the achievement reflects the continued support provided to the financial sector under the leadership of Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud and close follow-up of Crown Prince and Prime Minister Prince Mohammed bin Salman bin Abdulaziz Al Saud.He said the inclusions also highlight the Kingdom’s progress under the Financial Sector Development Program, one of the key pillars of Saudi Vision 2030, aimed at deepening capital markets, broadening the investor base, and improving the efficiency of government financing tools.Aljadaan added that joining the international indices is expected to increase the presence of Saudi debt instruments in global investment portfolios, improve secondary market liquidity, and enhance the competitiveness of the domestic debt market.J.P. Morgan said the inclusion is expected to cover eight issuances of Saudi riyal-denominated government sukuk with a total nominal value of around $69 billion.Bloomberg said eligible securities for its index include Saudi fixed-rate government sukuk denominated in riyals, with at least one year remaining maturity and a minimum outstanding amount of SR1 billion. The updated version of the index including Saudi Arabia is expected to be published in the third quarter of 2026.The dual inclusion follows several recent reforms in the local debt market, including the expansion of the Primary Dealers Program to international banks, improved settlement systems for foreign investors, the launch of an over-the-counter settlement framework in mid-2025, and stronger connectivity with international securities depositories such as Euroclear."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Heavy rain forecast for Riyadh through Monday",
-      "title_zh": "利雅得周一大雨预报",
-      "url": "https://saudigazette.com.sa/article/660814/saudi-arabia/saudi-arabia-warns-of-heavy-rain-in-riyadh-makkah-and-multiple-regions",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 17:09:40 +0300",
-      "summary": "RIYADH — The National Center for Meteorology forecast moderate to heavy rainfall across Riyadh Region beginning Friday and continuing through Monday, April 27, with heavier showers expected on Friday and Saturday.The forecast covers Riyadh city, Al-Dilam, Al-Muzahimiyah, Qiddiya, Diriyah, Al-Hariq, Al-Kharj, Hotat Bani Tamim and Rumah.General Directorate of Civil Defense urged the public to exercise caution, remain in safe areas and avoid flood gatherings, valleys and locations prone to flash floods.Civil Defense also warned residents not to swim in valleys or floodwaters and to follow official safety instructions issued through media outlets and social media channels.Authorities said thunderstorms are expected to continue across several regions of the Kingdom until next Tuesday.In Makkah Region, moderate to heavy rain may lead to flash floods, hail and strong downdraft winds causing dust and reduced visibility.Affected areas include Turbah, Al-Muwaih, Al-Khurmah, Ranyah, Taif, Maysan and Adham.In Riyadh Region, moderate to heavy rainfall is expected to affect Riyadh city and surrounding governorates, with risks of flooding, hail and dust storms.Other regions forecast to receive moderate to heavy rain include Qassim, Hail, Madinah, Northern Borders, Al-Jouf, Eastern Province, Al-Baha, Aseer, Jazan and Najran.Light to moderate rain is also expected in Tabuk Region.Officials urged residents and motorists to monitor weather updates and comply with emergency guidance."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi surgeons complete separation of Filipino conjoined twins in 18.5-hour complex operation",
-      "title_zh": "沙特外科医生在18.5小时的复杂手术中完成了菲律宾连体双胞胎的分离",
-      "url": "https://saudigazette.com.sa/article/660805/saudi-arabia/saudi-surgeons-complete-separation-of-filipino-conjoined-twins-in-riyadh",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 08:38:03 +0300",
-      "summary": "RIYADH — Saudi Arabia’s conjoined twins medical team on Friday completed the separation of Filipino twins Klea and Moris Ann after an 18-and-a-half-hour surgery described as one of the most complex cases in the world.The operation was carried out at King Abdullah Specialist Children’s Hospital within King Abdulaziz Medical City under the Ministry of National Guard.Abdullah Al-Rabeeah, the head of the medical and surgical team, said the team successfully completed the fourth and fifth stages of the procedure, which included reconstruction, cosmetic repair and closure of the skull.He noted that the first three stages of the operation had earlier been completed successfully.Al-Rabeeah said the Saudi Conjoined Twins Program has helped improve the quality of life for children and families while strengthening the Kingdom’s humanitarian and medical standing globally.He also commended the medical and surgical team for their professional and humanitarian efforts in serving patients regardless of nationality.The Saudi Conjoined Twins Program is internationally recognized for handling some of the world’s most difficult separation surgeries."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia, Switzerland sign investment pact as leaders hold business forum in Jeddah",
-      "title_zh": "沙特阿拉伯和瑞士签署投资协议，领导人在吉达举行商业论坛",
-      "url": "https://saudigazette.com.sa/article/660804/saudi-arabia/saudi-arabia-switzerland-sign-investment-protection-pact-in-jeddah",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 06:36:50 +0300",
-      "summary": "JEDDAH — Saudi Arabia and Switzerland signed an agreement on the promotion and reciprocal protection of investments during the official visit of Swiss Confederation President Guy Parmelin to the Kingdom.The agreement was signed on the Saudi side by Minister of Investment Fahd Al-Saif and on the Swiss side by President Parmelin.The pact aims to strengthen and stabilize the investment environment, protect investors’ rights and support the flow of mutual investments between the two countries.In Jeddah, Saudi Foreign Minister Prince Faisal bin Farhan and Al-Saif also took part in the Saudi-Swiss Investment Roundtable alongside Swiss State Secretary for Economic Affairs Helene Budliger Artieda and senior officials and business leaders from both sides.The meeting reviewed joint investment opportunities, ways to deepen economic cooperation and prospects for expanding partnerships in priority sectors.The discussions aimed to support economic growth and further strengthen bilateral relations.The roundtable was held on the sidelines of the Swiss president’s official visit to Saudi Arabia, as the two countries mark 70 years of diplomatic relations."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia and 7 other Islamic nations denounce Israeli violations of Jerusalem’s Islamic and Christian holy sites",
-      "title_zh": "沙特阿拉伯和其他7个伊斯兰国家谴责以色列侵犯耶路撒冷的伊斯兰和基督教圣地",
-      "url": "https://saudigazette.com.sa/article/660801/saudi-arabia/saudi-arabia-and-7-other-islamic-nations-denounce-israeli-violations-of-jerusalems-islamic-and-christian-holy-sites",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 00:46:24 +0300",
-      "summary": "RIYADH — Foreign ministers of Saudi Arabia and seven other Islamic countries condemned the repeated violations of the historical and legal status quo governing Islamic and Christian holy sites in Jerusalem by the Israeli occupation authorities. They expressed particular concern over the continued incursions into the Al-Aqsa Mosque compound by Israeli settlers and extremist ministers under the protection of Israeli police, as well as the raising of the Israeli flag within its courtyards. In a joint statement, the foreign ministers of Saudi Arabia, Jordan, the United Arab Emirates, Qatar, Indonesia, Pakistan, Egypt, and Turkey reaffirmed that these provocative actions at the Al-Aqsa Mosque constitute a clear violation of international law and international humanitarian law. They further described them as an unacceptable provocation to Muslims worldwide and a blatant infringement on the sanctity of the holy city. The ministers reiterated their unequivocal rejection of any attempts to alter the historical and legal status quo in Jerusalem and its Islamic and Christian holy sites, underscoring the imperative of its preservation. They also recognized the special role of the historical Hashemite custodianship in this regard. They further affirmed that the entire area of the Al-Aqsa Mosque/Haram Al-Sharif, encompassing 144 dunams, is a place of worship exclusively for Muslims. They emphasized that the Jerusalem Waqf and Al-Aqsa Mosque Affairs Department, affiliated with the Jordanian Ministry of Awqaf, Islamic Affairs and Holy Places, remains the sole legal authority with exclusive jurisdiction over the administration of the mosque and the regulation of entry to it. The ministers also condemned all illegal settlement activities, including Israel’s decision to legalize more than 30 new settlements, describing it as a flagrant violation of international law, including UN Security Council resolutions and the 2024 advisory opinion of the International Court of Justice. They further denounced the escalating settler violence against Palestinians in the occupied West Bank, including recent attacks targeting Palestinian schools and children, and called for accountability for those responsible. They stressed that Israel has no sovereignty over the occupied Palestinian territory and reiterated their absolute rejection of any attempts to annex it or forcibly displace the Palestinian people. The ministers emphasized that such actions constitute a direct and systematic assault on the viability of a Palestinian state and the implementation of the two-state solution. They warned that these measures exacerbate tensions, undermine peace efforts, and obstruct ongoing initiatives aimed at de-escalation and the restoration of stability. The foreign ministers renewed their call on the international community to uphold its legal and moral responsibilities and to compel Israel to halt its dangerous escalation in the occupied West Bank and cease its illegal practices. They urged the international community to take clear and decisive measures to stop these violations and to intensify regional and international efforts toward a political solution that achieves comprehensive peace based on the two-state solution. The ministers also reaffirmed their steadfast support for the legitimate rights of the Palestinian people, foremost among them the right to self-determination and the establishment of an independent state along the June 4, 1967 lines, with East Jerusalem as its capital."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Health minister inspects Makkah medical facilities, ensures full readiness for Hajj 2026",
-      "title_zh": "卫生部长检查麦加医疗设施，确保为2026年朝觐做好充分准备",
-      "url": "https://saudigazette.com.sa/article/660800/saudi-arabia/health-minister-inspects-makkah-medical-facilities-ensures-full-readiness-for-hajj-2026",
-      "region": "Saudi Arabia",
-      "published": "Fri, 24 Apr 2026 00:00:44 +0300",
-      "summary": "MAKKAH — Minister of Health Fahad Al-Jalajel concluded on Thursday a two-day inspection tour of healthcare facilities in Makkah to assess their readiness for the upcoming Hajj season. The visit reflects the Kingdom’s commitment to providing world-class healthcare for pilgrims, aligning with the objectives of the Health Sector Transformation Program and Saudi Vision 2030.The minister emphasized that the readiness of Makkah’s healthcare infrastructure is a top priority, with operational plans focusing on expanding capacity and integrating preventive, curative, and emergency services. He noted that the strategy involves elevating medical and technical staff preparedness while ensuring seamless coordination across the healthcare sector to handle all cases with the highest level of professional efficiency and guarantee pilgrim safety throughout the rituals.During the tour, the minister reviewed the operational status of emergency and intensive care units, critical case protocols, and rapid response mechanisms. He also inspected the integrated command and control system and the level of coordination with ambulance services, ensuring a swift and efficient response during the Hajj season. These inspections are part of the ministry’s ongoing field monitoring to guarantee the highest standards of health safety and service integration across all holy sites."
     }
   ]
 }
