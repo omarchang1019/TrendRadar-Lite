@@ -1,23 +1,89 @@
 {
-  "last_updated": "2026-08-08 10:07:53",
+  "last_updated": "2026-08-09 10:19:01",
   "items": [
     {
       "source": "Hacker News",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "title_zh": "AMD收购Taalas ，通过在硅中蚀刻模型来提高推理性能",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "points": 888,
-      "comments": 666,
+      "title": "“Code was never the hard part” is an insult to all programmers",
+      "title_zh": "“代码从来都不是最难的部分”是对所有程序员的侮辱",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "points": 588,
+      "comments": 367,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "title_zh": "新墨西哥州法院命令Meta为损害儿童心理健康支付5.67亿美元$",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "points": 721,
+      "title": "Danish high schoolers will have to verbally defend written assignments",
+      "title_zh": "丹麦高中生将不得不口头为书面作业辩护",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "points": 516,
+      "comments": 244,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "title_zh": "DeepMind的WeatherNext模型实现了突破性的气旋预报",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "points": 393,
+      "comments": 117,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "_for-sale DNS records",
+      "title_zh": "_for-sale DNS记录",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "points": 353,
+      "comments": 132,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "title_zh": "某些x86 CPU中的硬件后门",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "points": 349,
+      "comments": 94,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "title_zh": "OpenAI意外攻击拥抱脸的时间表",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "points": 347,
+      "comments": 352,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Fastmail offers EU data region",
+      "title_zh": "Fastmail提供欧盟数据区域",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "points": 326,
+      "comments": 146,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "title_zh": "美国军方的网络指挥部正在努力应对一系列自杀死亡事件",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "points": 252,
       "comments": 396,
       "region": "Global",
       "published": null,
@@ -25,236 +91,215 @@
     },
     {
       "source": "Hacker News",
-      "title": "DeepSeek V4 Flash 0731",
-      "title_zh": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "points": 468,
-      "comments": 281,
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "points": 223,
+      "comments": 163,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "title_zh": "如果整个工人阶级对自己的职业失去信心，会发生什么",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "points": 430,
-      "comments": 536,
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "title_zh": "英特尔最终能否在性能功耗比上击败ARM ？",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "points": 166,
+      "comments": 103,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "title_zh": "Oracle禁止OpenJDK中的AI生成代码",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "points": 392,
-      "comments": 257,
+      "title": "Triton: DirectX 11 Driver for QEMU",
+      "title_zh": "Triton ： QEMU的DirectX 11驱动程序",
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "points": 140,
+      "comments": 25,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "A year of fighting scrapers on my 1.5 million-page website",
-      "title_zh": "在我150万页的网站上与刮刀作斗争的一年",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "points": 377,
-      "comments": 358,
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "title_zh": "Gateway 2000在90年代非常糟糕的广告（第二部分）",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "points": 103,
+      "comments": 79,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Assembly Hall of Shame",
-      "title_zh": "集会耻辱大厅",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "points": 252,
-      "comments": 58,
+      "title": "My server is a phone now",
+      "title_zh": "我的服务器现在是一部手机",
+      "url": "https://seg6.space/posts/phone-server/",
+      "points": 100,
+      "comments": 46,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "title_zh": "使Postgres的分析速度提高300倍：批处理、操作员融合和SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "points": 249,
-      "comments": 118,
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "title_zh": "8月12日日全食的开源互动地图",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "points": 93,
+      "comments": 18,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "2027 memory capacity is reportedly sold out",
-      "title_zh": "据报道， 2027内存容量已售罄",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "points": 241,
-      "comments": 226,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Wyzer Programming Language",
-      "title_zh": "Show HN ： Wyzer编程语言",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "points": 173,
-      "comments": 100,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Managing AI Coding Costs at Scale",
-      "title_zh": "大规模管理AI编码成本",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "points": 168,
-      "comments": 173,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "title_zh": "Kitesurf ：在V8隔离区中运行的代理优先浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "points": 167,
-      "comments": 43,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "title_zh": "应对关键网络能力的下一个前沿",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "points": 155,
-      "comments": 167,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "title_zh": "古代图书馆– 1,060篇希腊语/拉丁语文本，单击任意单词即可解析",
-      "url": "https://ancientlibrary.net/",
-      "points": 150,
-      "comments": 50,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "title_zh": "50万个超大质量黑洞的全天空地图",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "points": 141,
-      "comments": 35,
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "title_zh": "马里兰州在第二次海狸袭击后关闭了更多的坎宁安瀑布州立公园",
+      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+      "points": 92,
+      "comments": 52,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Reddit r/all",
-      "title": "Made this painting of a bunny sleeping on a vinyl and people got mad bc it can look like a bunny being cooked on a pan",
-      "title_zh": "这幅画描绘了一只睡在黑胶唱片上的兔子，人们生气了，因为它看起来就像一只兔子在平底锅上烹饪",
-      "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1vig84f/made_this_painting_of_a_bunny_sleeping_on_a_vinyl/",
+      "title": "Dudes Use a Table to Save People from a Burning Building.",
+      "title_zh": "伙计们用餐桌将人们从燃烧的建筑物中拯救出来。",
+      "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1vja9yg/dudes_use_a_table_to_save_people_from_a_burning/",
       "region": "Global",
-      "published": "2026-08-07T23:30:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1vig84f/made_this_painting_of_a_bunny_sleeping_on_a_vinyl/\"> <img alt=\"Made this painting of a bunny sleeping on a vinyl and people got mad bc it can look like a bunny being cooked on a pan\" src=\"https://preview.redd.it/i3s4jlhff1ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=acb85b6edb3812d9334da2c13bc2dda30df9ca5e\" title=\"Made this painting of a bunny sleeping on a vinyl and people got mad bc it can look like a bunny being cooked on a pan\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gazelizz\"> /u/Gazelizz </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinfuriating/\"> r/mildlyinfuriating </a> <br /> <span><a href=\"https://i.redd.it/i3s4jlhff1ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinfuriating/comments/1vig84f/made_this_painting_of_a_bunny_sleeping_on_a_vinyl/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T23:28:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1vja9yg/dudes_use_a_table_to_save_people_from_a_burning/\"> <img alt=\"Dudes Use a Table to Save People from a Burning Building.\" src=\"https://external-preview.redd.it/NWs0bG5sOWhqOGloMXn3pws3VslP-yEB6Nm_fNyB1219JAUbMT1vsk_lomt2.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7210e8cc2321fbacd2816548f956b49e8985ce88\" title=\"Dudes Use a Table to Save People from a Burning Building.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/S30econdstoMars\"> /u/S30econdstoMars </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/nextfuckinglevel/\"> r/nextfuckinglevel </a> <br /> <span><a href=\"https://v.redd.it/1mom4ip0k8ih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/nextfuckinglevel/comments/1vja9yg/dudes_use_a_table_to_save_people_from_a_burning/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Small Black business (Goode Damn Coffee) offers to send Ms. Rachel free coffee, she buys $1,000 of coffee from the Company instead",
+      "title_zh": "小型黑人企业（ Goode Damn Coffee ）向Rachel女士提供免费咖啡，她从公司购买了1,000 $的咖啡",
+      "url": "https://www.reddit.com/r/Fauxmoi/comments/1vjb3dh/small_black_business_goode_damn_coffee_offers_to/",
+      "region": "Global",
+      "published": "2026-08-09T00:07:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Fauxmoi/comments/1vjb3dh/small_black_business_goode_damn_coffee_offers_to/\"> <img alt=\"Small Black business (Goode Damn Coffee) offers to send Ms. Rachel free coffee, she buys $1,000 of coffee from the Company instead\" src=\"https://preview.redd.it/oxsqkuztq8ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38eb8695b5caeda0f634fd4292e2c1eab843f418\" title=\"Small Black business (Goode Damn Coffee) offers to send Ms. Rachel free coffee, she buys $1,000 of coffee from the Company instead\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LunaLore_\"> /u/LunaLore_ </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Fauxmoi/\"> r/Fauxmoi </a> <br /> <span><a href=\"https://i.redd.it/oxsqkuztq8ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Fauxmoi/comments/1vjb3dh/small_black_business_goode_damn_coffee_offers_to/\">[comments]</a></span> </td></tr></table>"
+    },
+    {
+      "source": "Reddit r/all",
+      "title": "Impractical Hulk gloves 🤣",
+      "title_zh": "不切实际的浩克手套 🤣",
+      "url": "https://www.reddit.com/r/Funnymemes/comments/1vj6gyx/impractical_hulk_gloves/",
+      "region": "Global",
+      "published": "2026-08-08T20:39:47+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FE4RLESS_IS_MY_NAME\"> /u/FE4RLESS_IS_MY_NAME </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Funnymemes/\"> r/Funnymemes </a> <br /> <span><a href=\"https://i.redd.it/i6xwr1hup7ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Funnymemes/comments/1vj6gyx/impractical_hulk_gloves/\">[comments]</a></span>"
     },
     {
       "source": "Reddit r/all",
       "title": "meirl",
       "title_zh": "meirl",
-      "url": "https://www.reddit.com/r/meirl/comments/1vif6jo/meirl/",
+      "url": "https://www.reddit.com/r/meirl/comments/1vj6bd1/meirl/",
       "region": "Global",
-      "published": "2026-08-07T22:44:15+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/meirl/comments/1vif6jo/meirl/\"> <img alt=\"meirl\" src=\"https://preview.redd.it/wzvq6a8571ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90d285651f9cdaee8ca4c077ea28b8e440be5cda\" title=\"meirl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YettiGoingRogue\"> /u/YettiGoingRogue </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/meirl/\"> r/meirl </a> <br /> <span><a href=\"https://i.redd.it/wzvq6a8571ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/meirl/comments/1vif6jo/meirl/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T20:32:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/meirl/comments/1vj6bd1/meirl/\"> <img alt=\"meirl\" src=\"https://preview.redd.it/kads5vkmo7ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=377144f08d1e2406605db5da7d1ed872d4271a42\" title=\"meirl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YettiGoingRogue\"> /u/YettiGoingRogue </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/meirl/\"> r/meirl </a> <br /> <span><a href=\"https://i.redd.it/kads5vkmo7ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/meirl/comments/1vj6bd1/meirl/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Such an insult indeed",
-      "title_zh": "真是这样的侮辱",
-      "url": "https://www.reddit.com/r/PoursTea/comments/1vifhw3/such_an_insult_indeed/",
+      "title": "Saw this awesome cloud today.",
+      "title_zh": "今天看到了这个很棒的云。",
+      "url": "https://www.reddit.com/r/mildlyinteresting/comments/1vj5dll/saw_this_awesome_cloud_today/",
       "region": "Global",
-      "published": "2026-08-07T22:58:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/PoursTea/comments/1vifhw3/such_an_insult_indeed/\"> <img alt=\"Such an insult indeed\" src=\"https://preview.redd.it/u1v2wlum91ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad942fe51338066f9bbc46f6e811e138f468324e\" title=\"Such an insult indeed\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/saucey_dawg0023\"> /u/saucey_dawg0023 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/PoursTea/\"> r/PoursTea </a> <br /> <span><a href=\"https://i.redd.it/u1v2wlum91ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/PoursTea/comments/1vifhw3/such_an_insult_indeed/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T19:53:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1vj5dll/saw_this_awesome_cloud_today/\"> <img alt=\"Saw this awesome cloud today.\" src=\"https://preview.redd.it/zldkxpdjh7ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7ab21ddb75ce4a7b00b46b92ba4a902d420e1be\" title=\"Saw this awesome cloud today.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Psychitekt\"> /u/Psychitekt </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/mildlyinteresting/\"> r/mildlyinteresting </a> <br /> <span><a href=\"https://i.redd.it/zldkxpdjh7ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/mildlyinteresting/comments/1vj5dll/saw_this_awesome_cloud_today/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "American Pie",
-      "title_zh": "美国派",
-      "url": "https://www.reddit.com/r/comics/comments/1viecea/american_pie/",
+      "title": "The Goat",
+      "title_zh": "山羊",
+      "url": "https://www.reddit.com/r/GuysBeingDudes/comments/1vj9zhk/the_goat/",
       "region": "Global",
-      "published": "2026-08-07T22:08:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/comics/comments/1viecea/american_pie/\"> <img alt=\"American Pie\" src=\"https://preview.redd.it/cdqhtdaq01ih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=a5ac2c2cbdbdefeba443e3c04d45c87af0ba1246\" title=\"American Pie\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SirBeeves\"> /u/SirBeeves </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/comics/\"> r/comics </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1viecea\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/comics/comments/1viecea/american_pie/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T23:15:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/GuysBeingDudes/comments/1vj9zhk/the_goat/\"> <img alt=\"The Goat\" src=\"https://external-preview.redd.it/OG00aG5od2toOGloMV2FNbxZUL5QCco9tJAH_JipsfqtMjRLOZ4Lhb9EffrC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2420f509c2a9165aca53eb2c6068d073e1521257\" title=\"The Goat\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Swimming-Employee537\"> /u/Swimming-Employee537 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/GuysBeingDudes/\"> r/GuysBeingDudes </a> <br /> <span><a href=\"https://v.redd.it/c8p151wkh8ih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GuysBeingDudes/comments/1vj9zhk/the_goat/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Kindness can come from the most unexpected places.",
-      "title_zh": "善良可能来自最意想不到的地方。",
-      "url": "https://www.reddit.com/r/BeAmazed/comments/1vic9vj/kindness_can_come_from_the_most_unexpected_places/",
+      "title": "He found out that if you don't tip at self-service at Shake Shack, they make it more expensive per item.",
+      "title_zh": "他发现，如果您不在Shake Shack的自助服务处支付小费，他们会使每件商品的价格更高。",
+      "url": "https://www.reddit.com/r/TikTokCringe/comments/1vj4alr/he_found_out_that_if_you_dont_tip_at_selfservice/",
       "region": "Global",
-      "published": "2026-08-07T20:45:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/BeAmazed/comments/1vic9vj/kindness_can_come_from_the_most_unexpected_places/\"> <img alt=\"Kindness can come from the most unexpected places.\" src=\"https://preview.redd.it/ctk72emvl0ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13d8d8b3f4b2ae119425c1f017474edf477bfc75\" title=\"Kindness can come from the most unexpected places.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Admirable-Interest49\"> /u/Admirable-Interest49 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/BeAmazed/\"> r/BeAmazed </a> <br /> <span><a href=\"https://i.redd.it/ctk72emvl0ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/BeAmazed/comments/1vic9vj/kindness_can_come_from_the_most_unexpected_places/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T19:07:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/TikTokCringe/comments/1vj4alr/he_found_out_that_if_you_dont_tip_at_selfservice/\"> <img alt=\"He found out that if you don't tip at self-service at Shake Shack, they make it more expensive per item.\" src=\"https://external-preview.redd.it/c3piYmw5aWU5N2loMRA7TkUi2-f7oCoykrAPWNZGeH2jGNu6pKlAvOvwpqvJ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=29c662b65d93d9c56f10570e1c31105733197e54\" title=\"He found out that if you don't tip at self-service at Shake Shack, they make it more expensive per item.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mindyour\"> /u/mindyour </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/TikTokCringe/\"> r/TikTokCringe </a> <br /> <span><a href=\"https://v.redd.it/bsx5ijle97ih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/TikTokCringe/comments/1vj4alr/he_found_out_that_if_you_dont_tip_at_selfservice/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Requesting to join because chemo took my hair.",
-      "title_zh": "要求加入，因为化疗夺走了我的头发。",
-      "url": "https://www.reddit.com/r/bald/comments/1vi9lm8/requesting_to_join_because_chemo_took_my_hair/",
+      "title": "Random rotoscoping in an otherwise non-realistic looking animation",
+      "title_zh": "在其他外观不逼真的动画中进行随机旋转镜像",
+      "url": "https://www.reddit.com/r/lovethissmug/comments/1vj93w0/random_rotoscoping_in_an_otherwise_nonrealistic/",
       "region": "Global",
-      "published": "2026-08-07T19:03:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/bald/comments/1vi9lm8/requesting_to_join_because_chemo_took_my_hair/\"> <img alt=\"Requesting to join because chemo took my hair.\" src=\"https://preview.redd.it/yrny9gfs30ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62ec34fd566910b8ea5d1e300c7ca199839532cb\" title=\"Requesting to join because chemo took my hair.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Shoutout to my lashes and eyebrows for holding on so far, may they never leave me 😭</p> <p>Edit: OMG YOU GUYS. Thank you so much for your warm welcome. I love, love, love this wholesome little spot of Internet 🫶🏻🫶🏻🫶🏻</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fashunhoarder\"> /u/Fashunhoarder </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/bald/\"> r/bald </a> <br /> <span><a href=\"https://i.redd.it/yrny9gfs30ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/bald/comments/1vi9lm8/requesting_to_join_because_chemo_took_my_hair/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T22:35:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/lovethissmug/comments/1vj93w0/random_rotoscoping_in_an_otherwise_nonrealistic/\"> <img alt=\"Random rotoscoping in an otherwise non-realistic looking animation\" src=\"https://preview.redd.it/ucrmxbzha8ih1.gif?frame=1&amp;width=140&amp;height=79&amp;auto=webp&amp;s=a2764ddcae5cccf624108e4eb935dd8f828a3edb\" title=\"Random rotoscoping in an otherwise non-realistic looking animation\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I love it when an animation that isn't rotoscoped randomly adds 1 or 2 seconds. The bigger the difference from its usual style, the better.</p> <p>Source: <a href=\"https://youtu.be/hdxp8Ny2V3E\">https://youtu.be/hdxp8Ny2V3E</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Grummmm\"> /u/Grummmm </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/lovethissmug/\"> r/lovethissmug </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vj93w0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/lovethissmug/comments/1vj93w0/random_rotoscoping_in_an_otherwise_nonrealistic/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Flock Is Losing Dozens of Contracts as Controversy Grows",
-      "title_zh": "随着争议的加剧， Flock正在失去数十份合同",
-      "url": "https://www.reddit.com/r/technology/comments/1vi9e6b/flock_is_losing_dozens_of_contracts_as/",
+      "title": "Lone toddler in Gaza",
+      "title_zh": "加沙孤身蹒跚学步的孩子",
+      "url": "https://www.reddit.com/r/pics/comments/1vjaahn/lone_toddler_in_gaza/",
       "region": "Global",
-      "published": "2026-08-07T18:55:56+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/technology/comments/1vi9e6b/flock_is_losing_dozens_of_contracts_as/\"> <img alt=\"Flock Is Losing Dozens of Contracts as Controversy Grows\" src=\"https://external-preview.redd.it/8Z02r284Z4Ed5Q0zruT0LuIGRIQFhfN3izjCp7bceEA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=396905743a212af535b6dafee17610eabd0130be\" title=\"Flock Is Losing Dozens of Contracts as Controversy Grows\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Plastic_Ninja_9014\"> /u/Plastic_Ninja_9014 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/technology/\"> r/technology </a> <br /> <span><a href=\"https://www.yahoo.com/news/us/articles/flock-losing-dozens-contracts-controversy-194808945.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/technology/comments/1vi9e6b/flock_is_losing_dozens_of_contracts_as/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T23:29:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/pics/comments/1vjaahn/lone_toddler_in_gaza/\"> <img alt=\"Lone toddler in Gaza\" src=\"https://preview.redd.it/mwt5ch55k8ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f74ab75883bb997dbb2799358c39735fd77b81e5\" title=\"Lone toddler in Gaza\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MeowieSugie\"> /u/MeowieSugie </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/pics/\"> r/pics </a> <br /> <span><a href=\"https://i.redd.it/mwt5ch55k8ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/pics/comments/1vjaahn/lone_toddler_in_gaza/\">[comments]</a></span> </td></tr></table>"
     },
     {
       "source": "Reddit r/all",
-      "title": "Daughter lovingly teaches her dad English using a hamburger",
-      "title_zh": "女儿用汉堡亲切地教她爸爸英语",
-      "url": "https://www.reddit.com/r/MadeMeSmile/comments/1vicrbi/daughter_lovingly_teaches_her_dad_english_using_a/",
+      "title": "Dudes use a table to save people from a burning building.",
+      "title_zh": "伙计们用一张桌子将人们从燃烧的建筑物中拯救出来。",
+      "url": "https://www.reddit.com/r/CrazyFuckingVideos/comments/1vj8uib/dudes_use_a_table_to_save_people_from_a_burning/",
       "region": "Global",
-      "published": "2026-08-07T21:04:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1vicrbi/daughter_lovingly_teaches_her_dad_english_using_a/\"> <img alt=\"Daughter lovingly teaches her dad English using a hamburger\" src=\"https://external-preview.redd.it/ZDkxdWs3ZGFwMGloMda32NxBbYRGIo5XpR41G9TFQT90yvHikkbZroHvfqVM.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fa5f11e897191d0f47c67f89337189c061808a23\" title=\"Daughter lovingly teaches her dad English using a hamburger\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Recent-Sorbet\"> /u/Recent-Sorbet </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MadeMeSmile/\"> r/MadeMeSmile </a> <br /> <span><a href=\"https://v.redd.it/o4yn91map0ih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MadeMeSmile/comments/1vicrbi/daughter_lovingly_teaches_her_dad_english_using_a/\">[comments]</a></span> </td></tr></table>"
+      "published": "2026-08-08T22:24:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/CrazyFuckingVideos/comments/1vj8uib/dudes_use_a_table_to_save_people_from_a_burning/\"> <img alt=\"Dudes use a table to save people from a burning building.\" src=\"https://external-preview.redd.it/Zm04ZDNjdWU4OGloMZ0Fvh_lABkiI1qmv7u8KJxN2X7Ur2oQZSbsIWyzzLiN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=623c6750fc09b25343e3f34a16392fff32669fe7\" title=\"Dudes use a table to save people from a burning building.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SupervillainMustache\"> /u/SupervillainMustache </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/CrazyFuckingVideos/\"> r/CrazyFuckingVideos </a> <br /> <span><a href=\"https://v.redd.it/cm8qrire88ih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/CrazyFuckingVideos/comments/1vj8uib/dudes_use_a_table_to_save_people_from_a_burning/\">[comments]</a></span> </td></tr></table>"
     },
     {
-      "source": "Reddit r/all",
-      "title": "Wemby \"Its just like the River Walk in San Antonio\"",
-      "title_zh": "温比「就像圣安东尼奥的河畔漫步」",
-      "url": "https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/",
+      "source": "TechCrunch",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title_zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染者",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "region": "Global",
-      "published": "2026-08-07T22:32:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/\"> <img alt=\"Wemby &quot;Its just like the River Walk in San Antonio&quot;\" src=\"https://external-preview.redd.it/NZyevHO7L4X5Dpts1Tj-oiOCes-eP64E7SBKRVCyaH0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27a0fdd48931b4ef71ff6200105dc0f0cac4c729\" title=\"Wemby &quot;Its just like the River Walk in San Antonio&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PastaCheed\"> /u/PastaCheed </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/nba/\"> r/nba </a> <br /> <span><a href=\"https://streamable.com/pfv0fo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/\">[comments]</a></span> </td></tr></table>"
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
     },
     {
-      "source": "Reddit r/all",
-      "title": "Me_irl",
-      "title_zh": "Me_irl",
-      "url": "https://www.reddit.com/r/me_irl/comments/1vi9dw3/me_irl/",
+      "source": "TechCrunch",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "title_zh": "OpenAI收购演示文稿初创公司NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "region": "Global",
-      "published": "2026-08-07T18:55:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/me_irl/comments/1vi9dw3/me_irl/\"> <img alt=\"Me_irl\" src=\"https://preview.redd.it/8pmh3lwc20ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=001e5890b8362b3fb856b9197caa5e0a640ce514\" title=\"Me_irl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/itsssmeeestrict21\"> /u/itsssmeeestrict21 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/me_irl/\"> r/me_irl </a> <br /> <span><a href=\"https://i.redd.it/8pmh3lwc20ih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/me_irl/comments/1vi9dw3/me_irl/\">[comments]</a></span> </td></tr></table>"
+      "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+      "title_zh": "X用原创内容奖励取代“错位”收益分享计划",
+      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 16:34:22 +0000",
+      "summary": "X is winding down its existing Revenue Sharing program."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
+      "title_zh": "Kindle Scribe Colorsoft很有趣，但它不是必备的",
+      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 16:00:00 +0000",
+      "summary": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "title_zh": "谷歌的顶级黑客猎人解释了黑客团体获得代号的原因",
+      "url": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 15:00:00 +0000",
+      "summary": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames."
     },
     {
       "source": "TechCrunch",
@@ -302,49 +347,67 @@
       "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
     },
     {
-      "source": "TechCrunch",
-      "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
-      "title_zh": "计算机制造商框架将数据泄露通知“所有客户”",
-      "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "source": "The Verge",
+      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+      "title_zh": "X将其收入分享计划替换为“原创内容奖励”",
+      "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 16:09:04 +0000",
-      "summary": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach."
+      "published": "2026-08-08T17:15:12-04:00",
+      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-      "title_zh": "今天是TechCrunch Disrupt 2026门票最高可享400 $折扣的最后一天",
-      "url": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "source": "The Verge",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "title_zh": "亚马逊数据中心可能拥有该国污染最严重的发电厂",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 15:52:33 +0000",
-      "summary": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing."
+      "published": "2026-08-08T13:53:34-04:00",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms",
-      "title_zh": "特朗普政府已花费近40亿美元取消海上风电场",
-      "url": "https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/",
+      "source": "The Verge",
+      "title": "Buc-ee’s dodges John Oliver to sue another small business",
+      "title_zh": "Buc-ee's躲避John Oliver起诉另一家小企业",
+      "url": "https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 15:11:03 +0000",
-      "summary": "The Trump administration has now convinced developers to abandon 12 offshore wind leases. The latest will cost taxpayers $1.2 billion."
+      "published": "2026-08-08T11:47:30-04:00",
+      "summary": "Buc-ee's became something of a viral sensation during the World Cup, but it has a troubling history of suing small gas stations and convenience stores. On a recent episode of Last Week Tonight, John Oliver literally begged the company to sue him for selling merch featuring his squirrel mascot, Mr. Nutterbutter, with branding that reads [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "title_zh": "举办您自己的Disrupt活动：申请在TechCrunch Disrupt 2026举办会外活动",
-      "url": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "source": "The Verge",
+      "title": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "title_zh": "音乐家和企业家Tom Vek正在构建一个数字音乐播放器，但不要称之为复古",
+      "url": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 14:30:00 +0000",
-      "summary": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt."
+      "published": "2026-08-08T11:00:00-04:00",
+      "summary": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, [&#8230;]"
     },
     {
-      "source": "TechCrunch",
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "title_zh": "研究人员表示，中国人工智能模型Kimi逃脱了网络安全测试环境",
-      "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "source": "The Verge",
+      "title": "Is this $450 laptop from an unknown brand too good to be true?",
+      "title_zh": "这款来自未知品牌的$ 450笔记本电脑是否太好而不真实？",
+      "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 14:28:31 +0000",
-      "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured."
+      "published": "2026-08-08T08:00:00-04:00",
+      "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "My favorite feel-good show is back",
+      "title_zh": "我最喜欢的感觉良好的节目又回来了",
+      "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+      "region": "Global",
+      "published": "2026-08-08T08:00:00-04:00",
+      "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and Google Zero and the history of the bicycle, [&#8230;]"
+    },
+    {
+      "source": "The Verge",
+      "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+      "title_zh": "Nitecore最新的移动电源是迄今为止最轻、最紧凑的",
+      "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+      "region": "Global",
+      "published": "2026-08-08T03:00:00-04:00",
+      "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]"
     },
     {
       "source": "The Verge",
@@ -374,85 +437,49 @@
       "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]"
     },
     {
-      "source": "The Verge",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "title_zh": "OpenAI对新车型进行了刹车，因为据说它太强大了",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "Product Hunt",
+      "title": "AstraPixels",
+      "title_zh": "AstraPixels",
+      "url": "https://www.producthunt.com/products/astrapixels",
       "region": "Global",
-      "published": "2026-08-07T14:40:34-04:00",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "The only instant cameras worth your money",
-      "title_zh": "唯一物有所值的即时相机",
-      "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-      "region": "Global",
-      "published": "2026-08-07T14:04:08-04:00",
-      "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Disney Plus tries a new AI-powered search",
-      "title_zh": "迪士尼Plus尝试新的人工智能驱动搜索",
-      "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "region": "Global",
-      "published": "2026-08-07T13:53:44-04:00",
-      "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "title_zh": "Microsoft Edge即将锁定较旧的广告拦截器，就像Chrome一样",
-      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-      "region": "Global",
-      "published": "2026-08-07T13:43:34-04:00",
-      "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any meaningful usage\" that still use MV2, and only three [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-      "title_zh": "以50 $的价格在4K蓝光上抢购整部《指环王》三部曲",
-      "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-      "region": "Global",
-      "published": "2026-08-07T12:58:18-04:00",
-      "summary": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the original theatrical releases of all [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "title_zh": "Google AI重组背后的原因",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "region": "Global",
-      "published": "2026-08-07T12:45:14-04:00",
-      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks",
-      "title_zh": "根据泄露消息，索尼可能会发布更便宜版本的WH-1000XM4耳机",
-      "url": "https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak",
-      "region": "Global",
-      "published": "2026-08-07T12:15:46-04:00",
-      "summary": "Following the release of its premium and very expensive $650 The Collexion headphones in May, Sony could be taking its 1000X line of wireless noise-canceling headphones in a cheaper direction next month. The company is reportedly planning a refreshed and more affordable version of its six-year-old WH-1000XM4 headphones that will feature similar performance and specs [&#8230;]"
+      "published": "2026-08-05T20:18:25-07:00",
+      "summary": "<p>\n            ​​A pixel-art solar system at its real current positions.​\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216176?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Coldtea.ai",
-      "title_zh": "Coldtea.ai",
-      "url": "https://www.producthunt.com/products/coldtea",
+      "title": "Toolport",
+      "title_zh": "工具端口",
+      "url": "https://www.producthunt.com/products/conduit-12",
       "region": "Global",
-      "published": "2026-07-17T01:59:06-07:00",
-      "summary": "<p>\n            Make your software delivery self-driving\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1198904?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-08-07T13:20:13-07:00",
+      "summary": "<p>\n            Every tool, one port. One MCP setup for all your AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/conduit-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217619?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Orite",
-      "title_zh": "Orite",
-      "url": "https://www.producthunt.com/products/orite",
+      "title": "Hexis",
+      "title_zh": "Hexis",
+      "url": "https://www.producthunt.com/products/bevel-4",
       "region": "Global",
-      "published": "2026-07-10T05:00:00-07:00",
-      "summary": "<p>\n            Give your AI Agent money. Not a blank check.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/orite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192888?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-08-03T09:15:36-07:00",
+      "summary": "<p>\n            Git-backed skills, tools & context for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213979?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The GTM Co-Founder",
+      "title_zh": "GTM联合创始人",
+      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
+      "region": "Global",
+      "published": "2026-07-27T06:50:43-07:00",
+      "summary": "<p>\n            Open-source GTM skills for technical founders\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1207906?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Basedash Subscriptions",
+      "title_zh": "Basedash订阅",
+      "url": "https://www.producthunt.com/products/basedash",
+      "region": "Global",
+      "published": "2026-08-07T21:18:54-07:00",
+      "summary": "<p>\n            Subscribe to any dashboard. Delivered on schedule.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217769?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -465,21 +492,30 @@
     },
     {
       "source": "Product Hunt",
-      "title": "AndroMeld",
-      "title_zh": "AndroMeld",
-      "url": "https://www.producthunt.com/products/andromeld",
+      "title": "Rindler",
+      "title_zh": "林德勒",
+      "url": "https://www.producthunt.com/products/rindler",
       "region": "Global",
-      "published": "2026-08-05T06:06:47-07:00",
-      "summary": "<p>\n            Bring a continuity-style experience to Android and Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/andromeld?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215696?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-08-03T15:15:29-07:00",
+      "summary": "<p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rindler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214232?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Merge",
-      "title_zh": "合并",
-      "url": "https://www.producthunt.com/products/merge-5",
+      "title": "The new Firecrawl MCP",
+      "title_zh": "全新Firecrawl MCP",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
       "region": "Global",
-      "published": "2026-08-05T22:55:10-07:00",
-      "summary": "<p>\n            AI-native code review assessments\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/merge-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216248?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-08-05T15:49:34-07:00",
+      "summary": "<p>\n            Agent-ready web context for any MCP client.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216087?app_id=339\">Link</a>\n          </p>"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StepShot",
+      "title_zh": "StepShot",
+      "url": "https://www.producthunt.com/products/stepshot-2",
+      "region": "Global",
+      "published": "2026-08-05T01:17:49-07:00",
+      "summary": "<p>\n            AI that turns real workflows into step-by-step guides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stepshot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215451?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
@@ -491,40 +527,67 @@
       "summary": "<p>\n            Writes your standup from real work. Remembers your team.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/troopr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214599?app_id=339\">Link</a>\n          </p>"
     },
     {
-      "source": "Product Hunt",
-      "title": "Whop CLI",
-      "title_zh": "WHOP CLI",
-      "url": "https://www.producthunt.com/products/whop-cli",
+      "source": "BBC World",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "title_zh": "阿曼表示，霍尔木兹会谈积极，因为伊朗警告交易不会打开海峡",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "2026-08-05T18:40:05-07:00",
-      "summary": "<p>\n            Run your entire business from the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whop-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216139?app_id=339\">Link</a>\n          </p>"
+      "published": "Sat, 08 Aug 2026 19:18:57 GMT",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
     },
     {
-      "source": "Product Hunt",
-      "title": "HAR",
-      "title_zh": "HAR",
-      "url": "https://www.producthunt.com/products/har",
+      "source": "BBC World",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "title_zh": "特朗普的前律师托德·布兰奇（ Todd Blanche ）勉强确认为美国司法部长",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "2026-08-06T07:56:17-07:00",
-      "summary": "<p>\n            Open Source harness for multi-agent coding workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/har?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1216668?app_id=339\">Link</a>\n          </p>"
+      "published": "Sat, 08 Aug 2026 15:56:39 GMT",
+      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
     },
     {
-      "source": "Product Hunt",
-      "title": "Rindler",
-      "title_zh": "林德勒",
-      "url": "https://www.producthunt.com/products/rindler",
+      "source": "BBC World",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "title_zh": "美国在新任右翼总统就职第一天向哥伦比亚提供10亿美元$",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "2026-08-03T15:15:29-07:00",
-      "summary": "<p>\n            Automate the web work your team does by hand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rindler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214232?app_id=339\">Link</a>\n          </p>"
+      "published": "Sat, 08 Aug 2026 17:58:42 GMT",
+      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
     },
     {
-      "source": "Product Hunt",
-      "title": "Progress AI Observability",
-      "title_zh": "PROGRESS AI Observability",
-      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "source": "BBC World",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "title_zh": "梅西的父亲豪尔赫因病去世，享年68岁",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "2026-08-05T07:27:52-07:00",
-      "summary": "<p>\n            Trace, evaluate, and improve AI agents in production\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/progress-ai-observability?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215770?app_id=339\">Link</a>\n          </p>"
+      "published": "Sat, 08 Aug 2026 15:51:11 GMT",
+      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+    },
+    {
+      "source": "BBC World",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "title_zh": "麦当娜向“天才、超凡脱俗”的制片人威廉·奥比特致敬",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 17:23:31 GMT",
+      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "title_zh": "观看：反对党议员向科索沃代理总理扔鸡蛋的时刻",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 15:59:37 GMT",
+      "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti."
+    },
+    {
+      "source": "BBC World",
+      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "title_zh": "巴黎要求电动滑板车乘客佩戴安全装备或面临罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Sat, 08 Aug 2026 20:18:28 GMT",
+      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents."
     },
     {
       "source": "BBC World",
@@ -532,638 +595,575 @@
       "title_zh": "西班牙对意大利实施边境管制，因为Ceuta移民涌入加剧",
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 22:13:55 GMT",
+      "published": "Sat, 08 Aug 2026 14:25:19 GMT",
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
     },
     {
       "source": "BBC World",
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "title_zh": "泰国总理誓言在8人在枪击事件中丧生后引入更严格的枪支法律",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "title_zh": "在基辅附近的俄罗斯导弹袭击中丧生的三名儿童中的一名",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 21:19:27 GMT",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+      "published": "Sat, 08 Aug 2026 18:06:25 GMT",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
     },
     {
       "source": "BBC World",
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "title_zh": "泰国学生说，当我的老师被枪杀时，我正站在她面前",
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "title_zh": "台风海豚袭击日本冲绳，然后冲击中国",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 07 Aug 2026 14:20:27 GMT",
-      "summary": "The student says she feared never seeing her mother again after the attack killed five teachers."
-    },
-    {
-      "source": "BBC World",
-      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "title_zh": "沙特阿拉伯、土耳其和巴基斯坦签署防务协议",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 17:42:54 GMT",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
-    },
-    {
-      "source": "BBC World",
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "title_zh": "西班牙警方在“最大”走私网络之一的半身像中逮捕了78人",
-      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 16:13:45 GMT",
-      "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
-    },
-    {
-      "source": "BBC World",
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "title_zh": "被绑架的稀有塞尔维亚鹰在获救后被释放到野外",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 20:40:56 GMT",
-      "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom."
-    },
-    {
-      "source": "BBC World",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "title_zh": "亨特·拜登告诉英国广播公司，他的赦免对美国或他父亲的遗产“不好”",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 22:07:00 GMT",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
-    },
-    {
-      "source": "BBC World",
-      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "title_zh": "Sophia Laforteza距离Katseye仅一步之遥， Katseye是今年第二位离开的成员",
-      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 21:05:45 GMT",
-      "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble."
-    },
-    {
-      "source": "BBC World",
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "title_zh": "墨西哥和秘鲁在庇护纠纷后恢复外交关系",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 15:38:28 GMT",
-      "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
-    },
-    {
-      "source": "BBC World",
-      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "title_zh": "在“蟑螂”抗议活动之后，一个新的青年风潮抓住了一个印度国家",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Fri, 07 Aug 2026 08:32:57 GMT",
-      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
+      "published": "Sat, 08 Aug 2026 15:15:17 GMT",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "China chega ao Pix antes de o Banco Central definir as regras",
-      "title_zh": "中国在中央银行制定规则之前抵达PIX",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/08/china-chega-ao-pix-antes-de-o-banco-central-definir-as-regras.shtml",
+      "title": "Raro show de Paulinho da Viola e Maria Bethânia embala Doce Maravilha",
+      "title_zh": "Paulinho da Viola和Maria Bethânia的罕见表演包装Sweet Wonder",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/raro-show-de-paulinho-da-viola-e-maria-bethania-embala-doce-maravilha.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "A UnionPay International anunciou na terça (4) que vai iniciar um projeto-piloto permitindo a usuários de aplicativos de pagamento chineses pagarem por QR Code em estabelecimentos brasileiros conectados ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/pix/\">Pix</a>. A divulgação partiu do consulado-geral da <a href=\"https://www1.folha.uol.com.br/folha-topicos/china/\">China</a> no <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro/\">Rio de Janeiro</a>, e o comunicado não nomeia o parceiro brasileiro nem informa data de início.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/08/china-chega-ao-pix-antes-de-o-banco-central-definir-as-regras.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:07:00 -0300",
+      "summary": "Quem fosse aos shows do primeiro dia do festival Doce Maravilha, neste sábado, dia 8, no Jockey Club Brasileiro, na zona sul do <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro/\">Rio de Janeiro</a>, mal saberia dizer que aquele deveria ser, na verdade, o segundo dia do evento.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/raro-show-de-paulinho-da-viola-e-maria-bethania-embala-doce-maravilha.shtml\">Leia mais</a> (08/08/2026 - 23h07)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Aos 86, o escritor francês Régis Debray lança livros com ares de canto do cisne",
-      "title_zh": "86岁的法国作家雷吉斯·德布雷（ Régis Debray ）推出了播放天鹅歌曲的书籍",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2026/08/aos-86-o-escritor-frances-regis-debray-lanca-livros-com-ares-de-canto-do-cisne.shtml",
+      "title": "A sabatina de Renan Santos",
+      "title_zh": "A sabatina de Renan Santos",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/08/a-sabatina-de-renan-santos.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "O escritor francês <a href=\"https://www1.folha.uol.com.br/fsp/mais/fs30089808.htm\" rel=\"\" target=\"\">Régis Debray</a> fará 86 anos no mês que vem. \"O eflúvio da manhã, quem o pede ao crepúsculo da tarde?\", pergunta <a href=\"https://www1.folha.uol.com.br/webstories/cultura/2020/09/quem-foi-carlos-drummond-de-andrade/\" rel=\"\" target=\"\">Carlos Drummond</a> num poema em homenagem a <a href=\"https://www1.folha.uol.com.br/folha-topicos/machado-de-assis/\">Machado de Assis</a>. No que diz respeito ao afã de publicar, Debray daria resposta positiva à pergunta.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/mariosergioconti/2026/08/aos-86-o-escritor-frances-regis-debray-lanca-livros-com-ares-de-canto-do-cisne.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "Os candidatos a presidente têm sido sabatinados pelas jornalistas Natuza Nery e Andréia Sadi na GloboNews. O conteúdo fica disponível no podcast \"O Assunto\". A primeira entrevista foi com o candidato <a href=\"https://www1.folha.uol.com.br/folha-topicos/renan-santos/\">Renan Santos</a>, do partido Missão.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/08/a-sabatina-de-renan-santos.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Campanha de Lula investirá em programas de cuidado com idosos",
-      "title_zh": "卢拉的竞选活动将投资于老年人护理计划",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-lula-investira-em-programas-de-cuidado-com-idosos.shtml",
+      "title": "China tem 1º parque industrial zero carbono, com fábricas de baterias e de turbinas eólicas",
+      "title_zh": "中国拥有第一个零碳工业园区，拥有电池和风力涡轮机工厂",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/china-tem-1o-parque-industrial-zero-carbono-com-fabricas-de-baterias-e-de-turbinas-eolicas.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "Um dos temas que tiveram destaque na fala de <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> na convenção de sua candidatura, no domingo (2), o cuidado com idosos terá protagonismo na campanha e no programa de governo.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/08/campanha-de-lula-investira-em-programas-de-cuidado-com-idosos.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "Fica na Mongólia Interior, na <a href=\"https://www1.folha.uol.com.br/folha-topicos/china/\">China</a>, o primeiro parque industrial com saldo zero de dióxido de carbono, o principal gás do efeito estufa. Mas, ao contrário do que parece, o projeto não se refere a um complexo manufatureiro no qual não há emissões, mas a um cálculo que permite compensar matematicamente a quantidade de emissões lançadas na atmosfera.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/china-tem-1o-parque-industrial-zero-carbono-com-fabricas-de-baterias-e-de-turbinas-eolicas.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Graciliano Ramos, com nova biografia, desejou a 'morte do capitalismo' em perfil",
-      "title_zh": "格拉西里亚诺·拉莫斯（ Graciliano Ramos ）以新的传记祝愿“资本主义之死”成为",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/graciliano-ramos-com-nova-biografia-desejou-a-morte-do-capitalismo-em-perfil.shtml",
+      "title": "Podemos dizer que IA tem mente semelhante a de humanos?",
+      "title_zh": "我们能说人工智能有一个像人类一样的头脑吗？",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/podemos-dizer-que-ia-tem-mente-semelhante-a-de-humanos.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "O seguinte autorretrato de <a href=\"https://www1.folha.uol.com.br/ilustrada/2024/01/graciliano-ramos-entra-em-dominio-publico-tem-inedito-e-familia-fala-em-sacanagem.shtml\" rel=\"\" target=\"\">Graciliano Ramos</a> foi feito a pedido do jornalista João Condé, titular durante anos da lendária coluna <a href=\"https://www1.folha.uol.com.br/fsp/1996/3/21/ilustrada/1.html\">\"Arquivos Implacáveis\"</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/graciliano-ramos-com-nova-biografia-desejou-a-morte-do-capitalismo-em-perfil.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "<strong>[RESUMO]</strong> Nos últimos anos, em um misto de fascínio e pânico, vimos as inteligências artificiais nos superarem em inúmeras modalidades de conhecimento, da produção de textos a desafios de matemática. Caminhamos para uma derrota definitiva para o pensamento humano? Neurocientista explica o que distingue o aprendizado e a produção de conhecimento em pessoas e máquinas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/podemos-dizer-que-ia-tem-mente-semelhante-a-de-humanos.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Masp, com nova presidente, sai em busca de diretor e quer criar comitê artístico",
-      "title_zh": "马斯普与新任总裁一起寻找导演，并希望成立一个艺术委员会",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/08/masp-com-nova-presidente-sai-em-busca-de-diretor-e-quer-criar-comite-artistico.shtml",
+      "title": "Quatro anos após falência, fantasma da Itapemirim ainda assombra",
+      "title_zh": "破产四年后，伊塔佩米林的鬼魂仍然出没",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/quatro-anos-apos-falencia-fantasma-da-itapemirim-ainda-assombra.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "Recém-anunciada como nova presidente do <a href=\"https://www1.folha.uol.com.br/folha-topicos/museu/\">Museu</a> de <a href=\"https://www1.folha.uol.com.br/folha-topicos/arte/\">Arte</a> de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a>, o <a href=\"https://www1.folha.uol.com.br/folha-topicos/masp/\">Masp</a>, <a href=\"https://www1.folha.uol.com.br/colunas/plastico/2026/08/flavia-almeida-sera-a-nova-presidente-do-masp.shtml\" rel=\"\" target=\"\">Flávia Buarque de Almeida</a> já tem uma missão a cumprir num prazo de cinco anos. Ela vai liderar a busca por um novo diretor-geral do museu, cargo até agora inexistente, para tocar a gestão do dia a dia da instituição, função antes acumulada pelo presidente de saída, <a href=\"https://www1.folha.uol.com.br/ilustrada/2026/07/estou-pronto-para-ir-embora-nao-tenho-apego-diz-heitor-martins-presidente-do-masp.shtml\" rel=\"\" target=\"\">Heitor Martins</a>, que deixa a função em setembro.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/08/masp-com-nova-presidente-sai-em-busca-de-diretor-e-quer-criar-comite-artistico.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "Para um ex-executivo da Itapemirim, seria impossível para o grupo manter a posição que teve entre os anos 1970 e 1980, de domínio no mercado de transporte interestadual rodoviário. Mas não precisava terminar \"desse jeito\".\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/quatro-anos-apos-falencia-fantasma-da-itapemirim-ainda-assombra.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Outback lança tábuas que combinam a tradicional costela da rede com massas e vegetais",
-      "title_zh": "Outback推出将传统吊床排骨与意大利面和蔬菜相结合的板材",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2026/08/outback-lanca-tabuas-que-combinam-a-tradicional-costela-da-rede-com-massas-e-vegetais.shtml",
+      "title": "Viih Tube e o estranho reality dos direitos trabalhistas",
+      "title_zh": "Viih管和劳工权利的奇怪现实",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/08/viih-tube-e-o-estranho-reality-dos-direitos-trabalhistas.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "O <a href=\"https://guia.folha.uol.com.br/guloseimas/2026/02/outback-lanca-cafe-da-manha-ao-estilo-americano-brasil-e-2o-pais-no-mundo-a-ter-menu-matinal.shtml\" rel=\"\" target=\"\">Outback</a> traz de volta ao cardápio as tábuas para compartilhar, pratos que combinam a tradicional costela suína da rede com outras porções de carnes, massas e vegetais. As seis opções de montagem servem de duas a três pessoas por a partir de R$ 129,90.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/guloseimas/2026/08/outback-lanca-tabuas-que-combinam-a-tradicional-costela-da-rede-com-massas-e-vegetais.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "Eu não conhecia <a href=\"https://www1.folha.uol.com.br/folha-topicos/viih-tube/\">Viih Tube</a> até assistir, recentemente, a um vídeo em que ela e o marido, Eliezer Netto, falavam sobre direitos dos trabalhadores domésticos e <a href=\"https://www1.folha.uol.com.br/folha-topicos/trabalho-escravo/\" rel=\"\" target=\"\">trabalho em condições análogas à escravidão</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/08/viih-tube-e-o-estranho-reality-dos-direitos-trabalhistas.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Sob Trump, 90% das indicações de embaixadores são destinadas a apoiadores políticos",
-      "title_zh": "在特朗普的领导下， 90%的大使提名由政治支持者获得",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/sob-trump-90-das-indicacoes-de-embaixadores-sao-destinadas-a-apoiadores-politicos.shtml",
+      "title": "PT e PL aliam apoios táticos e chapas puras nos estados por palanque nacional",
+      "title_zh": "PT和PL通过国家平台结合各州的战术支撑和纯板块",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pt-e-pl-aliam-apoios-taticos-e-chapas-puras-nos-estados-por-palanque-nacional.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "A diplomacia dos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a> passa por uma mudança sem precedentes no segundo mandato de <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trump/\">Donald Trump</a>. Dados da Associação Americana do Serviço Exterior (AFSA, na sigla em inglês) mostram que 90% das 102 indicações de embaixadores feitas pelo republicano são de nomes políticos de sua confiança, e apenas 10% são diplomatas de carreira.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/sob-trump-90-das-indicacoes-de-embaixadores-sao-destinadas-a-apoiadores-politicos.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "Protagonistas da disputa presidencial, <a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a> e <a href=\"https://www1.folha.uol.com.br/folha-topicos/pl/\">PL</a> chegam ao fim das convenções partidárias com apoios táticos a partidos de centro nos estados e apostando em chapas puras para ancorar a disputa nacional entre o presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> e o senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/08/pt-e-pl-aliam-apoios-taticos-e-chapas-puras-nos-estados-por-palanque-nacional.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Nova biografia disseca obra e vida de Graciliano Ramos e traz à tona escritor visceral",
-      "title_zh": "新的传记剖析了格拉西里亚诺·拉莫斯的工作和生活，并揭示了内心的作家",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/nova-biografia-disseca-obra-e-vida-de-graciliano-ramos-e-traz-a-tona-escritor-visceral.shtml",
+      "title": "Dia dos Pais de 2026 é o último com licença-paternidade de cinco dias no Brasil",
+      "title_zh": "2026年父亲节是巴西最后一个有五天陪产假的父亲节",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dia-dos-pais-de-2026-e-o-ultimo-com-licenca-paternidade-de-cinco-dias-no-brasil.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "Wander Melo Miranda era um adolescente de 15 anos na Belo Horizonte do final dos anos 1960, em plena ditadura. Aproveitando que seu pai abrira uma conta numa livraria, passou a ler autores que não leria no Colégio Militar, onde estudava. Um deles foi <a href=\"https://www1.folha.uol.com.br/colunas/sergio-rodrigues/2025/06/graciliano-ramos-e-o-texto-no-tempo-das-redes.shtml\">Graciliano Ramos</a>. Começou por \"Vidas Secas\".\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/08/nova-biografia-disseca-obra-e-vida-de-graciliano-ramos-e-traz-a-tona-escritor-visceral.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/dia-dos-pais/\">Dia dos Pais</a> de 2026 será o último celebrado sob a regra que limita a licença-<a href=\"https://www1.folha.uol.com.br/folha-topicos/paternidade/\">paternidade</a> a cinco dias. A partir de 2027, o período de afastamento será <a href=\"https://www1.folha.uol.com.br/mercado/2025/11/licenca-paternidade-e-caminho-para-reduzir-desigualdade-salarial-entre-homens-e-mulheres-dizem-especialistas.shtml\" rel=\"\" target=\"\">ampliado gradualmente,</a> até chegar a 20 dias em 2029.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/dia-dos-pais-de-2026-e-o-ultimo-com-licenca-paternidade-de-cinco-dias-no-brasil.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Livros examinam a moral, os mercados e o dinheiro por trás do capitalismo moderno",
-      "title_zh": "书籍探讨现代资本主义背后的道德、市场和金钱",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/livros-examinam-a-moral-os-mercados-e-o-dinheiro-por-tras-do-capitalismo-moderno.shtml",
+      "title": "Final de 'Cem Anos de Solidão' acerta ao reforçar vínculo político com América Latina",
+      "title_zh": "通过加强与拉丁美洲的政治联系，结束“百年孤独”",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/final-de-cem-anos-de-solidao-acerta-ao-reforcar-vinculo-politico-com-america-latina.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "Em uma época em que a indignação pública pode moldar decisões políticas mais rápido do que nunca, o <a href=\"https://www1.folha.uol.com.br/fsp/mercado/72279-estudo-sobre-como-aproximar-demanda-e-oferta-ganha-nobel.shtml\" rel=\"\" target=\"\">economista vencedor do Prêmio Nobel e professor de Stanford Alvin Roth </a>apresenta um argumento convincente a favor das evidências em detrimento do instinto no livro \"Moral Economics: What Controversial Transactions Reveal About How Markets Work\" [\"<a href=\"https://www1.folha.uol.com.br/folha-topicos/economia/\">Economia</a> Moral: O que as Transações Controversas Revelam sobre o Funcionamento dos Mercados\"].\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/08/livros-examinam-a-moral-os-mercados-e-o-dinheiro-por-tras-do-capitalismo-moderno.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "<strong>[RESUMO]</strong> Um dos principais livros da literatura mundial, \"Cem Anos de Solidão\" (1967) foi sempre tido como um romance impossível de adaptar, opinião compartilhada também por seu autor, o colombiano<strong> </strong> Gabriel García Márquez. É uma surpresa, portanto, que série da Netflix, que chega ao fim neste mês, tenha tantos méritos. Sem tentar competir com o livro, produção é fiel à arquitetura de sua trama e faz escolhas exitosas ao compreeender que, mais que simplesmente uma saga familiar em tom fantástico, o romance é uma reflexão sobre os impasses da América Latina e a passagem do tempo.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/08/final-de-cem-anos-de-solidao-acerta-ao-reforcar-vinculo-politico-com-america-latina.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Guerras, incêndios florestais e migração pressionam Europa e expõem fragilidades",
-      "title_zh": "战争、森林火灾和移民给欧洲带来压力，并暴露出脆弱性",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/guerras-incendios-florestais-e-migracao-pressionam-europa-e-expoem-fragilidades.shtml",
+      "title": "'Amanhecer', 'Harry Potter' e 'La La Land' voltam aos cinemas em agosto",
+      "title_zh": "“Breaking Dawn”、“Harry Potter”和“La La Land”将于8月回归影院",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/08/amanhecer-harry-potter-e-la-la-land-voltam-aos-cinemas-em-agosto.shtml",
       "region": "Brazil",
-      "published": "07 Aug 2026 23:00:00 -0300",
-      "summary": "Mais uma vez, nos últimos dias, a <a href=\"https://www1.folha.uol.com.br/folha-topicos/europa/\">Europa</a> pareceu assistir de fora enquanto seu destino era moldado por forças externas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/08/guerras-incendios-florestais-e-migracao-pressionam-europa-e-expoem-fragilidades.shtml\">Leia mais</a> (08/07/2026 - 23h00)"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Argentina Foreign Land Ownership Cap Stays at 15%",
-      "title_zh": "阿根廷外国土地所有权上限保持在15%",
-      "url": "https://www.riotimesonline.com/argentina-foreign-land-ownership-cap-15-percent-2026/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:23:38 +0000",
-      "summary": "<p>Politics: Argentina Key Facts &#8212;Withdrawn. Milei&#8217;s Senate bloc pulled the rural land chapter from its private property bill on 5 August 2026, a day before the vote. &#8212;Rule today. Argentina&#8217;s 2011 Land Law still caps foreign ownership of rural land at 15%, measured nationally, provincially and locally. &#8212;The catch. The dropped text offered 25%, but [&#8230;]</p>\n<p>The post <a href=\"https://www.riotimesonline.com/argentina-foreign-land-ownership-cap-15-percent-2026/\">Argentina Foreign Land Ownership Cap Stays at 15%</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Brazil Q2 Earnings: Fleury Profit Jumps 46%; Energisa Swings to Loss",
-      "title_zh": "巴西第二季度盈利： Fleury利润增长46% ； Energisa亏损",
-      "url": "https://www.riotimesonline.com/brazil-q2-2026-earnings-fleury-wiz-petroreconcavo-energisa/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:18:44 +0000",
-      "summary": "<p>Four Brazilian mid-cap results exposed sharply different pressures across healthcare, insurance distribution, onshore oil and regulated utilities.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/brazil-q2-2026-earnings-fleury-wiz-petroreconcavo-energisa/\">Brazil Q2 Earnings: Fleury Profit Jumps 46%; Energisa Swings to Loss</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Eztec Q2 Profit Falls 21% to US$22M; Launches Jump 58%",
-      "title_zh": "Eztec第二季度利润下降21%至2200万美元；推出JUMP 58%",
-      "url": "https://www.riotimesonline.com/eztec-q2-2026-profit-falls-launches-dividend/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:18:24 +0000",
-      "summary": "<p>Eztec's quarterly profit and revenue declined, yet record first-half sales and a surge in launches showed that its São Paulo development pipeline is accelerating.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/eztec-q2-2026-profit-falls-launches-dividend/\">Eztec Q2 Profit Falls 21% to US$22M; Launches Jump 58%</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Alupar Q2 IFRS Profit Near Triples to US$82M; Regulatory Profit Falls",
-      "title_zh": "Alupar第二季度IFRS利润接近三倍至8200万美元；监管利润下降",
-      "url": "https://www.riotimesonline.com/alupar-q2-2026-ifrs-profit-regulatory-profit-dividend/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:18:05 +0000",
-      "summary": "<p>Alupar's IFRS profit surged on accounting effects while regulatory profit declined, exposing the split between project accounting and recurring utility cash earnings.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/alupar-q2-2026-ifrs-profit-regulatory-profit-dividend/\">Alupar Q2 IFRS Profit Near Triples to US$82M; Regulatory Profit Falls</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "ALLOS Q2 Attributable Profit Jumps 53% to US$60M",
-      "title_zh": "ALLOS第二季度应占利润增长53%至6000万美元（ $ ）",
-      "url": "https://www.riotimesonline.com/allos-q2-2026-profit-shopping-sales-services/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:10:03 +0000",
-      "summary": "<p>ALLOS lifted attributable profit 53% as services and shopping-center income grew, while high occupancy and low leverage offset slower same-store sales.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/allos-q2-2026-profit-shopping-sales-services/\">ALLOS Q2 Attributable Profit Jumps 53% to US$60M</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Magazine Luiza Posts US$14M Q2 Loss as Online Sales Fall 12%",
-      "title_zh": "《路易莎》杂志公布第二季度亏损$ 1400万，因在线销售额下降12%",
-      "url": "https://www.riotimesonline.com/magazine-luiza-q2-2026-loss-online-sales-fall/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:03:59 +0000",
-      "summary": "<p>Magalu's stores gained ground and margins held, but an 11.9% online-sales decline and heavy financial costs pushed the Brazilian retailer deeper into loss.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/magazine-luiza-q2-2026-loss-online-sales-fall/\">Magazine Luiza Posts US$14M Q2 Loss as Online Sales Fall 12%</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Assaí Q2 Recurring Profit Up 94% to US$67M; Leverage Falls",
-      "title_zh": "Assaí第二季度经常性利润增长94%至6700万美元；杠杆率下降",
-      "url": "https://www.riotimesonline.com/assai-q2-2026-profit-debt-leverage-falls/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 20:01:36 +0000",
-      "summary": "<p>Assaí nearly doubled recurring profit and cut leverage to its lowest level since 2021, but thin sales growth showed that Brazilian consumers remain strained.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/assai-q2-2026-profit-debt-leverage-falls/\">Assaí Q2 Recurring Profit Up 94% to US$67M; Leverage Falls</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "São Paulo Nightlife Tonight — August 7, 2026",
-      "title_zh": "圣保罗夜生活今晚-2026年8月7日",
-      "url": "https://www.riotimesonline.com/sao-paulo-nightlife-friday-august-7-2026/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 17:24:42 +0000",
-      "summary": "<p>Your Friday night guide for São Paulo. Sardosa Bar opens in Vila Madalena, Anitta plays this weekend, and the SP2B festival kicks off Sunday.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/sao-paulo-nightlife-friday-august-7-2026/\">São Paulo Nightlife Tonight — August 7, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Rio de Janeiro Nightlife Tonight — August 7, 2026",
-      "title_zh": "里约热内卢夜生活今晚-2026年8月7日",
-      "url": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-august-7-2026/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 17:24:28 +0000",
-      "summary": "<p>Your Friday night guide to Rio de Janeiro: quiet tonight but samba at Carioca da Gema, Pedra do Sal roda, and more.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/rio-de-janeiro-nightlife-friday-august-7-2026/\">Rio de Janeiro Nightlife Tonight — August 7, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
-    },
-    {
-      "source": "The Rio Times",
-      "title": "Washington Fast-Tracks Military Cooperation With Colombia’s New Government — Nothing Signed Yet",
-      "title_zh": "华盛顿与哥伦比亚新政府开展快速军事合作—尚未签署任何协议",
-      "url": "https://www.riotimesonline.com/us-colombia-military-cooperation-plan-patriota-2026/",
-      "region": "Brazil",
-      "published": "Fri, 07 Aug 2026 17:15:40 +0000",
-      "summary": "<p>Colombia &#183; Defence Key Facts Nothing is signed. There is no treaty, memorandum or basing accord. What exists is planning, a Pentagon meeting and an official&#8217;s social-media post. The name. &#8220;Plan Patriota 2.0&#8221;, used by US Deputy Assistant Secretary of War for the Americas Joseph Humire on 21 July after meeting Colombia&#8217;s incoming defence minister. [&#8230;]</p>\n<p>The post <a href=\"https://www.riotimesonline.com/us-colombia-military-cooperation-plan-patriota-2026/\">Washington Fast-Tracks Military Cooperation With Colombia&#8217;s New Government — Nothing Signed Yet</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "08 Aug 2026 23:00:00 -0300",
+      "summary": "<a href=\"https://guia.folha.uol.com.br/cinema/2026/03/redes-de-cinema-fazem-sucesso-ao-relancar-blockbusters-como-kill-bill-e-crepusculo.shtml\" rel=\"\" target=\"\">O retorno de filmes já consagrados à grade de exibição dos cinemas é cada vez mais frequente.</a> Prova disso é a lista de relançamentos de agosto. Neste mês, voltam às telonas títulos como <a href=\"https://www1.folha.uol.com.br/folhateen/2025/10/como-a-saga-crepusculo-segue-relevante-20-anos-apos-seu-lancamento.shtml\">\"A Saga Crepúsculo: Amanhecer\"</a> e <a href=\"https://www1.folha.uol.com.br/folha-topicos/harry-potter/\">\"Harry Potter e a Pedra Filosofal\"</a>, além de animações japonesas e do premiado musical \"La La Land - Cantando Estações\".\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/cinema/2026/08/amanhecer-harry-potter-e-la-la-land-voltam-aos-cinemas-em-agosto.shtml\">Leia mais</a> (08/08/2026 - 23h00)"
     },
     {
       "source": "The Jakarta Post",
-      "title": "US, Indonesian first responders share expertise in Pacific Partnership",
-      "title_zh": "美国和印尼的急救人员分享太平洋伙伴关系方面的专业知识",
-      "url": "https://www.thejakartapost.com/indonesia/2026/08/08/us-indonesian-first-responders-share-expertise-in-pacific-partnership.html",
+      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
+      "title_zh": "伊朗表示，霍尔木兹海峡的交易已经接近，但不足以打开水道",
+      "url": "https://www.thejakartapost.com/world/2026/08/09/iran-says-deal-on-strait-of-hormuz-is-close-but-not-enough-to-open-the-waterway.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 08:30:37 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178421_1786101550._medium.jpg\" style=\"text-align: center;\" /></p><p>The activities included exchanging expertise, refining response procedures, subject matter expert engagements and disaster management workshops in Sibolga and Central Tapanuli, North Sumatra, on July 21-31.</p>"
+      "published": "Sun, 9 Aug 2026 08:40:24 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/04/2026_08_04_178304_1785822888._medium.jpg\" style=\"text-align: center;\" /></p><p>Agreement between Iran and Oman over the strait, which separates the two countries, is seen as vital to a wider deal to end the war, which began with U.S. and Israeli attacks on Iran on February 28 and led to Tehran establishing a chokehold over the major energy export route.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "What kind of leaders does Indonesia want?",
-      "title_zh": "印尼需要什么样的领导人？",
-      "url": "https://www.thejakartapost.com/opinion/2026/08/08/what-kind-of-leaders-does-indonesia-want.html",
+      "title": "Industrial limits hamper Indonesia's 100 GW solar push",
+      "title_zh": "印尼100吉瓦太阳能产业极限",
+      "url": "https://www.thejakartapost.com/business/2026/08/09/industrial-limits-hamper-indonesias-100-gw-solar-push.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 08:08:08 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/07/31/2026_07_31_178165_1785485050._medium.jpg\" style=\"text-align: center;\" /></p><p>While a public service academy has a place in the education ecosystem, nurturing future leaders that can navigate the country's positioning in the global arena of technology, innovation and business doesn't require building a whole new institution.</p>"
+      "published": "Sun, 9 Aug 2026 08:15:06 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/03/25/2026_03_25_173996_1774438260._medium.jpg\" style=\"text-align: center;\" /></p><p>The \"aggressive\" deadline of three years would likely backfire, pushing Indonesia into heavy reliance on imported solar components.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Saudi Arabia, Turkey, Pakistan sign defence pact amid regional war",
-      "title_zh": "沙特阿拉伯、土耳其和巴基斯坦在地区战争期间签署防务协议",
-      "url": "https://www.thejakartapost.com/world/2026/08/08/saudi-arabia-turkey-pakistan-sign-defence-pact-amid-regional-war.html",
+      "title": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
+      "title_zh": "台风海豚袭击日本冲绳，中国在登陆前关闭港口",
+      "url": "https://www.thejakartapost.com/world/2026/08/08/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 08:07:31 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/08/2026_08_08_178440_1786151041._medium.jpg\" style=\"text-align: center;\" /></p><p>Riyadh is looking to strengthen its security ties against the backdrop of war between the United States and Iran, which has drawn in surrounding nations and disrupted shipping through the Strait of Hormuz and the Red Sea.</p>"
+      "published": "Sat, 8 Aug 2026 15:03:32 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/08/2026_08_08_178443_1786165290._medium.jpg\" style=\"text-align: center;\" /></p><p>Five elderly people suffered non-life-threatening injuries, with three falling due to the wind, the Okinawan prefectural government said.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Indonesia’s energy transition leaves coal communities struggling to adapt",
-      "title_zh": "印度尼西亚的能源转型使煤炭社区难以适应",
-      "url": "https://www.thejakartapost.com/indonesia/2026/08/08/indonesias-energy-transition-leaves-coal-communities-struggling-to-adapt.html",
+      "title": "Patient death, doctors' mockery expose healthcare cracks",
+      "title_zh": "患者死亡，医生的嘲弄暴露了医疗保健的裂缝",
+      "url": "https://www.thejakartapost.com/indonesia/2026/08/08/patient-death-doctors-mockery-expose-healthcare-cracks.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 07:21:02 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178420_1786098868._medium.jpg\" style=\"text-align: center;\" /></p><p>In Muara Enim regency, the heart of South Sumatra's coal industry, the closure of mines has left local residents scrambling to find new livelihoods, while others continue to live with the economic hardship and environmental scars left behind by decades of mining.</p>"
+      "published": "Sat, 8 Aug 2026 14:00:53 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/02/14/2024_02_14_147376_1707846140._medium.jpg\" style=\"text-align: center;\" /></p><p>The death of a National Health Insurance (JKN) patient after waiting hours for a hospital bed, coupled with insensitive social media remarks by healthcare workers responding to his earlier complaint, has intensified scrutiny of Indonesia's strained healthcare system and professional ethics.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Building an ASEAN that delivers: Why centrality requires capacity",
-      "title_zh": "建立一个能够提供服务的东盟：为什么中心化需要能力",
-      "url": "https://www.thejakartapost.com/opinion/2026/08/08/building-an-asean-that-delivers-why-centrality-requires-capacity.html",
+      "title": "EU tells Meta, TikTok to boost monitoring, fact-checking",
+      "title_zh": "欧盟告知Meta、TikTok加强监测、事实核查",
+      "url": "https://www.thejakartapost.com/world/2026/08/08/eu-tells-meta-tiktok-to-boost-monitoring-fact-checking.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 07:07:07 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/07/21/2026_07_21_177856_1784640268._medium.jpg\" style=\"text-align: center;\" /></p><p>ASEAN’s 60th anniversary next year offers an occasion for both reflecting on the progress it has made thus far and considering the transformative efforts it must undertake to fulfill one of its founder's visions: a Southeast Asia that stands on its own feet.</p>"
+      "published": "Sat, 8 Aug 2026 13:01:50 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/09/12/2024_09_12_154803_1726144223._medium.jpg\" style=\"text-align: center;\" /></p><p>A wave of social media disinformation is believed to have played a large part in the deadly rush of tens of thousands of men, women and children into Spain's north African territory, after a rumour that the Ceuta border was open spread on social media.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Analysis: Panda Bond success tests its geopolitical balancing act",
-      "title_zh": "分析：熊猫债券的成功测试其地缘政治平衡行为",
-      "url": "https://www.thejakartapost.com/opinion/2026/08/08/analysis-panda-bond-success-tests-its-geopolitical-balancing-act.html",
+      "title": "A new paradigm for foreign direct investment",
+      "title_zh": "外国直接投资的新范式",
+      "url": "https://www.thejakartapost.com/opinion/2026/08/08/a-new-paradigm-for-foreign-direct-investment.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 07:00:03 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178412_1786087000._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesia's latest return to China's capital market has been met with overwhelming demand as the government successfully issued two tranches of yuan-denominated Panda Bonds totaling 7 billion yuan (Rp 18.6 trillion or US$1.1 billion) to help finance the 2026 state budget. The offering was oversubscribed by 2.4 times, underscoring continued confidence in Indonesia's fiscal outlook. However, the timing of the issuance has also attracted attention, as it comes amid heightened scrutiny over Indonesia's economic relations with major global powers.</p>"
+      "published": "Sat, 8 Aug 2026 12:12:12 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/02/26/2026_02_26_173061_1772117819._medium.jpg\" style=\"text-align: center;\" /></p><p>Does foreign investment genuinely strengthen Indonesia's industrial capabilities, technological base and global competitiveness - or is it simply taking advantage of the country's large domestic market? </p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "ASEAN faces defining moment amid great power rivalry, internal rifts",
-      "title_zh": "东盟面临大国竞争、内部裂痕的决定性时刻",
-      "url": "https://www.thejakartapost.com/world/2026/08/07/asean-at-59-faces-defining-moment.html",
+      "title": "Trump administration to invest $3 billion into minerals projects to boost defens...",
+      "title_zh": "特朗普政府将向矿产项目投资30亿美元($ 3 billion) ，以加强防御……",
+      "url": "https://www.thejakartapost.com/business/2026/08/08/trump-administration-to-invest-3-billion-into-minerals-projects-to-boost-defense-supply.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 06:45:00 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/07/22/2026_07_22_177890_1784714051._medium.jpg\" style=\"text-align: center;\" /></p><p>From the crisis in Myanmar and disputes in the South China Sea to growing competition among major powers, ASEAN's long-standing weaknesses in crisis management and collective decision-making have become increasingly apparent, raising questions about its ability to respond effectively.</p>"
+      "published": "Sat, 8 Aug 2026 11:52:45 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/08/2026_08_08_178442_1786164704._medium.jpg\" style=\"text-align: center;\" /></p><p>The White House needs critical minerals to replenish weapons stockpiles depleted during the Iran conflict and reduce US dependence on Chinese supply chains.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Nearly 1,000 weapons found at South Jakarta school",
-      "title_zh": "在南雅加达学校发现近1000件武器",
-      "url": "https://www.thejakartapost.com/indonesia/2026/08/08/nearly-1000-weapons-found-at-south-jakarta-school.html",
+      "title": "KPK investigates discrepancies in Forestry Minister bribe money return",
+      "title_zh": "KPK调查林业部长贿赂退款中的差异",
+      "url": "https://www.thejakartapost.com/indonesia/2026/08/08/kpk-investigates-discrepancies-in-forestry-minister-bribe-money-return.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 06:20:22 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178423_1786106765._medium.jpg\" style=\"text-align: center;\" /></p><p>The Jakarta Police confirmed that only one piece was confirmed as a live firearm, while the other 995 weapons were air guns.</p>"
+      "published": "Sat, 8 Aug 2026 11:30:52 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178419_1786098368._medium.jpg\" style=\"text-align: center;\" /></p><p>The antigraft body also suspected Kuantan Singingi officials for bribing their Forestry Ministry counterparts S$12,500 pertaining to forest area conversion in the regency.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "ASEAN at 59, time to deliver",
-      "title_zh": "59岁的东盟，是时候交付了",
-      "url": "https://www.thejakartapost.com/opinion/2026/08/08/asean-at-59-time-to-deliver.html",
+      "title": "What Bangkok and Jakarta can teach each other about political survival",
+      "title_zh": "曼谷和雅加达可以相互学习政治生存",
+      "url": "https://www.thejakartapost.com/opinion/2026/08/08/what-bangkok-and-jakarta-can-teach-each-other-about-political-survival.html",
       "region": "Indonesia",
-      "published": "Sat, 8 Aug 2026 06:06:06 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/07/03/2026_07_03_177234_1783058454._medium.jpg\" style=\"text-align: center;\" /></p><p>As the Association of Southeast Asian Nations turns 59, it should use the occasion to reflect on both its past progress and current challenges to determine future delivery in view of its diamond jubilee next year.</p>"
+      "published": "Sat, 8 Aug 2026 11:11:11 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/03/2026_08_03_178288_1785761153._medium.jpg\" style=\"text-align: center;\" /></p><p>The recent bilateral summit in Jakarta was a master class in Southeast Asian statecraft, where the visiting Thai premier and the hosting Indonesian president showed off their diplomatic chops in the art of political survival.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Poverty falls, but the line is too low, economists say",
-      "title_zh": "经济学家说，贫困率下降，但界限太低",
-      "url": "https://www.thejakartapost.com/business/2026/08/07/poverty-falls-but-the-line-is-too-low-economists-say.html",
+      "title": "Infantino allies rally as Norway FA chief demands FIFA president's resignation",
+      "title_zh": "Infantino盟友集会，挪威足协主席要求国际足联主席辞职",
+      "url": "https://www.thejakartapost.com/sports/2026/08/08/infantino-allies-rally-as-norway-fa-chief-demands-fifa-presidents-resignation.html",
       "region": "Indonesia",
-      "published": "Fri, 7 Aug 2026 22:03:27 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/06/19/2026_06_19_176826_1781852155._medium.jpg\" style=\"text-align: center;\" /></p><p>Economists say the country's poverty line no longer reflects actual living costs and are urging the government to revise it as soon as possible.</p>"
+      "published": "Sat, 8 Aug 2026 10:20:36 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/07/2026_08_07_178426_1786111129._medium.jpg\" style=\"text-align: center;\" /></p><p>Confederations and national associations continued to choose sides a week after Infantino abandoned his proposal to raise some $4.2 billion by selling off a stake in the commercial rights of the World Cup and other tournaments.</p>"
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "27 Arunachal border locations get standard names to snub China's renaming attempts",
-      "title_zh": "27个阿鲁纳恰尔邦边境地区获得标准名称，以怠慢中国的重命名尝试",
-      "url": "https://timesofindia.indiatimes.com/india/govt-maps-27-arunachal-border-locations-with-standard-names/articleshow/133043102.cms",
+      "title": "Government spending on education below Unesco's 15% standard",
+      "title_zh": "政府教育支出低于联合国教科文组织15%的标准",
+      "url": "https://timesofindia.indiatimes.com/india/govt-spending-on-education-below-unescos-15-standard/articleshow/133059254.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 03:45:25 +0530",
-      "summary": "India has taken a decisive step by officially naming twenty-seven sites in Arunachal Pradesh on its maps, a move designed to clarify territorial boundaries and counter Chinese assertions. These sites represent key historical moments related to border conflicts, featuring important mountains and villages along the McMahon Line, helping to raise awareness of India's rightful claims on these significant lands."
+      "published": "Sun, 09 Aug 2026 03:16:40 +0530",
+      "summary": "India's education funding aligns with GDP standards but falls short of public spending goals. Completion rates for secondary schools lag behind national and UNESCO guidelines. This funding pattern emerges as countries shift focus from education financial targets. India's extensive education initiatives benefit millions of students, yet the sector continues to grapple with persistent challenges despite increased program deployment."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Iran wants to bar US, Israeli ships from Hormuz in deal",
-      "title_zh": "伊朗希望禁止美国和以色列船只进入霍尔木兹",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-wants-to-bar-us-israeli-ships-from-hormuz-in-deal/articleshow/133044932.cms",
+      "title": "Four killed in helicopter crash in Brazil's Rio de Janeiro",
+      "title_zh": "四人在巴西里约热内卢的直升机坠毁中丧生",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/four-killed-in-helicopter-crash-in-rio-de-janeiro/articleshow/133061331.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 07:06:52 +0530",
+      "published": "Sun, 09 Aug 2026 07:07:02 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Delhi records its wettest August 1st week in 16yrs; yellow alert for today",
-      "title_zh": "德里记录了16年来最潮湿的8月1日周；今天的黄色警报",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-records-its-wettest-august-1st-week-in-16-years-imd-issues-yellow-alert-for-today/articleshow/133044923.cms",
+      "title": "Pakistan cricketers face ban after playing in ‘unsanctioned’ Zambia T20 league",
+      "title_zh": "巴基斯坦板球运动员在“未经批准”的赞比亚T20联赛中比赛后面临禁赛",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricketers-face-two-year-pcb-ban-after-playing-in-unsanctioned-zambia-t20-league/articleshow/133061347.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 07:12:02 +0530",
-      "summary": "Delhi faced a remarkable deluge yesterday, marking its wettest day of the season and a continuation of rain that has lasted four consecutive days. The city grapples with severe traffic snarls and widespread waterlogging. Reports include the collapse of nine structures and sixteen fallen trees, with Safdarjung weather station noting a staggering 127mm of rain this August. Thankfully, the heavy showers are projected to lessen starting Sunday."
+      "published": "Sun, 09 Aug 2026 07:12:43 +0530",
+      "summary": "A potential two-year ban looms for former Pakistan cricketers who participated in an unauthorised Zambian league. The Pakistan Cricket Board has reacted strongly, emphasising that all players must obtain proper approvals before playing. Reports suggest that some cricketers encountered significant troubles regarding payments and accommodation during the tournament. This serious matter unfolds as the ICC intensifies its scrutiny on global franchise cricket activities."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Pant's midnight plea to Uttarakhand CM: 'Please help me in land acquisition'",
-      "title_zh": "潘特在午夜对北阿坎德邦CM的呼吁： “请帮助我征地”",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rishabh-pants-midnight-plea-to-uttarakhand-cm-please-help-me-in-land-acquisition-as-star-seeks-to-build-home-in-state/articleshow/133044879.cms",
+      "title": "Colombia rocked by car bomb blast a day after new President takes charge",
+      "title_zh": "哥伦比亚新总统上任一天后遭汽车炸弹袭击",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/colombia-rocked-by-car-bomb-blast-a-day-after-new-president-abelardo-de-la-espriella-takes-charge/articleshow/133061382.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 06:59:18 +0530",
-      "summary": "Rishabh Pant publicly requested Uttarakhand Chief Minister Pushkar Singh Dhami for land. He wishes to shift his base from Delhi to his native state. Pant has been trying to find suitable land for three years without success. He wants to purchase land from the government at applicable rates. Pant recently emerged as Uttarakhand's highest individual taxpayer."
+      "published": "Sun, 09 Aug 2026 07:28:35 +0530",
+      "summary": "In southwestern Colombia, a car bomb detonated at a toll plaza on Saturday, just a day after Abelardo de la Espriella took office as president. The army promptly attributed the incident to dissident FARC factions, leaving two security guards injured. In response, President de la Espriella issued a stern warning to armed groups, urging them to comply with the rule of law."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Soren govt opens dialogue with Jharkhand student protestors, says talks 'positive'",
-      "title_zh": "索伦政府与贾坎德邦学生抗议者展开对话，称会谈“积极”",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/govt-opens-dialogue-with-aspirants-as-protest-enters-day-14/articleshow/133038625.cms",
+      "title": "Elon Musk says Starship Flight 13 recovery ‘not looking good’ after splashdown",
+      "title_zh": "埃隆·马斯克（ Elon Musk ）表示， Starship Flight 13在溅落后恢复“看起来不太好”",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-says-starship-flight-13-recovery-not-looking-good-despite-successful-splashdown/articleshow/133051324.cms",
       "region": "India",
-      "published": "Fri, 07 Aug 2026 22:14:43 +0530",
-      "summary": "Jharkhand's government held initial discussions with civil service aspirants protesting exam irregularities.  Students stated their demonstrations would persist until concrete government actions were announced.  A ministerial delegation met with representatives of the JSSC-JPSC Reforms Manch.  Protesters demand a CBI probe and cancellation of the 14th JPSC civil services examination.  Support for the ongoing agitation has come from various political and social organizations."
+      "published": "Sat, 08 Aug 2026 19:15:00 +0530",
+      "summary": "SpaceX's Starship recovery is struggling against the tumultuous waters of the Indian Ocean, with Elon Musk admitting the situation appears grim. Despite these difficulties, engineers managed to capture invaluable images of essential spacecraft components. This visual data is expected to contribute significantly to enhancements in Starship design and its reusability. Notably, the mission marked SpaceX's most successful Starship test flight to date."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Elon Musk's preferred state halts data center approvals; says 'prove' this",
-      "title_zh": "埃隆·马斯克（ Elon Musk ）的首选州暂停数据中心审批；称“证明”这一点",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/governor-of-the-state-elon-musk-wants-tech-companies-to-move-their-headquarters-to-has-halted-data-center-approvals-says-prove-this-first/articleshow/133027787.cms",
+      "title": "Wing Commander arrested for spying after being ‘honey-trapped’ by Pak operatives",
+      "title_zh": "Wing Commander在被Pak特工“蜂蜜陷阱”后因间谍活动被捕",
+      "url": "https://timesofindia.indiatimes.com/defence/iaf-wing-commander-honey-trapped-by-pak-operatives-arrested-charged-for-allegedly-leaking-defence-info/articleshow/133058871.cms",
       "region": "India",
-      "published": "Fri, 07 Aug 2026 13:35:00 +0530",
-      "summary": "Texas Governor Greg Abbott has ordered a temporary halt to new data center approvals.  Regulators must complete a comprehensive audit before projects can move forward.  Developers must prove electricity and water use, and tax incentives.  Abbott stated Texans must come first in all state decisions.  This move addresses growing scrutiny over rapid data center expansion."
+      "published": "Sun, 09 Aug 2026 01:18:52 +0530",
+      "summary": "A Wing Commander in the Indian Air Force is currently under serious accusations of leaking critical defense information. It is reported that he fell victim to a honey trap orchestrated by operatives from Pakistani intelligence using social media. Allegations suggest he secretly installed software designed to steal data on a colleague's device. Prior to his arrest by the Delhi Police, he was under close scrutiny by the IAF."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "India vs Sri Lanka: Captain Shubman Gill's time to take centrestage",
-      "title_zh": "印度vs斯里兰卡：船长Shubman Gill的中心位置",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-vs-sri-lanka-captain-shubman-gills-time-to-take-centrestage/articleshow/133044961.cms",
+      "title": "FIFA hits back at ‘concerted effort’ to undermine Infantino amid fresh allegations",
+      "title_zh": "国际足联在新的指控中回击“协同努力”以破坏Infantino",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-hits-back-at-concerted-effort-to-undermine-infantino-amid-fresh-allegations/articleshow/133061234.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 07:16:45 +0530",
-      "summary": "A year after taking charge of a team in transition, can the captain emerge out of coach Gambhir’s shadow in Sri Lanka?"
+      "published": "Sun, 09 Aug 2026 06:35:25 +0530",
+      "summary": "FIFA has come out in staunch defense of president Gianni Infantino, rebutting fresh allegations and widespread criticism. The organisation has accused unnamed detractors of orchestrating a campaign aimed at destabilising its leadership. While UEFA acknowledged a severance payment to a former employee associated with Infantino, he continues to enjoy robust support from various continental federations despite European discontent."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Thailand school shooting: Teen kills grandparents at home, 5 at campus",
-      "title_zh": "泰国校园枪击事件：青少年在家杀死祖父母，在校园杀死5人",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/thai-teen-kills-7-in-rampage-at-home-school/articleshow/133042267.cms",
+      "title": "Vance calls PM after US Senate passes 100% tariff bill, discusses boosting ties",
+      "title_zh": "万斯在美国参议院通过100 ％关税法案后致电PM ，讨论促进关系",
+      "url": "https://timesofindia.indiatimes.com/india/us-vice-president-jd-vance-calls-pm-modi-to-discuss-boosting-ties/articleshow/133060606.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 03:28:50 +0530",
-      "summary": "In a tragic event, a teenage student opened fire at a Thai school on Friday, claiming five lives. Prior to the school shooting, he also killed his grandparents. Authorities reported 23 individuals were injured during this violent episode. The weapon used was his grandfather's firearm, unleashing a barrage of shots. This incident represents Thailand's most devastating mass killing in nearly four years."
+      "published": "Sun, 09 Aug 2026 03:44:32 +0530",
+      "summary": "On Saturday, VP JD Vance engaged in a conversation with PM Narendra Modi, reiterating both nations' dedication to strengthen partnerships in vital sectors such as trade, defense, and upcoming technologies. They shared insights on international matters of shared concern, coinciding with the US Senate's approval of a bill focused on Russian oil transactions."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "India rejects US criticism of FCRA Bill; MEA calls it 'internal matter'",
-      "title_zh": "印度拒绝美国对FCRA法案的批评； MEA称其为“内部事务”",
-      "url": "https://timesofindia.indiatimes.com/india/fcra-bill-internal-matter-india-rejects-us-criticism/articleshow/133042254.cms",
+      "title": "Michael Dell’s son’s startup offers $695 alternative to costly home generators",
+      "title_zh": "迈克尔·戴尔的儿子的初创公司提供$ 695美元的替代品，以取代昂贵的家用发电机",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dells-son-zachs-3-year-old-startup-currently-valued-at-13-billion-wants-to-replace-costly-home-generators-in-american-homes-with-/articleshow/133048601.cms",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 03:21:51 +0530",
-      "summary": "The government is set to expedite the Foreign Contributions Regulation Act, which focuses on managing foreign funding for organizations. In contrast to criticism from a US Congressman regarding proposed changes, the administration remains resolute. Home Minister Amit Shah has met with church leaders to resolve their issues. The Bill's discussion and possible approval in Parliament are imminent."
+      "published": "Sat, 08 Aug 2026 13:10:41 +0530",
+      "summary": "Zach Dell's Base Power is installing home battery systems across America.  These systems offer backup power and reduce electricity bills for customers.  The company aims to replace expensive gas generators with its innovative technology.  Base Power is rapidly expanding its operations and customer base nationwide.  This startup is valued at thirteen billion dollars after significant funding."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Michael Dell's son Zach Dell wants his Base Power batteries in every American backyard",
-      "title_zh": "迈克尔·戴尔（ Michael Dell ）的儿子扎克·戴尔（ Zach Dell ）希望在美国的每个后院都安装",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/michael-dells-son-zach-dell-aims-to-install-a-base-power-home-battery-system-in-every-backyard-in-america-and-follows-what-is-called-costco-model/articleshow/133032931.cms",
+      "title": "Latest Arunachal map shows 3 places illegally held by China",
+      "title_zh": "最新的阿鲁纳恰尔地图显示了中国非法持有的3个地点",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/latest-arunachal-map-shows-3-places-illegally-held-by-china/articleshow/133057126.cms",
       "region": "India",
-      "published": "Fri, 07 Aug 2026 17:22:11 +0530",
-      "summary": "Zach Dell's company Base Power is expanding its home battery business across America.  The company offers a unique membership model, replacing high upfront costs.  Base Power recently secured one billion dollars in new funding, valuing it at thirteen billion.  This expansion includes plans for international markets like the United Kingdom and Germany.  The firm is also increasing its battery manufacturing capacity to meet growing demand."
+      "published": "Sat, 08 Aug 2026 23:15:02 +0530",
+      "summary": "India has finalized its official mapping of the contested frontier areas of Arunachal Pradesh, encompassing crucial sites such as Asaphila and Maja. In response, the People's Liberation Army of China has erected various structures and roadways in these disputed territories. Historical conflicts have marked this sensitive border, and this mapping initiative effectively bolsters India's stance regarding the ongoing territorial dispute."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "In Tit-For-Tat Move, Spain Imposes Border Controls For Italy Over Ceuta",
-      "title_zh": "在针锋相对的举动中，西班牙对休达实施意大利边境管制",
-      "url": "https://www.ndtv.com/world-news/in-tit-for-tat-move-spain-imposes-border-controls-for-italy-over-ceuta-crisis-11881614#publisher=newsstand",
+      "title": "Man Arrested For Sexually Abusing Minors, Men. 600 Videos Found On His Phone",
+      "title_zh": "男子因性虐待未成年人而被捕，男子。在他的手机上发现了600个视频",
+      "url": "https://www.ndtv.com/india-news/maharashtra-man-arrested-for-sexually-abusing-minors-men-600-videos-found-on-his-phone-11884634#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 05:50:28 +0530",
-      "summary": "Spanish authorities said 80 people died in the crossings."
+      "published": "Sun, 09 Aug 2026 04:49:36 +0530",
+      "summary": "The police's forensic team is closely examining digital evidence."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"National Disgrace\": Trump Slams Court Over Ballroom Construction Halt",
-      "title_zh": "“国家耻辱” ：特朗普因宴会厅建设暂停而猛烈抨击法庭",
-      "url": "https://www.ndtv.com/world-news/donald-trump-slams-court-over-white-house-ballroom-construction-halt-11881814#publisher=newsstand",
+      "title": "The Reasons Behind Bhagwant Mann's U-Turn On Chief Minister's Murder Convict Jagtar Singh Hawara",
+      "title_zh": "Bhagwant Mann改变首席部长谋杀案背后的原因囚犯Jagtar Singh Hawara",
+      "url": "https://www.ndtv.com/india-news/the-reasons-behind-bhagwant-manns-u-turn-on-chief-ministers-murder-convict-jagtar-singh-hawara-11884692#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 05:44:47 +0530",
-      "summary": "Trump said that the court decision on White House ballroom project is a \"National Security Threat\"."
+      "published": "Sun, 09 Aug 2026 04:19:50 +0530",
+      "summary": "The most significant factor could be the emerging possibility of an Akali Dal-BJP alliance."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"Will Soon Have A Solution\": Jharkhand Minister After Meeting Protesters",
-      "title_zh": "“很快就会有解决方案” ：贾坎德邦部长在会见抗议者后",
-      "url": "https://www.ndtv.com/india-news/jharkhand-minister-dipika-pandey-singh-after-meeting-student-protesters-11881800#publisher=newsstand",
+      "title": "US Veep JD Vance Dials PM Modi, He Congratulates Usha Vance On Birth Of Son",
+      "title_zh": "美国副总理JD Vance致电莫迪总理，祝贺Usha Vance生下儿子",
+      "url": "https://www.ndtv.com/india-news/us-veep-jd-vance-dials-pm-modi-he-congratulates-usha-vance-on-birth-of-son-11884657#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 05:20:24 +0530",
-      "summary": "The minister said that they have presented students' issues before the Chief Minister."
+      "published": "Sun, 09 Aug 2026 00:08:46 +0530",
+      "summary": "The American side has not yet provided any details of the conversation."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Trump Renews Effort To Fire US Fed Governor Lisa Cook Despite Court Ruling",
-      "title_zh": "特朗普继续努力解雇美联储理事丽莎·库克尽管法院裁决",
-      "url": "https://www.ndtv.com/world-news/donald-trump-renews-effort-to-fire-us-fed-governor-lisa-cook-despite-court-ruling-11881763#publisher=newsstand",
+      "title": "H-1B Workers Could Lose 60-Day Lifeline Under New US Immigration Plan",
+      "title_zh": "根据新的美国移民计划， H-1B工人可能会失去60天的生命线",
+      "url": "https://www.ndtv.com/world-news/us-visa-h-1b-visa-h-1b-workers-could-lose-60-day-lifeline-under-new-us-immigration-plan-11884468#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 04:11:18 +0530",
-      "summary": "The Supreme Court ruled in June that Trump did not have the power to dismiss Fed governors."
+      "published": "Sun, 09 Aug 2026 00:07:04 +0530",
+      "summary": "More than 5.2 million people of Indian origin live in the US."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "8-Year-Old Schoolgirl Raped, Murdered In Madhya Pradesh, Accused Arrested",
-      "title_zh": "8岁女学生在中央邦被强奸、谋杀，被告被捕",
-      "url": "https://www.ndtv.com/india-news/8-year-old-schoolgirl-raped-murdered-in-madhya-pradesh-accused-arrested-11881758#publisher=newsstand",
+      "title": "Savarkar Question In Kerala School Quiz Sparks Big Political Row",
+      "title_zh": "喀拉拉邦学校测验中的Savarkar问题引发了巨大的政治争议",
+      "url": "https://www.ndtv.com/india-news/savarkar-question-in-kerala-school-quiz-sparks-big-political-row-11884686#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 04:02:11 +0530",
-      "summary": "The 22-year-old accused arrested, the police said. (Representational)"
+      "published": "Sun, 09 Aug 2026 00:04:09 +0530",
+      "summary": "According to reports, teachers associated with the Social Science Club had prepared the questionnaire."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"One-Sided Hearing\": Pema Khandu On Court Summons Arunachal Officials",
-      "title_zh": "“片面听证会” ： Pema Khandu在法庭上传唤阿鲁纳恰尔邦官员",
-      "url": "https://www.ndtv.com/india-news/pema-khandu-on-court-summons-arunachal-officials-over-cbi-cooperation-11881741#publisher=newsstand",
+      "title": "Days After Resigning As Education Minister, Dharmendra Pradhan Explains Why He Quit",
+      "title_zh": "达曼德拉·普拉丹（ Dharmendra Pradhan ）辞去教育部长职务几天后，解释了他辞职的原因",
+      "url": "https://www.ndtv.com/india-news/days-after-resigning-as-education-minister-dharmendra-pradhan-explains-why-he-quit-11884633#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 03:43:03 +0530",
-      "summary": "Pema Khandu added that the state would present its position at the next hearing on August 24."
+      "published": "Sun, 09 Aug 2026 00:01:37 +0530",
+      "summary": "Dharmendra Pradhan speaks at GM University in Bhubaneswar"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Apple Vs OpenAI: Battle Intensifies Over Secrete Device Project",
-      "title_zh": "苹果与OpenAI ：秘密设备项目之争愈演愈烈",
-      "url": "https://www.ndtv.com/world-news/apple-vs-openai-battle-intensifies-over-secrete-device-project-11881711#publisher=newsstand",
+      "title": "Weather Highlights: Rain Turns Delhi Roads Into Choke Points, 81 Waterlogging Complaints",
+      "title_zh": "天气亮点：雨水将德里道路变成窒息点， 81起淹水投诉",
+      "url": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rainfall-gurugram-rain-assam-floods-imd-alert-delhi-odisha-rajasthan-among-states-likely-to-receive-heavy-rain-11881925#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 02:56:08 +0530",
-      "summary": "More than 400 former Apple employees currently work at OpenAI, according to the initial complaint."
+      "published": "Sun, 09 Aug 2026 00:00:09 +0530",
+      "summary": "Weather Today, IMD Rain Alert, Waterlogging, Traffic News Highlights: According to the latest IMD forecast, issued on Friday night, several areas are likely to receive heavy to very heavy rainfall"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "US Court Bars Pentagon From Adding WuXi AppTec To China Military List",
-      "title_zh": "美国法院禁止五角大楼将无锡AppTec添加到中国军方名单",
-      "url": "https://www.ndtv.com/world-news/us-court-bars-pentagon-from-adding-wuxi-apptec-to-china-military-list-11881694#publisher=newsstand",
+      "title": "Delhi Police, National Security Guard Conduct Joint Exercise Ahead Of Independence Day",
+      "title_zh": "德里警方、国家安全卫队在独立日前举行联合演习",
+      "url": "https://www.ndtv.com/india-news/delhi-police-national-security-guard-conduct-joint-exercise-ahead-of-independence-day-11884640#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 02:23:12 +0530",
-      "summary": "WuXi AppTec Co, a Chinese biotechnology company, has roughly 450 employees in the US."
+      "published": "Sat, 08 Aug 2026 23:45:52 +0530",
+      "summary": "The fifth edition of \"Sudarshan Shakti-V\" was conducted from 10 am on August 7 to 4 am on August 8"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Turkey Says New Defence Pact Does Not Contradict NATO Commitments",
-      "title_zh": "土耳其表示新的防务协议与北约的承诺不矛盾",
-      "url": "https://www.ndtv.com/world-news/turkey-says-new-defence-pact-does-not-contradict-nato-commitments-11881649#publisher=newsstand",
+      "title": "UP Woman Smashes Husband To Death With Stone. Daughter, Her Boyfriend Helped",
+      "title_zh": "UP女子用石头砸死丈夫。女儿，男友帮忙",
+      "url": "https://www.ndtv.com/india-news/up-woman-smashes-husband-to-death-with-stone-daughter-her-boyfriend-helped-11884610#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 01:55:23 +0530",
-      "summary": "Turkey on Friday signed defence pact with Saudi Arabia and Pakistan."
+      "published": "Sat, 08 Aug 2026 23:28:19 +0530",
+      "summary": "The three accused were eventually detained on Friday, police said."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Anti-Khalistani Terrorist Gursimran Mand Assaulted In Ambala",
-      "title_zh": "反哈利斯坦恐怖分子Gursimran Mand在Ambala遭到袭击",
-      "url": "https://www.ndtv.com/india-news/anti-khalistan-terrorist-gursimran-mand-assaulted-in-ambala-11881590#publisher=newsstand",
+      "title": "Amarnath Yatra Suspended Due To Low Footfall Amid Adverse Weather Advisory",
+      "title_zh": "Amarnath Yatra因恶劣天气预报导致人流量低而被停职",
+      "url": "https://www.ndtv.com/india-news/amarnath-yatra-suspended-due-to-low-footfall-amid-adverse-weather-advisory-11884601#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 08 Aug 2026 00:57:38 +0530",
-      "summary": "The mob smashed the windshield and other panes of his car."
+      "published": "Sat, 08 Aug 2026 23:23:59 +0530",
+      "summary": "Over 4.7 lakh Yatris have visited the holy cave this year"
     },
     {
       "source": "NHK News",
-      "title": "大型で非常に強い台風13号 暴風などに厳重警戒【中継映像も】",
-      "title_zh": "强台风13号风暴等【中继片段】",
+      "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+      "title_zh": "13暂时，限时15分怎么样？",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 11:06:23 +0900",
-      "summary": "大型で非常に強い台風13号は、沖縄本島地方を暴風域に巻き込みながら西寄りに進んでいます。暴風などに厳重な警戒を続けてください。"
+      "published": "Sat, 08 Aug 2026 21:54:30 +0900",
+      "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。"
     },
     {
       "source": "NHK News",
-      "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "title_zh": "人1人1人1人39人",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199981000.html",
+      "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+      "title_zh": "预计9日日本北部和东部的大气条件将非常不稳定。",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 10:49:16 +0900",
-      "summary": "熊本県は、8日午前7時半の時点で、県内では地震の直接の被害で亡くなった「直接死」かどうか調査している人が1人増えて2人になり、災害関連死の疑いがある1人を含めて39人が死亡したと発表しました。また、県内で開設されている避難所は124か所あり、6591人が避難しているということです。"
+      "published": "Sat, 08 Aug 2026 23:17:32 +0900",
+      "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見込みで、低い土地の浸水や急な川の増水などに十分注意が必要です。"
     },
     {
       "source": "NHK News",
-      "title": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
-      "title_zh": "“俄罗斯也有可能入侵北约，”美国情报部门说。",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199861000.html",
+      "title": "愛知県内で水難事故相次ぐ 2人死亡",
+      "title_zh": "洪水灾害造成2人死亡",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 10:19:45 +0900",
-      "summary": "アメリカの有力紙は、ロシアが数年以内にNATO＝北大西洋条約機構の加盟国に限定的な地上侵攻を仕掛ける可能性があると、アメリカの情報機関が分析していると伝えました。"
+      "published": "Sat, 08 Aug 2026 23:06:51 +0900",
+      "summary": "8日、愛知県内の海と川で水難事故が相次ぎ、2人が死亡しました。"
     },
     {
       "source": "NHK News",
-      "title": "米当局者 “航行妨げない合意なら海上封鎖を解除” 報道",
-      "title_zh": "美国官员“如果协议不妨碍航行，解除海上封锁”新闻稿",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199871000.html",
+      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "title_zh": "关于熊本地震是否在地震前10年发生在邻近地区的专家分析",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 10:09:20 +0900",
-      "summary": "ホルムズ海峡をめぐるイランとオマーンとの協議について、ロイター通信は「近いうちに合意が成立するとみている」とするアメリカ政府当局者の話を伝えました。この当局者は、自由な航行が認められる合意であれば、アメリカによるイランへの海上封鎖を解く考えを示したということです。"
+      "published": "Sat, 08 Aug 2026 20:53:49 +0900",
+      "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っているところがあるとして、専門家は「いつかは分からないが、今後、地震を引き起こす可能性もあるため、注意が必要だ」と指摘しています。"
     },
     {
       "source": "NHK News",
-      "title": "羽田空港 お盆期間中 帰省や旅行に行く家族連れでにぎわう",
-      "title_zh": "在羽田机场盆节期间，这里挤满了回家和旅行的家庭",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199951000.html",
+      "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "title_zh": "橄榄球联赛一名斐济球员因涉嫌中暑而被杀",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 10:59:06 +0900",
-      "summary": "羽田空港の国内線の出発ロビーは、お盆休みの期間中、帰省や旅行に行く家族連れなどで午前中からにぎわっています。"
+      "published": "Sat, 08 Aug 2026 20:29:37 +0900",
+      "summary": "ラグビーリーグワンの2部にあたるディビジョン2の「九州電力キューデンヴォルテクス」は、チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました。"
     },
     {
       "source": "NHK News",
-      "title": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
-      "title_zh": "再次通知特朗普总统的美联储主席库克“考虑解雇”",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199921000.html",
+      "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "title_zh": "《韩国足协性娱乐外籍裁判》韩媒",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200271000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 09:14:33 +0900",
-      "summary": "アメリカのトランプ大統領は、金融政策を決める会合を開くFRB＝連邦準備制度理事会のクック理事に対し、解任を検討していることを再び通知したと欧米メディアが伝えました。"
+      "published": "Sat, 08 Aug 2026 18:38:23 +0900",
+      "summary": "韓国のサッカー協会が、代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め、一連の騒動を謝罪しました。"
     },
     {
       "source": "NHK News",
-      "title": "高校野球 青森山田が遊学館に競り勝つ",
-      "title_zh": "高中棒球Aomori Yamada与Yugakukan比赛",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199911000.html",
+      "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+      "title_zh": "Ichiro-san Mariners OB的全垒打比赛分流球迷",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "region": "Japan",
-      "published": "Sat, 08 Aug 2026 10:29:49 +0900",
-      "summary": "夏の全国高校野球、大会4日目の第1試合は、青森山田高校が石川の遊学館高校に6対5で競り勝って、2回戦に進みました。"
+      "published": "Sat, 08 Aug 2026 20:55:50 +0900",
+      "summary": "大リーグ、マリナーズなどで活躍し去年アメリカで野球殿堂入りしたイチローさんが、マリナーズの創設50周年を記念したOBによるホームラン競争に参加し、フェンスを越える当たりを連発して多くのファンをわかせました。"
     },
     {
       "source": "The Korea Times",
-      "title": "American son's quest to find 'Kim,' local child saved in shadow of Korean War",
-      "title_zh": "美国儿子寻找在朝鲜战争阴影下获救的当地儿童“金”",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260808/american-sons-quest-to-find-kim-local-child-saved-in-shadow-of-korean-war?utm_source=rss",
+      "title": "Nat'l health insurance runs deficit in Q1",
+      "title_zh": "国民健康保险在第一季度出现赤字",
+      "url": "https://www.koreatimes.co.kr/southkorea/health/20260809/natl-health-insurance-runs-deficit-in-q1?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 08 Aug 2026 02:07:03 GMT",
-      "summary": "In the winter of 1951, amid the frozen, battered hills of Changdori, a young Korean boy found refuge alongside an American combat correspondent. The boy was known simply as “Kim.” He was roughly 15 years old, displaced by relentless bombings and navigating a war-ravaged nation with the quiet resilience of a generation forced to grow up overnight. For nearly two years, Kim walked alongside the American journalist, serving as an assistant, a guide and a living testament to humanity surviving in the crosshairs of history. Now, seven decades after they were separated by the troop withdrawals of July 1952, a son is picking up the thread of a memory his father carried for a lifetime. Robert P. Mosier has turned to the Ministry of Patriots and Veterans Affairs in Korea to locate the Korean boy who once shared food, shelter and hardship with his late father, Robert H. Mosier. The elder Mosier, born in 1923, served as a U.S. Marine Corps combat correspondent during the Korean War from 1951 to 1952. His searing firsthand accounts and poignant photography brought the human toll of the conflic"
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "The national health insurance ran a deficit of nearly 4 trillion won ($2.8 billion) in the first quarter of 2026, data showed Sunday, increasing the likelihood of a return to an annual net loss for the first time in six years. According to National Health Insurance Service (NHIS) data submitted to Democratic Party of Korea Rep. Jeon Jin-sook's office, the state health insurance fund made 22.4 trillion won and spent 26.3 trillion won in the January-March period, resulting in a deficit of about 3.9 trillion won. The total cumulative reserve has gone down from 30.2 trillion won at the end of 2025 to 26.3 trillion won. The NHIS posted annual deficits from 2018 to 2020 and then turned to a surplus of 2.8 trillion won in 2021. The size of its surplus grew to 3.6 trillion won in 2022 and to 4.1 trillion won in 2023. Annual gains shrank to 1.7 trillion won in 2024 and dropped further to 499.6 billion won last year. The healthy ministry had predicted in February 2024 that the NHIS would record a net loss in 2026. The fiscal outlook for the NHIS is expected to be further influenced by government pol"
     },
     {
       "source": "The Korea Times",
-      "title": "Itaewon Film Festival finds its footing and puts down roots",
-      "title_zh": "梨泰院电影节立足并扎根",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260808/itaewon-film-festival-finds-its-footing-and-puts-down-roots?utm_source=rss",
+      "title": "Police to launch national crackdown on young gangsters",
+      "title_zh": "警方在全国范围内打击年轻歹徒",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260809/police-to-launch-national-crackdown-on-young-gangsters?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 08 Aug 2026 02:07:03 GMT",
-      "summary": "It's one thing to plant a seed. It's another to nurture it and watch it grow. The Itaewon Film Festival is heading into its second year with clear signs of growth and maturity, demonstrating its widening impact on the neighborhood and the city around it. Running in Haebangchon and Itaewon, two central Seoul neighborhoods that have long housed artists, expats and people operating outside the mainstream of Korean culture, the lively outsider character of the festival's home runs through every programming decision. This year's edition will be held from Sept. 10 to 13 as part of Haebang Week, a weeklong program of events affiliated with Block Party Music & Arts Festival. The festival's slogan, \"Home of Liberation,\" is a nod to the neighborhood's name — \"Haebangchon\" translates directly to \"Liberation Village.\" Co-founder Simon Chong has been open about how much the neighborhood shapes the festival's direction. \"Itaewon and HBC (Haebangchon) have been home for people with different backgrounds for a long time,\" Chong said. \"When I think about the word 'home', I think of a place where you can"
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "The national police said Sunday they will launch a nationwide crackdown on organized crime and international transgressions in the new week, with a focus on young gangsters turning to fraud and money laundering. The Korean National Police Agency (KNPA) said its special operations will begin Monday and run through Oct. 31. It will target high-yield financial crimes, such as organized fraud, illegal private lending, online gambling operations and money laundering. The KNPA also plans to crack down on criminals flaunting their illicit wealth online to generate public fear, while also looking to freeze criminal proceeds to cut off funding sources. On the international side, the KNPA said it will target drug trafficking, with a particular focus on synthetic drugs like ketamine, and organized crimes involving foreign nationals. The KNPA plans to intensify its intelligence gathering around foreigner communities and their workplaces, plus nightlife districts. This crackdown comes on the heels of a marked increase in organized crime and international offenses in the first half of this year. Betwee"
     },
     {
       "source": "The Korea Times",
-      "title": "[MORNING CALM TALES] Fan death, a cautionary breeze",
-      "title_zh": "[清晨平静的故事]粉丝死亡，一阵警示的微风",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260808/morning-calm-tales-fan-death-a-cautionary-breeze?utm_source=rss",
+      "title": "Study shows gap between ideal, actual number of children among Koreans",
+      "title_zh": "研究表明，韩国人的理想和实际儿童数量之间存在差距",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260809/study-shows-gap-between-ideal-actual-number-of-children-among-koreans?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 08 Aug 2026 02:07:03 GMT",
-      "summary": "My first summer in Korea, I thought I was going to die. The heat and the humidity were unbearable. I’d naively assumed that living near the Han River in southeastern Seoul might offer some cooling nighttime breeze. It didn’t. Not even a whisper. Fortunately, I had a fan — an old, rattling workhorse that labored through the night, valiantly pushing hot air from one side of my room to the other. It didn’t cool me, but it gave the illusion of doing something, which was better than nothing. The next morning, bleary-eyed after another sleepless night, I trudged off to school. At least the classrooms were air-conditioned, which felt like a miracle. “It was so hot last night, I slept with the fan on all night,” I said casually while taking attendance. A collective gasp sucked the air out of the room. I looked up. The entire class was frozen in horror, eyes wide, mouths agape, as if I had just confessed to something unspeakable. “What’s wrong?” I asked. A long pause. Then one brave student slowly raised her hand. “Yes?” “Teacher,” she said carefully, “you cannot sleep with"
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "About seven out of 10 Koreans regard having at least two children as ideal but many end up having just one due to financial burdens and other factors, a study showed Sunday. According to a survey by the Presidential Committee on Ageing Society and Population Policy, 71 percent of respondents chose two or more as their ideal number of children. The survey was conducted from Nov. 3 to 14 last year on 1,000 men and women between ages of 20 and 49. When asked about the actual number of children they had or planned to have, 44.9 percent said one, with 27.1 percent responding two. Slightly over a quarter of them said zero. On average, the ideal number of children came to 1.76 but the actual or expected number of children amounted to 1.07. Permitted to pick multiple answers, every respondent who reported having fewer children than the ideal number cited costs as a key reason, while 40.4 percent pointed to challenges in balancing work and childcare. On the flip side, people who had more children than their ideal number noted strong family support (37.5 percent) as the reason, followed by favorable"
     },
     {
       "source": "The Korea Times",
-      "title": "K-beauty has moved beyond the skin care aisle",
-      "title_zh": "K-beauty已经超越了护肤通道",
-      "url": "https://www.koreatimes.co.kr/southkorea/20260808/k-beauty-has-moved-beyond-the-skin-care-aisle?utm_source=rss",
+      "title": "Ex-PM wins Jeju, Incheon party-member primaries in leadership race",
+      "title_zh": "前总理在领导力竞赛中赢得仁川济州党员初选",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20260809/ex-pm-wins-jeju-incheon-party-member-primaries-in-leadership-race?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 08 Aug 2026 02:07:03 GMT",
-      "summary": "During a recent five-week visit to Korea, one thing became immediately apparent: While consumers overseas continue embracing K-beauty products, many Koreans have already moved on to the next step. For years, Korea's beauty industry has been synonymous with sheet masks, BB creams and the famed 10-step skin care routine. Those products helped turn K-beauty into a global phenomenon and cemented the country's reputation as a beauty powerhouse. Today, however, the conversation has shifted from cosmetics counters to the country's ubiquitous dermatology clinics, where aesthetic treatments have become part of everyday beauty routines. Scheduling a laser treatment or skin booster has become almost as routine as booking a haircut or nail appointment. Beauty in Korea is increasingly treated less like a luxury and more like maintenance. Instead of asking which moisturizer someone uses, friends compare lifting treatments, collagen-boosting procedures, skin booster injections and pore treatments. Recommendations for clinics are exchanged as casually as restaurant tips, while discussions about the lat"
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "Former Prime Minister Kim Min-seok won party-member primaries in Incheon and Jeju Island on Saturday, a week after losing to rival Jung Chung-rae, the former ruling Democratic Party of Korea (DPK) leader, as the party's leadership race enters its middle stage. Kim beat Jung 47.75 percent to 42.08 percent in votes cast by dues-paying party members in Incheon, just west of Seoul, and the southern resort island, according to party officials. Their rival, third candidate Song Young-gil, garnered 10.17 percent. With Saturday's win, Kim bounced back from his defeat to Jung in Busan, Ulsan and South Gyeongsang Province on Aug. 2, when Jung edged out Kim 46.65 percent to 43.85 percent. In the first primary, held in the central Chungcheong region on Aug. 1, Kim edged out Jung 45.05 percent to 44.61 percent. Across the three primaries held so far, Kim is slightly ahead of Jung, with 45.42 percent and 44.56 percent of the votes, respectively. The DPK's leadership race has primarily been a contest between Jung, who has long aligned himself with the party's hard-line wing rather than fully backing Pres"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "'Fundamental' overhaul of military service system vital for nat'l security: MMA chief",
+      "title_zh": "对国家安全至关重要的兵役制度的“基本”改革： MMA负责人",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20260809/fundamental-overhaul-of-military-service-system-vital-for-natl-security-mma-chief?utm_source=rss",
+      "region": "South Korea",
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "A \"fundamental\" overhaul of Korea's military service system is vital for national security and survival, the head of the military manpower agency has said, in the face of a shrinking pool of conscripts amid a demographic cliff. Military Manpower Administration (MMA) Commissioner Hong So-young made the remarks in an interview with Yonhap News Agency on Thursday, noting the government is in the final stage of reviewing reform measures of the \"alternative\" military service system as part of such an overhaul drive. \"Fundamental reform of the overall military service system is not a choice, but an indispensable task for South Korea's national security and survival,\" said Hong, who has spent her entire 38-year career at the agency. \"Since reforming the military service system directly impacts the lives of the younger generation, it is crucial that we craft measures that can earn broad consensus and the trust of the public,\" she said. The MMA oversees military conscription in Korea, where all able-bodied men must complete 18 to 21 months of service under a mandatory draft system primarily aimed"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "Jongno District's new strategy: Legalizing unpermitted homes to save hanok",
+      "title_zh": "钟路区的新战略：将未经许可的房屋合法化以拯救韩屋",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260809/jongno-districts-new-strategy-legalizing-unpermitted-homes-to-save-hanok?utm_source=rss",
+      "region": "South Korea",
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "In Jongno District, the historical heart of Korea’s capital, centuries-old heritage lives alongside the messy realities of modern urban living. High-rise office towers share narrow alleyways with sprawling neighborhoods of hanok — traditional Korean houses. Reconciling urban regulation with the preservation of these architectural treasures has long presented a challenge for municipal authorities. Jongno District took a decisive step recently to balance safety with historical preservation. District Mayor Yoo Chan-jong announced a landmark partnership with the Jongno Association of Architects to streamline the legalization of structures that violate building codes while actively protecting and expanding the district’s cherished hanok footprint. The initiative centers on the creation of a specialized \"Unsanctioned Building Support Center\" at the Jongno District Office. Operating ahead of a national special law set to take effect on Dec. 17, the center will pair professional architects directly with property owners. The goal is two-fold: helping residents safely bring unpermitted stru"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "Why some parts of Seoul are hotter than others",
+      "title_zh": "为什么首尔的某些地方比其他地方更热",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260809/why-some-parts-of-seoul-are-hotter-than-others?utm_source=rss",
+      "region": "South Korea",
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "Click here for more articles by Kormedi.com. A heat wave with temperatures approaching 40 degrees Celsius has continued across Korea. President Lee Jae Myung said during a recent meeting with senior secretaries and aides that the current heat wave is “effectively a national disaster situation,” stressing that the government should maximize the level, scope and speed of its policy response to protect people’s lives and and ensure public safety. In a related development, an interesting study from the United States found that mortality rates in large cities may decrease as the area covered by tree shade increases. A research team at Northwestern University Feinberg School of Medicine tracked changes in the city of Chicago, Illinois, from 2011 to 2021. The researchers examined data including tree canopy coverage, peak summer temperatures and the number of deaths. The study found that increases in annual tree canopy coverage were associated with lower mortality. A 1 percent increase in shaded area was associated with an approximately 9.8 percent decrease in overall mortality. By cause of"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "Correctional officers struggle with suffocating 'prison smell' and more",
+      "title_zh": "惩教人员与令人窒息的“监狱气味”等作斗争",
+      "url": "https://www.koreatimes.co.kr/southkorea/20260809/correctional-officers-struggle-with-suffocating-prison-smell-and-more?utm_source=rss",
+      "region": "South Korea",
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "Every time senior officers finished their shifts, they would take a shower and rub skin lotion into their hair. “What is that about? Did a nightclub open nearby? Are they getting ready to go there?” The same thing happened the next day, and the day after that. Leave work, shower, apply skin lotion to their hair. The behavior was repeated, and there was a certain order to it. It was almost like a ritual. Curious, this reporter asked them. The answer was brief. “Don’t you know? They’re getting rid of the prison smell.” Some correctional officers wash themselves two or three times and launder their uniforms. Each in their own way, they struggle to remove the scent of prison from their bodies. “You won’t understand unless you’ve felt it. You really won’t.” The officer calmly recalled how older colleagues considered applying skin lotion a ritual — a way of shedding the prison smell after a day inside. Tracking prison smell: Sweat “Are you afraid of inmates? Not at all.” On June 20, just before the start of the rainy season, I headed to Incheon Detention Center, a place t"
+    },
+    {
+      "source": "The Korea Times",
+      "title": "From luxury queues to closing-time bargains: Korea's shopping shift",
+      "title_zh": "从奢侈品排队到休息时间的便宜货：韩国的购物转变",
+      "url": "https://www.koreatimes.co.kr/southkorea/society/20260809/from-luxury-queues-to-closing-time-bargains-koreas-shopping-shift?utm_source=rss",
+      "region": "South Korea",
+      "published": "Sun, 09 Aug 2026 02:17:02 GMT",
+      "summary": "As evening settled over Seoul’s western Seogyo-dong neighborhood and closing time approached, customers streamed out of a bakery café carrying bags stuffed with bread. The bakery sells its unsold bread and pastries at half price at the end of each day to customers who reserve them in advance. Owner Lee Yoo-jin, 35, has offered the end-of-day discount for two years and says demand has recently surged. “We offer eight bags for reservation each day, and lately they’ve always been fully booked,” Lee said. “Sometimes we receive more reservations than the number of bags we have prepared, so we have to cancel some of them.” Consumers go extra mile for deals The bakery is not alone in seeing a flurry of customers as closing time approaches. The late rush is slowly becoming a trend in Korea as consumers seek to take advantage of end-of-day discounts to buy food at lower prices. It contrasts with the “open-run” rush seen in Korea during the COVID-19 pandemic, when shoppers lined up outside luxury boutiques before opening to secure coveted items. Discount hunting was previously seen"
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Makkah Pact wins wide Islamic and Arab acclaim",
+      "title_zh": "《麦加公约》赢得伊斯兰和阿拉伯的广泛赞誉",
+      "url": "https://saudigazette.com.sa/article/663570/saudi-arabia/makkah-pact-wins-wide-islamic-and-arab-acclaim",
+      "region": "Saudi Arabia",
+      "published": "Sat, 08 Aug 2026 20:12:42 +0300",
+      "summary": "RIYADH — The Makkah Joint Defense Agreement, signed on Friday by Saudi Crown Prince and Prime Minister Mohammed bin Salman, Pakistani Prime Minister Shehbaz Sharif, and Turkish President Recep Tayyip Erdoğan, has received wide international and Arab acclaim. Pakistani Prime Minister Muhammad Shehbaz Sharif expressed pride in signing the agreement, saying that the agreement embodies the unity of three brotherly countries bound by the Islamic faith, strong fraternal ties and a shared commitment to promoting peace and security.He expressed hope that the historic agreement would serve as a shield for peace for generations to come, contribute to the prosperity of the three countries, and serve the interests of the Islamic nation. Pakistani President Asif Ali Zardari welcomed the signing of the pact, describing it as an important development that would promote peace, security and stability in the region and the world. Zardari said the agreement would strengthen the joint defense capabilities of the three countries and reflect their commitment to building a secure, stable and prosperous future for their peoples.Zardari praised the role of Shehbaz Sharif and Field Marshal Syed Asim Munir in concluding the agreement. “This marks an important milestone in strengthening the strategic partnership among the three countries. The historic agreement would contribute to greater security, peace and prosperity and benefit the Islamic nation,” he said. Bahrain welcomed the signing of the Makkah Joint Defense Agreement. The Bahraini Ministry of Foreign Affairs commended the three countries' defense capabilities and military expertise, their roles in promoting regional security and stability, and their commitment to international agreements and conventions.The ministry described the agreement as a strategic partnership that contributes to safeguarding security and stability in the region and the world and strengthens the effect of joint deterrence. It noted that the agreement represents a significant addition that complements the joint defense framework of the Gulf Cooperation Council (GCC) states and contributes to enhancing regional security and stability based on solidarity, integration and partnership. The ministry stressed that the security of Saudi Arabia is an integral part of Bahrain's security, reiterating its support for all efforts that contribute to enhancing regional security and stability, safeguarding sovereignty and territorial integrity, protecting interests, and promoting political solutions to address regional issues. The Palestinian Presidency welcomed the signing of the Makkah Joint Defense Agreement. The presidency expressed its appreciation to the leaders of the three countries for this step.In a statement, the Presidency stressed that strengthening the capabilities of the nations and enhancing their integration and cooperation in protecting their security, sovereignty and legitimate interests constitute a fundamental pillar of regional stability and the preservation of their peoples' resources. The presidency described the agreement as an important strategic step that would enhance security, stability and cooperation among the countries of the Islamic world and reinforce the principles of solidarity and shared security and destiny in confronting common challenges and threats.The Palestinian Presidency expressed hope that the Makkah agreement would serve as a starting point for strengthening the Arab and Islamic collective security framework, contributing to the protection of the region's countries, peoples and holy sites, while supporting the rights of the Palestinian people and their legitimate struggle to end the Israeli occupation and establish their fully sovereign independent state with East Jerusalem as its capital. The Muslim World League (MWL) welcomed the joint statement issued following the Makkah Summit for Joint Defense between Saudi Arabia, Türkiye and Pakistan. In a statement issued by the MWL General Secretariat, MWL Secretary General and Chairman of the Organization of Muslim Scholars Sheikh Mohammed Al-Issa highly commended the agreement, particularly as it is founded on bonds of brotherhood and Islamic solidarity to enhance collective security and promote peace, stability, and prosperity in the region in particular and the international community in general."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia deports 10,827 illegal residents in a week",
+      "title_zh": "沙特阿拉伯每周驱逐10,827名非法居民",
+      "url": "https://saudigazette.com.sa/article/663569/saudi-arabia/saudi-arabia-deports-10827-illegal-residents-in-a-week",
+      "region": "Saudi Arabia",
+      "published": "Sat, 08 Aug 2026 20:04:01 +0300",
+      "summary": "RIYADH — Saudi security authorities arrested a total of 14,440 illegal residents in a week. The arrests were made in the joint inspections, carried out by the security forces in collaboration with the relevant government agencies, during the period between July 30 and August 5, the Ministry of Interior announced on Saturday. Those who were arrested include 7,090 violators of the Residency Law, 3,932 violators of the Border Security Law, and 3,418 violators of the Labor Law. A total of 10,827 illegal residents were deported while 18,131 violators were referred to their diplomatic missions to obtain travel documents and 6,357 violators were referred to complete their travel reservations. The total number of people who were arrested while trying to cross the border into the Kingdom accounted for 1,593, of whom 40 percent were Yemeni nationals, 59 percent Ethiopian nationals, and one percent belonged to other nationalities. A total of 32 people were arrested while attempting to leave the Kingdom illegally. Some 25 people involved in giving transportation, shelter, and employment for violators were also arrested. A total of 32,012 expatriates, including 29,995 men and 2,017 women, are currently undergoing procedures to enforce legal measures. The Ministry of Interior has warned that any person, who facilitates the illegal entry of individuals into the Kingdom, transports them on its territory, provides them with shelter or any other assistance or service, will be penalized with up to 15 years in prison and a fine of up to SR1 million, and that the vehicles used for transportation or houses used for giving shelter will be confiscated. The ministry urged the public to report any cases of violation by calling the number 911 in the regions of Makkah, Riyadh, and the Eastern Province and the numbers 999 and 996 in the rest of the Kingdom’s regions."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi landmarks shine in Saudi, Türkish and Pakistani colors to celebrate Makkah pact",
+      "title_zh": "沙特地标以沙特、土耳其和巴基斯坦的颜色闪耀，庆祝麦加协议",
+      "url": "https://saudigazette.com.sa/article/663565/saudi-arabia/saudi-landmarks-shine-in-saudi-turkish-and-pakistani-colors-to-celebrate-makkah-pact",
+      "region": "Saudi Arabia",
+      "published": "Sat, 08 Aug 2026 18:14:28 +0300",
+      "summary": "Saudi Gazette reportRIYADH — Major landmarks and towers across Saudi Arabia are illuminated with the national flags of Saudi Arabia, Türkiye, and Pakistan to celebrate the signing of the Makkah Joint Defense Agreement. ---**media[2748023]**The illumination displays across various regions reflected widespread public jubilation over the historic pact. The agreement embodies the three nations' shared commitment to strengthening their collective security, achieving peace and stability in the Middle East and globally, and striving for a secure and prosperous future.These celebrations underscore the distinguished relations, deep-rooted historical ties, and Islamic solidarity uniting Saudi Arabia, Türkiye, and Pakistan. The landmark defense agreement builds upon these bonds of brotherhood, driven by shared strategic interests and a unified commitment to close military cooperation."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia strongly condemns Iranian attack on UAE tanker in Strait of Hormuz",
+      "title_zh": "沙特阿拉伯强烈谴责伊朗袭击阿联酋霍尔木兹海峡油轮",
+      "url": "https://saudigazette.com.sa/article/663564/saudi-arabia/saudi-arabia-strongly-condemns-iranian-attack-on-uae-tanker-in-strait-of-hormuz",
+      "region": "Saudi Arabia",
+      "published": "Sat, 08 Aug 2026 18:10:43 +0300",
+      "summary": "Saudi Gazette report  RIYADH — The Ministry of Foreign Affairs expressed Saudi Arabia's strongest condemnation of the targeting of a UAE tanker transiting the Strait of Hormuz. “These unacceptable attacks constitute an assault on the security and safety of maritime navigation and global energy supplies,” the ministry said in a statement carried by the Saudi Press Agency.Saudi Arabia affirmed that Iran's continued perpetration of these attacks is a grave violation of international laws and norms, including Security Council Resolution 2817, which guarantees freedom of navigation and safe passage in international waterways.Saudi Arabia holds Iran responsible for the consequences of its continued blatant aggression and demands an immediate end to these violations to preserve regional security, stability, and safety. The ministry reiterated Saudi Arabia's full solidarity with the United Arab Emirates and support for all measures it takes to protect its sovereignty and resources."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "UN Security Council and European Union condemn Houthi attacks against Saudi Arabia",
+      "title_zh": "联合国安理会和欧盟谴责胡塞武装袭击沙特阿拉伯",
+      "url": "https://saudigazette.com.sa/article/663559/saudi-arabia/un-security-council-and-european-union-condemn-houthi-attacks-against-saudi-arabia",
+      "region": "Saudi Arabia",
+      "published": "Sat, 08 Aug 2026 16:23:22 +0300",
+      "summary": "NEW YORK — Members of the UN Security Council expressed deep concern over the escalation of tensions in Yemen. They emphasized the critical importance of avoiding actions that could undermine peace efforts and threaten international peace and security.In a press statement, the Security Council members condemned Houthi missile attacks against Saudi Arabia launched since July 13 and against commercial vessels since July 22. They denounced the unauthorized aircraft landings at Sana'a International Airport on July 3 and Hodeidah Airport on July 13, conducted without Yemeni government permission and in violation of international civil aviation regulations. The members reaffirmed their commitment to Yemen's sovereignty, independence, unity, and territorial integrity. They noted that all flights to Yemen airports must receive prior coordination and approval from the Yemeni government. The members highlighted the need to ensure safe, sustained air access for humanitarian and civilian purposes in accordance with international law and aviation regulations.The council emphasized compliance with international law and relevant resolutions, particularly Resolution 2216 prohibiting arms transfers and military assistance to sanctioned entities, including the Houthis. Noting the broader regional context, members warned that these actions threaten regional security, freedom of navigation, and peace efforts, urging the Houthis to refrain from escalation and utilize existing dialogue channels.Security Council members reiterated full support for UN Special Envoy Hans Grundberg in his efforts to achieve a comprehensive, negotiated, Yemeni-led political settlement in accordance with relevant UN resolutions. Meanwhile, the European Union strongly condemned attacks carried out by the Houthi militia targeting Najran region of Saudi Arabia, alongside attacks on civilian facilities and infrastructure in Marib, Yemen, calling for an immediate end to the targeting of civilians.In a statement issued in Brussels, the EU spokesperson strongly condemned the recent strikes against Najran and Marib, reiterating that targeting civilians, facilities, and civilian infrastructure is unacceptable.The statement expressed full solidarity with Saudi Arabia and the Yemeni government, warning that the attacks represent a dangerous escalation that further undermines regional stability and threatens ongoing efforts to reach a peaceful resolution to the Yemen conflict."
     },
     {
       "source": "Saudi Gazette",
@@ -1209,51 +1209,6 @@
       "region": "Saudi Arabia",
       "published": "Fri, 07 Aug 2026 05:34:09 +0300",
       "summary": "RIYADH — Eleven civilians were injured in the southern Saudi region of Najran following Houthi terrorist attacks on Thursday, Coalition to Restore Legitimacy in Yemen spokesman Maj. Gen. Turki Al-Maliki said on Friday.Al-Maliki said the injured included seven Saudi citizens, among them a woman and a 4-year-old child who suffered second-degree burns, as well as a Yemeni resident, two Egyptian residents and a Pakistani resident.The coalition said the Houthi militia carried out the attacks using indiscriminate projectiles against civilian objects, describing the assaults as a flagrant violation of international humanitarian law and its customary rules through the deliberate targeting of civilians and civilian infrastructure.Al-Maliki stressed that the Joint Forces Command of the coalition would continue taking deterrent measures against such attacks to ensure the protection of civilians."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia to host trilateral summit with Türkiye, Pakistan in Jeddah",
-      "title_zh": "沙特阿拉伯将在吉达与巴基斯坦土耳其举行三方峰会",
-      "url": "https://saudigazette.com.sa/article/663544/saudi-arabia/saudi-arabia-to-host-trilateral-summit-with-turkiye-pakistan-in-jeddah",
-      "region": "Saudi Arabia",
-      "published": "Fri, 07 Aug 2026 05:32:27 +0300",
-      "summary": "JEDDAH — Saudi Arabia will host a trilateral summit in Jeddah on Friday bringing together Crown Prince and Prime Minister Mohammed bin Salman, Turkish President Recep Tayyip Erdoğan and Pakistani Prime Minister Muhammad Shehbaz Sharif.The Turkish presidency announced on Thursday that Erdoğan will make a one-day working visit to Saudi Arabia on Friday, during which he is scheduled to meet Crown Prince Mohammed bin Salman and Sharif.Sharif arrived in Jeddah on Thursday evening for a three-day official visit to Saudi Arabia, accompanied by a high-level delegation that includes Deputy Prime Minister and Foreign Minister Mohammad Ishaq Dar, Chief of Army Staff Asim Munir and several ministers.Pakistan's Foreign Ministry spokesperson Tahir Andrabi said that although the visit comes amid heightened tensions in the Gulf, its significance extends beyond the current crisis and short-term considerations.The ministry said the visit underscores the historic partnership between Saudi Arabia and Pakistan, built on decades of trust and cooperation.Discussions are expected to focus on strengthening bilateral relations and exchanging views on regional and international developments of mutual interest."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Crown Prince and Macron discuss regional security, freedom of navigation",
-      "title_zh": "沙特王储和马克龙讨论地区安全、航行自由",
-      "url": "https://saudigazette.com.sa/article/663543/saudi-arabia/saudi-crown-prince-macron-discuss-regional-security-and-maritime-navigation",
-      "region": "Saudi Arabia",
-      "published": "Fri, 07 Aug 2026 05:31:01 +0300",
-      "summary": "RIYADH — Saudi Crown Prince and Prime Minister Mohammed bin Salman discussed regional developments and efforts to strengthen security and stability and ensure freedom of maritime navigation during a phone call with French President Emmanuel Macron.The Crown Prince received the call from Macron early Friday, during which the two leaders also reviewed bilateral relations and areas of cooperation between Saudi Arabia and France, as well as ways to further develop them.They also exchanged views on a number of regional and international issues of mutual interest, according to the Saudi Press Agency."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Al-Maliki: Maritime Coalition protects sea lanes and global economy",
-      "title_zh": "马利基：海事联盟保护海道和全球经济",
-      "url": "https://saudigazette.com.sa/article/663542/saudi-arabia/al-maliki-maritime-coalition-protects-sea-lanes-and-global-economy",
-      "region": "Saudi Arabia",
-      "published": "Thu, 06 Aug 2026 23:54:44 +0300",
-      "summary": "RIYADH — Maj. Gen. Turki Al-Maliki, spokesperson of the Ministry of Defense, affirmed that the announcement of the Multinational Maritime Defense Coalition reflects a shared international understanding of the scale of threats facing maritime security and freedom of navigation, and embodies a collective responsibility to protect maritime routes and global economic interests.Maj. Gen. Al-Maliki said that the region and the world are facing real and emerging threats. “Every country has the right to take whatever military or political measures it deems necessary to protect its interests and address such threats,” he said. The spokesperson affirmed the existence of continuous coordination among the countries bordering the Red Sea to enhance the security of maritime routes and protect shared interests. He pointed out that Saudi Arabia, through its experience in the Coalition to Restore Legitimacy in Yemen, has achieved significant accomplishments in eliminating maritime threats, including countering unmanned UAVs, fast boats, and naval mines. He emphasized that maintaining maritime security is a collective responsibility that is not limited to coastal states, but extends to all countries that benefit from the security and stability of maritime routes.Maj. Gen. Al-Maliki stressed that protecting international shipping lanes and oil tankers represents a fundamental pillar of global economic stability. “Any terrorist acts or threats targeting maritime security affect the entire international community. This requires strengthening international cooperation and coordination to confront such threats, contributing to the security and stability of maritime routes,” he said."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "SFDA warns against consuming certain ginseng coffee and chocolate products",
-      "title_zh": "SFDA警告不要食用某些人参咖啡和巧克力产品",
-      "url": "https://saudigazette.com.sa/article/663541/saudi-arabia/sfda-warns-against-consuming-certain-ginseng-coffee-and-chocolate-products",
-      "region": "Saudi Arabia",
-      "published": "Thu, 06 Aug 2026 23:49:15 +0300",
-      "summary": "RIYADH — The Saudi Food and Drug Authority (SFDA) has issued a public warning against consuming three coffee and chocolate products containing ginseng after laboratory analyses revealed that the affected products contain Nortadalafil, a substance prohibited for use.The warning applies to all batches of Parsa Coffee (coffee with ginseng), Parsa Choco (dark chocolate with ginseng), and Bintan SKY (coffee with ginseng), all packaged in 100g sachets. The SFDA urges consumers to immediately stop using these products and safely dispose of any units in their possession, as they may pose health risks, particularly for individuals with chronic diseases.The authority confirmed that it is taking all necessary regulatory measures to recall and withdraw these items from markets. Comprehensive monitoring will continue to ensure the safety of food products incirculation.Reaffirming its commitment to consumer health, the SFDA stated that it will not tolerate any violations that compromise the safety of citizens and residents. Legal proceedings are currently underway against the importing companies.Violation of the Food Law and its Executive Regulations can result in a fine of up to SR10 million, imprisonment for up to 10 years, or both. The SFDA urged the public to report any food product violations through the Unified Call Center at 19999, contributing to enhanced market surveillance and ensuring product safety."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "King Abdulaziz International Qur’an Competition opens in Makkah",
-      "title_zh": "阿卜杜勒-阿齐兹国王国际古兰经比赛在麦加开幕",
-      "url": "https://saudigazette.com.sa/article/663540/saudi-arabia/king-abdulaziz-international-quran-competition-opens-in-makkah",
-      "region": "Saudi Arabia",
-      "published": "Thu, 06 Aug 2026 20:36:39 +0300",
-      "summary": "MAKKAH — The 46th session of the King Abdulaziz International Competition for Memorizing, Reciting and Interpreting the Holy Qur’an kicked off in Makkah on Thursday. The competition is being held under the patronage of Custodian of the Two Holy Mosques King Salman. The competition that runs through Rabi Al-Awwal 6, corresponding to Aug. 19, is organized by the Ministry of Islamic Affairs, Call and Guidance. A total of 334 male and female contestants from 133 countries are participating in the event, marking the largest turnout in the competition's history. The competition aims to encourage young Muslims to memorize, comprehend, and reflect upon the Holy Qur’an, foster honorable competition, and highlight Saudi Arabia's efforts in serving the Qur’an and honoring its memorizers. In a historic first, independent competitions for female participants will be held at the Makkah Hilton Hotel & Convention, while male category finals and the closing ceremony will take place at the Grand Mosque. The competition comprises five categories, with a total prize pool of SR10,260,000, the highest since the competition's launch."
     }
   ]
 }
