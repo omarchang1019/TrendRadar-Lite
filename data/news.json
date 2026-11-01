@@ -1,170 +1,233 @@
 {
-  "last_updated": "2026-10-31 13:15:42",
+  "last_updated": "2026-11-01 13:44:38",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "title_zh": "Claude Code中的后门，用于Cursor Marketplace上的VS Code扩展",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "points": 849,
-      "comments": 510,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "title_zh": "HackerTube ：根据HN推荐的视频构建的YouTube",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "points": 978,
+      "comments": 300,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "title_zh": "人工智能不是取代SRE ，而是对它们进行去填充",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "points": 542,
-      "comments": 406,
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "title_zh": "TCP Use-After-Free ： CVE-2026-98432/CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "points": 434,
+      "comments": 196,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Northflank Breached",
-      "title_zh": "北侧突破",
-      "url": "https://status.northflank.com",
-      "points": 395,
-      "comments": 293,
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "title_zh": "算一下：我们如何接管ChatGPT账号",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "points": 315,
+      "comments": 157,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "title_zh": "63亿美元的币安黑客攻击在短短20分钟内就完成了",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "points": 383,
-      "comments": 264,
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "title_zh": "Anthropic阻止用户进行任何触摸训练大型模型",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "points": 283,
+      "comments": 159,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "title_zh": "Azure最薄弱的链接–五个完整的跨租户妥协",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "points": 284,
-      "comments": 56,
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "title_zh": "一位意大利农民在他的阁楼上发现了一些未知的种子，并种下了它们",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "points": 275,
+      "comments": 76,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "title_zh": "我最喜欢的PowerMac是任天堂Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "points": 271,
-      "comments": 77,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "title_zh": "帕特里克·斯图尔特（ Patrick Stewart ）通过让-吕克·皮卡德（ Jean-Luc Picard ）",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "points": 266,
-      "comments": 148,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "The federated code forge",
-      "title_zh": "联邦代码锻造",
-      "url": "https://tangled.org/blog/forge/",
-      "points": 255,
-      "comments": 82,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "title_zh": "Florilegium ： LaTeX的程序花",
-      "url": "https://github.com/kevinraymond/florilegium",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "title_zh": "Jepsen ： ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
       "points": 235,
-      "comments": 43,
+      "comments": 126,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Breaking the open web won't stop the bad bots",
-      "title_zh": "打破开放的网络不会阻止坏机器人",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "points": 222,
-      "comments": 102,
+      "title": "Simple circuits can create complex behaviors",
+      "title_zh": "简单的电路可以产生复杂的行为",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "points": 228,
+      "comments": 73,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "title_zh": "显示HN ： Qwen权重约1GB的工作任天堂",
-      "url": "https://github.com/dbreunig/nesformer",
-      "points": 220,
-      "comments": 118,
+      "title": "It's the memory latency, stupid",
+      "title_zh": "这是内存延迟，愚蠢的",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "points": 170,
+      "comments": 45,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "title_zh": "睡眠框架： LLM在持续学习中保留知识的新方法",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "points": 190,
-      "comments": 20,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "title_zh": "Memdoor ：由5名Qwen3.8-27B型号组成的团队在LiveCodeBench Hard上击败Fable 5",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "points": 152,
+      "comments": 83,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "title_zh": "思科为工程师提供无限的AI令牌来重写遗留代码",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "points": 140,
-      "comments": 174,
+      "title": "The Duty of a Scholar",
+      "title_zh": "学者的职责",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "points": 104,
+      "comments": 31,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "title_zh": "Cloudflare Turnstile求解器库（无需无头浏览器）",
-      "url": "https://github.com/chris124567/cfsolve",
-      "points": 137,
-      "comments": 37,
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "title_zh": "阅读和写作不像您（可能）认为的那样对称",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "points": 102,
+      "comments": 24,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "title_zh": "SHOW HN ：向帕特里克·斯图尔特爵士致敬，享受TNG剧集猜测游戏",
-      "url": "https://tng.episodle.com/",
-      "points": 133,
-      "comments": 41,
+      "title": "Surviving \"The Graduate\"",
+      "title_zh": "幸存的“毕业生”",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "points": 92,
+      "comments": 29,
       "region": "Global",
       "published": null,
       "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Altoids Project",
+      "title_zh": "Altoids项目",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "points": 81,
+      "comments": 4,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "title_zh": "显示HN ： NES Contra （ 1987 ）端口（ ASM – > C ，然后C – > WebAssembly ）",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "points": 77,
+      "comments": 46,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "title_zh": "电气化可能会将全球能源使用量减少一半",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "points": 69,
+      "comments": 13,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "title_zh": "数据中心现在是一个中期问题，即使在布鲁克林",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "region": "Global",
+      "published": "Sun, 01 Nov 2026 02:22:10 +0000",
+      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title_zh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 21:41:00 +0000",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title_zh": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 21:36:07 +0000",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title_zh": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "title_zh": "据报道， OpenAI降低了新一轮融资目标",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "title_zh": "从餐厅指南到付款，以下是TikTok如何构建超级应用程序",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 15:41:57 +0000",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "title_zh": "我带了两部iPhone去度假。二人组赢得了我的支持。",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "region": "Global",
+      "published": "Sat, 31 Oct 2026 14:00:00 +0000",
+      "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
     },
     {
       "source": "TechCrunch",
@@ -194,517 +257,517 @@
       "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
     },
     {
-      "source": "TechCrunch",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "title_zh": "专注于隐私的人工智能助手Ollie正在关闭",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "source": "The Verge",
+      "title": "Get in the spirit with these horrors from YouTube",
+      "title_zh": "来自YouTube的这些恐怖影片，让您沉浸其中",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 22:56:13 +0000",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "title_zh": "英特尔股市崩盘，从政府持股中损失120亿$",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:54:34 +0000",
-      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "title_zh": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-      "title_zh": "Applebee在应用程序中留下数据库密码后暴露了客户的个人数据",
-      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:48:53 +0000",
-      "summary": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "title_zh": "科技书呆子的最后一刻万圣节服装",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:26:59 +0000",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Cracks are emerging in the AI spending boom",
-      "title_zh": "人工智能支出热潮中正在出现裂缝",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-      "title_zh": "人工智能律师事务所Crosby竞标解散著名公司Weil Gotshal",
-      "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-      "region": "Global",
-      "published": "Fri, 30 Oct 2026 19:55:13 +0000",
-      "summary": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture."
+      "published": "2026-10-31T17:06:58-04:00",
+      "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "title_zh": "苹果智能终于借助iOS 27.3登陆中国",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "title": "Keyboards of The Verge",
+      "title_zh": "The Verge键盘",
+      "url": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
       "region": "Global",
-      "published": "2026-10-30T18:32:53-04:00",
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]"
+      "published": "2026-10-31T15:30:00-04:00",
+      "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Exclusive details about Akai’s MPC Sample Key",
-      "title_zh": "关于Akai MPC示例密钥的独家详细信息",
-      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+      "title_zh": "币安首席执行官表示， 90%的被盗资产已“补充”",
+      "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
       "region": "Global",
-      "published": "2026-10-30T17:01:32-04:00",
-      "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of [&#8230;]"
+      "published": "2026-10-31T14:40:32-04:00",
+      "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "title_zh": "山姆·奥尔特曼（ Sam Altman ）说， RAM在数据中心比在办公桌上更好",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "title": "Happy Pikmin Day Eve",
+      "title_zh": "皮克明日快乐前夕",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
       "region": "Global",
-      "published": "2026-10-30T16:48:43-04:00",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]"
+      "published": "2026-10-31T13:50:12-04:00",
+      "summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "title_zh": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "title_zh": "在Meta之前，我构建了一个人工智能Tamagotchi",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "region": "Global",
-      "published": "2026-10-30T16:26:10-04:00",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]"
+      "published": "2026-10-31T12:05:00-04:00",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "title_zh": "谷歌的卫星人工智能服务器向地球传输第一个响应",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+      "title_zh": "Windows 11尝试Xbox游戏模式和搜索的新快捷方式",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
       "region": "Global",
-      "published": "2026-10-30T14:21:38-04:00",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]"
+      "published": "2026-10-31T11:12:19-04:00",
+      "summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "title_zh": "星巴克希望利用人工智能向您展示“个性化数字菜单”",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "title_zh": "百思买捆绑了$ 100的礼品卡和触摸屏MacBook Pro预购",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
       "region": "Global",
-      "published": "2026-10-30T13:38:04-04:00",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]"
+      "published": "2026-10-31T11:00:00-04:00",
+      "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "The delightfully messy state of Apple gadgets",
-      "title_zh": "苹果小工具令人愉快的混乱状态",
-      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "title_zh": "Vic Mensa离不开语音备忘录应用",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
       "region": "Global",
-      "published": "2026-10-30T13:25:20-04:00",
-      "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even [&#8230;]"
+      "published": "2026-10-31T11:00:00-04:00",
+      "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"? Maybe you [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "title_zh": "Rivian的自主赌博面临首次真正的考验",
-      "url": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "title": "Touchscreens everywhere!",
+      "title_zh": "到处都是触摸屏！",
+      "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
       "region": "Global",
-      "published": "2026-10-30T13:16:09-04:00",
-      "summary": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first [&#8230;]"
+      "published": "2026-10-31T08:00:00-04:00",
+      "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-      "title_zh": "Vizio的折扣迷你LED电视让您可以跳过注册和智能",
-      "url": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+      "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+      "title_zh": "这就是为什么你不能动摇那些混乱的政治文本",
+      "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
       "region": "Global",
-      "published": "2026-10-30T13:01:07-04:00",
-      "summary": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted at Walmart, with the [&#8230;]"
-    },
-    {
-      "source": "The Verge",
-      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-      "title_zh": "谷歌最新的Nest Learning Thermostat正好赶上毛衣天气，立减60 $",
-      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-      "region": "Global",
-      "published": "2026-10-30T11:29:02-04:00",
-      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 [&#8230;]"
+      "published": "2026-10-31T08:00:00-04:00",
+      "summary": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November [&#8230;]"
     },
     {
       "source": "Product Hunt",
-      "title": "StereoLift Live",
-      "title_zh": "StereoLift Live",
-      "url": "https://www.producthunt.com/products/stereolift-live",
+      "title": "LumaFold: Screen Light",
+      "title_zh": "LumaFold ：屏幕光线",
+      "url": "https://www.producthunt.com/products/lumafold-screen-light",
       "region": "Global",
-      "published": "2026-10-25T10:43:45-07:00",
-      "summary": "<p>\n            your desktop in real 3D, live on your Quest\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stereolift-live?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1292499?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-26T07:34:31-07:00",
+      "summary": "<p>\n            Makeup Mirror & Color Effects for iPhone Duo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumafold-screen-light?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293442?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "MCP Server by XWiki",
-      "title_zh": "XWiki的MCP服务器",
-      "url": "https://www.producthunt.com/products/xwiki",
+      "title": "Specsight",
+      "title_zh": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
       "region": "Global",
-      "published": "2026-10-20T01:15:05-07:00",
-      "summary": "<p>\n            Give your AI your wiki's knowledge while keeping the control\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1286355?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-18T11:03:42-07:00",
+      "summary": "<p>\n            Product observability for teams shipping fast with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/specsight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1284558?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Vaani Developer Platform",
-      "title_zh": "Vaani开发者平台",
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+      "title": "AC Bridge",
+      "title_zh": "AC桥架",
+      "url": "https://www.producthunt.com/products/ac-bridge",
       "region": "Global",
-      "published": "2026-10-27T22:20:54-07:00",
-      "summary": "<p>\n            The only voice AI harness that you'll ever need\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1295420?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-30T21:20:01-07:00",
+      "summary": "<p>\n            Your smart lights show when Claude Code or Codex needs you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ac-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299153?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "ilse",
-      "title_zh": "伊尔泽",
-      "url": "https://www.producthunt.com/products/ilse",
+      "title": "telemetry.dev",
+      "title_zh": "telemetry.dev",
+      "url": "https://www.producthunt.com/products/telemetry-dev",
       "region": "Global",
-      "published": "2026-10-29T12:42:40-07:00",
-      "summary": "<p>\n            Point at your app and your AI agent changes the code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ilse?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297623?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-28T17:13:46-07:00",
+      "summary": "<p>\n            LLM observability for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/telemetry-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296505?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "SparkBots AI (Powered by Jev)",
-      "title_zh": "SparkBots AI （由Jev提供支持）",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
+      "title": "WinnerAdSpy",
+      "title_zh": "WinnerAdSpy",
+      "url": "https://www.producthunt.com/products/winneradspy",
       "region": "Global",
-      "published": "2026-10-26T22:29:14-07:00",
-      "summary": "<p>\n            Instantly extract key details and analyze any webpage or PDF\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1294142?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-09-22T01:35:26-07:00",
+      "summary": "<p>\n            Turn competitor ad insights into winning app campaigns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/winneradspy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1257960?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Canva Brush",
-      "title_zh": "Canva画笔",
-      "url": "https://www.producthunt.com/products/canva",
+      "title": "CubbyPad",
+      "title_zh": "CubbyPad",
+      "url": "https://www.producthunt.com/products/cubbypad",
       "region": "Global",
-      "published": "2026-10-29T12:23:23-07:00",
-      "summary": "<p>\n            A vision-language model that edits your designs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297603?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-19T05:08:31-07:00",
+      "summary": "<p>\n            Launchpad is back on macOS 26, and it's smarter\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cubbypad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285372?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Cluinn",
-      "title_zh": "Cluinn",
-      "url": "https://www.producthunt.com/products/cluinn",
+      "title": "SpaceO",
+      "title_zh": "SpaceO",
+      "url": "https://www.producthunt.com/products/spaceo",
       "region": "Global",
-      "published": "2026-10-16T08:08:14-07:00",
-      "summary": "<p>\n            Answers your questions during the call, not after. For Mac.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cluinn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1282624?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-04T01:20:17-07:00",
+      "summary": "<p>\n            Give AI agents their own screen on your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spaceo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1269178?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "sitesolide",
-      "title_zh": "sitesolide",
-      "url": "https://www.producthunt.com/products/sitesolide",
+      "title": "Pluto Door",
+      "title_zh": "冥王星门",
+      "url": "https://www.producthunt.com/products/pluto-door",
       "region": "Global",
-      "published": "2026-10-29T08:27:44-07:00",
-      "summary": "<p>\n            Deploy your vibe-coded apps on your own server\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sitesolide?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297366?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-30T15:10:44-07:00",
+      "summary": "<p>\n            SSH client with an AI agent and a desktop for every server\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pluto-door?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298986?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "StepGrab",
-      "title_zh": "StepGrab",
-      "url": "https://www.producthunt.com/products/stepgrab",
+      "title": "SKI",
+      "title_zh": "滑雪",
+      "url": "https://www.producthunt.com/products/ski",
       "region": "Global",
-      "published": "2026-10-29T15:03:45-07:00",
-      "summary": "<p>\n            Now on Windows, with redaction and a real editor\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stepgrab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297734?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-30T00:45:39-07:00",
+      "summary": "<p>\n            Voice-first coding harness \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ski?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298139?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Norah Studio",
-      "title_zh": "Norah单间公寓",
-      "url": "https://www.producthunt.com/products/norah-studio",
+      "title": "Coding Wrapped",
+      "title_zh": "编码已包装",
+      "url": "https://www.producthunt.com/products/coding-wrapped",
       "region": "Global",
-      "published": "2026-10-29T15:05:03-07:00",
-      "summary": "<p>\n            A new space to explore your music\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/norah-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1297737?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-20T01:53:03-07:00",
+      "summary": "<p>\n            See how you really vibe code with Claude Code & Codex\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/coding-wrapped?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1286399?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "title_zh": "美国批准向乌克兰出售500枚爱国者导弹",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "title_zh": "随着德国生活费用抗议活动转为暴力，商店遭到抢劫",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 31 Oct 2026 00:40:43 GMT",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      "published": "Sun, 01 Nov 2026 01:59:57 GMT",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
     },
     {
       "source": "BBC World",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "title_zh": "加密货币巨头币安试图追回因与朝鲜相关的黑客攻击而被盗的63亿美元$",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "title_zh": "“我们从地狱回来了” ，在俄罗斯占领的前线城市多年后，乌克兰人说",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+      "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food."
     },
     {
       "source": "BBC World",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "title_zh": "为什么朝鲜的“精英”黑客是主要的币安黑客嫌疑人",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "title_zh": "乌克兰撤离人员在俄罗斯占领的城市被困多年后与家人团聚",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 31 Oct 2026 02:12:19 GMT",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+      "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
       "source": "BBC World",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "title_zh": "在波兰最高法院控制权对峙期间部署的警察",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "title_zh": "加密货币公司Binance在遭受63亿美元黑客攻击后弥补了90%的损失",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+      "published": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
       "source": "BBC World",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "title_zh": "在罕见的乌克兰停火期间，数百人从俄罗斯占领的奥列什基撤离",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "title_zh": "印度反对派将举行大型集会，要求选举主席辞职",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 16:26:11 GMT",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+      "published": "Sun, 01 Nov 2026 00:12:07 GMT",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
     },
     {
       "source": "BBC World",
-      "title": "Global nature talks reach deal but money remains an issue",
-      "title_zh": "全球自然谈判达成协议，但资金仍然是一个问题",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "title_zh": "塞尔维亚武契的垮台如何反映出匈牙利奥尔班的垮台",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 31 Oct 2026 01:27:05 GMT",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track."
+      "published": "Sun, 01 Nov 2026 00:55:06 GMT",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
     },
     {
       "source": "BBC World",
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "title_zh": "他们勒死了我们，俄罗斯报纸的创始人在当局的压力下关闭了",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "title": "Ethiopian PM puts ministers through military training",
+      "title_zh": "埃塞俄比亚总理让部长们接受军事训练",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 20:41:51 GMT",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+      "published": "Sat, 31 Oct 2026 14:28:15 GMT",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     },
     {
       "source": "BBC World",
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-      "title_zh": "特朗普的关税可能会关闭这个加拿大城镇-其居民正在努力拯救它",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "title_zh": "随着抗议活动遍布欧洲，成千上万的人在巴黎示威",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Sat, 31 Oct 2026 02:39:25 GMT",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+      "published": "Sat, 31 Oct 2026 21:29:01 GMT",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
     },
     {
       "source": "BBC World",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "title_zh": "美国囚犯克里斯塔·派克（ Christa Pike ）说，她在处决失败后醒来“困惑和痛苦”",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "title_zh": "在刚果民主共和国最致命的埃博拉疫情中， 5000多人死于埃博拉病毒",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 17:07:19 GMT",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
+      "published": "Sat, 31 Oct 2026 15:16:20 GMT",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
     },
     {
       "source": "BBC World",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "title_zh": "在抗议俄罗斯部长出席会议后， G20 “家庭照片”被取消",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "title_zh": "西班牙火车灾难云桑切斯再次当选的机会",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+      "published": "Sat, 31 Oct 2026 05:44:21 GMT",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Pussycat Dolls faz show nostálgico no Brasil e traz escola de samba ao palco",
-      "title_zh": "Pussycat Dolls在巴西表演怀旧表演，将桑巴舞学校带上舞台",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/pussycat-dolls-faz-show-para-publico-nostalgico-e-traz-ao-palco-escola-de-samba.shtml",
+      "title": "Juiz rejeita ação de Trump contra Wall Street Journal sobre suposta carta para Epstein",
+      "title_zh": "法官驳回特朗普因涉嫌致爱泼斯坦信件而对《华尔街日报》提起的诉讼",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/juiz-rejeita-acao-de-trump-contra-wall-street-journal-sobre-suposta-carta-para-epstein.shtml",
       "region": "Brazil",
-      "published": "31 Oct 2026 01:17:00 -0300",
-      "summary": "Duas décadas após a formação, e entre idas e vindas de uma reunião, o<a href=\"https://guia.folha.uol.com.br/shows/2026/10/the-pussycat-dolls-estreia-no-brasil-com-a-turne-pcd-forever-veja-agenda.shtml\" rel=\"\" target=\"\"> The Pussycat Dolls</a> fez seu primeiro show no Brasil, nesta sexta (30). Elas compensaram o tempo com acenos especiais ao país durante a apresentação, o que incluiu figurinos nas cores da bandeira brasileira, frases em português e uma escola de samba com rainhas de bateria no palco.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/pussycat-dolls-faz-show-para-publico-nostalgico-e-traz-ao-palco-escola-de-samba.shtml\">Leia mais</a> (10/31/2026 - 01h17)"
+      "published": "31 Oct 2026 23:59:00 -0300",
+      "summary": "Um juiz federal rejeitou <a href=\"https://www1.folha.uol.com.br/mundo/2026/04/juiz-arquiva-processo-de-trump-contra-jornal-por-reportagem-sobre-epstein.shtml\" rel=\"\" target=\"\">pela segunda vez</a>, neste sábado (31), um processo por difamação movido pelo presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/donald-trump/\">Donald Trump</a> contra o jornal The Wall Street Journal por uma <a href=\"https://www1.folha.uol.com.br/mundo/2025/07/jornal-divulga-suposta-carta-de-trump-para-jeffrey-epstein-com-tom-sugestivo-e-desenho-de-mulher-nua.shtml\" rel=\"\" target=\"\">reportagem que ligava o presidente ao criminoso sexual condenado Jeffrey Epstein</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/juiz-rejeita-acao-de-trump-contra-wall-street-journal-sobre-suposta-carta-para-epstein.shtml\">Leia mais</a> (10/31/2026 - 23h59)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "'A Fazenda 18': Renata é flagrada ouvindo conversa escondida no chão",
-      "title_zh": "“A Fazenda 18” ： Renata被抓住，听着隐藏在地板上的谈话",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-renata-e-flagrada-ouvindo-conversa-escondida-no-chao.shtml",
+      "title": "Propostas de Lula para as ferrovias focam trens urbanos e metrôs",
+      "title_zh": "卢拉的铁路建议侧重于城市火车和地铁",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/10/propostas-de-lula-para-as-ferrovias-focam-trens-urbanos-e-metros.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:47:00 -0300",
-      "summary": "A participante de \"<a href=\"https://www1.folha.uol.com.br/folha-topicos/a-fazenda/\">A Fazenda</a>\" Renata foi flagrada escondida enquanto tentava acompanhar uma conversa entre outras confinadas sem ser percebida.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-renata-e-flagrada-ouvindo-conversa-escondida-no-chao.shtml\">Leia mais</a> (10/30/2026 - 23h47)"
+      "published": "31 Oct 2026 23:58:00 -0300",
+      "summary": "Reeleito para um novo mandato de quatro anos, o presidente Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) prevê a expansão da <a href=\"https://www1.folha.uol.com.br/blogs/sobre-trilhos/\" rel=\"\" target=\"\">malha ferroviária</a> dentro dos investimentos estratégicos do PAC (Programa de Aceleração do Crescimento).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/10/propostas-de-lula-para-as-ferrovias-focam-trens-urbanos-e-metros.shtml\">Leia mais</a> (10/31/2026 - 23h58)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "'Quem Ama Cuida': Mau Mau e Felipe dão primeiro beijo e animam público: 'Representatividade'",
-      "title_zh": "“Quem Ama Cuida” ： Mau Mau和Felipe给出他们的初吻，并为观众欢呼： “代表性”",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/quem-ama-cuida-mau-mau-e-felipe-dao-primeiro-beijo-e-animam-publico-representatividade.shtml",
+      "title": "Veja todos os campeões da Libertadores feminina",
+      "title_zh": "查看所有女子解放者冠军",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/veja-todos-os-campeoes-da-libertadores-feminina.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:04:00 -0300",
-      "summary": "A espera dos fãs de Felipe e Mau Mau chegou ao fim em \"<a href=\"https://www1.folha.uol.com.br/folha-topicos/quem-ama-cuida/\">Quem Ama Cuida</a>\". Os personagens interpretados por <a href=\"https://f5.folha.uol.com.br/televisao/2026/10/atores-mostram-bastidores-da-cena-do-primeiro-beijo-de-mau-mau-e-felipe-em-quem-ama-cuida.shtml\" rel=\"\" target=\"\">Pietro Antonelli e João Victor Gonçalves </a>deram o primeiro beijo no capítulo exibido nesta sexta-feira (30), em uma sequência romântica que movimentou as redes sociais.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/2026/10/quem-ama-cuida-mau-mau-e-felipe-dao-primeiro-beijo-e-animam-publico-representatividade.shtml\">Leia mais</a> (10/30/2026 - 23h04)"
+      "published": "31 Oct 2026 23:24:00 -0300",
+      "summary": "O estreante <a href=\"https://www1.folha.uol.com.br/folha-topicos/cruzeiro/\">Cruzeiro</a> se tornou, neste sábado (31), o nono clube campeão da <a href=\"https://www1.folha.uol.com.br/folha-topicos/libertadores/\">Libertadores</a> feminina ao superar o <a href=\"https://www1.folha.uol.com.br/folha-topicos/corinthians/\">Corinthians</a> em <a href=\"https://www1.folha.uol.com.br/folha-topicos/quito/\">Quito</a>, no <a href=\"https://www1.folha.uol.com.br/folha-topicos/equador/\">Equador</a>. Realizada desde 2009, a competição é amplamente dominada por clubes brasileiros, que conquistaram 15 das 18 edições do torneio.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/veja-todos-os-campeoes-da-libertadores-feminina.shtml\">Leia mais</a> (10/31/2026 - 23h24)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Voltados a investidores, imóveis pequenos são 29% dos lançamentos em SP",
-      "title_zh": "针对投资者，小型物业占SP发布的29 ％",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/voltados-a-investidores-imoveis-pequenos-sao-29-dos-lancamentos-em-sp.shtml",
+      "title": "Cruzeiro reage após levar três gols, vence Corinthians nos pênaltis e conquista Libertadores feminina",
+      "title_zh": "克鲁塞罗在打进三球后做出反应，在点球上击败科林蒂安并赢得女子解放者",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "Quem caminha pelas ruas de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a> nota facilmente o ritmo acelerado de novos empreendimentos. Só nos primeiros oito meses de 2026, de acordo com o Secovi-SP, os lançamentos somaram 91.361 novas unidades, 19,8% a mais do que no mesmo período do ano anterior.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/voltados-a-investidores-imoveis-pequenos-sao-29-dos-lancamentos-em-sp.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:21:00 -0300",
+      "summary": "Parecia que seria fácil. O <a href=\"https://www1.folha.uol.com.br/folha-topicos/corinthians/\">Corinthians</a> abriu 3 a 0 sobre o <a href=\"https://www1.folha.uol.com.br/folha-topicos/cruzeiro/\">Cruzeiro</a> na final da <a href=\"https://www1.folha.uol.com.br/folha-topicos/libertadores/\">Libertadores</a> feminina neste sábado (31), em Quito, no Equador, e tinha tudo para conquistar o título pelo quarto ano consecutivo e somar o sétimo troféu de sua história. Mas a equipe mineira buscou uma reação improvável, empatou por 4 a 4 no tempo regulamentar e venceu nos pênaltis.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml\">Leia mais</a> (10/31/2026 - 23h21)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Bolsonaros, uma família ímpar",
-      "title_zh": "Bolsonaros ，一个独特的家庭",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/10/bolsonaros-uma-familia-impar.shtml",
+      "title": "Depois de virada incrível, Lula terá que cumprir as promessas feitas à multidão da Paulista",
+      "title_zh": "在经历了令人难以置信的转变之后，卢拉将不得不履行对保利斯塔人群的承诺",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "Depois da estreia de \"<a href=\"https://www1.folha.uol.com.br/fsp/ilustrad/fq2107201003.htm\" rel=\"\" target=\"\">Os Bons Companheiros</a>\", em 1990, Martin Scorsese foi banido de alguns restaurantes italianos em Nova York. Os ítalo-americanos acharam que o filme difamava a comunidade.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/10/bolsonaros-uma-familia-impar.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "<strong>[RESUMO]</strong> Três fatores devem ser considerados, sustenta o autor, para compreender a virada de Lula no segundo turno das eleições: o freio de arrumação na campanha que reconheceu as dificuldades econômicas do eleitorado, a tomada espontânea das ruas por jovens estudantes e trabalhadores e o exército digital de André Janones. O problema, agora, será honrar os compromissos assumidos em meio à contrariedade do mercado financeiro com o aumento dos gastos públicos.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Conheça as opções vegetarianas, sem glúten e lactose do festival gastronômico da Folha",
-      "title_zh": "了解Folha美食节的素食、无麸质和乳糖选择",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/10/conheca-as-opcoes-vegetarianas-sem-gluten-e-lactose-do-festival-gastronomico-da-folha.shtml",
+      "title": "Flávio Bolsonaro perde votos em 585 cidades do Nordeste com bases desmobilizadas",
+      "title_zh": "弗拉维奥·博尔索纳罗（ Flávio Bolsonaro ）在东北部585个城市失去了复员基地的选票",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-perde-votos-em-585-cidades-do-nordeste-com-bases-desmobilizadas.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "O restaurante vegetariano <a href=\"https://guia.folha.uol.com.br/restaurantes/2026/09/quincho-komah-e-lena-estarao-em-festival-gastronomico-da-folha.shtml\">Quincho</a>, que fez história ao mostrar a criatividade de sua comida sem depender de ingredientes de origem animal, é uma das estrelas do <a href=\"https://www1.folha.uol.com.br/folha-topicos/folha-gourmet-festival/\" rel=\"\" target=\"\">Folha Gourmet Festival</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/10/conheca-as-opcoes-vegetarianas-sem-gluten-e-lactose-do-festival-gastronomico-da-folha.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "Foi uma virada de 180 graus. A quatro dias do segundo turno, Ludmila Amorim (MDB) deixou para trás o adesivo com o número 22, que usou durante todo o primeiro turno da campanha, e colou na camisa o de número 13.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-perde-votos-em-585-cidades-do-nordeste-com-bases-desmobilizadas.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Após queda brusca da Bolsa, analistas recomendam cautela aos investidores",
-      "title_zh": "在股市大幅下跌后，分析师建议投资者谨慎行事",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/apos-queda-brusca-da-bolsa-analistas-recomendam-cautela-aos-investidores.shtml",
+      "title": "Dólar alto após eleições se soma a El Niño e ameaça inflação",
+      "title_zh": "选举后美元走高加剧了厄尔尼诺现象并威胁通货膨胀",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-alto-apos-eleicoes-se-soma-a-el-nino-e-ameaca-inflacao.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "A reação dos investidores em ações à <a href=\"https://www1.folha.uol.com.br/mercado/2026/10/bolsa-cai-175-na-semana-da-vitoria-de-lula-e-tem-pior-resultado-desde-2020.shtml\" rel=\"\" target=\"\">queda brusca da Bolsa brasileira</a> não pode ser impulsiva. Esse é o consenso entre especialistas do mercado financeiro consultados pela <strong>Folha</strong>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/apos-queda-brusca-da-bolsa-analistas-recomendam-cautela-aos-investidores.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/dolar/\">dólar mais alto</a> após a <a href=\"https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml\">reeleição</a> do presidente <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/pt/\">PT</a>) surge como risco adicional para a <a href=\"https://www1.folha.uol.com.br/folha-topicos/inflacao/\">inflação</a> e começa a provocar revisões nas projeções de economistas para o <a href=\"https://www1.folha.uol.com.br/mercado/2022/03/ipca-como-e-calculado-o-indice-oficial-de-inflacao-no-brasil.shtml\">IPCA</a> (Índice Nacional de Preços ao Consumidor Amplo).\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-alto-apos-eleicoes-se-soma-a-el-nino-e-ameaca-inflacao.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "França reforça segurança para novos protestos no Halloween e teme ação de mascarados",
-      "title_zh": "法国加强万圣节新抗议活动的安全，并担心采取蒙面行动",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml",
+      "title": "De virada é mais gostoso?",
+      "title_zh": "转弯更美味？",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/10/de-virada-e-mais-gostoso.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "O governo da <a href=\"https://www1.folha.uol.com.br/folha-topicos/franca/\">França</a> mobilizou 70 mil militares para este sábado (31), quando estão previstos novos <a href=\"https://www1.folha.uol.com.br/mundo/2026/10/protestos-na-franca-levam-fragilidade-economica-as-ruas.shtml\" rel=\"\" target=\"\">protestos em massa</a> contra o aumento do custo de vida. As autoridades consideram as manifestações de alto risco diante da possibilidade de episódios de violência e saques. Os atos coincidem com o <a href=\"https://www1.folha.uol.com.br/folha-topicos/halloween/\" rel=\"\" target=\"\">Halloween</a>, e também há preocupação com o uso de máscaras para ocultar a identidade de envolvidos em distúrbios.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/franca-reforca-seguranca-para-novos-protestos-no-halloween-e-teme-acao-de-mascarados.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "O <a href=\"https://www1.folha.uol.com.br/folha-topicos/futebol/\" rel=\"\" target=\"\">futebol</a> inventou isso primeiro: virar o jogo é melhor do que entrar em campo ganhando.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/becky-korich/2026/10/de-virada-e-mais-gostoso.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Visitas de animais a hospitais ajudam a reduzir estresse e melhorar bem-estar dos pacientes",
-      "title_zh": "动物到医院就诊有助于减轻压力和改善患者的福祉",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/visitas-de-animais-a-hospitais-ajudam-a-reduzir-estresse-e-melhorar-bem-estar-dos-pacientes.shtml",
+      "title": "Maria Prata, Lóli e a arte de cultivar o futuro",
+      "title_zh": "Maria Prata ， Lóli和培育未来的艺术",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/maria-prata-loli-e-a-arte-de-cultivar-o-futuro.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "Dentro dos quartos, crianças acompanhadas pelos pais espiavam o corredor. Algumas mal conseguiam conter a ansiedade e saíam correndo para ver de perto a movimentação causada pela visita dos cães Toddy, 13, Maria Pia, 7, e Gael, 8.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/visitas-de-animais-a-hospitais-ajudam-a-reduzir-estresse-e-melhorar-bem-estar-dos-pacientes.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "Quando soube que a filha Marta estava grávida, Laura Góes teve uma preocupação urgente: não havia uma goiabeira no quintal de sua casa, no Itaim, em São Paulo. \"Como é que eu vou ter um neto e não tenho uma árvore para ele subir? Não é admissível\", lembra. Plantou a goiabeira, o neto cresceu e subiu nela, e até o menino da casa vizinha passou a usá-la como caminho. Hoje, aos 96 anos, Laura, mais conhecida como Lóli, continua achando perfeitamente natural que uma criança precise de uma árvore. Sua neta Maria Prata, por outro lado, vive num mundo em que é preciso fazer um documentário para lembrar às pessoas por que a natureza importa.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/maria-prata-loli-e-a-arte-de-cultivar-o-futuro.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Zumbis são obras da imaginação ou eles podem existir no mundo real?",
-      "title_zh": "僵尸是想象中的作品，还是存在于现实世界中？",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/10/zumbis-sao-obras-da-imaginacao-ou-eles-podem-existir-no-mundo-real.shtml",
+      "title": "IA, capital e mercados, a outra face da revolução",
+      "title_zh": "人工智能、资本和市场，革命的另一面",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2026/10/ia-capital-e-mercados-a-outra-face-da-revolucao.shtml",
       "region": "Brazil",
-      "published": "30 Oct 2026 23:00:00 -0300",
-      "summary": "Um arrepio percorre o corpo. Imagine que você está diante de um túmulo e, de repente, a terra ao redor começa a se mexer. Uma mão aparece, depois um braço e, aos poucos, uma figura de roupas rasgadas surge do chão. Ela tem a pele em decomposição, parece não estar viva e caminha em sua direção. Ela quer comer o seu cérebro. É um <a href=\"https://fotografia.folha.uol.com.br/galerias/1847711216874323-zumbis-invadem-o-centro-de-sao-paulo\" rel=\"\" target=\"\">zumbi</a>!\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folhinha/2026/10/zumbis-sao-obras-da-imaginacao-ou-eles-podem-existir-no-mundo-real.shtml\">Leia mais</a> (10/30/2026 - 23h00)"
+      "published": "31 Oct 2026 23:00:00 -0300",
+      "summary": "A <a href=\"https://www1.folha.uol.com.br/folha-topicos/inteligencia-artificial/\">inteligência artificial</a> é uma das maiores transformações tecnológicas de que temos registro. <a href=\"https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2026/10/o-paradoxo-da-produtividade-da-inteligencia-artificial.shtml\" rel=\"\" target=\"\">Na coluna anterior,</a> explorei seus efeitos sobre a produtividade agregada, que ainda não aparecem plenamente nas estatísticas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2026/10/ia-capital-e-mercados-a-outra-face-da-revolucao.shtml\">Leia mais</a> (10/31/2026 - 23h00)"
     },
     {
       "source": "The Rio Times",
-      "title": "Chile Stocks Fall 2.76% on Wall Street Rout | Chile Market Report, Oct 30",
-      "title_zh": "华尔街日报智利股市下跌2.76% |智利市场报告， 10月30日",
-      "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-october-30-2026/",
+      "title": "Trump Says Flávio Bolsonaro Can Stay in US",
+      "title_zh": "特朗普说弗拉维奥·博尔索纳罗可以留在美国",
+      "url": "https://www.riotimesonline.com/trump-says-flavio-bolsonaro-can-stay-in-us/",
       "region": "Brazil",
-      "published": "Sat, 31 Oct 2026 00:16:48 +0000",
-      "summary": "<p>Chile’s IPSA fell 2.76% to 10,254 on 30 October, its lowest close in three months, as a US tech sell-off hit stocks. Causes, trend and key levels.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/chile-markets-ipsa-peso-friday-october-30-2026/\">Chile Stocks Fall 2.76% on Wall Street Rout | Chile Market Report, Oct 30</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sun, 01 Nov 2026 02:12:48 +0000",
+      "summary": "<p>Trump says he has no plans to meet Flávio Bolsonaro but that the defeated Brazilian candidate can stay in the US as long as he wants.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/trump-says-flavio-bolsonaro-can-stay-in-us/\">Trump Says Flávio Bolsonaro Can Stay in US</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Mexico Stocks Fall 0.12% as Peso Gains | Mexico Market Report, Oct 30",
-      "title_zh": "墨西哥股市因比索上涨而下跌0.12% |墨西哥市场报告， 10月30日",
-      "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-october-30-2026/",
+      "title": "New Zealand Advance Voting Passes 500,000",
+      "title_zh": "新西兰预先投票通行证500,000",
+      "url": "https://www.riotimesonline.com/new-zealand-advance-voting-passes-500000/",
       "region": "Brazil",
-      "published": "Sat, 31 Oct 2026 00:16:36 +0000",
-      "summary": "<p>Mexico IPC fell 0.12% to 69,705 on 30 October as the dollar fell 0.51% to 18.77 pesos. Causes, the trend and key levels for US investors.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/mexico-markets-ipc-peso-friday-october-30-2026/\">Mexico Stocks Fall 0.12% as Peso Gains | Mexico Market Report, Oct 30</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 23:25:53 +0000",
+      "summary": "<p>Advance voting has passed 500,000 ballots a week before New Zealand's November 7 election, while two polls name different leaders.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/new-zealand-advance-voting-passes-500000/\">New Zealand Advance Voting Passes 500,000</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Brazil Stocks Fall 0.75% as Dollar Surges | Brazil Market Report, Oct 30",
-      "title_zh": "随着美元飙升，巴西股市下跌0.75% |巴西市场报告， 10月30日",
-      "url": "https://www.riotimesonline.com/brazil-markets-ibovespa-real-friday-october-30-2026/",
+      "title": "What to Do in Valparaíso in November 2026",
+      "title_zh": "2026年11月瓦尔帕莱索攻略",
+      "url": "https://www.riotimesonline.com/what-to-do-in-valparaiso-in-november-2026/",
       "region": "Brazil",
-      "published": "Sat, 31 Oct 2026 00:16:21 +0000",
-      "summary": "<p>Brazil’s Ibovespa fell 0.75% to 167,922 on 30 October, a fifth straight loss, as the real slid to 5.44 per US dollar. Causes, trend and key levels.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/brazil-markets-ibovespa-real-friday-october-30-2026/\">Brazil Stocks Fall 0.75% as Dollar Surges | Brazil Market Report, Oct 30</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 22:26:40 +0000",
+      "summary": "<p>Puerto de Ideas features a free Arsuaga lecture on 6 November, and Teatro Mauri carries concerts through the month.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/what-to-do-in-valparaiso-in-november-2026/\">What to Do in Valparaíso in November 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Bitcoin Slides Toward US$77,000 After Binance Hack",
-      "title_zh": "币安遭黑客入侵后，比特币跌向77,000 $",
-      "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-october-30-2026/",
+      "title": "What to Do in Asunción in November 2026",
+      "title_zh": "2026年11月亚松森攻略",
+      "url": "https://www.riotimesonline.com/what-to-do-in-asuncion-in-november-2026/",
       "region": "Brazil",
-      "published": "Sat, 31 Oct 2026 00:13:45 +0000",
-      "summary": "<p>Bitcoin fell to US$77,192 on Friday, its weakest close in a month, after a record US$6.3 billion Binance theft and a Nasdaq sell-off.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-october-30-2026/\">Bitcoin Slides Toward US$77,000 After Binance Hack</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 22:26:29 +0000",
+      "summary": "<p>Ed Sheeran makes his Paraguay debut on 26 November, museums open late on 7 November and Rock en PY Fest runs on 14 November.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/what-to-do-in-asuncion-in-november-2026/\">What to Do in Asunción in November 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Two Sick Venezuelan Inmates Die in Custody",
-      "title_zh": "两名患病的委内瑞拉囚犯在拘留期间死亡",
-      "url": "https://www.riotimesonline.com/two-sick-venezuelan-inmates-die-in-custody/",
+      "title": "US Jobs Report Tests Peso and Real",
+      "title_zh": "美国就业报告测试比索和雷亚尔",
+      "url": "https://www.riotimesonline.com/us-jobs-report-november-2026-latin-america-peso-real-explained/",
       "region": "Brazil",
-      "published": "Sat, 31 Oct 2026 00:12:28 +0000",
-      "summary": "<p>Two sick men died in Venezuelan custody on 26 and 27 October 2026, and the OVP prisons monitor demands impartial investigations into their care.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/two-sick-venezuelan-inmates-die-in-custody/\">Two Sick Venezuelan Inmates Die in Custody</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 22:19:49 +0000",
+      "summary": "<p>US employment data from November 2-6, 2026 will move the Mexican peso and Brazilian real by shifting Federal Reserve expectations and dollar flows.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/us-jobs-report-november-2026-latin-america-peso-real-explained/\">US Jobs Report Tests Peso and Real</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Colombia Stocks Flat as Peso Falls 1.83% | Colombia Market Report, Oct 30",
-      "title_zh": "哥伦比亚股市持平，比索下跌1.83% |哥伦比亚市场报告， 10月30日",
-      "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-friday-october-30-2026/",
+      "title": "Trump Approves Visa for Ghanaian Teen’s Mom",
+      "title_zh": "特朗普批准加纳青少年母亲的签证",
+      "url": "https://www.riotimesonline.com/trump-visa-mother-slain-ghanaian-teen-bronx/",
       "region": "Brazil",
-      "published": "Fri, 30 Oct 2026 23:59:20 +0000",
-      "summary": "<p>Colombia’s COLCAP edged up 0.04% to 2,491 on 30 October while the peso fell 1.83%, after the central bank held its rate at 12.25%. Causes and key levels.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/colombia-markets-colcap-peso-friday-october-30-2026/\">Colombia Stocks Flat as Peso Falls 1.83% | Colombia Market Report, Oct 30</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 22:13:16 +0000",
+      "summary": "<p>Mayor Zohran Mamdani says Trump agreed to grant a visa to the mother of a 15-year-old Ghanaian student killed in the Bronx. No arrests so far.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/trump-visa-mother-slain-ghanaian-teen-bronx/\">Trump Approves Visa for Ghanaian Teen&#8217;s Mom</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Argentina Stocks Fall as Risk Gauge Jumps | Argentina Market Report, Oct 30",
-      "title_zh": "阿根廷股市因风险指标跳升而下跌|阿根廷市场报告， 10月30日",
-      "url": "https://www.riotimesonline.com/argentina-markets-merval-peso-friday-october-30-2026/",
+      "title": "South Africa’s Pirates Beat Chiefs 2-1",
+      "title_zh": "南非海盗击败酋长2-1",
+      "url": "https://www.riotimesonline.com/pirates-beat-chiefs-soweto-derby/",
       "region": "Brazil",
-      "published": "Fri, 30 Oct 2026 23:59:07 +0000",
-      "summary": "<p>Argentina’s Merval stock index fell on 30 October as country risk jumped over 40 points to 787, a 2026 high. Causes, trend and US investor view.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/argentina-markets-merval-peso-friday-october-30-2026/\">Argentina Stocks Fall as Risk Gauge Jumps | Argentina Market Report, Oct 30</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 21:25:26 +0000",
+      "summary": "<p>Orlando Pirates beat Kaizer Chiefs 2-1 at a sold-out FNB Stadium and moved two points clear atop South Africa's league table.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/pirates-beat-chiefs-soweto-derby/\">South Africa&#8217;s Pirates Beat Chiefs 2-1</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "CSN Sinks 8% as Wall Street Rout Hits Steel Stocks",
-      "title_zh": "CSN下跌8% ，华尔街冲击钢铁股",
-      "url": "https://www.riotimesonline.com/steel-markets-latam-friday-october-30-2026/",
+      "title": "Spain Draws Citizens to Run Its Election",
+      "title_zh": "西班牙吸引公民参选",
+      "url": "https://www.riotimesonline.com/spain-polling-station-draws-election/",
       "region": "Brazil",
-      "published": "Fri, 30 Oct 2026 23:57:44 +0000",
-      "summary": "<p>Brazil’s CSN fell 8.31% for a fifth straight loss as Wall Street sold off and debt fears grew, while Gerdau and Ternium fell far less. Here is why.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/steel-markets-latam-friday-october-30-2026/\">CSN Sinks 8% as Wall Street Rout Hits Steel Stocks</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 21:25:17 +0000",
+      "summary": "<p>Spanish town halls began drawing citizens by lot on Oct. 31 to staff polling stations for the Nov. 29 election; 549,297 people will be summoned.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/spain-polling-station-draws-election/\">Spain Draws Citizens to Run Its Election</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Zinc Miners Sink as Wall Street Rout Hits Metals",
-      "title_zh": "锌矿工沉没，华尔街溃败打击金属",
-      "url": "https://www.riotimesonline.com/zinc-markets-latam-friday-october-30-2026/",
+      "title": "France Protest Day Ends With 500+ Arrests",
+      "title_zh": "法国抗议日结束， 500多人被捕",
+      "url": "https://www.riotimesonline.com/france-protest-day-ends-with-500-arrests/",
       "region": "Brazil",
-      "published": "Fri, 30 Oct 2026 23:57:31 +0000",
-      "summary": "<p>Zinc miners Nexa and Buenaventura fell as Wall Street sold off and gold dropped, while the zinc price itself barely moved. Here is why.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/zinc-markets-latam-friday-october-30-2026/\">Zinc Miners Sink as Wall Street Rout Hits Metals</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 20:53:12 +0000",
+      "summary": "<p>France’s interior minister said Saturday’s marches went well but cited unheard-of violence, with 500+ arrests by 4 p.m. ET and a strike due 5 November.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/france-protest-day-ends-with-500-arrests/\">France Protest Day Ends With 500+ Arrests</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Copper Miners Sink as Tech Rout Hits Metals",
-      "title_zh": "随着科技革命击中金属，铜矿工陷入困境",
-      "url": "https://www.riotimesonline.com/copper-markets-latam-friday-october-30-2026/",
+      "title": "Brazil Cup Semifinals Begin Sunday",
+      "title_zh": "巴西杯半决赛周日开始",
+      "url": "https://www.riotimesonline.com/brazil-cup-semifinals-begin-sunday/",
       "region": "Brazil",
-      "published": "Fri, 30 Oct 2026 23:56:49 +0000",
-      "summary": "<p>Copper miners fell sharply on Friday as a tech sell-off and rate worries hit metals, even as Chile’s supply stays tight and China’s demand holds.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/copper-markets-latam-friday-october-30-2026/\">Copper Miners Sink as Tech Rout Hits Metals</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Sat, 31 Oct 2026 19:24:55 +0000",
+      "summary": "<p>Palmeiras host Vasco and Grêmio face Atlético-MG on Sunday, 1 November, in the first legs. Return legs follow on 7 and 8 November.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/brazil-cup-semifinals-begin-sunday/\">Brazil Cup Semifinals Begin Sunday</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "WTO chief urges Indonesia to join interim mechanism, insists priority reform",
+      "title_zh": "世贸组织总干事敦促印尼加入临时机制，坚持优先改革",
+      "url": "https://www.thejakartapost.com/business/2026/11/01/wto-chief-urges-indonesia-to-join-interim-mechanism-insists-priority-reform.html",
+      "region": "Indonesia",
+      "published": "Sun, 1 Nov 2026 12:01:09 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/29/2026_10_29_181094_1793258095._medium.jpg\" style=\"text-align: center;\" /></p><p>WTO reform remained a priority despite related talks moving “much more slowly than we'd like”, WTO chief Okonjo-Iweala told reporters on Tuesday.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Clashes break out as hundreds of thousands protest in France",
+      "title_zh": "随着数十万人在法国举行抗议活动，冲突爆发",
+      "url": "https://www.thejakartapost.com/world/2026/11/01/clashes-break-out-as-hundreds-of-thousands-protest-in-france.html",
+      "region": "Indonesia",
+      "published": "Sun, 1 Nov 2026 08:35:16 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/01/2026_11_01_181156_1793495650._medium.jpg\" style=\"text-align: center;\" /></p><p>More than 500 people were arrested as police fired water cannon and tear gas to disperse rioters on the sidelines of the demonstrations, where regular protesters marched in Halloween costumes.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "German rioters loot shops as 'Gen Z' demos turn ugly",
+      "title_zh": "随着“Z世代”演示变得丑陋，德国暴徒抢劫商店",
+      "url": "https://www.thejakartapost.com/world/2026/11/01/german-rioters-loot-shops-as-gen-z-demos-turn-ugly.html",
+      "region": "Indonesia",
+      "published": "Sun, 1 Nov 2026 08:06:00 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/01/2026_11_01_181155_1793494749._medium.jpg\" style=\"text-align: center;\" /></p><p>Tensions peaked in the evening as some groups of young people refused to disperse, with violence breaking out in major cities including Berlin, Cologne and Hamburg.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Quad ministers work on supply chains, denounce export restrictions",
+      "title_zh": "四方部长致力于供应链，谴责出口限制",
+      "url": "https://www.thejakartapost.com/world/2026/11/01/indo-pacific-quad-ministers-work-on-supply-chains-denounce-arbitrary-export-restrictions.html",
+      "region": "Indonesia",
+      "published": "Sun, 1 Nov 2026 07:53:47 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/01/2026_11_01_181154_1793494135._medium.jpg\" style=\"text-align: center;\" /></p><p>The joint statement by the foreign ministers of the Indo-Pacific \"Quad\" came at a time when Japan has been extremely critical of Beijing over its restrictions on critical mineral exports, and the US has been assembling a coalition aimed at uniting G20 countries concerned about China's dominance in rare earths and other critical minerals.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Ecological crisis in spotlight ahead of UN climate summit",
+      "title_zh": "在联合国气候峰会之前聚焦生态危机",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/01/ecological-crisis-in-spotlight-ahead-of-un-climate-summit.html",
+      "region": "Indonesia",
+      "published": "Sun, 1 Nov 2026 07:07:07 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/30/2026_10_30_181132_1793360780._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesia’s overall climate action is deemed ‘critically insufficient’ to meet the threshold to mitigate the climate crisis, prompting calls from environmentalists for the country to be more aggressive in mitigating the crisis’ impacts as well as to avoid false solutions.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "China's factory activity returns to contraction in October",
+      "title_zh": "10月份中国工厂活动恢复收缩",
+      "url": "https://www.thejakartapost.com/business/2026/10/31/chinas-factory-activity-returns-to-contraction-in-october.html",
+      "region": "Indonesia",
+      "published": "Sat, 31 Oct 2026 17:43:07 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/09/12/2026_09_12_179666_1789188131._medium.jpg\" style=\"text-align: center;\" /></p><p>China's factory activity slipped back into contraction territory in October, official data showed Saturday, despite sustained growth in high-tech industries, as the market for consumer goods weakened.</p>"
+    },
+    {
+      "source": "The Jakarta Post",
+      "title": "Jakarta’s accessibility gap limits mobility for the disabled",
+      "title_zh": "雅加达的无障碍缺口限制了残疾人的流动性",
+      "url": "https://www.thejakartapost.com/indonesia/2026/10/31/jakartas-accessibility-gap-limits-mobility-for-the-disabled.html",
+      "region": "Indonesia",
+      "published": "Sat, 31 Oct 2026 15:03:19 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2018/12/03/2018_12_03_59987_1543850410._medium.jpg\" style=\"text-align: center;\" /></p><p>Dhea told The Jakarta Post that relying fully on public transport was unrealistic in the capital because of the many barriers along the way, including pedestrian bridges she cannot climb without assistance.</p>"
     },
     {
       "source": "The Jakarta Post",
@@ -734,252 +797,189 @@
       "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/30/2026_10_30_181126_1793346446._medium.jpg\" style=\"text-align: center;\" /></p><p>The Javan banteng is the second-largest indigenous mammal remaining on Java after the Javan rhinoceros (Rhinoceros sondaicus). The species is legally protected and classified as endangered on the International Union for Conservation of Nature (IUCN) Red List. </p>"
     },
     {
-      "source": "The Jakarta Post",
-      "title": "Medan man arrested for allegedly insulting Jesus during TikTok livestream",
-      "title_zh": "棉兰男子因涉嫌在TikTok直播期间侮辱耶稣而被捕",
-      "url": "https://www.thejakartapost.com/indonesia/2026/10/31/medan-man-arrested-for-allegedly-insulting-jesus-during-tiktok-livestream.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 09:20:12 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2020/06/10/2020_06_10_97356_1591760177._medium.jpg\" style=\"text-align: center;\" /></p><p>The video of RDL's remarks circulated widely on social media, drawing angry reactions from viewers.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Rubio urges G20 cooperation amid rifts over wars in Ukraine, Middle East",
-      "title_zh": "卢比奥敦促G20在乌克兰和中东战争中进行合作",
-      "url": "https://www.thejakartapost.com/world/2026/10/31/rubio-urges-g20-cooperation-amid-rifts-over-wars-in-ukraine-middle-east.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 08:40:08 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/31/2026_10_31_181151_1793410398._medium.jpg\" style=\"text-align: center;\" /></p><p>US officials said they skipped a traditional G20 family photo after European officials refused to be photographed with Lavrov.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Two years in, Prabowo exhausts Indonesia's state capacity",
-      "title_zh": "两年后， Prabowo耗尽了印度尼西亚的国家产能",
-      "url": "https://www.thejakartapost.com/opinion/2026/10/31/two-years-in-prabowo-exhausts-indonesias-state-capacity.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 08:18:23 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/21/2026_10_21_180867_1792588650._medium.jpg\" style=\"text-align: center;\" /></p><p>Indonesia does not need more institutions to become a better economy: It needs stronger state capacity backed by accountable institutions, predictable rules and credible law enforcement.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Analysis: Two years of Prabowo: The cost of presidential ambition",
-      "title_zh": "分析：普拉博沃的两年：总统野心的代价",
-      "url": "https://www.thejakartapost.com/opinion/2026/10/31/analysis-two-years-of-prabowo-the-cost-of-presidential-ambition.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 07:00:07 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/30/2026_10_30_181129_1793351741._medium.jpg\" style=\"text-align: center;\" /></p><p>Two years into his presidency, President Prabowo Subianto is pursuing an ambitious agenda of state-led programs, from the free nutritious meal program to the Red and White Cooperatives. But as billions of dollars flow into these flagship initiatives, pressing needs in education, health care and disaster preparedness remain underfunded. The question is no longer whether Prabowo can fulfill his political ambitions, but whether Indonesians can afford the costs of pursuing them.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "'Rhizomatic' movements help youth voice political messages",
-      "title_zh": "“根茎”运动帮助青年表达政治信息",
-      "url": "https://www.thejakartapost.com/indonesia/2026/10/31/rhizomaticmovements-help-youth-voice-political-messages.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 06:45:26 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/30/2026_10_30_181133_1793365306._medium.jpg\" style=\"text-align: center;\" /></p><p>Alternative movements based in cultural spaces, among other places, may help young people to express their political stance and understand more about today’s politics, although experts argue more work is necessary to push for changes in the system.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "China, Indonesia arrest 18 in international drug trafficking crackdown",
-      "title_zh": "中国、印尼在国际打击毒品贩运中逮捕18人",
-      "url": "https://www.thejakartapost.com/indonesia/2026/10/31/china-indonesia-arrest-18-in-international-drug-trafficking-crackdown.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 06:37:43 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/10/30/2026_10_30_181117_1793323733._medium.jpg\" style=\"text-align: center;\" /></p><p>National Police chief Suyudi Ario Seto said Indonesia would strengthen cooperation with international law enforcement agencies to dismantle transnational drug trafficking networks, including by targeting those who finance and coordinate their operations.</p>"
-    },
-    {
-      "source": "The Jakarta Post",
-      "title": "Hybrid cars could sway buyers if the incentives add up",
-      "title_zh": "如果激励措施加起来，混合动力汽车可能会影响买家",
-      "url": "https://www.thejakartapost.com/business/2026/10/31/hybrid-cars-could-sway-buyers-if-the-incentives-add-up.html",
-      "region": "Indonesia",
-      "published": "Sat, 31 Oct 2026 06:30:35 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2025/08/04/2025_08_04_165087_1754289566._medium.jpg\" style=\"text-align: center;\" /></p><p>According to the Association of Indonesian Automotive Manufacturers (Gaikindo), wholesale hybrid car distribution rose 42.66 percent year-on-year to 65,968 units in January-September 2026, accounting for 9.72 percent of total car sales.</p>"
-    },
-    {
       "source": "Times of India - Top Stories",
-      "title": "End of SIR doesn’t mean freezing of voters list: Supreme Court",
-      "title_zh": "SIR的结束并不意味着冻结选民名单：最高法院",
-      "url": "https://timesofindia.indiatimes.com/india/end-of-sir-doesnt-mean-freezing-of-voters-list-sc/articleshow/135376933.cms",
+      "title": "'GenZ regelt!' Thousands protest across Germany in Halloween costumes",
+      "title_zh": "“Z世代卷土重来！”成千上万穿着万圣节服装在德国各地举行抗议活动",
+      "url": "https://timesofindia.indiatimes.com/world/europe/halloween-protests-and-chaos-why-is-gen-z-taking-to-the-streets-across-germany/articleshow/135416953.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 01:25:45 +0530",
+      "published": "Sun, 01 Nov 2026 09:26:41 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Omar faces NC storm: Many MLAs upset over J&amp;K cabinet rejig, Srinagar MP to quit",
-      "title_zh": "奥马尔面临北卡罗来纳州风暴：许多MLA对强生内阁重组感到不满，斯利那加议员辞职",
-      "url": "https://timesofindia.indiatimes.com/india/omar-abdullahs-cabinet-under-fire-from-within-nc-srinagar-mp-ruhullah-mehdi-announces-resignation/articleshow/135386283.cms",
+      "title": "Meira Kumar declares CEC Gyanesh Kumar ‘unfit’ from chair once used by Nehru",
+      "title_zh": "Meira Kumar宣布CEC Gyanesh Kumar曾经被尼赫鲁使用过的椅子“不合适”",
+      "url": "https://timesofindia.indiatimes.com/india/it-was-nehru-jis-chair-cong-reveals-significance-of-seat-used-by-meira-kumar-during-cecs-public-impeachment/articleshow/135418725.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 09:34:34 +0530",
+      "published": "Sun, 01 Nov 2026 10:58:53 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Meitei, Naga groups unite for Imphal rally against Kuki rebels",
-      "title_zh": "Meitei ， NAGA团体联合起来反对Kuki叛乱分子的Imphal集会",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/ist-time-in-3-years-meitei-naga-bodies-to-rally-against-kuki-militants-in-imphal-today/articleshow/135372782.cms",
+      "title": "Vehicle curbs, WFH and more: From today, Delhi goes into full pollution patrol mode",
+      "title_zh": "车辆路缘石、在家办公等：从今天起，德里将进入全污染巡逻模式",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/vehicle-curbs-wfh-and-ai-surveillance-delhi-steps-up-winter-pollution-fight/articleshow/135409703.cms",
       "region": "India",
-      "published": "Fri, 30 Oct 2026 23:10:43 +0530",
-      "summary": "Meitei and Naga civil society organisations are holding a joint rally in Imphal to oppose Kuki militants. The rally, themed 'Chingmi-Tammi', aims to promote unity among indigenous communities. Organisers have demanded the abrogation of the Suspension of Operations agreement and protection for internally displaced families. They also called for a neutral central police force to replace the Assam Rifles in conflict areas."
+      "published": "Sat, 31 Oct 2026 23:50:11 +0530",
+      "summary": "Starting from November 1, the Delhi government will implement strict pollution control measures lasting until January 31. These initiatives will encompass vehicle-entry limitations, reduced office attendance, and increased parking fees. To mitigate dust emissions, outdoor construction will face grave restrictions during winter. Residents and vehicle owners are urged to comply to enhance city air quality. Furthermore, traffic patterns will be adjusted to reroute through-traffic away from Delhi."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Nemesis No. 1! Mitchell Santner scripts history, enters record books against India",
-      "title_zh": "克星1号！米切尔·桑特纳（ Mitchell Santner ）编写历史剧本，进入针对印度的记录簿",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/nemesis-no-1-mitchell-santner-scripts-history-enters-record-books-against-india/articleshow/135384489.cms",
+      "title": "Virat, Rohit's day out in Auckland: Booming drives, plenty of edges and high intensity",
+      "title_zh": "Virat ， Rohit在奥克兰的一天：蓬勃发展的驱动器，充足的边缘和高强度",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-rohit-sharmas-day-out-in-auckland-booming-drives-plenty-of-edges-and-high-intensity/articleshow/135416274.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 07:46:41 +0530",
-      "summary": "Mitchell Santner etched his name in history as the top wicket-taker against India in T20 internationals, achieving 32 dismissals. This remarkable feat occurred during the fourth T20I, where he claimed two wickets. He also celebrated reaching the 150-wicket milestone in T20Is. With a dominant 87-run victory, New Zealand earned their first win of the series, narrowing India's lead to 3-1."
+      "published": "Sun, 01 Nov 2026 09:03:24 +0530",
+      "summary": "Virat Kohli and Rohit Sharma stepped up their ODI preparations at Eden Park, but it was Auqib Nabi who grabbed attention with an impressive spell, troubling both senior batters with movement in the air and off the pitch. While Kohli focused on attacking intent and finished with high-intensity sprints, Rohit had a light-hearted Karan Aujla moment with local cricketers."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Woman who secretly returned from UK without informing family found dead in Pune flat",
-      "title_zh": "在没有通知家人的情况下从英国秘密返回的女人被发现死在浦那公寓",
-      "url": "https://timesofindia.indiatimes.com/city/pune/woman-who-secretly-returned-from-london-without-informing-family-found-dead-in-pune/articleshow/135387199.cms",
+      "title": "'Fair of Thugs': BJP poster jab ahead of massive INDIA bloc rally",
+      "title_zh": "“公平的暴徒” ：印度人民党在大规模的印度集团集会之前的海报刺戳",
+      "url": "https://timesofindia.indiatimes.com/india/fair-of-thugs-bjp-takes-swipe-at-opposition-with-poster-ahead-of-massive-india-bloc-rally/articleshow/135416807.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 09:35:33 +0530",
-      "summary": "Mugdha Deshmukh, a 34-year-old woman who returned to India, was found dead in Pune this week. Her family was unaware of her return and suspected something was wrong when she could not be contacted. They discovered food delivery transactions that indicated her presence in India, prompting further investigation. Police located her rented apartment and found her body without visible injuries."
+      "published": "Sun, 01 Nov 2026 09:37:34 +0530",
+      "summary": "As the INDIA bloc prepares for its rally, the Delhi unit of BJP has launched a poster campaign aimed at opposition leaders. This rally is centered on demanding Chief Election Commissioner Gyanesh Kumar's resignation over perceived electoral discrepancies. Many protesters from different states have arrived to raise concerns about the electoral process, particularly regarding Electronic Voting Machines."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Canada sets this condition for international students looking to work there",
-      "title_zh": "加拿大为希望在那里工作的国际学生设定了这一条件",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/canadas-immigration-authority-to-international-students-you-can-only-work-in-canada-if-your-study-permit-conditions-says-/articleshow/135386884.cms",
+      "title": "US senators write to Google CEO Sundar Pichai with 9 questions on classroom AI push",
+      "title_zh": "美国参议员致信谷歌首席执行官Sundar Pichai ，就课堂人工智能推送提出9个问题",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/two-us-senators-write-letter-to-google-ceo-sundar-pichai-asking-9-questions-as-company-pushes-for-ai-in-classrooms/articleshow/135415769.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 09:21:43 +0530",
-      "summary": "Canada's immigration authority emphasizes that international students may work only if their study permits allow it. Students can work off campus for a maximum of 24 hours per week during study sessions. Violating these work conditions can lead to serious repercussions, including loss of student status. Furthermore, unauthorized work may result in a permanent record of fraud with IRCC and a five-year return ban."
+      "published": "Sun, 01 Nov 2026 08:07:41 +0530",
+      "summary": "Two US senators have requested answers from Google CEO Sundar Pichai about the effects of AI tools on children. They highlighted concerns regarding the integration of AI products in schools and their potential negative impacts. The senators have set a deadline for a response by November 2, 2026. They specifically seek information on research conducted about AI's impact on children’s mental health."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "US-Iran deal on horizon? Uranium transfer, Hormuz reopening in 7 days proposed",
-      "title_zh": "美国和伊朗的交易即将到来？铀转移， Hormuz在7天内重新开放",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-to-shift-uranium-stockpile-abroad-reopen-hormuz-within-7-days-under-draft-deal-report/articleshow/135385055.cms",
+      "title": "Ahmedabad artist recreates Rani ki Vav with nails, thread, enters record book",
+      "title_zh": "艾哈迈达巴德艺术家用钉子和线重现Rani ki Vav ，进入记录簿",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/no-paintbrush-just-nails-and-white-cotton-thread-ahmedabad-artist-recreates-rani-ki-vav-on-a-56-by-38-inch-black-panel-and-earns-india-book-of-records-recognition/articleshow/135416552.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:13:27 +0530",
-      "summary": ""
+      "published": "Sun, 01 Nov 2026 09:10:07 +0530",
+      "summary": "In a remarkable fusion of tradition and modernity, Payal Kintu Thakkar from Gujarat has ingeniously recreated the iconic Rani ki Vav using innocuous materials like nails and cotton thread. Spanning an impressive 56 inches by 38 inches, her artwork, now recognized by the India Book of Records, captivates with its unique approach, reminding everyone of the intricate beauty of this UNESCO World Heritage Site."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Oklahoma 8th-grader finds 56% of wild plants show antibacterial activity",
-      "title_zh": "俄克拉荷马州八年级学生发现56%的野生植物具有抗菌活性",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-locklyn-raye-ward-the-oklahoma-eighth-grader-who-tested-24-wild-plants-from-her-familys-farm-and-found-56-showed-antibacterial-activity/articleshow/135171093.cms",
+      "title": "Gold, silver, iPhone: How burqa-clad woman targeted locked houses in Hyderabad",
+      "title_zh": "金色、银色、iPhone ：身穿罩袍的女人如何瞄准海得拉巴的锁定房屋",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-woman-wore-burqa-used-hand-cutter-to-break-house-locks-48-tulas-gold-1-5kg-silver-recovered/articleshow/135416195.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 09:57:47 +0530",
-      "summary": "In an inspiring project, eighth-grader Locklyn Raye Ward from Oklahoma explored the antibacterial capabilities of wild plants. Analyzing 24 plants sourced from her family’s farm, she found that 56 percent demonstrated antibacterial effects, but none were as potent as commercial antibiotics. Interestingly, seven native plants showcased promising antibiotic properties, prompting Locklyn to highlight the importance of wild plants while addressing the significant issue of antibiotic overuse."
+      "published": "Sun, 01 Nov 2026 09:00:25 +0530",
+      "summary": "The Uppal police apprehended a 25-year-old woman, Paga Jaya, in connection with multiple house burglaries. Following a recent theft reported by Gangam Bhaskar Reddy, whose residence was violated during his family vacation, Jaya emerged as a suspect. Authorities believe she may be linked to five incidents in various areas of Hyderabad."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Jaishankar, Rubio review India-US bilateral cooperation during Atlanta meeting",
-      "title_zh": "Jaishankar ，卢比奥在亚特兰大会议期间审查印美双边合作",
-      "url": "https://timesofindia.indiatimes.com/world/us/jaishankar-rubio-review-india-us-bilateral-cooperation-during-atlanta-meeting/articleshow/135387264.cms",
+      "title": "Binance to resume withdrawals after recovering 95% of $6.3 billion crypto theft",
+      "title_zh": "币安将在追回63亿美元加密货币盗窃案的95%后恢复提款$",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/binance-to-resume-withdrawals-after-recovering-95-of-6-3-billion-crypto-theft/articleshow/135418376.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 10:10:38 +0530",
-      "summary": "External affairs minister S Jaishankar had a productive meeting with US secretary of state Marco Rubio in Atlanta to explore avenues for enhanced bilateral ties. They shared reflections from their recent talks during the G20 foreign ministers' summit. Jaishankar's itinerary also included dialogues with both the US ambassador to India and India's ambassador to the US, highlighting active diplomatic channels."
+      "published": "Sun, 01 Nov 2026 10:41:27 +0530",
+      "summary": "Binance has announced a phased resumption of cryptocurrency withdrawals following a significant heist of $6.3 billion. The exchange reported it has recovered 95% of the stolen digital assets, enabling this process. The remaining 5% consists of less liquid tokens, which may require additional time to source. The FBI is investigating the cyberattack, linking it to a North Korean hacking group named TraderTraitor."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'20 villas in Udaipur, 8 in Alwar': Why IAS officer, IPS wife face ACB probe",
-      "title_zh": "“乌代浦20栋别墅，阿尔瓦尔8栋别墅” ：为什么IAS官员、IPS妻子面临ACB调查",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/in-eye-of-storm-ias-officer-shikhar-agrawal-ips-officer-wife-prashakha-mathur-10-villas-for-rs-15-lakh-in-udaipur-8-in-alwar-for-rs-16-5-lakh-and-a-special-package/articleshow/135385601.cms",
+      "title": "Greek shipwreck's 2,000-year-old device was built to predict eclipses",
+      "title_zh": "希腊沉船的2000年前的装置是为了预测日食而建造的",
+      "url": "https://timesofindia.indiatimes.com/science/archaeology/in-1901-sponge-divers-off-the-greek-island-of-antikythera-recovered-a-corroded-lump-of-bronze-from-a-2000-year-old-shipwreck-scans-later-showed-it-was-a-geared-device-built-to-predict-eclipses/articleshow/135371949.cms",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:41:03 +0530",
-      "summary": "Senior IAS officer Shikhar Agrawal faces a preliminary inquiry by the Anti-Corruption Bureau. He has been accused of misusing his official position to benefit Goyal Fashions Private Limited. The inquiry includes alleged irregularities in the purchase of villas by Agrawal and his family members. Agrawal reportedly secured financial benefits for the company while he was in charge of industries."
+      "published": "Sat, 31 Oct 2026 17:51:57 +0530",
+      "summary": "In 1900, a remarkable discovery was made when divers stumbled upon the Antikythera Mechanism amidst a shipwreck in the Mediterranean Sea. This ancient artifact showcased astounding knowledge of astronomy and mechanical engineering dating back over 2,000 years. Researchers found it capable of calculating astronomical cycles and predicting eclipses, intertwining science with the cultural tapestry of ancient Greece."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "US Scraps Traditional G20 Photo As Europeans Object To Posing With Russia's Lavrov",
-      "title_zh": "美国废弃传统的G20照片，因为欧洲人反对与俄罗斯的拉夫罗夫合影",
-      "url": "https://www.ndtv.com/world-news/us-bins-g20-photo-as-europeans-object-to-posing-with-russias-lavrov-12262024#publisher=newsstand",
+      "title": "Hyderabad MBA Student Steals Thar Tyres, Borrowed Tools From Puncture Shop",
+      "title_zh": "海得拉巴MBA学生偷Thar轮胎，从穿刺店借工具",
+      "url": "https://www.ndtv.com/hyderabad-news/hyderabad-mba-student-steals-thar-tyres-borrowed-tools-from-puncture-shop-12265957#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 09:18:01 +0530",
-      "summary": "Europeans baulked at being photographed with Russian Foreign Minister Sergey Lavrov."
+      "published": "Sun, 01 Nov 2026 10:04:09 +0530",
+      "summary": "The accused was seen stealing a spare wheel from a Mahindra Thar"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "US Approves Patriot Missile Sale To Ukraine, But Delivery Could Take Years",
-      "title_zh": "美国批准向乌克兰出售爱国者导弹，但交付可能需要数年时间",
-      "url": "https://www.ndtv.com/world-news/us-approves-patriot-missile-sale-to-ukraine-but-delivery-could-take-years-12261992#publisher=newsstand",
+      "title": "INDIA Bloc And BJP To Hold Rival Marches In Delhi, Traders Warn Of Diwali Losses",
+      "title_zh": "印度集团和人民党将在德里举行竞争对手游行，交易员警告排灯节的损失",
+      "url": "https://www.ndtv.com/delhi-news/india-bloc-and-bjp-to-hold-rival-marches-in-delhi-traders-warn-of-diwali-losses-12265869#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:58:31 +0530",
-      "summary": "The statement did not provide an estimate for when the weapons could be delivered to Ukraine."
+      "published": "Sun, 01 Nov 2026 10:01:41 +0530",
+      "summary": "The Opposition bloc INDIA and the BJP will hold protests in the national capital today"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "In Poland, Judge Suspends Her Court's President. Protests, Coup Claim Follow",
-      "title_zh": "在波兰，法官暂停其法院院长的职务。抗议、政变索赔跟进",
-      "url": "https://www.ndtv.com/world-news/poland-protest-bogdan-swieczkowski-karol-nawrocki-donald-tusk-poland-constitutional-tribunal-12261899#publisher=newsstand",
+      "title": "CJP Supports INDIA Bloc Rally But Keeps Distance, Says \"Neutral Platform\"",
+      "title_zh": "CJP支持印度集团集会，但保持距离，称“中立平台”",
+      "url": "https://www.ndtv.com/india-news/india-blocs-delhi-rally-ramlila-maidan-cjp-supports-india-bloc-rally-but-keeps-distance-says-neutral-platform-12264371#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:47:00 +0530",
-      "summary": "Riot police were deployed around the court."
+      "published": "Sun, 01 Nov 2026 10:00:13 +0530",
+      "summary": "Abhijeet Dipke extended solidarity with the INDIA bloc rally on the \"vote chori\" charge."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Congress Expels Kripa Alva Over 'Sting Operation' Of Party Leaders In Karnataka",
-      "title_zh": "国会驱逐克里帕·阿尔瓦（ Kripa Alva ）对卡纳塔克邦党派领导人的“刺激行动”",
-      "url": "https://www.ndtv.com/india-news/congress-expels-kripa-alva-over-sting-operation-of-party-leaders-in-karnataka-siddaramaiah-12261947#publisher=newsstand",
+      "title": "3 Days On, Uttarakhand Chopper Crash Victims' Bodies Still Untraced",
+      "title_zh": "3天过去了，北阿坎德邦直升机坠毁受害者的尸体仍未被追踪",
+      "url": "https://www.ndtv.com/cities/uttarakhand-helicopter-crash-3-days-on-uttarakhand-chopper-crash-victims-bodies-still-untraced-12264640#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:43:25 +0530",
-      "summary": "Former chief minister Siddaramaiah had named her behind the 'defamatory video'."
+      "published": "Sun, 01 Nov 2026 09:42:53 +0530",
+      "summary": "The teams trekked along difficult mountain paths from direction of Pandukeshwar towards wreckage site."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Woman Delivers Baby On Bus In Assam, Driver, Passengers Help",
-      "title_zh": "女子在阿萨姆邦公交车上接送婴儿、司机、乘客帮助",
-      "url": "https://www.ndtv.com/india-news/woman-delivers-baby-on-bus-in-assam-kaziranga-driver-passengers-help-12261923#publisher=newsstand",
+      "title": "Days After Cylone Arnab, Another Storm May Hit Andhra Coast On November 3",
+      "title_zh": "在Cylone Arnab之后的几天，另一场风暴可能会在11月3日袭击安得拉海岸",
+      "url": "https://www.ndtv.com/andhra-pradesh-news/days-after-cylone-arnab-another-cyclonic-storm-may-hit-andhra-coast-on-november-3-12264924#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 08:28:46 +0530",
-      "summary": "The baby was delivered before an ambulance could reach the spot."
+      "published": "Sun, 01 Nov 2026 09:19:06 +0530",
+      "summary": "The development comes days after severe cyclonic storm Arnab hit Andhra Pradesh and Odisha on October 28."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "'Don't Know Why I Survived': Christa Pike's First Words After Failed Execution In US",
-      "title_zh": "“不知道我为什么活了下来” ：克里斯塔·派克在美国执行失败后的第一句话",
-      "url": "https://www.ndtv.com/world-news/pain-in-mind-soul-christa-pikes-first-words-after-failed-execution-in-us-12261766#publisher=newsstand",
+      "title": "Trump's 'Can Strike Iran In 10 Minutes' Warning As Mojtaba Khamenei Updates 'Target List'",
+      "title_zh": "随着Mojtaba Khamenei更新“目标名单” ，特朗普的“可以在10分钟内打击伊朗”警告",
+      "url": "https://www.ndtv.com/world-news/donald-trump-says-us-still-has-few-targets-in-iran-mojtaba-khamenei-warns-of-quick-reply-amid-us-iran-war-midterm-elections-12265792#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 07:53:03 +0530",
-      "summary": "Pike and her boyfriend tortured and stabbed a 19-year-old classmate, Colleen Slemmer, to death in 1995. Pike was 18 at the time, making her one of the youngest women sentenced to death. Slemmer's mother travelled from Florida to witness Pike's execution."
+      "published": "Sun, 01 Nov 2026 09:14:09 +0530",
+      "summary": "Donald Trump has in the past few days suggested he could launch fresh military action against Iran"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "4 Killed, 2 Injured In Massive Shoe Factory Fire In Delhi's Mangolpuri",
-      "title_zh": "德里Mangolpuri的大规模制鞋厂火灾造成4人死亡， 2人受伤",
-      "url": "https://www.ndtv.com/india-news/4-killed-2-injured-in-massive-shoe-factory-fire-in-delhi-s-mangolpuri-industrial-areea-12261769#publisher=newsstand",
+      "title": "'Finding Kalash Not A Crime': Court On Lilavati Hospital Black Magic Case",
+      "title_zh": "“查找卡拉什不是犯罪” ：法庭审理Lilavati医院黑魔法案",
+      "url": "https://www.ndtv.com/india-news/finding-kalash-not-a-crime-court-on-lilavati-hospital-black-magic-case-12264873#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 07:18:03 +0530",
-      "summary": "Police have issued summons to the factory owner over the matter."
+      "published": "Sun, 01 Nov 2026 09:09:53 +0530",
+      "summary": "The court asserted that such practices can't automatically be treated as criminal acts"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "On Camera, 'Mystery' Drone Attacks Greek Container Ship In Black Sea",
-      "title_zh": "在摄像头上， “神秘”无人机袭击黑海的希腊集装箱船",
-      "url": "https://www.ndtv.com/world-news/on-camera-mystery-drone-attacks-greek-container-ship-in-black-sea-bulgaria-russia-12261790#publisher=newsstand",
+      "title": "At 166, Delhi Records Lowest October Average Air Quality In 8 Years",
+      "title_zh": "德里10月平均空气质量8年来最低，为166",
+      "url": "https://www.ndtv.com/delhi-news/delhi-air-quality-at-166-delhi-records-lowest-average-october-air-quality-in-8-years-12264940#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 07:13:59 +0530",
-      "summary": "At least six ships have been attacked by drones off Bulgaria this month."
+      "published": "Sun, 01 Nov 2026 08:21:14 +0530",
+      "summary": "Delhi's average AQI in October hits 166."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "G20 Ministers Skip Photo Op In Iran As Russia-Ukraine War Creates Rifts",
-      "title_zh": "由于俄罗斯-乌克兰战争造成分裂， 20国集团部长跳过在伊朗拍照",
-      "url": "https://www.ndtv.com/world-news/g20-ministers-skip-photo-op-in-iran-as-russia-ukraine-war-creates-rifts-12261329#publisher=newsstand",
+      "title": "FBI Accuses North Korean Group 'TraderTraitor' Of $6 Billion Binance Hack",
+      "title_zh": "美国联邦调查局指责朝鲜集团“TraderTraitor”遭受$ 60亿币安黑客攻击",
+      "url": "https://www.ndtv.com/world-news/fbi-accuses-north-korean-group-tradertraitor-of-6-billion-binance-hack-12265726#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 00:25:10 +0530",
-      "summary": "A US official said the photo was cancelled due to the controversy"
+      "published": "Sun, 01 Nov 2026 08:12:41 +0530",
+      "summary": "TraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Thousands Of Workers, Students Protest In Italy Over High Living Costs",
-      "title_zh": "成千上万的工人、学生在意大利抗议高昂的生活成本",
-      "url": "https://www.ndtv.com/world-news/thousands-of-workers-students-protest-in-italy-over-high-living-costs-12261322#publisher=newsstand",
+      "title": "Locked For 19 Months, Meerut's 'Blue Drum' Murder House To Be 'Purified'",
+      "title_zh": "锁定19个月， Meerut的“蓝鼓”谋杀之家将被“净化”",
+      "url": "https://www.ndtv.com/meerut-news/locked-for-19-months-meeruts-blue-drum-murder-house-to-be-purified-12265053#publisher=newsstand",
       "region": "India",
-      "published": "Sat, 31 Oct 2026 00:22:11 +0530",
-      "summary": "A general strike called by Italy's USB trade union drew thousands of workers"
+      "published": "Sun, 01 Nov 2026 07:48:58 +0530",
+      "summary": "Muskaan Rastogi and Sahil Shukla were sentenced to death for Saurabh Rajput's murder in Meerut"
     },
     {
       "source": "NHK News",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_zh": "13暂时，限时15分怎么样？",
+      "title_zh": "13号台风的影响会持续很长时间， 15号台风的运动是什么？",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "region": "Japan",
       "published": "Sat, 08 Aug 2026 21:54:30 +0900",
@@ -1041,84 +1041,102 @@
     },
     {
       "source": "The Korea Times",
-      "title": "Lee says multicultural family support resulting in 'reverse discrimination' cannot be justified",
-      "title_zh": "Lee表示，导致“反向歧视”的多元文化家庭支持是没有道理的",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261031/lee-says-multicultural-family-support-resulting-in-reverse-discrimination-cannot-be-justified?utm_source=rss",
+      "title": "Gov't tightens grip on illegal foreign delivery riders amid nearly 17-fold surge in cases",
+      "title_zh": "在案件激增近17倍的情况下，政府不会收紧对非法外国派送乘客的控制",
+      "url": "https://www.koreatimes.co.kr/southkorea/society/20261101/govt-tightens-grip-on-illegal-foreign-delivery-riders-amid-nearly-17-fold-surge-in-cases?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "President Lee Jae Myung renewed his call Saturday for a review of multicultural family support programs, saying any preferential policy that can create reverse discrimination cannot be justified. Lee posted the comments on social media amid criticism after he suggested the need to revise the support programs for multicultural families in South Korea, such as priority access to low-cost public postpartum care centers. In an earlier posting on his X account, Lee questioned whether mothers from multicultural families and mothers recognized as persons of national merit deserve to be placed in the same category for reservations at government-funded postpartum care centers. The issue, which the liberal president brought forward after citing a post from a conservative online community site, has drawn backlash from the liberal bloc voicing concern that such a move amounts to inciting hatred in society. \"While it is true that support for multicultural families is necessary, that cannot justify specific policies that are unreasonable or may result in reverse discrimination,\" Lee wrote on X. \"Just b"
+      "published": "Sun, 01 Nov 2026 05:42:03 GMT",
+      "summary": "The government is moving to tighten enforcement against foreign delivery riders working illegally and the delivery company systems that let them slip through, amid a nearly 17-fold surge in the number of violators caught. Last week, the Ministry of Justice said it held talks with the Ministry of Land, Infrastructure and Transport, the Ministry of Employment and Labor, the National Police Agency and the Korea Coast Guard on a joint government response to illegal delivery work by foreign nationals. To root out the practice, the justice ministry plans to step up joint crackdowns with the police agency and expand cooperation in investigating related offenses, such as organized illegal hiring and brokering by delivery agencies, unlicensed driving and the unauthorized use of accounts registered under other people’s names. The justice ministry also plans to work with relevant agencies to build an identity verification system for riders, improve systems for managing and inspecting delivery agencies and encourage the industry to prevent illegal practices. The transport ministry is set to receiv"
     },
     {
       "source": "The Korea Times",
-      "title": "In super-aged Korea, social isolation leaves seniors searching for connection",
-      "title_zh": "在超级老龄化的韩国，社交孤立让老年人寻找联系",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20261031/in-super-aged-korea-social-isolation-leaves-seniors-searching-for-connection?utm_source=rss",
+      "title": "Sejong University team finds link between retail investor attention, lower stock returns",
+      "title_zh": "世宗大学团队发现散户投资者的关注与较低的股票回报之间存在联系",
+      "url": "https://www.koreatimes.co.kr/southkorea/education/20261101/sejong-university-team-finds-link-between-retail-investor-attention-lower-stock-returns?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "Tucked away near the rear entrance of Seoul Station is a building bustling with older adults coming and going. Inside, dozens of white-haired visitors fill the space, some drinking cheap coffee while others watch television. Farther inside, two barbers cut the hair of older visitors. A narrow staircase leads down to a basement, where a small PC cafe with a row of computers and tables for \"baduk\" (go) and \"janggi\" (Korean chess) is located. Nearly every seat is occupied by an older person. “The door is always open and we don’t ask them to do anything, including pray,” said Woo Yeon-shik, a pastor who runs the center, Dream City, which also doubles as a church. Operating near Seoul Station since 2011, Dream City draws more than 300 older people each day from across the capital. For Woo, the space increasingly serves a purpose that goes beyond its original mission of helping homeless people: giving older people somewhere to go and someone to be around. That role has become more urgent as Korea, one of the world’s fastest-aging societies, grapples with high suicide rates and social i"
+      "published": "Sun, 01 Nov 2026 05:42:03 GMT",
+      "summary": "A research team at Sejong University has found that stocks attracting greater attention from retail investors tend to generate lower returns in subsequent periods. The university said the findings were published last month in the prestigious Journal of International Financial Markets, Institutions & Money. The team was led by Lee Eun-mi, a professor at the university’s College of Business and Economics, and included doctoral students Yang Pujian and Yang Liu. The paper, titled “The Retreat of Arbitrage Capital: Attention Level and Nonlinear Order Flow Dynamics,” lists Yang Pujian as the first author, Lee as the corresponding author and Yang Liu as a co-author. The research team examined how retail investor attention affects institutional trading behavior and stock market returns. The researchers analyzed data from China’s A-share market spanning 2012 to 2024 and measured investor attention using the Search Volume Index (SVI) provided by Baidu, China’s leading search engine. The analysis found that stocks attracting greater investor attention tend to generate relatively lower retu"
     },
     {
       "source": "The Korea Times",
-      "title": "Fishing boat catches fire off west coast, all 22 rescued",
-      "title_zh": "渔船在西海岸起火， 22人全部获救",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261031/fishing-boat-catches-fire-off-west-coast-all-22-rescued?utm_source=rss",
+      "title": "Love hotteok? Here's how the sugary, oil-fried snack can affect your diet",
+      "title_zh": "喜欢Hotteok ？以下是含糖油炸零食如何影响您的饮食",
+      "url": "https://www.koreatimes.co.kr/southkorea/20261101/love-hotteok-heres-how-the-sugary-oil-fried-snack-can-affect-your-diet?utm_source=rss",
       "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "INCHEON — A fishing boat caught fire off the West Sea island of Yeongheung on Saturday and all 22 people aboard were rescued, with two of them taken to a hospital for inhaling smoke, officials said. The fire broke out on the 9.77-ton charter fishing boat in waters 0.9 nautical mile south of the island at 6:51 a.m. After receiving a distress call from the boat, the Coast Guard sent patrol and rescue boats to the scene, put out the fire and rescued all aboard. Two of them, including the boat's skipper, were taken to a hospital for inhaling smoke. Two Coast Guard officers also inhaled smoke and planned to receive medical treatment. The Coast Guard plans to investigate the exact cause of the fire and the extent of damage based on witness statements that sparks and smoke came from the boat's passenger cabin."
+      "published": "Sun, 01 Nov 2026 05:42:03 GMT",
+      "summary": "Click here for more articles by Kormedi.com. Comedian Shin Bong-sun, who has drawn attention for her slimmer figure, turned down even a tempting snack to stay on track with her diet. Shin recently posted a photo of a black plastic bag on social media, writing, “Hotteok my older sister bought me from Namdaemun. I won't eat it.” She also shared a full-body photo taken at a gym, saying she was playing tennis and attending a personal training session. Shin previously revealed that she had lost 11 kilograms in just 100 days. She has since continued to exercise regularly and manage her diet. Hotteok: A calorie bomb with sugar and oil Hotteok is a snack made by filling wheat flour dough with a sweet filling and cooking it in oil. The carbohydrates in the dough, combined with sugar and oil, make the snack high in calories. Its calorie content varies depending on its size, filling ingredients and the amount of oil used during cooking. According to the Ministry of Food and Drug Safety's food nutrition database, hotteok containing nuts has 314 kilocalories per 100 grams. Eating a 150-gram hotteok"
     },
     {
-      "source": "The Korea Times",
-      "title": "No drug-related violations found in special crackdown on eve of Halloween",
-      "title_zh": "在万圣节前夕的特别镇压中没有发现与毒品有关的违规行为",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261031/no-drug-related-violations-found-in-special-crackdown-on-eve-of-halloween?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "Police said Saturday they have found no drug-related violations during a joint crackdown the previous night on nightlife districts in Seoul on the eve of Halloween. Police carried out inspections at eight clubs in nightlife districts in Gangnam, Seocho and Yongsan on Friday night as part of a special drug crackdown that has been under way since August in cooperation with fire and municipality authorities. \"Ahead of Halloween, we conducted crackdowns focusing on clubs, entertainment venues, and areas with high concentrations of foreigners, where large crowds are expected,\" a police official said. \"We will continue to strengthen inspections and crackdown activities in vulnerable areas.\" Police urged the public to actively report drug-related crimes, saying they will guarantee the anonymity of informants and rewards will be provided."
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia issues red and orange alerts as thunderstorms, dense fog affect several regions",
+      "title_zh": "沙特阿拉伯发布红色和橙色警报，因为雷暴，浓雾影响多个地区",
+      "url": "https://saudigazette.com.sa/article/665897/saudi-arabia/saudi-arabia-issues-red-and-orange-alerts-as-thunderstorms-dense-fog-affect-several-regions",
+      "region": "Saudi Arabia",
+      "published": "Sun, 01 Nov 2026 07:47:04 +0300",
+      "summary": "JEDDAH — Red and orange weather alerts have been issued across several regions, as dense fog and moderate to heavy thunderstorms are expected to affect several Saudi regions, according to the National Center for Meteorology (NCM). The NCM issued two red alerts for dense fog in parts of the Eastern Province, alongside orange alerts for fog in other parts of the region. Orange alerts for moderate rainfall have also been issued across parts of the Northern Borders, Hail, Makkah, Asir, Al-Baha and Jazan. According to the NCM’s Sunday forecast, moderate to heavy thunderstorms capable of causing flash floods, accompanied by showers of hail, are expected across parts of Jazan, Asir, Al-Baha, Makkah, Madinah, Hail and the Northern Borders. Active surface winds stirring up dust and sand are also forecast over parts of these regions, as well as parts of Riyadh and Al-Qassim. For temperatures, Dammam is forecast to record the highest temperature at 38°C, followed by Makkah at 37°C and Riyadh, Jeddah and Buraidah at 36°C. Madinah and Jazan are expected to reach 35°C, followed by Hail at 31°C, Najran at 30°C, Sakaka at 29°C, Tabuk at 28°C, Arar at 27°C, Abha at 25°C and Al-Baha at 23°C. Humidity is forecast to reach 95 percent in Abha, followed by 90 percent in Dammam, Al-Baha and Arar, and 80 percent in Hail and Sakaka. Jazan is expected to record 75 percent humidity, followed by Jeddah at 70 percent, Makkah at 65 percent, Madinah at 60 percent, Tabuk at 55 percent, Buraidah and Najran at 35 percent, and Riyadh at 30 percent."
     },
     {
-      "source": "The Korea Times",
-      "title": "Ruling party lawmaker issued US visa, days after refusal",
-      "title_zh": "执政党议员在拒绝签证后的几天内签发了美国签证",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261031/ruling-party-lawmaker-issued-us-visa-days-after-refusal?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "Rep. Jin Sung-joon of the ruling Democratic Party of Korea said Saturday he has been issued a U.S. visa for a trip to the U.S. Pacific Command, days after he said his application was rejected. Jin, who serves as chairman of the parliamentary defense committee, said in a Facebook post that he received the visa from the U.S. Embassy in Seoul and that it was fortunate the U.S. State Department has issued the official A-2 visa, albeit belatedly. The lawmaker said he will depart Sunday afternoon and hold discussions with the U.S Pacific commander and other U.S. military leaders about strengthening bilateral security cooperation and developing a future-oriented alliance. On Wednesday, Jin had said his U.S. visa application was rejected and shared on Facebook what appeared to be a document that showed his application was refused. Jin expressed strong regret, saying the rejection was difficult to understand, given that he had visited the U.S. command in 2014 as a member of the parliamentary committee. The exact reason for the denial was unclear, but some observers note that Jin's past conviction"
+      "source": "Saudi Gazette",
+      "title": "Prince Fahd bin Jalawi represents Saudi Crown Prince at Dakar 2026 Youth Olympics opening ceremony",
+      "title_zh": "法赫德·本·贾拉维亲王代表沙特王储出席2026年达喀尔青年奥运会开幕式",
+      "url": "https://saudigazette.com.sa/article/665896/saudi-arabia/prince-fahd-bin-jalawi-represents-saudi-crown-prince-at-dakar-2026-youth-olympics-opening-ceremony",
+      "region": "Saudi Arabia",
+      "published": "Sun, 01 Nov 2026 07:23:16 +0300",
+      "summary": "DAKAR — On behalf of Crown Prince Mohammed bin Salman, Prince Fahd bin Jalawi, Vice President of the Saudi Olympic and Paralympic Committee, attended the opening ceremony of the fourth Youth Olympic Games. The ceremony, held on October 31 at Abdoulaye Wade Stadium in Diamniadio, Senegal, was attended by Senegalese President Bassirou Diomaye Faye, International Olympic Committee (IOC) President Kirsty Coventry and several heads of state. **media[2788001]** The opening ceremony featured artistic and cultural performances showcasing Senegal’s history and heritage, alongside displays reflecting the values of the Olympic movement and the spirit of determination and perseverance. The event also included official addresses by the IOC President and organizing committee officials, followed by a parade of participating delegations. Prince Fahd expressed his gratitude to the Saudi leadership for its continued support of the Kingdom’s sports sector, which he said has contributed to significant advances in Saudi sports and strengthened the Kingdom’s presence at international sporting events. **media[2788000]** He highlighted the importance of Saudi Arabia’s participation in the Dakar 2026 Youth Olympic Games, describing it as an opportunity for young Saudi athletes to gain Olympic experience, improve their technical performance and represent the Kingdom on the global stage. Prince Fahd also wished the participating Saudi athletes success, expressing hope that they would deliver outstanding performances and achieve positive results. **media[2788003]**"
     },
     {
-      "source": "The Korea Times",
-      "title": "Once shunned, prisons become sought-after facilities for local communities",
-      "title_zh": "监狱一旦被避开，就会成为当地社区的热门设施",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20261031/once-shunned-prisons-become-sought-after-facilities-for-local-communities?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "Prisons, once widely regarded as undesirable facilities, are now drawing competition from local governments seeking to revive shrinking communities and struggling economies. Seven municipal governments are competing to host four new correctional facilities as part of the Ministry of Justice’s first nationwide competitive bidding process for prison sites. The ministry launched a nationwide call for applications on Aug. 28, marking the first time it has used a competitive bidding process to select sites for new correctional facilities. Previously, sites were chosen through consultations between the ministry and local governments. Under the new system, municipalities must seek residents' input and obtain approval from their local councils before submitting bids. The four planned facilities will each have a capacity of 1,000 inmates and employ around 250 staff members. Seven local governments have joined the race, including the counties of Yeongyang, Cheongsong, Yeongdeok and Uiseong in North Gyeongsang Province, the city of Jecheon and Boeun County in North Chungcheong Province and Jeongse"
+      "source": "Saudi Gazette",
+      "title": "Saudi FM discusses maritime security with Brazil, France and Germany",
+      "title_zh": "沙特调频与巴西、法国和德国讨论海上安全问题",
+      "url": "https://saudigazette.com.sa/article/665895/saudi-arabia/saudi-foreign-minister-discusses-maritime-security-regional-tensions-with-brazil-france-and-germany",
+      "region": "Saudi Arabia",
+      "published": "Sun, 01 Nov 2026 06:57:50 +0300",
+      "summary": "ATLANTA — Saudi Foreign Minister Prince Faisal bin Farhan held separate meetings with his counterparts from Brazil, France and Germany on the sidelines of the G20 Foreign Ministers’ Meeting, discussing bilateral relations, regional developments and threats to maritime security and global trade. During his meeting with French Minister for Europe and Foreign Affairs Jean-Noël Barrot, Prince Faisal discussed bilateral relations and recent regional developments, particularly the continued attacks by the Houthi militia on Saudi territory. The discussions also addressed threats to maritime security in the Strait of Hormuz and Bab al-Mandab and their repercussions on international trade and global supply chains. Saudi Ambassador to the United States Princess Reema bint Bandar attended the meeting. **media[2787997]** In a separate meeting with Brazilian Foreign Minister Mauro Vieira, the two ministers reviewed relations between Saudi Arabia and Brazil and discussed regional and international developments. They also emphasized the need for coordinated efforts to address threats to maritime navigation and mitigate their impact on global trade flows and supply chains. Prince Faisal also met with German Foreign Minister Johann Wadephul to review bilateral relations and discuss major regional developments. Both ministers emphasized the importance of strengthening international coordination to restore security and stability in the region and safeguard maritime passages to ensure the uninterrupted flow of global trade. **media[2787999]**"
     },
     {
-      "source": "The Korea Times",
-      "title": "Korea expands benefits for retired working dogs to help them find forever homes",
-      "title_zh": "韩国扩大退休工作犬的福利，帮助他们找到永久住所",
-      "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261031/korea-expands-benefits-for-retired-working-dogs-to-help-them-find-forever-homes?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "Korea is stepping up its efforts to help retired working dogs find forever homes by building a comprehensive, state-funded safety net designed to ease the steep financial burden on adoptive families. Under an expanded initiative led by the Ministry of Agriculture, Food and Rural Affairs, the government is introducing direct medical subsidies, discounted veterinary care, and dedicated hospice facilities to ensure these canine public servants are cared for after their service ends. Roughly 1,100 working dogs currently serve across six government bodies, including the military, police, fire services, customs and quarantine inspection. Among them, the Animal and Plant Quarantine Agency alone operates approximately 70 specialized detector dogs at key international travel hubs. For years, private adoption for retired working dogs faced steep hurdles. Specialized breeds like beagles, Labradors, and Malinois typically retire around age 8 after six to eight years of active duty. Upon retirement, adoptive owners are left with high medical costs for joint issues, dental problems and chronic ailment"
+      "source": "Saudi Gazette",
+      "title": "King Salman issues two royal orders promoting 172 Public Prosecution members",
+      "title_zh": "萨勒曼国王发布两项皇家命令，提拔172名公诉人",
+      "url": "https://saudigazette.com.sa/article/665894/saudi-arabia/king-salman-issues-two-royal-orders-promoting-172-public-prosecution-members",
+      "region": "Saudi Arabia",
+      "published": "Sun, 01 Nov 2026 06:40:33 +0300",
+      "summary": "RIYADH — Custodian of the Two Holy Mosques King Salman has issued two royal orders promoting 172 members of the Public Prosecution across various judicial ranks. Attorney General and Chairman of the Public Prosecution Council Dr. Khalid bin Mohammed Al-Yousef expressed his gratitude to King Salman and Crown Prince and Prime Minister Mohammed bin Salman for their continued support of the Public Prosecution. He said the support reflects the leadership’s commitment to strengthening the institution and empowering its personnel. Al-Yousef emphasized that the royal trust placed in members of the Public Prosecution serves as a source of pride and motivation to further improve performance, in line with the leadership’s aspirations to safeguard rights and uphold justice."
     },
     {
-      "source": "The Korea Times",
-      "title": "'Assume everything is being recorded': Korea's Gen Z rewrites the rules of office life",
-      "title_zh": "“假设一切都被记录下来” ：韩国的Z世代改写了办公室生活的规则",
-      "url": "https://www.koreatimes.co.kr/southkorea/society/20261031/assume-everything-is-being-recorded-koreas-gen-z-rewrites-the-rules-of-office-life?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "\"Whenever you talk to an employee in their 20s, it's probably best to assume the entire conversation is being recorded.\" It is a warning increasingly shared among Korean managers in their 40s and 50s as they try to make sense of a generation of young employees whose workplace habits can seem baffling — and sometimes unsettling — to their bosses. Some older managers see low loyalty to the company and a lack of respect for senior colleagues. Gen Z workers, however, see something very different: a desire for clear communication, boundaries between work and private life and relationships based less on hierarchy. From recording conversations with bosses and avoiding unnecessary apologies to skipping team lunches and continuing to use honorific speech even with close colleagues, young Koreans are quietly rewriting some of the unwritten rules that have long governed the country's offices. Why record a conversation with your boss? For some middle managers, discovering that a young employee is recording a conversation without saying anything can be uncomfortable. Some even wonder whether the em"
+      "source": "Saudi Gazette",
+      "title": "Saudi customs record 1,147 seizures of prohibited items at border crossings",
+      "title_zh": "沙特海关在边境口岸查获了1,147件违禁物品",
+      "url": "https://saudigazette.com.sa/article/665893/saudi-arabia/saudi-customs-record-1147-seizures-of-prohibited-items",
+      "region": "Saudi Arabia",
+      "published": "Sat, 31 Oct 2026 18:07:00 +0300",
+      "summary": "RIYADH — Saudi Arabia's land, sea and air customs ports recorded 1,147 seizures of prohibited items as part of ongoing efforts by the Zakat, Tax and Customs Authority (ZATCA) to strengthen security and protect society from various types of contraband.The seized items included 48 types of narcotics, such as hashish, cocaine, heroin, methamphetamine and Captagon pills, in addition to 270 prohibited substances.Customs authorities also thwarted 839 smuggling attempts involving tobacco and its derivatives, along with nine cases involving cash.ZATCA reaffirmed its commitment to tightening customs controls over the Kingdom's imports and exports to safeguard society, in continued cooperation and coordination with relevant authorities.The authority also urged the public to contribute to combating smuggling and protecting society and the national economy by reporting suspected violations through its security hotline at 1910 or the international number +966 1910, as well as by email.ZATCA said reports concerning smuggling crimes and violations of the Unified Customs Law are handled with complete confidentiality, with financial rewards offered to informants whose reports are verified as accurate."
     },
     {
-      "source": "The Korea Times",
-      "title": "Is it really just the autumn blues?",
-      "title_zh": "真的只是秋天的蓝调吗？",
-      "url": "https://www.koreatimes.co.kr/southkorea/health/20261031/is-it-really-just-the-autumn-blues?utm_source=rss",
-      "region": "South Korea",
-      "published": "Sat, 31 Oct 2026 05:12:03 GMT",
-      "summary": "\"I think the fall is getting to me.\" That's what a friend told me on the phone recently. \"You're middle-aged now, and suddenly you're getting the autumn blues?\" I said jokingly. He laughed awkwardly, then began telling me about his life lately. Seeing the darkening sky on his way home from work drains his energy. Once home, he lies on the couch and does nothing. Even after sleeping in on weekends, he doesn't feel refreshed. And after dinner, he finds himself reaching for bread and snacks. As I listened, I began to wonder whether it was really something that could simply be blamed on the season. In Korea, the expression \"gaeul tada,\" literally \"to be affected by autumn,\" carries a certain romanticism. It describes that wistful feeling that arrives with falling leaves, when even a familiar song can unexpectedly stir the emotions. But persistent sadness and lethargy, along with losing interest in hobbies once enjoyed, are a long way from romantic autumn melancholy. According to the U.S. National Institute of Mental Health, seasonal affective disorder (SAD) is a \"type of depression characterize"
+      "source": "Saudi Gazette",
+      "title": "Saudi Arabia calls for lasting regional peace at Manama Dialogue",
+      "title_zh": "沙特阿拉伯在麦纳麦对话中呼吁实现持久的地区和平",
+      "url": "https://saudigazette.com.sa/article/665885/saudi-arabia/saudi-arabia-condemns-houthi-escalation-urges-regional-stability-at-manama-dialogue",
+      "region": "Saudi Arabia",
+      "published": "Sat, 31 Oct 2026 16:14:04 +0300",
+      "summary": "MANAMA — Saudi Deputy Foreign Minister Waleed Al-Khereiji reaffirmed the Kingdom's commitment to regional security and diplomatic solutions to ongoing conflicts, condemning continued Houthi attacks against Saudi Arabia and Yemen during the 22nd Manama Dialogue conference in Bahrain.Speaking at a session titled \"The Consequences of Transformative Regional Conflict,\" Al-Khereiji stressed the urgent need to contain crises and strengthen regional security and stability amid expanding conflicts and worsening humanitarian suffering.He warned of the consequences of regional instability for maritime security, energy supplies and the global economy, emphasizing the importance of protecting countries and their populations while pursuing political settlements that address the root causes of conflicts and prevent their recurrence.Al-Khereiji said Saudi Arabia's foreign policy is based on the firm conviction that its national security is closely linked to the stability of its regional surroundings and that sustainable peace is essential for development and prosperity.He explained that the Kingdom is strengthening its capabilities to protect its security and sovereignty in accordance with international law while intensifying diplomatic efforts to resolve crises based on respect for state sovereignty, good neighborly relations and noninterference in internal affairs.\"Saudi Arabia continues its diplomatic efforts, in coordination with brotherly nations and partners, to reduce escalation and resolve differences through peaceful means in a way that preserves the region's security and stability,\" he said.Addressing developments in Yemen, Al-Khereiji reaffirmed Saudi Arabia's continued support for the internationally recognized Yemeni government and efforts to reach a comprehensive political settlement that preserves Yemen's unity and security.He condemned the continued escalation by the Houthi militia against Yemen and its people, as well as against Saudi Arabia, particularly attacks targeting civilian facilities and threats to maritime navigation.Al-Khereiji said the Houthis were seeking to undermine de-escalation efforts and diplomatic initiatives aimed at reaching a political settlement to the Yemeni crisis, while expanding the conflict and obstructing opportunities to restore regional security and stability.He also highlighted the importance of strengthening countries' resilience in the face of regional crises.In this context, he said Saudi Arabia is developing its defense capabilities, protecting critical infrastructure and vital facilities, enhancing cybersecurity and ensuring the continuity of essential services.These efforts are accompanied by closer coordination among Gulf countries and the expansion of the Kingdom's defense partnerships, he added.Concluding his remarks, Al-Khereiji reaffirmed that Saudi Arabia, under the directives of its leadership, continues to work with regional and international partners to establish a regional security framework based on stable states and just political settlements.He emphasized that these efforts aim to safeguard the right of the region's peoples to security, development and prosperity."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Air defenses intercept hostile drone in Riyadh region, no injuries reported",
+      "title_zh": "防空部队在利雅得地区拦截敌方无人机，无人受伤",
+      "url": "https://saudigazette.com.sa/article/665883/saudi-arabia/saudi-air-defenses-intercept-drone-over-riyadh-no-injuries-reported",
+      "region": "Saudi Arabia",
+      "published": "Sat, 31 Oct 2026 14:47:15 +0300",
+      "summary": "RIYADH — Air defenses intercepted and destroyed a hostile drone in the Riyadh region, Coalition to Support Legitimacy in Yemen spokesperson Maj. Gen. Turki Al-Maliki announced Saturday.Al-Maliki said debris from the interception fell in the area, with no injuries reported.He added that the relevant authorities were responding to the site."
+    },
+    {
+      "source": "Saudi Gazette",
+      "title": "Where was Saudi Arabia’s first wind turbine installed?",
+      "title_zh": "沙特阿拉伯的第一台风力涡轮机安装在哪里？",
+      "url": "https://saudigazette.com.sa/article/665882/saudi-arabia/where-was-saudi-arabias-first-wind-turbine-installed-inside-the-turaif-project",
+      "region": "Saudi Arabia",
+      "published": "Sat, 31 Oct 2026 10:26:02 +0300",
+      "summary": "TURAIF — Saudi Arabia's first wind turbine for electricity generation was inaugurated by Saudi Aramco in January 2017 in Turaif, a governorate in the Northern Borders Region.The project marked an early step in the Kingdom's use of wind energy to generate electricity, with the turbine installed to supply power to Aramco's petroleum products distribution facility.Saudi Aramco evaluated four potential locations before selecting Turaif for the project.The governorate was chosen for its favorable wind resources, ease of access and availability of connections to the electricity grid, making it suitable for wind-powered electricity generation.The turbine has a maximum generation capacity of 2.75 megawatts.At the time of its inauguration, Aramco estimated that its electricity output would be sufficient to meet the needs of approximately 250 homes.The company also projected that the turbine could save the equivalent of around 19,000 barrels of oil annually by reducing reliance on conventional energy sources.The turbine stands on an 85-meter tower, with a rotor diameter of 120 meters.At their highest point, the blade tips reach approximately 145 meters above ground level.The turbine was also designed with protective specifications suited to the harsh conditions of the desert environment.The turbine was connected to the electricity distribution network serving Aramco's petroleum products distribution facility in Turaif.According to the company, the project was designed to cover the facility's entire electricity demand, with any surplus electricity supplied to the main power grid."
     },
     {
       "source": "Saudi Gazette",
@@ -1137,78 +1155,6 @@
       "region": "Saudi Arabia",
       "published": "Sat, 31 Oct 2026 05:55:40 +0300",
       "summary": "RIYADH — Air defenses intercepted and destroyed two missiles and three drones launched by the Houthi militia toward several regions of the Kingdom on Friday and Saturday, according to the Coalition to Support Legitimacy in Yemen.Coalition spokesperson Maj. Gen. Turki Al-Maliki said air defense forces intercepted and destroyed a cruise missile launched by the Houthi militia toward the western region and a ballistic missile targeting the southern region.Al-Maliki added that three drones launched by the Houthis toward Riyadh, Makkah and Madinah were also intercepted and destroyed.The latest interceptions followed similar incidents Thursday, when Saudi air defenses intercepted and destroyed two ballistic missiles launched by the Houthis toward Riyadh and another ballistic missile targeting the Eastern Province, according to Al-Maliki.Meanwhile, Saudi Civil Defense urged citizens and residents to follow safety instructions during warning periods, including staying away from open areas and glass windows and avoiding balconies and rooftops."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia, US sign official participation agreement for Expo 2030 Riyadh",
-      "title_zh": "沙特阿拉伯与美国签署2030年利雅得世博会官方参与协议",
-      "url": "https://saudigazette.com.sa/article/665868/saudi-arabia/saudi-arabia-us-sign-official-participation-agreement-for-expo-2030-riyadh",
-      "region": "Saudi Arabia",
-      "published": "Sat, 31 Oct 2026 05:30:01 +0300",
-      "summary": "ATLANTA — Saudi Foreign Minister Prince Faisal bin Farhan and US Secretary of State Marco Rubio signed an agreement formalizing the United States' participation in Expo 2030 Riyadh as an official participant.The agreement establishes a formal framework for both countries to advance preparations for the international exhibition and reflects Expo 2030 Riyadh's commitment to strengthening international cooperation and partnerships with participating nations.Rubio highlighted the significance of the event for American businesses and bilateral relations.\"Expo 2030 is an important platform to advance American innovation, expand U.S. businesses opportunities, and strengthen our strategic partnership with Saudi Arabia,\" he said.Saudi Ambassador to the United States Princess Reema bint Bandar welcomed the agreement, describing it as another important milestone in the strategic partnership between the two countries.\"Proud to witness another important milestone in the Saudi-U.S. strategic partnership with the signing of the United States’ participation contract for Expo 2030 Riyadh,\" she said.\"The U.S. participation reflects the strength of our longstanding relationship and our shared commitment to innovation, economic opportunity, and bringing people and ideas together,\" she added.She also expressed optimism about the opportunities the exhibition would generate for both countries and the wider international community.\"We look forward to welcoming the United States to Riyadh in 2030 and building on the opportunities this global event will create for our two nations and the world,\" she added."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia offers condolences to Italy over military helicopter crash in Bosnia and Herzegovina",
-      "title_zh": "沙特阿拉伯向意大利军用直升机在波斯尼亚和黑塞哥维那坠毁表示哀悼",
-      "url": "https://saudigazette.com.sa/article/665867/saudi-arabia/saudi-arabia-extends-condolences-to-italy-over-military-helicopter-crash-in-bosnia",
-      "region": "Saudi Arabia",
-      "published": "Sat, 31 Oct 2026 05:22:15 +0300",
-      "summary": "RIYADH — Saudi Arabia has expressed its sincere condolences and sympathy to the families of those killed, as well as to the government and people of Italy, following the crash of a military helicopter in Bosnia and Herzegovina during a joint training operation involving European Union forces.In a statement, the Ministry of Foreign Affairs expressed the Kingdom's solidarity with the families of the victims and those injured, as well as with the government and people of Italy.The ministry also wished the injured a speedy recovery and expressed hope for the safety and well-being of all."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi, US foreign ministers discuss Iran, Sudan and Yemen on sidelines of G20 meeting",
-      "title_zh": "沙特、美国外长在G20会议期间讨论伊朗、苏丹和也门问题",
-      "url": "https://saudigazette.com.sa/article/665866/saudi-arabia/saudi-us-foreign-ministers-discuss-iran-sudan-and-yemen-at-g20-meeting",
-      "region": "Saudi Arabia",
-      "published": "Sat, 31 Oct 2026 05:20:33 +0300",
-      "summary": "ATLANTA — Saudi Foreign Minister Prince Faisal bin Farhan met with US Secretary of State Marco Rubio on Friday on the sidelines of the G20 Foreign Ministers' Meeting in Atlanta, United States.The meeting focused on the strategic relationship between Saudi Arabia and the United States and ways to strengthen bilateral cooperation in priority areas.The two ministers also exchanged views on current regional developments and ongoing efforts to address challenges facing the Middle East.Rubio highlighted discussions on Iran, Sudan and Yemen as key areas of cooperation between Riyadh and Washington.\"It was great to meet with Saudi Foreign Minister @FaisalbinFarhan in Atlanta,\" Rubio said in a statement.\"We discussed ways our countries can continue working together on regional challenges, including the situations in Iran, Sudan, and Yemen,\" he added."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Boulevard World opens for Riyadh Season 2026 with global cultural experiences",
-      "title_zh": "Boulevard World在2026年利雅得季开幕，提供全球文化体验",
-      "url": "https://saudigazette.com.sa/article/665865/saudi-arabia/boulevard-world-opens-for-riyadh-season-2026-with-international-attractions",
-      "region": "Saudi Arabia",
-      "published": "Fri, 30 Oct 2026 23:58:57 +0300",
-      "summary": "RIYADH — Boulevard World opened its doors to visitors on Friday as part of the seventh edition of Riyadh Season, bringing together international cultures, entertainment attractions and family experiences in one destination.Returning for its fifth consecutive year, Boulevard World offers visitors an opportunity to explore cultures and civilizations through themed zones inspired by countries around the world.The destination features architecture, traditional markets, restaurants, handicrafts and live performances reflecting the cultural identities of participating countries.Visitors can explore zones representing Saudi Arabia, Kuwait, Türkiye, Iran, Japan, China, France, Italy, Morocco, Greece, Mexico, Egypt, the United States, India, South Korea, Indonesia and Spain, alongside areas inspired by African, Asian and Levantine cultures.Each destination features restaurants, retail outlets and live entertainment, allowing visitors to experience international cuisines, shopping and cultural performances.Boulevard World also offers a range of entertainment attractions for visitors of all ages, including the Amazonia Awakens water ride, Vuz Dome cinema with its immersive 360-degree screenings, and BLVD Pier amusement rides.Other attractions include a cable car offering aerial views of the destination, adventure experiences, interactive games and racing activities.The lake remains one of Boulevard World's major attractions, offering water taxis and various boating experiences.The Africa zone also features opportunities to observe and interact with animals, while dedicated play areas and family activities provide entertainment for children.Since its launch in 2022, Boulevard World has established itself as one of Riyadh Season's prominent entertainment destinations, attracting visitors from Saudi Arabia and abroad.Tickets for Boulevard World are available through the Webook platform, where visitors can explore admission options and book experiences offered as part of Riyadh Season 2026."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Civil Defense warns of heavy thunderstorms, flash floods across Kingdom until Wednesday",
-      "title_zh": "民防部门警告说，直到周三，整个王国都会有大雷暴和山洪暴发",
-      "url": "https://saudigazette.com.sa/article/665864/saudi-arabia/saudi-civil-defense-warns-of-thunderstorms-flash-floods-until-wednesday",
-      "region": "Saudi Arabia",
-      "published": "Fri, 30 Oct 2026 23:54:47 +0300",
-      "summary": "RIYADH — Saudi Arabia's General Directorate of Civil Defense has urged the public to exercise caution as thunderstorms and heavy rainfall are expected to continue across most regions of the Kingdom until Wednesday.The directorate called on residents to remain in safe locations, avoid valleys and areas prone to flash flooding, and refrain from swimming in floodwaters.It also stressed the importance of following official safety instructions issued through media outlets and social media platforms.According to forecasts from the National Center for Meteorology (NCM), moderate to heavy rainfall is expected in parts of the Makkah region, including Taif, Adham, Maysan and Al-Ardiyat.The rainfall could trigger flash floods, hailstorms and strong downdraft winds that stir up dust and sand.Light to moderate rainfall is also forecast in Makkah city, Al-Kamil, Al-Jumum, Al-Qunfudhah and Al-Lith.The regions of Jazan, Asir and Al-Baha are expected to experience moderate to heavy thunderstorms, accompanied by flash floods, hail and dust-raising winds.Meanwhile, light to moderate rainfall is forecast across Madinah, Hail, Al-Jouf, the Northern Borders, Tabuk and the Eastern Province.Civil Defense reiterated its call for the public to take necessary precautions and comply with official warnings to ensure their safety during the period of unstable weather."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "HRDF to raise minimum salary eligible for employment support to SR6,000 by 2028",
-      "title_zh": "HRDF到2028年将有资格获得就业支持的最低工资提高到6,000里亚尔",
-      "url": "https://saudigazette.com.sa/article/665863/saudi-arabia/saudi-arabia-raises-minimum-salary-for-employment-support-to-sr5000-in-2027-sr6000-in-2028",
-      "region": "Saudi Arabia",
-      "published": "Fri, 30 Oct 2026 19:01:03 +0300",
-      "summary": "RIYADH — The Human Resources Development Fund (HRDF) announced that it will raise the minimum monthly salary eligible for its Employment Support Program from SR4,000 to SR5,000 starting April 25, 2027, and to SR6,000 starting April 25, 2028.The increase will be implemented in two phases, in line with the Ministry of Human Resources and Social Development's decision to raise the minimum salary required for Saudi employees to be counted under the Nitaqat Saudization program.Under the first phase, the minimum eligible salary for new employment support applications will increase from SR4,000 to SR5,000 on April 25, 2027. The revised threshold will apply to existing support applications beginning with payments for May 2027.The second phase will take effect on April 25, 2028, when the minimum eligible salary for new applications will increase from SR5,000 to SR6,000. Existing applications will be subject to the revised threshold beginning with payments for May 2028.HRDF confirmed that it will continue subsidizing up to 50% of eligible Saudi employees' monthly salaries, with a maximum contribution of SR3,000 per month, subject to the program's approved terms and conditions.The fund said the changes are intended to strengthen the competitiveness of Saudi workers, improve job quality and sustainability, and encourage private sector establishments to recruit Saudi talent.The Employment Support Program helps private sector employers hire Saudi men and women by covering part of their salaries, supporting job creation and employment stability.HRDF said the adjustments reflect its continued efforts to enhance the participation of Saudi nationals in the labor market and support the Kingdom's economic development objectives."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Arabia suspends travel to Kenya, bans arrivals over Ebola outbreak risks",
-      "title_zh": "沙特阿拉伯暂停前往肯尼亚的旅行，因埃博拉疫情风险禁止入境",
-      "url": "https://saudigazette.com.sa/article/665862/saudi-arabia/saudi-arabia-suspends-travel-to-kenya-bans-arrivals-amid-ebola-outbreak-concerns",
-      "region": "Saudi Arabia",
-      "published": "Fri, 30 Oct 2026 17:27:04 +0300",
-      "summary": "RIYADH — Saudi Arabia has introduced additional precautionary measures to limit the risks associated with the Ebola virus outbreak, including suspending travel by Saudi citizens to Kenya, halting the issuance of all types of visas to travelers from the country and banning their entry into the Kingdom.The measures, adopted following an assessment of the epidemiological situation by the relevant health authorities, also prohibit entry by travelers arriving through third countries who have stayed in Kenya or other countries affected by Ebola outbreaks during the 21 days preceding their arrival in Saudi Arabia.The new restrictions build on preventive measures first introduced by the Kingdom in July 2019 and strengthened in May 2026 for travelers arriving from countries facing Ebola outbreak risks.Saudi authorities said the measures reflect a proactive approach based on continuous health risk monitoring and assessment, alongside coordination with relevant domestic and international authorities to protect citizens, residents and visitors.In June 2026, Saudi Arabia suspended travel by its citizens to the Democratic Republic of the Congo, Uganda and South Sudan, as well as arrivals from those countries.The Kingdom also strengthened precautionary measures for travelers arriving from countries neighboring Ebola-affected areas, including screening at entry points, epidemiological investigations and early health response mechanisms.The Saudi Public Health Authority (Weqaya) reassured the public that the Kingdom's health situation remains stable and is subject to close and continuous monitoring.Weqaya said it continues to track epidemiological developments regionally and internationally in coordination with relevant authorities inside and outside Saudi Arabia.The authority emphasized that additional preventive measures would be taken as necessary in response to changes in the epidemiological situation, ensuring the Kingdom's health preparedness and protecting public health and safety."
-    },
-    {
-      "source": "Saudi Gazette",
-      "title": "Saudi Foreign Minister arrives in Atlanta for G20 talks on global security, economy",
-      "title_zh": "沙特外长抵达亚特兰大就全球安全、经济问题举行G20会谈",
-      "url": "https://saudigazette.com.sa/article/665861/saudi-arabia/saudi-foreign-minister-arrives-in-atlanta-for-g20-foreign-ministers-meeting",
-      "region": "Saudi Arabia",
-      "published": "Fri, 30 Oct 2026 17:18:04 +0300",
-      "summary": "RIYADH — Saudi Foreign Minister Prince Faisal bin Farhan arrived in Atlanta, United States, on Friday to participate in the G20 Foreign Ministers' Meeting.The meeting will address major geopolitical developments, maritime security, energy, food security, global trade and supply chains.Discussions will also focus on strengthening international cooperation and multilateral action to address global economic challenges.The Saudi delegation accompanying Prince Faisal includes Saudi Ambassador to the United States Princess Reema bint Bandar and Deputy Minister of Finance Abdulmohsen Al-Khalaf, who serves as Saudi Arabia's G20 sherpa."
     }
   ]
 }
