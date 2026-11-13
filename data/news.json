@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-11-12 14:57:11",
+  "last_updated": "2026-11-13 14:18:27",
   "items": [
     {
       "source": "Hacker News",
-      "title": "Tim Peters has died",
-      "title_zh": "蒂姆·彼得斯去世了",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "points": 1071,
+      "title": "Jensen Huang resigns",
+      "title_zh": "黄仁勋辞职",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "points": 3273,
+      "comments": 3000,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Anthropic IPO",
+      "title_zh": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "points": 884,
+      "comments": 846,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Service degradation on Microsoft 365",
+      "title_zh": "Microsoft 365 服务降级",
+      "url": "https://status.cloud.microsoft/",
+      "points": 694,
+      "comments": 648,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Rust 1.100",
+      "title_zh": "鲁斯特 1,100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "points": 570,
+      "comments": 226,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Hydrogen",
+      "title_zh": "Gemini 4 氢气",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 502,
+      "comments": 320,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "title_zh": "Show HN：我的300美元刺绣机需要订阅，所以我自己开发了一款应用程序",
+      "url": "https://github.com/simpsoka/zigzag",
+      "points": 443,
+      "comments": 168,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "title_zh": "Gemini 4 氢气和协调器",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 372,
+      "comments": 101,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "title_zh": "英伟达员工请愿要求黄仁勋复职",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "points": 349,
+      "comments": 264,
+      "region": "Global",
+      "published": null,
+      "summary": ""
+    },
+    {
+      "source": "Hacker News",
+      "title": "I'm making LLMs work on small and old devices",
+      "title_zh": "我正在让 LLM 在小型和旧款设备上运行",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "points": 326,
       "comments": 119,
       "region": "Global",
       "published": null,
@@ -14,109 +102,21 @@
     },
     {
       "source": "Hacker News",
-      "title": "My AI agents found an unmapped Maya site?",
-      "title_zh": "我的AI代理发现了未标绘的玛雅遗址？",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "points": 968,
-      "comments": 354,
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "title_zh": "一颗疑似矮行星出现，它绕太阳公转一圈大约需要280年",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "points": 256,
+      "comments": 111,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "title_zh": "英伟达正准备罢免黄仁勋",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "points": 844,
-      "comments": 1187,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "AWS emulator",
-      "title_zh": "AWS 模拟器",
-      "url": "https://github.com/aws/aws-emulator",
-      "points": 786,
-      "comments": 231,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "title_zh": "美国联合航空公司禁止人工智能代理代表旅客预订航班",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 508,
-      "comments": 491,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "title_zh": "一次虚假的烟雾警报差点淹没了Jane Street在纽约市的唯一数据中心",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "points": 461,
-      "comments": 230,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Gemini Decisions API",
-      "title_zh": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "points": 369,
-      "comments": 118,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "title_zh": "使用WebGL2的超逼真沙子",
-      "url": "https://av.github.io/safe-sand/",
-      "points": 349,
-      "comments": 67,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "title_zh": "93% 的颜料飞溅是有效的 Perl 程序（2019 年）",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "points": 347,
-      "comments": 48,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "title_zh": "线性规划能否进行权重空间规划？",
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "points": 269,
-      "comments": 38,
-      "region": "Global",
-      "published": null,
-      "summary": ""
-    },
-    {
-      "source": "Hacker News",
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "title_zh": "Show HN：Yogurt – Granola 的免费、私有、开源替代品",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "points": 221,
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "title_zh": "被放弃的《雷神之锤4》扩展包由模组制作者完成，现已可玩",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "points": 256,
       "comments": 92,
       "region": "Global",
       "published": null,
@@ -124,857 +124,857 @@
     },
     {
       "source": "Hacker News",
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "title_zh": "Show HN：我重制了《请出示证件》，但由您来决定资助哪些YC初创公司",
-      "url": "https://termsheetplease.com/",
-      "points": 208,
-      "comments": 82,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "title_zh": "中国尖端人工智能模型带有受出口管制的GPU的印记",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "points": 245,
+      "comments": 65,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Lock Your GitHub Actions",
-      "title_zh": "锁定您的 GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "points": 204,
-      "comments": 40,
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "title_zh": "在AMD In-Depth与Mike Clark深入探讨Zen 6",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "points": 207,
+      "comments": 4,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Emacs in the Age of Magic",
-      "title_zh": "魔法时代的Emacs",
-      "url": "https://commandlinesystems.com/magic.txt",
-      "points": 198,
-      "comments": 76,
+      "title": "Our software engineering interviews are changing a little",
+      "title_zh": "我们的软件工程面试正在发生一些变化",
+      "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "points": 206,
+      "comments": 207,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "Hacker News",
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "title_zh": "更快检索，实现更出色、更高效的RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "points": 190,
-      "comments": 36,
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "title_zh": "据消息人士透露，英伟达前首席执行官黄仁勋曾与另一名员工有过一段关系。",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "points": 200,
+      "comments": 223,
       "region": "Global",
       "published": null,
       "summary": ""
     },
     {
       "source": "TechCrunch",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "title_zh": "谁能接替黄仁勋？一份极不科学的可能继任者名单",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "title_zh": "民主党人发起对英伟达的调查，就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "region": "Global",
-      "published": "Thu, 12 Nov 2026 03:13:10 +0000",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+    },
+    {
+      "source": "TechCrunch",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "title_zh": "Muse现在可以拨打美国企业的电话了——只要您付费",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "region": "Global",
+      "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
     },
     {
       "source": "TechCrunch",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "title_zh": "正在发酵的黄仁勋丑闻：时间线",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+      "published": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "source": "TechCrunch",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "title_zh": "据报道，英伟达董事会正准备罢免首席执行官黄仁勋，该公司股价应声下跌",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "title_zh": "Nebius 计划投入 400 亿美元来测试新云战略手册",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 23:28:45 +0000",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
     },
     {
       "source": "TechCrunch",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "title_zh": "Jensen Huang 被指控与另一名英伟达高管有婚外情",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "title_zh": "路透社报道，黄仁勋有第三段婚外情",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 23:17:05 +0000",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+      "published": "Thu, 12 Nov 2026 20:26:47 +0000",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
     },
     {
       "source": "TechCrunch",
-      "title": "Why the data center you dread might never even be built",
-      "title_zh": "为什么您担心的那个数据中心可能永远都不会建成",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "title_zh": "Google 最新搜索升级承诺为您最复杂的问题提供更好的答案",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 20:15:15 +0000",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]"
+      "published": "Thu, 12 Nov 2026 19:27:45 +0000",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
     },
     {
       "source": "TechCrunch",
-      "title": "Meta is losing its longtime head of  infrastructure",
-      "title_zh": "Meta将失去其长期担任基础设施主管的人员",
-      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "title_zh": "Nectar推出AI代理，为品牌方自动化创作者发现和联系流程",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 20:12:01 +0000",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+      "published": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
     },
     {
       "source": "TechCrunch",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "title_zh": "Olaf Sakkers笃定 他能够战胜新兴管理人的挤压",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "title_zh": "微软的Outlook电子邮件服务遭遇新一轮宕机",
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 20:04:28 +0000",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible."
+      "published": "Thu, 12 Nov 2026 19:03:39 +0000",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
     },
     {
       "source": "TechCrunch",
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "title_zh": "CoreWeave转向客户预付款和更短的合同期限，以资助人工智能的增长",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "title_zh": "黄仁勋的离职使英伟达对开源的支持受到质疑",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 19:54:00 +0000",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+      "published": "Thu, 12 Nov 2026 18:39:23 +0000",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
     },
     {
       "source": "TechCrunch",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "title_zh": "凭借7.2亿美元的融资，英国的Fractile在人工智能芯片的竞争中占据了优势",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "title_zh": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而奋斗",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "region": "Global",
-      "published": "Wed, 11 Nov 2026 19:34:55 +0000",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
-    },
-    {
-      "source": "TechCrunch",
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "title_zh": "国会将传唤黄仁勋，就涉嫌中国间谍事件作出解释",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "region": "Global",
-      "published": "Wed, 11 Nov 2026 19:22:22 +0000",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+      "published": "Thu, 12 Nov 2026 17:36:40 +0000",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
     },
     {
       "source": "The Verge",
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "title_zh": "据报道，英伟达正准备解雇黄仁勋",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "title_zh": "唐纳德·特朗普真心希望蒂姆·库克能执掌英伟达",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
       "region": "Global",
-      "published": "2026-11-11T17:44:36-05:00",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]"
+      "published": "2026-11-12T19:46:07-05:00",
+      "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-      "title_zh": "体验 Home Assistant 的全新“智能家居多功能工具”",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "title": "Xbox announces Wolfenstein 3",
+      "title_zh": "Xbox 宣布推出《德军总部 3》",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
       "region": "Global",
-      "published": "2026-11-11T17:00:00-05:00",
-      "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]"
+      "published": "2026-11-12T19:11:44-05:00",
+      "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "United won’t let your AI agent book your flight",
-      "title_zh": "美联航不会让您的 AI 代理预订您的航班",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "title_zh": "Whoop推出社交网络，每位用户都有“已验证的心跳”",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
       "region": "Global",
-      "published": "2026-11-11T16:54:21-05:00",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]"
+      "published": "2026-11-12T18:43:22-05:00",
+      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "title_zh": "战利品箱、网红和成瘾性功能将面临欧盟的严厉打击",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "title_zh": "Humble Bundle 重新设计后，从设置中移除了双重验证",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
       "region": "Global",
-      "published": "2026-11-11T13:13:52-05:00",
-      "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]"
+      "published": "2026-11-12T18:30:52-05:00",
+      "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-      "title_zh": "丰田的Scion品牌回归，首款车型为一款时速25英里、美国制造的轻型卡车",
-      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "title": "Microsoft Outlook is still down",
+      "title_zh": "Microsoft Outlook 仍处于宕机状态",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
       "region": "Global",
-      "published": "2026-11-11T12:09:58-05:00",
-      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying [&#8230;]"
+      "published": "2026-11-12T18:24:13-05:00",
+      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "title_zh": "Google 的 Tabletop AI 实验让您能够构建定制的协作应用程序",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "title_zh": "Xbox 用户将获得更多背景和指南菜单的自定义选项",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
       "region": "Global",
-      "published": "2026-11-11T11:00:00-05:00",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]"
+      "published": "2026-11-12T18:00:00-05:00",
+      "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "The best early Black Friday deals you can already shop",
-      "title_zh": "您已经可以购买的最佳黑色星期五提前优惠",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "title_zh": "谷歌的新Gemini模型在理解复杂问题方面表现更佳",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "region": "Global",
-      "published": "2026-11-11T10:53:55-05:00",
-      "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low [&#8230;]"
+      "published": "2026-11-12T16:55:32-05:00",
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-      "title_zh": "Sharge的这款引人注目的MacBook充电器现正享受超过25%的折扣",
-      "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "title_zh": "“这是一个错误”：科技界领袖对黄仁勋辞职的反应",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
       "region": "Global",
-      "published": "2026-11-11T10:30:00-05:00",
-      "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]"
+      "published": "2026-11-12T16:45:00-05:00",
+      "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Ocarina of Time is even better if you use a smartphone app",
-      "title_zh": "如果使用智能手机应用程序，《塞尔达传说：时之笛》的体验会更好",
-      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "title_zh": "Oura Ring 4 几乎与新款一样好，但便宜 150 美元",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
       "region": "Global",
-      "published": "2026-11-11T10:00:00-05:00",
-      "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of [&#8230;]"
+      "published": "2026-11-12T16:28:53-05:00",
+      "summary": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price [&#8230;]"
     },
     {
       "source": "The Verge",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "title_zh": "谷歌的AlphaGenome 2聚焦于疾病的细胞根源",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "title_zh": "以下是您现在可以在PC上玩的25款初代Xbox游戏",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
       "region": "Global",
-      "published": "2026-11-11T10:00:00-05:00",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]"
+      "published": "2026-11-12T16:00:00-05:00",
+      "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just [&#8230;]"
     },
     {
       "source": "Product Hunt",
-      "title": "ScroogeFrog AI",
-      "title_zh": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "title": "Omnigraph",
+      "title_zh": "Omnigraph",
+      "url": "https://www.producthunt.com/products/omnigraph",
       "region": "Global",
-      "published": "2026-10-19T01:11:42-07:00",
-      "summary": "<p>\n            AI ad fraud detection that protects your marketing budget \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285122?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-30T07:36:05-07:00",
+      "summary": "<p>\n            Open source graph database for your AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1298575?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Nod by n8n",
-      "title_zh": "Nod by n8n",
-      "url": "https://www.producthunt.com/products/n8n-io",
+      "title": "Klang",
+      "title_zh": "巴生",
+      "url": "https://www.producthunt.com/products/klang",
       "region": "Global",
-      "published": "2026-11-10T05:38:19-08:00",
-      "summary": "<p>\n            Open source personal agent with its own computer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311491?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-10T04:36:08-08:00",
+      "summary": "<p>\n            Team memory of meetings and calls, on our own speech models\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/klang?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311420?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Xolace",
-      "title_zh": "索拉西",
-      "url": "https://www.producthunt.com/products/xolace",
+      "title": "Spacefast by Automattic",
+      "title_zh": "由 Automattic 推出的 Spacefast",
+      "url": "https://www.producthunt.com/products/spacefast-by-automattic",
       "region": "Global",
-      "published": "2026-11-10T14:07:24-08:00",
-      "summary": "<p>\n            For the bad days you wouldn’t call a mental health problem\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/xolace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1312054?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-09T14:40:16-08:00",
+      "summary": "<p>\n            Give your AI agents a place to build, run, and ship\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spacefast-by-automattic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1310674?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Subscriptrack",
-      "title_zh": "Subscriptrack",
-      "url": "https://www.producthunt.com/products/subscriptrack",
+      "title": "Sendr V4: Lovable for GTM",
+      "title_zh": "Sendr V4：GTM 值得喜爱",
+      "url": "https://www.producthunt.com/products/sendr",
       "region": "Global",
-      "published": "2026-11-10T06:06:07-08:00",
-      "summary": "<p>\n            Connect your email, see every subscription you pay for\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/subscriptrack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311529?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-10-01T12:46:45-07:00",
+      "summary": "<p>\n            Your AI GTM engineer to build signal based go-to-market\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sendr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1267000?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Kippy AI",
-      "title_zh": "Kippy AI",
-      "url": "https://www.producthunt.com/products/kippy-ai",
+      "title": "Yogurt",
+      "title_zh": "酸奶",
+      "url": "https://www.producthunt.com/products/yogurt",
       "region": "Global",
-      "published": "2026-11-08T03:17:04-08:00",
-      "summary": "<p>\n            Learn languages while having fun!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kippy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1308685?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-10T13:16:55-08:00",
+      "summary": "<p>\n            Free, private, open-source alternative to Granola\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/yogurt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311999?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Relay",
-      "title_zh": "继电器",
-      "url": "https://www.producthunt.com/products/relaytoai",
+      "title": "Hoy for Mac",
+      "title_zh": "适用于 Mac 的 Hoy",
+      "url": "https://www.producthunt.com/products/hoy-for-mac",
       "region": "Global",
-      "published": "2026-11-03T17:29:16-08:00",
-      "summary": "<p>\n            DocSend for AI agents: send and receive docs with context\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/relaytoai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1303622?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-11T22:29:56-08:00",
+      "summary": "<p>\n            Walkie-talkie meets AirDrop meets Messages\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/hoy-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313683?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Seedream 5.5 by ByteDance",
-      "title_zh": "字节跳动 Seedream 5.5",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
+      "title": "Harness Memory",
+      "title_zh": "利用记忆力",
+      "url": "https://www.producthunt.com/products/epsilla",
       "region": "Global",
-      "published": "2026-11-09T05:57:21-08:00",
-      "summary": "<p>\n            ByteDance's AI image model built for 100-round editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/seedream-4-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1310088?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-11T00:31:32-08:00",
+      "summary": "<p>\n            Long-term memory for agents, across every harness\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1312481?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "Skillbox",
-      "title_zh": "Skillbox",
-      "url": "https://www.producthunt.com/products/skillbox-5",
+      "title": "three.dev",
+      "title_zh": "three.dev",
+      "url": "https://www.producthunt.com/products/three-dev",
       "region": "Global",
-      "published": "2026-11-05T20:01:18-08:00",
-      "summary": "<p>\n            One library for your AI skills, synced to every agent\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skillbox-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1306167?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-10T08:51:51-08:00",
+      "summary": "<p>\n            Find out how your AI agent fails. Before your users do.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/three-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311740?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "bonds chat",
-      "title_zh": "债券聊天",
-      "url": "https://www.producthunt.com/products/bonds-2",
+      "title": "Jot 2.0",
+      "title_zh": "Jot 2.0",
+      "url": "https://www.producthunt.com/products/jot-2-0",
       "region": "Global",
-      "published": "2026-11-10T21:07:26-08:00",
-      "summary": "<p>\n            Multiplayer AI that dies if you and your friends flake\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1312307?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-11T14:13:57-08:00",
+      "summary": "<p>\n            Select text, tap Shift twice, it's a markdown file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jot-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313377?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "Product Hunt",
-      "title": "MiniMax H3-Image",
-      "title_zh": "MiniMax H3-图片",
-      "url": "https://www.producthunt.com/products/minimax",
+      "title": "Marqly 7.0",
+      "title_zh": "Marqly 7.0",
+      "url": "https://www.producthunt.com/products/marqly",
       "region": "Global",
-      "published": "2026-11-10T08:35:28-08:00",
-      "summary": "<p>\n            Bringing 4K image generation into the 10-second era\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1311715?app_id=339\">Link</a>\n          </p>"
+      "published": "2026-11-11T09:31:09-08:00",
+      "summary": "<p>\n            Bookmarks you can query to find the things you saved\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/marqly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313154?app_id=339\">Link</a>\n          </p>"
     },
     {
       "source": "BBC World",
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "title_zh": "随着俄罗斯的袭击带来黑暗和寒冷，乌克兰的电力供应接近危急状态",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "title_zh": "前Nvidia首席执行官黄仁勋被传唤到国会作证，涉及与涉嫌中国间谍的婚外情",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Thu, 12 Nov 2026 05:59:18 GMT",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+      "published": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
     },
     {
       "source": "BBC World",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "title_zh": "民主党人斯科特·科洛姆在密西西比州参议院选举中取得历史性胜利",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "title_zh": "泽连斯基欢迎美国将欧洲纳入俄乌和平谈判",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Fri, 13 Nov 2026 02:01:35 GMT",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+    },
+    {
+      "source": "BBC World",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "title_zh": "美国联邦调查局称，朝鲜黑客利用虚假视频通话实施了价值4亿美元的加密货币黑客攻击",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Fri, 13 Nov 2026 02:48:29 GMT",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "title_zh": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+    },
+    {
+      "source": "BBC World",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "title_zh": "疑似炸弹虚假威胁迫使意大利多所学校再次疏散",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Thu, 12 Nov 2026 19:23:02 GMT",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+    },
+    {
+      "source": "BBC World",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "title_zh": "警方表示，澳大利亚足球运动员在酒店事件后不会被起诉",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Fri, 13 Nov 2026 03:02:54 GMT",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+    },
+    {
+      "source": "BBC World",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "title_zh": "黑格塞斯向训斥过他及其一行人的战争纪念馆警卫颁发勋章",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
+    },
+    {
+      "source": "BBC World",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "title_zh": "民主党人斯科特·科洛姆（Scott Colom）创造历史，成为密西西比州自19世纪以来的首位黑人参议员",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Thu, 12 Nov 2026 04:00:30 GMT",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
     },
     {
       "source": "BBC World",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "title_zh": "加沙民防机构称，以色列对医院的袭击造成至少五名巴勒斯坦人死亡",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "title_zh": "慈善机构称，数百万美元的埃博拉防治资金下落不明，工作人员未领到工资，而病毒正在蔓延。",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "region": "Global",
+      "published": "Thu, 12 Nov 2026 15:18:20 GMT",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "title_zh": "卫生部表示，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "region": "Global",
-      "published": "Thu, 12 Nov 2026 06:12:05 GMT",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says."
-    },
-    {
-      "source": "BBC World",
-      "title": "New York building collapse kills at least two, officials say",
-      "title_zh": "官员称，纽约大楼坍塌造成至少两人死亡",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Thu, 12 Nov 2026 05:12:56 GMT",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
-    },
-    {
-      "source": "BBC World",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "title_zh": "数千人参加西班牙大罢工后，巴塞罗那爆发冲突",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 11 Nov 2026 22:07:37 GMT",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
-    },
-    {
-      "source": "BBC World",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "title_zh": "在丛林中失踪六天的澳大利亚少年获救生还",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Thu, 12 Nov 2026 02:40:18 GMT",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "title_zh": "俄乌谈判转向战后安全问题，但未取得突破就宣告结束",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 11 Nov 2026 18:04:58 GMT",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
-    },
-    {
-      "source": "BBC World",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "title_zh": "74岁的绑匪在阿根廷从阳台垂降逃离软禁",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 11 Nov 2026 14:56:11 GMT",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
-    },
-    {
-      "source": "BBC World",
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "title_zh": "印尼副总统在执政联盟出现裂痕的迹象中辞职",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Wed, 11 Nov 2026 16:38:07 GMT",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
-    },
-    {
-      "source": "BBC World",
-      "title": "Famed ship SS United States sunk off coast of Florida",
-      "title_zh": "著名船舶“美国号”在佛罗里达州海岸附近沉没",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "region": "Global",
-      "published": "Thu, 12 Nov 2026 04:03:13 GMT",
-      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+      "published": "Thu, 12 Nov 2026 16:54:12 GMT",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Carro desgovernado atropela três pessoas em calçada de Copacabana e invade loja",
-      "title_zh": "失控轿车在科帕卡巴纳的人行道上撞倒三人并冲进一家商店",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/carro-desgovernado-atropela-tres-pessoas-em-calcada-de-copacabana-e-invade-loja.shtml",
+      "title": "Hayley Williams xinga Bolsonaro, faz o L e canta com Seu Jorge em São Paulo",
+      "title_zh": "海莉·威廉姆斯（Hayley Williams）痛斥博索纳罗，在圣保罗与塞乌·豪尔赫（Seu Jorge）一起比“L”手势并唱歌",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/hayley-williams-xinga-bolsonaro-faz-o-l-e-canta-com-seu-jorge-em-sao-paulo.shtml",
       "region": "Brazil",
-      "published": "12 Nov 2026 02:10:00 -0300",
-      "summary": "A motorista de um carro perdeu o controle da direção e atropelou três pessoas que estavam em uma calçada na rua Siqueira Campos, em <a href=\"https://www1.folha.uol.com.br/opiniao/2026/01/copacabana-e-um-mundo-em-transformacao.shtml\" rel=\"\" target=\"\">Copacabana</a>, zona sul do <a href=\"https://www1.folha.uol.com.br/folha-topicos/rio-de-janeiro/\">Rio de Janeiro</a>, no final da tarde desta quarta-feira (11). Após o atropelamento, o veículo invadiu uma loja de roupas.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/carro-desgovernado-atropela-tres-pessoas-em-calcada-de-copacabana-e-invade-loja.shtml\">Leia mais</a> (11/12/2026 - 02h10)"
+      "published": "13 Nov 2026 00:59:00 -0300",
+      "summary": "É a primeira vez de <a href=\"https://www1.folha.uol.com.br/ilustrada/2025/11/hayley-williams-diz-por-que-se-descolou-do-paramore-com-disco-sobre-confissoes.shtml\" rel=\"\" target=\"\">Hayley Williams</a> sem o <a href=\"https://www1.folha.uol.com.br/ilustrada/2023/02/paramore-lanca-this-is-why-disco-politico-que-traz-o-melhor-da-banda.shtml\" rel=\"\" target=\"\">Paramore</a> no Brasil. Conhecida pela banda, a cantora vem investindo numa carreira solo que só decolou com o disco \"Ego Death at a Bachelorette Party\", do ano passado. O álbum dá base ao <a href=\"https://www1.folha.uol.com.br/folha-topicos/show/\">show</a> que a roqueira apresentou em São Paulo nesta quinta (12). Foi a segunda apresentação no país, após uma passagem pelo Rio de Janeiro na terça.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/hayley-williams-xinga-bolsonaro-faz-o-l-e-canta-com-seu-jorge-em-sao-paulo.shtml\">Leia mais</a> (11/13/2026 - 00h59)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Bolsonaristas e aliados de Lula criticam gasto com Iphones pelo Senado e põem Alcolumbre sob pressão",
-      "title_zh": "博索纳罗的支持者和卢拉的盟友批评参议院购买iPhone的开支，并对阿尔科隆布雷施加压力。",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaristas-e-aliados-de-lula-criticam-gasto-com-iphones-pelo-senado-e-poem-alcolumbre-sob-pressao.shtml",
+      "title": "A Fazenda 18: Murilo Dias é o oitavo eliminado da temporada em votação acirrada",
+      "title_zh": "《农场 18》：穆里洛·迪亚斯（Murilo Dias）在激烈的投票中成为本季第八位被淘汰的选手",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-murilo-dias-e-o-oitavo-eliminado-da-temporada-em-votacao-acirrada.shtml",
       "region": "Brazil",
-      "published": "12 Nov 2026 00:06:00 -0300",
-      "summary": "A licitação do Senado para contratar serviços de telefonia, que<a href=\"https://www1.folha.uol.com.br/poder/2026/11/senado-preve-95-iphones-e-330-outros-celulares-a-parlamentares-e-servidores.shtml\" rel=\"\" target=\"\"> prevê o fornecimento de 95 iPhones 18 Pro e 330 celulares </a>de outros modelos a parlamentares e servidores, foi criticada nesta quarta-feira (11) tanto por governistas quanto por bolsonaristas nas redes sociais.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/bolsonaristas-e-aliados-de-lula-criticam-gasto-com-iphones-pelo-senado-e-poem-alcolumbre-sob-pressao.shtml\">Leia mais</a> (11/12/2026 - 00h06)"
+      "published": "13 Nov 2026 00:00:00 -0300",
+      "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/murilo-dias/\">Murilo Dias</a> é o oitavo eliminado de<a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-18/\"> A Fazenda 18</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/record/\">Record</a>). O participante deixou o reality na noite desta quinta-feira (12), após disputar a preferência do público com<a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-erthal/\"> Daniel Erthal</a> e<a href=\"https://www1.folha.uol.com.br/folha-topicos/tina-calamba/\"> Tina Calamba</a>. O peão recebeu 32,63% dos votos para permanecer no confinamento. O ator teve 33,61%, enquanto a modelo recebeu 33,76% do total.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-murilo-dias-e-o-oitavo-eliminado-da-temporada-em-votacao-acirrada.shtml\">Leia mais</a> (11/13/2026 - 00h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "A Fazenda 18: Daniel Erthal, Murilo Dias e Tina Calamba estão na roça; vote na enquete",
-      "title_zh": "《农场》第 18 集：丹尼尔·埃尔塔尔、穆里洛·迪亚斯和蒂娜·卡兰巴身处农场；请在投票中投出您的一票",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-daniel-erthal-murilo-dias-e-tina-calamba-estao-na-roca-vote-na-enquete.shtml",
+      "title": "Claudette Soares, com 1º disco de inéditas aos 91, diz se sentir como nos anos 1960",
+      "title_zh": "91 岁的克劳黛特·苏亚雷斯 (Claudette Soares) 发行了首张原创专辑，她说自己感觉像回到了 20 世纪 60 年代。",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/claudette-soares-com-1o-disco-de-ineditas-aos-91-diz-se-sentir-como-nos-anos-1960.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:37:00 -0300",
-      "summary": "A oitava roça de<a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-18/\"> A Fazenda 18</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/record/\">Record</a>) está formada. <a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-erthal/\">Daniel Erthal</a> e <a href=\"https://www1.folha.uol.com.br/folha-topicos/murilo-dias/\">Murilo Dias</a> perderam a Prova do Fazendeiro para<a href=\"https://www1.folha.uol.com.br/folha-topicos/fran-almeida/\"> Fran Almeida</a> na noite desta quarta-feira (11) e se juntaram a<a href=\"https://www1.folha.uol.com.br/folha-topicos/tina-calamba/\"> Tina Calamba</a> na disputa pela preferência do público.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-daniel-erthal-murilo-dias-e-tina-calamba-estao-na-roca-vote-na-enquete.shtml\">Leia mais</a> (11/11/2026 - 23h37)"
+      "published": "12 Nov 2026 23:59:00 -0300",
+      "summary": "Claudette Soares parece um furacão. Aos 91, ela surge no estúdio Da Pá Virada, em São Paulo, com um braço enfaixado. A cantora tinha sofrido um acidente que, se afetou a clavícula, não fez cócegas em sua língua.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/claudette-soares-com-1o-disco-de-ineditas-aos-91-diz-se-sentir-como-nos-anos-1960.shtml\">Leia mais</a> (11/12/2026 - 23h59)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Azzas 2154 fecha 3º tri com lucro de R$ 191 mi em último balanço antes de cisão",
-      "title_zh": "Azzas 2154 在分拆前的最后一份财务报表中公布第三季度净利润为 1.91 亿雷亚尔",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azzas-2154-fecha-3o-tri-com-lucro-de-r-191-mi-em-ultimo-balanco-antes-de-cisao.shtml",
+      "title": "Nos EUA, Flávio Bolsonaro rejeita apoio a Motta após racha no PL sobre eleição na Câmara",
+      "title_zh": "在美国，弗拉维奥·博尔索纳罗在众议院选举问题上与进步党发生分歧后，拒绝支持莫塔。",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:35:00 -0300",
-      "summary": "O grupo de moda Azzas 2154 registrou no terceiro bimestre lucro líquido recorrente de R$ 190,6 milhões, em último balanço divulgado antes da cisão entre os principais acionistas. O desempenho apresentado nesta quinta-feira (11) representa recuo de 5,3% em relação ao ano passado.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/azzas-2154-fecha-3o-tri-com-lucro-de-r-191-mi-em-ultimo-balanco-antes-de-cisao.shtml\">Leia mais</a> (11/11/2026 - 23h35)"
+      "published": "12 Nov 2026 23:45:00 -0300",
+      "summary": "O senador <a href=\"https://www1.folha.uol.com.br/folha-topicos/flavio-bolsonaro/\">Flávio Bolsonaro</a> (PL) afirmou nesta quinta-feira (12), durante uma live em seu canal, que é contrário à reeleição de <a href=\"https://www1.folha.uol.com.br/folha-topicos/hugo-motta/\">Hugo Motta</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/republicanos/\">Republicanos</a>-PB) à presidência da <a href=\"https://www1.folha.uol.com.br/folha-topicos/camara-dos-deputados/\">Câmara dos Deputados</a>. A declaração ocorre em meio a um racha no PL sobre o apoio ao atual presidente da Casa, que tentará permanecer no cargo em fevereiro de 2027.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/nos-eua-flavio-bolsonaro-rejeita-apoio-a-motta-apos-racha-no-pl-sobre-eleicao-na-camara.shtml\">Leia mais</a> (11/12/2026 - 23h45)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "A Fazenda 18: Fran Almeida vence Prova do Fazendeiro e escapa da roça",
-      "title_zh": "《农场》第18集：弗朗·阿尔梅达赢得农场主挑战赛，免于被淘汰",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-fran-almeida-vence-prova-do-fazendeiro-e-escapa-da-roca.shtml",
+      "title": "Entidades do agro criticam declarações da direção do Banco do Brasil sobre inadimplência do setor",
+      "title_zh": "农业实体批评巴西银行管理层关于该行业违约情况的言论",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/entidades-do-agro-criticam-declaracoes-da-direcao-do-banco-do-brasil-sobre-inadimplencia-do-setor.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:34:00 -0300",
-      "summary": "<a href=\"https://www1.folha.uol.com.br/folha-topicos/fran-almeida/\">Fran Almeida</a> venceu a Prova do Fazendeiro de<a href=\"https://f5.folha.uol.com.br/televisao/a-fazenda-18/\"> A Fazenda 18</a> (<a href=\"https://www1.folha.uol.com.br/folha-topicos/record/\">Record</a>) nesta quarta-feira (11). A influenciadora superou<a href=\"https://www1.folha.uol.com.br/folha-topicos/daniel-erthal/\"> Daniel Erthal</a> e<a href=\"https://www1.folha.uol.com.br/folha-topicos/murilo-dias/\"> Murilo Dias</a> na disputa, escapou da oitava roça da temporada e conquistou o comando da sede pela segunda vez.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-fran-almeida-vence-prova-do-fazendeiro-e-escapa-da-roca.shtml\">Leia mais</a> (11/11/2026 - 23h34)"
+      "published": "12 Nov 2026 23:30:00 -0300",
+      "summary": "Os comentários da direção do <a href=\"https://www1.folha.uol.com.br/folha-topicos/banco-do-brasil/\">Banco do Brasil</a> sobre os resultados da instituição no terceiro trimestre nesta quinta-feira (12) não repercutiram bem entre entidades do <a href=\"https://www1.folha.uol.com.br/folha-topicos/agronegocio/\">agronegócio</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/11/entidades-do-agro-criticam-declaracoes-da-direcao-do-banco-do-brasil-sobre-inadimplencia-do-setor.shtml\">Leia mais</a> (11/12/2026 - 23h30)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Prefeitura de SP embarga obra de novas arquibancadas do Juventus após demolição de parte histórica",
-      "title_zh": "圣保罗市政府在尤文图斯体育场历史建筑部分被拆除后叫停新看台的施工",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/prefeitura-de-sp-embarga-obra-de-novas-arquibancadas-do-juventus-apos-demolicao-de-parte-historica.shtml",
+      "title": "Raphinha desarrazoado, Ancelotti devia cortá-lo",
+      "title_zh": "拉菲尼亚表现不佳，安切洛蒂应该将他踢出球队。",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/11/raphinha-desarrazoado-ancelotti-devia-corta-lo.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:33:00 -0300",
-      "summary": "A Prefeitura de <a href=\"https://www1.folha.uol.com.br/folha-topicos/sao-paulo/\">São Paulo</a> embargou a obra das novas arquibancadas do estádio do Clube Atlético Juventus, na Mooca, nesta quarta-feira (11). A subprefeitura emitiu também multa, no valor de R$ 39.741, após denúncia anônima de setembro.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/11/prefeitura-de-sp-embarga-obra-de-novas-arquibancadas-do-juventus-apos-demolicao-de-parte-historica.shtml\">Leia mais</a> (11/11/2026 - 23h33)"
+      "published": "12 Nov 2026 23:05:00 -0300",
+      "summary": "Em fase estrelada e artilheira pelo Barcelona, <a href=\"https://www1.folha.uol.com.br/folha-topicos/raphinha/\">Raphinha</a> foi convocado por <a href=\"https://www1.folha.uol.com.br/folha-topicos/carlo-ancelotti/\">Carlo Ancelotti</a> para os <a href=\"https://www1.folha.uol.com.br/esporte/2026/10/ancelotti-convoca-selecao-para-amistosos-sem-atletas-de-flamengo-e-palmeiras.shtml\" rel=\"\" target=\"\">amistosos do Brasil em Singapura</a>, neste sábado (14) contra o Japão e na terça-feira (17) diante da seleção local.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/o-mundo-e-uma-bola/2026/11/raphinha-desarrazoado-ancelotti-devia-corta-lo.shtml\">Leia mais</a> (11/12/2026 - 23h05)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Chiloé é arquipélago chileno que desacelera quem vem de longe",
-      "title_zh": "奇洛埃是智利的一个群岛，让远道而来的人们放慢脚步",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/chiloe-e-arquipelago-chileno-que-desacelera-quem-vem-de-longe.shtml",
+      "title": "'Tip Toe', na HBO, segue 'Adolescência' e 'Bebê Rena' como drama social brutal",
+      "title_zh": "HBO 的《Tip Toe》继《Adolescence》和《驯鹿宝宝》之后，成为又一部残酷的社会题材剧情片",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/11/tip-toe-na-hbo-segue-adolescencia-e-bebe-rena-como-drama-social-brutal.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:00:00 -0300",
-      "summary": "Passa das 19h de um dia de verão e o céu ainda se derrama em azul sobre as águas do canal de Dalcahue. A bordo do barco que navega de volta a Castro, a claridade prolongada embaralha a percepção do tempo. O vento do <a href=\"https://www1.folha.uol.com.br/ambiente/2026/08/mudanca-climatica-intensifica-variabilidade-do-el-nino-mostra-estudo.shtml\" rel=\"\" target=\"\">Pacífico</a> sopra constante, e a noite demora a chegar. Mal deixamos o cais, um grupo de leões-marinhos acompanha a travessia. Mergulham, somem por instantes e logo reaparecem mais adiante, rompendo a superfície da baía.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/chiloe-e-arquipelago-chileno-que-desacelera-quem-vem-de-longe.shtml\">Leia mais</a> (11/11/2026 - 23h00)"
+      "published": "12 Nov 2026 23:03:00 -0300",
+      "summary": "\"Tip Toe\" é um drama social fruto da mesma aflição existencial contemporânea que em 2024 nos trouxe <a href=\"https://www1.folha.uol.com.br/colunas/lucianacoelho/2024/04/bebe-rena-leva-o-espectador-ao-inferno-real-de-seu-protagonista.shtml\" rel=\"\" target=\"\">\"Bebê Rena\"</a> e, em 2025, <a href=\"https://www1.folha.uol.com.br/colunas/lucianacoelho/2025/03/adolescencia-e-serie-primorosa-e-vai-nos-assombrar-por-muito-tempo.shtml\" rel=\"\" target=\"\">\"Adolescência\"</a>. Trata de polarização, preconceito, solidão e, sobretudo, do caldo cultural fermentado nas redes que, ao longo dos últimos dez anos, <a href=\"https://www1.folha.uol.com.br/colunas/lucianacoelho/2019/08/brilhante-serie-mostra-como-estamos-sendo-engolidos-por-mudancas-bruscas-no-mundo.shtml\" rel=\"\" target=\"\">propalou acontecimentos como o brexit, a ascensão dos nacionalismos, o discurso anticiência e a eleição de políticos populistas de discurso tão simplista quanto radical</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucianacoelho/2026/11/tip-toe-na-hbo-segue-adolescencia-e-bebe-rena-como-drama-social-brutal.shtml\">Leia mais</a> (11/12/2026 - 23h03)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Montanhas e lagos dominam paisagem de Aysén, na Patagônia chilena",
-      "title_zh": "山脉和湖泊主宰着智利巴塔哥尼亚的艾森景观",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/montanhas-e-lagos-dominam-paisagem-de-aysen-na-patagonia-chilena.shtml",
+      "title": "Mississippi, que elegeu 1º senador negro em 150 anos, foi estado que mais resistiu a fim da segregação nos EUA",
+      "title_zh": "密西西比州在150年来首次选出黑人参议员，该州曾是美国最抵制种族隔离终结的州。",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/mississippi-que-elegeu-1o-senador-negro-em-150-anos-foi-estado-que-mais-resistiu-a-fim-da-segregacao-nos-eua.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:00:00 -0300",
-      "summary": "Escrever sobre Aysén, no sul do <a href=\"https://www1.folha.uol.com.br/folha-topicos/chile/\">Chile</a>, é difícil, porque não é simples descrever a beleza do lugar. Fotos também não resolvem. É preciso ir lá para saber como realmente é a região.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/11/montanhas-e-lagos-dominam-paisagem-de-aysen-na-patagonia-chilena.shtml\">Leia mais</a> (11/11/2026 - 23h00)"
+      "published": "12 Nov 2026 23:00:00 -0300",
+      "summary": "O democrata Scott Colom tornou-se nesta quarta-feira (11) <a href=\"https://www1.folha.uol.com.br/mundo/2026/11/mississippi-elege-democrata-scott-colom-primeiro-senador-negro-pelo-estado-dos-eua-em-150-anos.shtml\" rel=\"\" target=\"\">o primeiro político negro a vencer uma eleição para o Senado pelo Mississippi em 150 anos</a>, rompendo um século e meio de atrasos e retrocessos no estado que mais resistiu ao fim da segregação nos <a href=\"https://www1.folha.uol.com.br/folha-topicos/estados-unidos/\">Estados Unidos</a>.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/mississippi-que-elegeu-1o-senador-negro-em-150-anos-foi-estado-que-mais-resistiu-a-fim-da-segregacao-nos-eua.shtml\">Leia mais</a> (11/12/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Entenda ponto a ponto o Plano Moretti, proposta de ajuste fiscal do governo Lula",
-      "title_zh": "深入了解卢拉政府的财政调整方案——“莫雷蒂计划”（Plano Moretti）",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml",
+      "title": "Em evento, chefs defendem entendimento ampliado da cozinha que abarca pesquisa, equipe e produtores",
+      "title_zh": "在活动中，厨师们倡导对烹饪的更广泛理解，其中涵盖研究、团队和食材生产者。",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/11/em-evento-chefs-defendem-entendimento-ampliado-da-cozinha-que-abarca-pesquisa-equipe-e-produtores.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:00:00 -0300",
-      "summary": "O <a href=\"https://www1.folha.uol.com.br/mercado/2026/11/medidas-fiscais-terao-impacto-de-cerca-de-r-60-bi-e-podem-ser-votadas-hoje-diz-ministro-do-planejamento.shtml\" rel=\"\" target=\"\">projeto de ajuste</a> elaborado pelo governo de Luiz Inácio <a href=\"https://www1.folha.uol.com.br/folha-topicos/lula/\">Lula</a> da Silva (PT) prevê medidas para ajudar a equipe econômica a <a href=\"https://www1.folha.uol.com.br/mercado/2026/10/equipe-de-lula-prepara-pec-para-buscar-centro-da-meta-fiscal-e-preve-menos-credito-subsidiado.shtml\" rel=\"\" target=\"\">buscar o centro da meta de resultado primário</a>, diferença entre receitas e despesas descontado o serviço da dívida pública.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml\">Leia mais</a> (11/11/2026 - 23h00)"
+      "published": "12 Nov 2026 23:00:00 -0300",
+      "summary": "Um prato servido em um <a href=\"https://guia.folha.uol.com.br/restaurantes/\" rel=\"\" target=\"\">restaurante</a> contém muitos mundos. O do chef e de sua equipe, que vêm de diferentes origens. O do produtor, que se dedica a ingredientes de seu território. E também o do pesquisador, que busca técnicas para criar novas possibilidades de sabor e textura.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/comida/2026/11/em-evento-chefs-defendem-entendimento-ampliado-da-cozinha-que-abarca-pesquisa-equipe-e-produtores.shtml\">Leia mais</a> (11/12/2026 - 23h00)"
     },
     {
       "source": "Folha de S.Paulo",
-      "title": "Festival da Folha tem debate com o chef Luiz Filipe Souza, do estrelado Evvai, e show de Paula Lima neste sábado",
-      "title_zh": "Folha 节将于本周六举办与米其林星级餐厅 Evvai 的主厨 Luiz Filipe Souza 的对话活动，以及 Paula Lima 的表演。",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/festival-da-folha-tem-debate-com-o-chef-luiz-filipe-souza-do-estrelado-evvai-e-show-de-paula-lima-neste-sabado.shtml",
+      "title": "Perto da Proclamação da República, veja filmes sobre as entrelinhas da história do Brasil",
+      "title_zh": "在共和国成立纪念日之际，观看揭示巴西历史隐秘的电影",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/perto-da-proclamacao-da-republica-veja-filmes-sobre-as-entrelinhas-da-historia-do-brasil.shtml",
       "region": "Brazil",
-      "published": "11 Nov 2026 23:00:00 -0300",
-      "summary": "O Folha Gourmet Festival continua no parque Villa-Lobos durante o próximo fim de semana. Neste sábado (14), o primeiro festival gastronômico da <strong>Folha</strong> recebe o estande do Aiô, restaurante taiwanês ainda inédito no evento, e é palco para nomes como o<a href=\"https://guia.folha.uol.com.br/restaurantes/2026/04/conheca-os-chefs-que-comandam-os-dois-restaurantes-3-estrelas-michelin-do-brasil.shtml\"> chef Luiz Filipe Souza</a>, do estrelado Evvai, e a cantora Paula Lima.\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://guia.folha.uol.com.br/restaurantes/2026/11/festival-da-folha-tem-debate-com-o-chef-luiz-filipe-souza-do-estrelado-evvai-e-show-de-paula-lima-neste-sabado.shtml\">Leia mais</a> (11/11/2026 - 23h00)"
+      "published": "12 Nov 2026 23:00:00 -0300",
+      "summary": "<em>Esta é a edição da Maratonar, a newsletter da </em><strong>Folha </strong><em>que ajuda você a se achar no meio de tantas opções de <a href=\"https://www1.folha.uol.com.br/folha-topicos/series/\">séries</a> e <a href=\"https://www1.folha.uol.com.br/ilustrada/cinema/\">filmes</a> no <a href=\"https://www1.folha.uol.com.br/folha-topicos/streaming/\">streaming</a>. Quer recebê-la todas as sextas no seu email? Inscreva-se abaixo:</em>\n<a href=\"https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/11/perto-da-proclamacao-da-republica-veja-filmes-sobre-as-entrelinhas-da-historia-do-brasil.shtml\">Leia mais</a> (11/12/2026 - 23h00)"
     },
     {
       "source": "The Rio Times",
-      "title": "LatAm Expat & Nomad Daily Guide for Thursday, November 12, 2026",
-      "title_zh": "2026年11月12日星期四的拉美外籍人士和数字游民每日指南",
-      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-november-12-2026/",
+      "title": "US Jobless Claims Reach 200,000 in November",
+      "title_zh": "美国11月失业救济申请人数达到20万人",
+      "url": "https://www.riotimesonline.com/united-states-initial-jobless-claims-november-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 05:34:43 +0000",
-      "summary": "<p>Your Thursday LatAm guide: Argentina's branches fully reopen, and Brazil and Argentina publish October inflation at 7:00 a.m. and 2:00 p.m. ET.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-thursday-november-12-2026/\">LatAm Expat &amp; Nomad Daily Guide for Thursday, November 12, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:52:56 +0000",
+      "summary": "<p>US new jobless claims rose to 200,000 in the week ended 7 November 2026, above the 195,000 forecast, as the four-week average held at 195,250.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/united-states-initial-jobless-claims-november-2026/\">US Jobless Claims Reach 200,000 in November</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Moving to and Living in Zambia in 2026",
-      "title_zh": "2026年移居赞比亚并在此生活",
-      "url": "https://www.riotimesonline.com/zambia-moving-living-2026/",
+      "title": "Argentina October Inflation Rises to 2.2%",
+      "title_zh": "阿根廷10月份通胀率升至2.2%",
+      "url": "https://www.riotimesonline.com/argentina-inflation-rate-october-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:40:24 +0000",
-      "summary": "<p>A guide to living in Zambia: visa-free entry for Americans, permit fees in US dollars, October inflation, safety and health advice for expats.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/zambia-moving-living-2026/\">Moving to and Living in Zambia in 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:52:53 +0000",
+      "summary": "<p>Argentina's monthly inflation sped up to 2.2% in October 2026, above the 1.9% forecast, while the yearly rate slipped to 33.1% from 33.4%.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/argentina-inflation-rate-october-2026/\">Argentina October Inflation Rises to 2.2%</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Moving to Côte d’Ivoire as an American, Step by Step",
-      "title_zh": "作为美国人移居科特迪瓦，分步指南",
-      "url": "https://www.riotimesonline.com/cote-divoire-moving-living-2026/",
+      "title": "Latin America Sports Daily for Friday, November 13, 2026",
+      "title_zh": "《拉丁美洲体育日报》2026年11月13日星期五",
+      "url": "https://www.riotimesonline.com/latin-america-sports-daily-friday-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:30:15 +0000",
-      "summary": "<p>A US guide to moving to Côte d'Ivoire: e-visa steps, residence card costs in US$, Abidjan safety, healthcare and health entry rules.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/cote-divoire-moving-living-2026/\">Moving to Côte d&#8217;Ivoire as an American, Step by Step</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:19:05 +0000",
+      "summary": "<p>Libertadores final preview: Palmeiras meet Estudiantes in Montevideo on 28 November, plus Boca v Mineiro and the Brasileirão title race.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/latin-america-sports-daily-friday-november-13-2026/\">Latin America Sports Daily for Friday, November 13, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Moving to Cameroon in 2026, A Practical Guide",
-      "title_zh": "2026年移居喀麦隆实用指南",
-      "url": "https://www.riotimesonline.com/cameroon-moving-living-2026/",
+      "title": "São Paulo Daily Brief — Friday, November 13, 2026",
+      "title_zh": "圣保罗每日简报 — 2026年11月13日（星期五）",
+      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:29:10 +0000",
-      "summary": "<p>A practical guide to moving to Cameroon: visa portal, yellow fever rules, CFA franc cash, healthcare limits and the regions Canada says to avoid.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/cameroon-moving-living-2026/\">Moving to Cameroon in 2026, A Practical Guide</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:18:53 +0000",
+      "summary": "<p>São Paulo today, Friday 13 November: every major museum is open, markets are cautious, and there is one committed plan for Pinacoteca and Ibirapuera.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/sao-paulo-daily-brief-for-friday-november-13-2026/\">São Paulo Daily Brief — Friday, November 13, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Moving to and Living in Zimbabwe in 2026",
-      "title_zh": "2026年移居津巴布韦并在此生活",
-      "url": "https://www.riotimesonline.com/zimbabwe-moving-living-2026/",
+      "title": "Rio de Janeiro Daily Brief — Friday, November 13, 2026",
+      "title_zh": "里约热内卢每日简报 — 2026年11月13日（星期五）",
+      "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:26:36 +0000",
-      "summary": "<p>A guide to living in Zimbabwe with the 11 November 2026 exchange rate, October inflation, safety and health advice, and a first-month checklist.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/zimbabwe-moving-living-2026/\">Moving to and Living in Zimbabwe in 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:18:42 +0000",
+      "summary": "<p>Rio museums open today: CCBB, Museu do Amanhã, Belas Artes and Parque Lage, with hours and entry prices for Friday 13 November.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-friday-november-13-2026/\">Rio de Janeiro Daily Brief — Friday, November 13, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Latin America Sports Daily for Thursday, November 12, 2026",
-      "title_zh": "《拉丁美洲体育日报》2026年11月12日星期四",
-      "url": "https://www.riotimesonline.com/latin-america-sports-daily-thursday-november-12-2026/",
+      "title": "Latin American Pulse for Friday, November 13, 2026",
+      "title_zh": "2026 年 11 月 13 日星期五的拉丁美洲脉搏",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-friday-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:24:59 +0000",
-      "summary": "<p>The Copa Sudamericana final pits Boca Juniors against Atlético Mineiro on 21 November, with Palmeiras and Flamengo locked in a Brazilian title race.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/latin-america-sports-daily-thursday-november-12-2026/\">Latin America Sports Daily for Thursday, November 12, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:18:31 +0000",
+      "summary": "<p>The Latin America mood today: Brazil's Senate backs a fiscal fix, Chile cuts diesel to end a strike, Argentina's inflation stalls at 2.2%.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/latin-american-pulse-for-friday-november-13-2026/\">Latin American Pulse for Friday, November 13, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "São Paulo Daily Brief — Thursday, November 12, 2026",
-      "title_zh": "圣保罗每日简报 — 2026年11月12日（星期四）",
-      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-november-12-2026/",
+      "title": "US 10-Year Yield Tops 5% as Gold Drops 2.5% | Global Economy, Nov 13",
+      "title_zh": "美国 10 年期国债收益率突破 5%，黄金价格下跌 2.5% | 全球经济，11 月 13 日",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:24:46 +0000",
-      "summary": "<p>São Paulo Daily Brief for Thursday 12 November: which museums are open, what they cost, the metro fare and the market mood before you plan your day.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/sao-paulo-daily-brief-for-thursday-november-12-2026/\">São Paulo Daily Brief — Thursday, November 12, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:18:20 +0000",
+      "summary": "<p>Global markets briefing for 13 November 2026: the 10-year yield climbs to 5.134%, gold falls 2.46% and Brazil's inflation print lands ahead of US PPI.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/global-economy-briefing-november-13-2026/\">US 10-Year Yield Tops 5% as Gold Drops 2.5% | Global Economy, Nov 13</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Rio de Janeiro Daily Brief — Thursday, November 12, 2026",
-      "title_zh": "里约热内卢每日简报 — 2026 年 11 月 12 日星期四",
-      "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-november-12-2026/",
+      "title": "Brazil’s Real Hits 12-Month Low as Dollar Tops 5.64 | Morning Call, Nov 13",
+      "title_zh": "巴西雷亚尔跌至12个月低点，美元兑雷亚尔汇率突破5.64 |晨间简报，11月13日",
+      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-13-2026/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:24:30 +0000",
-      "summary": "<p>Rio daily brief for Thursday 12 November: which museums are open, the metro fare, and how markets closed in words. Plan your day in Rio.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-thursday-november-12-2026/\">Rio de Janeiro Daily Brief — Thursday, November 12, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 04:18:06 +0000",
+      "summary": "<p>Brazil morning call for Friday: the real near a 12-month low, a Selic hold at 13.75%, plus retail data and earnings that steer B3's open.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-13-2026/\">Brazil&#8217;s Real Hits 12-Month Low as Dollar Tops 5.64 | Morning Call, Nov 13</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Latin American Pulse for Thursday, November 12, 2026",
-      "title_zh": "2026年11月12日星期四的拉丁美洲脉搏",
-      "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-november-12-2026/",
+      "title": "Brazil’s Cemig Profit Doubles on Tax Gain",
+      "title_zh": "巴西Cemig的利润因税收收益而翻番",
+      "url": "https://www.riotimesonline.com/cemig-third-quarter-2026-profit-doubles-tax-provision-gain/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:24:16 +0000",
-      "summary": "<p>Latin America's mood: a papal welcome in Lima, fuel anger in Chile, farm-loan fears at Banco do Brasil and a proposed cut for Mexico's election agency.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/latin-american-pulse-for-thursday-november-12-2026/\">Latin American Pulse for Thursday, November 12, 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 02:45:24 +0000",
+      "summary": "<p>Cemig, the Minas Gerais power utility, more than doubled third-quarter profit to US$304 million, but a one-off legal reserve release drove most of it.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/cemig-third-quarter-2026-profit-doubles-tax-provision-gain/\">Brazil&#8217;s Cemig Profit Doubles on Tax Gain</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Rio Times",
-      "title": "Namibia Visa and Residency Rules for Foreigners 2026",
-      "title_zh": "2026年纳米比亚针对外国人的签证和居留规定",
-      "url": "https://www.riotimesonline.com/namibia-visa-residency-2026/",
+      "title": "Galápagos Rain Alert Hits Flooded Islands",
+      "title_zh": "加拉帕戈斯群岛发布降雨警报，群岛多地遭遇洪灾",
+      "url": "https://www.riotimesonline.com/galapagos-red-rain-alert-santa-cruz-flooded-islands/",
       "region": "Brazil",
-      "published": "Thu, 12 Nov 2026 04:24:16 +0000",
-      "summary": "<p>Americans need a visa for Namibia at N$1,600 (about US$96). This guide covers how to apply, work and residence permits, safety and healthcare.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/namibia-visa-residency-2026/\">Namibia Visa and Residency Rules for Foreigners 2026</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
+      "published": "Fri, 13 Nov 2026 02:42:40 +0000",
+      "summary": "<p>Ecuador’s weather service put Santa Cruz, San Cristóbal and Isabela on red alert for heavy rain, weeks after floods closed the main island’s airport.</p>\n<p>The post <a href=\"https://www.riotimesonline.com/galapagos-red-rain-alert-santa-cruz-flooded-islands/\">Galápagos Rain Alert Hits Flooded Islands</a> appeared first on <a href=\"https://www.riotimesonline.com\">The Rio Times</a>.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "BREAKING: Gibran hands resignation letter to Assembly",
-      "title_zh": "突发新闻：吉布兰向议会递交辞呈",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/12/breaking-gibran-hands-resignation-letter-to-assembly.html",
+      "title": "North Sumatra Police arrest four suspected of human trafficking to Malaysia",
+      "title_zh": "北苏门答腊警方逮捕四名涉嫌向马来西亚贩运人口的嫌疑人",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/13/north-sumatra-police-arrest-four-suspected-of-human-trafficking-to-malaysia.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 12:26:25 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/01/2026_11_01_181160_1793518109._medium.jpg\" style=\"text-align: center;\" /></p><p>Gibran met with President Prabowo earlier on Tuesday before arriving at the Senayan Legislative Complex at 11 a.m. to deliver his resignation letter in person to the Assembly.</p>"
+      "published": "Fri, 13 Nov 2026 11:55:14 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/02/23/2026_02_23_172899_1771840121._medium.jpg\" style=\"text-align: center;\" /></p><p>The suspects were arrested from two different cases in Deli Serdang and Asahan regencies, including an employee at Tanjung Balai penitentiary. </p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Indonesia, Norway strike carbon credit deal at COP31",
-      "title_zh": "印度尼西亚与挪威在COP31上达成碳信用协议",
-      "url": "https://www.thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31.html",
+      "title": "Body of Riau migrant worker killed in S. Korea returned home",
+      "title_zh": "在韩国遇害的廖内省外来务工人员遗体运回老家",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/13/body-of-riau-migrant-worker-killed-in-s-korea-returned-home.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 12:23:25 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/12/2026_11_12_181470_1794449387._medium.jpg\" style=\"text-align: center;\" /></p><p>The agreement, touted as one of the largest transactions to date under Article 6.2 of the Paris Agreement, targets the sale of 12 million tonnes of carbon dioxide equivalent by 2038.</p>"
+      "published": "Fri, 13 Nov 2026 11:44:07 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/12/2026_11_12_181482_1794482245._medium.jpg\" style=\"text-align: center;\" /></p><p>Muhammad Taufiq was a government-to-government scheme migrant worker who was killed in South Korea on Nov. 2, 2026, when cleaning a paving block making machine. </p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Suspended Cilacap regent sentenced to five years for extortion",
-      "title_zh": "被停职的Cilacap县长因敲诈勒索被判处五年有期徒刑",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/12/suspended-cilacap-regent-sentenced-to-five-years-for-extortion.html",
+      "title": "Seven Gadjah Mada University students released from detention after demonstratio...",
+      "title_zh": "加查马达大学七名学生在示威后获释……",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/13/seven-gadjah-mada-university-students-released-from-detention-after-demonstration.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 10:00:27 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181450_1794390651._medium.jpg\" style=\"text-align: center;\" /></p><p>Court proceedings and witness testimony showed that Syamsul sought to raise between Rp 500 million and Rp 700 million in March to provide holiday payments to members of the Cilacap Regional Leadership Coordination Forum (Forkopimda), which comprises the local police chief, military district commander and head of the district prosecutor's office.</p>"
+      "published": "Fri, 13 Nov 2026 11:33:45 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181452_1794400181._medium.jpg\" style=\"text-align: center;\" /></p><p>Yogyakarta Police released 154 of 157 detainees because they were not linked to any criminal actions.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Gibran has tendered his resignation to President Prabowo, aide says",
-      "title_zh": "助手表示，吉布兰已向普拉博沃总统递交辞呈",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/12/gibran-has-tendered-his-resignation-to-president-prabowo-aide-says-.html",
+      "title": "Citra Awards 2026: Who makes the cut?",
+      "title_zh": "2026年Citra奖：谁能入围？",
+      "url": "https://www.thejakartapost.com/the-weekend-digest/2026/11/13/citra-awards-2026-who-makes-the-cut.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 09:25:51 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/06/19/2024_06_19_151613_1718795956._medium.jpg\" style=\"text-align: center;\" /></p><p>Gibran, the 39-year-old son of former president Joko \"Jokowi\" Widodo, has come under intense scrutiny from lawmakers following Constitutional Court and Supreme Court rulings last month that his education documents did not meet election requirements. </p>"
+      "published": "Fri, 13 Nov 2026 11:00:01 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181445_1794384919._medium.jpg\" style=\"text-align: center;\" /></p><p>An updated selection process brings fresh questions about recognition at the upcoming Citra Awards. Three movie-focused accounts weigh in on the favorites, the snubs and what makes a movie worthy of an ‘Indonesian Oscar’.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Debris from intercepted missiles falls in Mecca region",
-      "title_zh": "被拦截导弹的碎片落在麦加地区",
-      "url": "https://www.thejakartapost.com/world/2026/11/12/debris-from-intercepted-missiles-falls-in-mecca-region.html",
+      "title": "Nvidia CEO Huang quits after affair with suspected China spy",
+      "title_zh": "Nvidia首席执行官黄仁勋因涉嫌与中国间谍有染而辞职",
+      "url": "https://www.thejakartapost.com/business/2026/11/13/nvidia-ceo-huang-quits-after-affair-with-suspected-china-spy.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 09:25:05 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/05/21/2026_05_21_175941_1779332796._medium.jpg\" style=\"text-align: center;\" /></p><p>Saudi state television identified the locations as Sabuhah village, about 35 km (22 miles) northeast of the Grand Mosque in Mecca, and Wadi al-Maghmas, about 21 km east of the mosque.</p>"
+      "published": "Fri, 13 Nov 2026 10:38:03 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/11/23/2024_11_23_157610_1732333285._medium.jpg\" style=\"text-align: center;\" /></p><p>Huang was a central figure in the boom set off by the launch of OpenAI's ChatGPT in 2022, with Nvidia’s processors, once designed for video game graphics, becoming the crucial ingredient for building AI models.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
-      "title_zh": "亚洲股市疲软，英伟达股价暴跌，董事会将决定首席执行官的命运",
-      "url": "https://www.thejakartapost.com/business/2026/11/12/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceos-fate.html",
+      "title": "The weakest link: How the US is testing Indonesia’s nonalignment",
+      "title_zh": "最薄弱的环节：美国如何考验印度尼西亚的不结盟立场",
+      "url": "https://www.thejakartapost.com/opinion/2026/11/13/the-weakest-link-how-the-us-is-testing-indonesias-nonalignment.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 09:00:19 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/14/2026_08_14_178646_1786677211._medium.jpg\" style=\"text-align: center;\" /></p><p>Global stocks wobbled at the start of Asian trade on Thursday, while Nvidia shares plunged in after-hours trading on news that its board may oust longtime CEO Jensen Huang.</p>"
+      "published": "Fri, 13 Nov 2026 09:16:13 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/03/06/2026_03_06_173409_1772788557._medium.jpg\" style=\"text-align: center;\" /></p><p>By trading costly concessions for scant returns with Washington while deepening ties with Beijing and Moscow, Prabowo risks turning Indonesia’s storied bebas aktif foreign policy from genuine nonalignment into unilateral accommodation.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "‘Yang Mulia’: A tale of family secrets and the shadows of May 1998",
-      "title_zh": "《杨穆利亚》：一个关于家族秘密和1998年5月阴影的故事",
-      "url": "https://www.thejakartapost.com/culture/2026/11/12/yang-mulia-a-tale-of-family-secrets-and-the-shadows-of-may-1998.html",
+      "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
+      "title_zh": "受美联储加息预期影响，美元接近19个月高点，日元逼近160关口",
+      "url": "https://www.thejakartapost.com/business/2026/11/13/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 08:39:46 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181438_1794381305._medium.jpg\" style=\"text-align: center;\" /></p><p>Originally published as The Majesties, Tiffany Tsao’s novel explores the secrets of a wealthy Chinese Indonesian family against the backdrop of Jakarta’s May 1998 turmoil.</p>"
+      "published": "Fri, 13 Nov 2026 09:14:38 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/06/19/2026_06_19_176824_1781841745._medium.jpg\" style=\"text-align: center;\" /></p><p>The dollar held near a 19-month high on Friday after a strong week of gains on rising bets of a larger Federal Reserve rate hike, pushing the Japanese yen back near the key 160 mark that has left traders on alert for intervention.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Veep drama",
-      "title_zh": "《副总统》剧情类",
-      "url": "https://www.thejakartapost.com/opinion/2026/11/12/veep-drama.html",
+      "title": "Analysis: Incentives vs. free meals: Regions compete for fiscal relief",
+      "title_zh": "分析：激励措施与免费餐食：各地区竞相争取财政纾困",
+      "url": "https://www.thejakartapost.com/opinion/2026/11/13/analysis-incentives-vs-free-meals-regions-compete-for-fiscal-relief.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 07:44:24 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181436_1794376524._medium.jpg\" style=\"text-align: center;\" /></p><p>With his elevation to the country's second-highest executive office being the outcome of political interference from his father, then-president Joko \"Jokowi\" Widodo, it was only a matter of time before his critics and detractors started to litigate the process.</p>"
+      "published": "Fri, 13 Nov 2026 07:00:07 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/12/2026_11_12_181471_1794456833._medium.jpg\" style=\"text-align: center;\" /></p><p>The government’s decision to incorporate implementation of the free nutritious meal (MBG) program into the performance criteria for the regional incentive fund (DID) has raised eyebrows. While the fund’s framework is accompanied by plans for additional regional assistance, whether these measures can meaningfully ease regional fiscal pressures amid austerity remains uncertain.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Health Ministry considers banning vapes after MUI fatwa",
-      "title_zh": "印尼卫生部考虑在 MUI 法特瓦发布后禁止电子烟",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/12/health-ministry-considers-banning-vapes-after-mui-fatwa.html",
+      "title": "Listyo ordered wiretapping, acted as ‘end user’: Police",
+      "title_zh": "警方称，Listyo下令窃听，并充当“最终用户”",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/13/listyo-ordered-wiretapping-acted-as-end-user-police.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 07:20:46 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/08/06/2026_08_06_178374_1785993020._medium.jpg\" style=\"text-align: center;\" /></p><p>The Health Ministry is considering banning vape distribution in the aftermath of the Indonesian Ulema Council (MUI) recently issuing a fatwa forbidding Muslims from using and selling vape products.</p>"
+      "published": "Fri, 13 Nov 2026 06:41:20 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/06/2026_11_06_181317_1793972202._medium.jpg\" style=\"text-align: center;\" /></p><p>National Police chief Gen. Suyudi Ario Seto announced on Thursday that his predecessor Listyo Sigit Prabowo played a major role in the wiretapping scandal targeting President Prabowo Subianto, as investigators expand the case into an alleged treason attempt.</p>"
     },
     {
       "source": "The Jakarta Post",
-      "title": "Prabowo visits Aceh amid tensions over deadly flag clash",
-      "title_zh": "普拉博沃在因致命旗帜冲突引发紧张局势之际访问亚齐",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/12/prabowo-visits-aceh-amid-tensions-over-deadly-flag-clash.html",
+      "title": "State spending on influencers slammed as wasteful",
+      "title_zh": "国家对网红的支出被批为浪费",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/13/state-spending-on-influencers-slammed-as-wasteful.html",
       "region": "Indonesia",
-      "published": "Thu, 12 Nov 2026 07:02:37 +0700",
-      "summary": "<p><img src=\"https://img.jakpost.net/c/2026/11/11/2026_11_11_181453_1794401804._medium.jpg\" style=\"text-align: center;\" /></p><p>The kilometers-long national flag display came exactly a week after an Acehnese man was shot dead in a clash with soldiers in in Pidie regency on Nov. 4.</p>"
+      "published": "Fri, 13 Nov 2026 06:32:40 +0700",
+      "summary": "<p><img src=\"https://img.jakpost.net/c/2024/10/22/2024_10_22_156415_1729583486._medium.jpg\" style=\"text-align: center;\" /></p><p>A total of Rp 14.7 billion (US$806,234) were paid by two ministries to PT RANS Animasi Indonesia, which was owned by celebrity-turned-government official Raffi Ahmad.</p>"
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "'Happy Diwali': Accused shouted after killing ex-Tech Mahindra regional head",
-      "title_zh": "“排灯节快乐”：被告在杀害前Tech Mahindra区域负责人后大喊",
-      "url": "https://timesofindia.indiatimes.com/city/faridabad/after-killing-ex-tech-mahindra-regional-head-paramjeet-dhankar-accused-shouted-happy-diwali-i-will-kill-the-whole-family-today/articleshow/135752250.cms",
+      "title": "Microsoft outage hits millions worldwide; company says fixes not 'working as expected'",
+      "title_zh": "微软服务中断影响全球数百万用户；该公司表示修复措施“未达到预期效果”",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-outage-status-update-company-says-that-the-changes-applied-to-fix-outage-not-working-as-expected/articleshow/135789407.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 07:32:58 +0530",
-      "summary": "An altercation between Mohan Sharma and his neighbor Paramjeet Dhankar led to escalating hostility. Sharma, unable to bear the humiliation, decided to murder Dhankar. On November 6, Sharma lured Dhankar downstairs and shot him multiple times. Investigators revealed a history of disputes between the two families over parking and property issues. Sharma has been arrested and is currently in police custody for further interrogation."
+      "published": "Fri, 13 Nov 2026 10:02:19 +0530",
+      "summary": "Microsoft is currently experiencing an outage affecting its email and cloud services due to server failures. Nearly 130,000 users worldwide have reported connectivity issues with Outlook and Teams. The company has identified elevated load as a contributing factor but not due to increased user traffic. Federal agencies in Australia have also reported disruptions in communication due to the outage."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Mumbai local: Woman objects to molestation, gets pushed off train, loses left arm",
-      "title_zh": "孟买当地：女子因反抗性骚扰被推下火车，失去左臂",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-local-horror-woman-objects-to-molestation-in-compartment-gets-pushed-off-train-loses-left-arm/articleshow/135756172.cms",
+      "title": "‘I don’t care’: How Jensen Huang’s last hours as Nvidia CEO unfolded",
+      "title_zh": "“我不在乎”：黄仁勋作为英伟达首席执行官的最后几个小时是如何度过的",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/i-dont-care-how-jensen-huangs-last-hours-as-nvidia-ceo-unfolded/articleshow/135788716.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 10:56:41 +0530",
-      "summary": "On November 4, a 20-year-old woman was pushed off a local train at Naigaon railway station. She lost her left arm after the incident and is currently receiving treatment. The accused, a 53-year-old man, allegedly molested her before pushing her off the train. He has been arrested after police examined CCTV footage from the station. A case of molestation and attempted murder has been filed against the suspect."
-    },
-    {
-      "source": "Times of India - Top Stories",
-      "title": "'Elon, please hire Jensen': Musk responds to X user's request on Nvidia CEO",
-      "title_zh": "“埃隆，请聘用詹森”：马斯克回应X用户对英伟达首席执行官的请求",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/elon-musk-offers-to-hire-jensen-huang-tesla-ceo-reacts-to-social-media-appeal/articleshow/135753426.cms",
-      "region": "India",
-      "published": "Thu, 12 Nov 2026 08:48:30 +0530",
+      "published": "Fri, 13 Nov 2026 09:32:44 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
-      "title_zh": "尼泊尔一辆客车坠落500米山坡，造成10人死亡",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/10-killed-as-passenger-vehicle-plunges-500-metres-down-slope-in-nepal/articleshow/135758559.cms",
+      "title": "'Failed to speak Hindi': Indonesian woman with China links caught at Nepal border",
+      "title_zh": "“不会说印地语”：一名与中国有联系的印度尼西亚女子在尼泊尔边境被截获",
+      "url": "https://timesofindia.indiatimes.com/india/indonesian-woman-with-alleged-chinese-links-caught-at-sonauli-border-after-failing-to-speak-hindi/articleshow/135791009.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 12:07:39 +0530",
+      "published": "Fri, 13 Nov 2026 11:16:18 +0530",
       "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "21 sixes in an innings! New Zealand batter Bevon Jacobs comes close to world record",
-      "title_zh": "一局中打出21个六分！新西兰击球手贝文·雅各布斯（Bevon Jacobs）接近创造世界纪录",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/21-sixes-in-an-innings-new-zealand-batter-bevon-jacobs-comes-close-to-world-record/articleshow/135757902.cms",
+      "title": "Delhi govt alleges plot to dump dead fish in Yamuna ahead of Chhath Puja",
+      "title_zh": "德里政府指控有人密谋在Chhath Puja（ छठ节）前将死鱼倾倒入亚穆纳河",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-govt-alleges-plot-to-dump-dead-fish-in-yamuna-ahead-of-chhath-puja-seeks-fir/articleshow/135790914.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:47:12 +0530",
-      "summary": "Bevon Jacobs achieved remarkable success in the Ford Trophy, scoring 202 not out against Otago. His innings included a record-setting 21 sixes, the highest for a New Zealand batter in List A cricket. Despite Jacobs' effort, Auckland lost the match as Otago successfully chased down the target. Jacobs became only the fourth New Zealand player to score a List A double century."
+      "published": "Fri, 13 Nov 2026 11:01:33 +0530",
+      "summary": ""
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Weeks before his affair admission, Huang said this about his daughter becoming CEO",
-      "title_zh": "在承认婚外情几周前，黄仁勋曾这样谈到女儿成为首席执行官一事",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/jensen-huang-was-asked-if-daughter-madison-would-succeed-him-as-nvidia-ceo-weeks-before-admitting-to-his-affair-he-said-i-dont-wish-the-job-on-her-they-have-to-/articleshow/135755961.cms",
+      "title": "Microsoft 365 outage hits Outlook, Teams, Copilot; users joke, some suspect cyberattack",
+      "title_zh": "Microsoft 365 宕机影响 Outlook、Teams 和 Copilot；用户开玩笑，有人怀疑是网络攻击",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/massive-microsoft-365-outage-disrupts-email-teams-copilot-and-more-services-while-some-on-internet-say-take-your-time-others-see-attack-by-/articleshow/135790001.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 10:32:12 +0530",
-      "summary": "Weeks before admitting to an affair with a suspected Chinese spy, Nvidia CEO Jensen Huang was asked if daughter Madison Huang could succeed him. “I don’t wish the job on her,” he told Bloomberg, adding that his children “have to go earn it.” With Nvidia’s board reportedly preparing to oust Huang and working with an outside firm on a replacement, the lack of a succession plan is under scrutiny."
+      "published": "Fri, 13 Nov 2026 10:26:27 +0530",
+      "summary": "Microsoft faced a significant outage that disrupted key services like Outlook, Teams, and OneDrive, affecting users globally. Many struggled to connect with crucial workplace tools, leading to mixed reactions online, from humorous memes to speculations about cyberattacks. Although Microsoft has not linked the outage to any cybersecurity threats, the incident sparked widespread chatter across social media, giving a brief pause in the work routine."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Barclays executive, wife and 2 children killed as SUV crashes on Ganga Expressway",
-      "title_zh": "巴克莱银行高管、妻子和2名子女在SUV撞上恒河高速公路时丧生",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/barclays-global-service-centre-vice-chairman-wife-and-2-sons-killed-in-ganga-expressway-suv-crash/articleshow/135739519.cms",
+      "title": "Kohli plays peacemaker after Brar's animated send-off to Seifert, video goes viral",
+      "title_zh": "布拉尔情绪激动地送西弗特离场，科利出面调解，视频爆红网络",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/virat-kohli-plays-peacemaker-after-gurnoor-brars-animated-send-off-to-seifert-video-goes-viral-watch/articleshow/135790745.cms",
       "region": "India",
-      "published": "Wed, 11 Nov 2026 19:11:28 +0530",
-      "summary": "A Noida-based IT firm vice-chairman, Saurabh Upadhyay, his wife Menaka and their sons Vyom and Shivom died when their SUV rammed a road divider on the Ganga Expressway in Hardoi on Wednesday. The family was travelling to Prayagraj for Bhai Dooj and Chhath. The infant was thrown 20 feet and died during treatment. Police are probing the cause."
+      "published": "Fri, 13 Nov 2026 11:16:22 +0530",
+      "summary": "Seifert attempted to pull Brar off the sixth ball of the 12th over but failed to make proper contact. The ball went high in the air and wicketkeeper Ishan Kishan completed the catch."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Nephew lives rent-free for 14 years, claims aunt's house; court backs uncle",
-      "title_zh": "侄子免费住14年，声称阿姨的房子归他所有；法院支持叔叔",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-washington-nephew-lived-rent-free-for-14-years-in-a-house-owned-by-his-aunt-and-uncle-then-claimed-ownership-after-his-aunt-died-a-november-9-appeals-court-upheld-the-uncles-right-to-remove-him/articleshow/135727805.cms",
+      "title": "Montana man leaves 480 acres worth $1m to support Alzheimer's research",
+      "title_zh": "蒙大拿州男子捐出价值100万美元的480英亩土地，用于支持阿尔茨海默病研究",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-montana-born-photographer-arnold-swanberg-died-after-leaving-480-acres-of-farmland-to-a-research-institute-in-2026-the-1-million-gift-is-supporting-alzheimers-research-in-his-hometown/articleshow/135786831.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 04:55:00 +0530",
-      "summary": "A Washington appeals court upheld an uncle's ownership of a family home after his nephew, who had lived there rent-free for 14 years and made several improvements, failed to establish adverse possession. The court found insufficient evidence that both owners had withdrawn permission for him to occupy the property, supporting his removal."
+      "published": "Fri, 13 Nov 2026 11:00:00 +0530",
+      "summary": "Arnold Swanberg, a Montana-born photographer, donated 480 acres of farmland to the Weissman Hood Institute. The farmland will continue to be leased, and proceeds will support Alzheimer's research in Great Falls, Montana. Swanberg had personal connections to neurodegenerative diseases, influencing his decision to help research in this area. His donation is one of the largest in the institute's history and reflects his commitment to Montana."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Noel Tata passes baton to Bahram Vakil at Tata Investment Corporation",
-      "title_zh": "诺埃尔·塔塔将塔塔投资公司的帅印移交给巴赫拉姆·瓦基尔",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/noel-tata-passes-baton-to-bahram-vakil-at-tata-investment-corporation/articleshow/135756843.cms",
+      "title": "'We'll get you a new mother': Retired railway employee slits wife’s throat, surrenders",
+      "title_zh": "“我们会给你找个新妈妈”：退休铁路职工割破妻子喉咙后自首",
+      "url": "https://timesofindia.indiatimes.com/city/patna/well-get-you-a-new-mother-retired-railway-employee-slits-wifes-throat-surrenders-with-daughters/articleshow/135789800.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:01:11 +0530",
-      "summary": "Tata Investment Corporation has appointed Bahram Vakil as chairman after Noel Tata's retirement on November 11. This decision is part of a broader reshuffle at Tata companies due to retirement guidelines. Vakil's prior role allowed him to transition smoothly into the chairman position, succeeding Noel Tata. T V Narendran will also become chairman of Tata International, furthering leadership changes within the group."
+      "published": "Fri, 13 Nov 2026 10:25:55 +0530",
+      "summary": "A retired railway loco pilot is accused of murdering his wife, Pooja Devi, in Bihar's Munger district. Police found her body with a suspected murder weapon at their residence in Jamalpur. The accused allegedly believed Pooja was having an affair, prompting the crime. Her family claims she faced domestic violence and harassment from him for years. The accused has been arrested, and police are investigating the circumstances surrounding the incident."
     },
     {
       "source": "Times of India - Top Stories",
-      "title": "Rejected by mother and bullied, monkey raised with toy now cares for baby macaque",
-      "title_zh": "被母亲抛弃并受到欺凌，与玩具一起长大的猴子现在照顾着一只小猕猴。",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/rejected-by-his-mother-bullied-by-older-monkeys-and-raised-with-a-stuffed-toy-punch-is-now-showing-a-softer-side-of-care-towards-a-younger-macaque/articleshow/135755869.cms",
+      "title": "US Navy quietly removes top commanders, draws congressional backlash",
+      "title_zh": "美国海军悄然撤换高层指挥官，引发国会强烈不满",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-navy-quietly-removes-top-commanders-draws-congressional-backlash/articleshow/135787158.cms",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 12:00:00 +0530",
-      "summary": "Punch, a Japanese macaque, faced a rough start when he was separated from his mother. He found solace in a stuffed orangutan, which offered him companionship during his early struggles. As time progressed, Punch blossomed and has begun socializing with a younger baby macaque. The zookeepers played a pivotal role in helping him adapt and grow, marking his journey from solitude to engagement within the troop."
+      "published": "Fri, 13 Nov 2026 08:54:32 +0530",
+      "summary": ""
+    },
+    {
+      "source": "Times of India - Top Stories",
+      "title": "Europe plans to heat 6,500 homes and school using crematorium waste heat",
+      "title_zh": "欧洲计划利用火葬场的余热为6500户家庭和学校供暖",
+      "url": "https://timesofindia.indiatimes.com/world/europe/europe-plans-to-heat-6500-homes-and-a-school-using-crematorium-heat-how-the-unusual-energy-recycling-system-works/articleshow/135789143.cms",
+      "region": "India",
+      "published": "Fri, 13 Nov 2026 11:00:00 +0530",
+      "summary": "Redditch Borough Council's innovative plan to use waste heat from a crematorium to warm a swimming pool is gaining traction. This project has generated significant discussions and recognition for its environmental benefits since 2013. Similar initiatives are emerging in Scotland and Finland, aiming to utilize crematoriums for heating schools and residential areas. Experts indicate this approach could be vital in addressing heating demands and reducing carbon footprints."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Jensen Huang Under Fire: What Nvidia Crisis Means For US-China AI Cold War",
-      "title_zh": "黄仁勋饱受抨击：英伟达危机对中美人工智能冷战意味着什么",
-      "url": "https://www.ndtv.com/business-news/jensen-huang-under-fire-what-nvidia-crisis-means-for-us-china-ai-cold-war-12315717#publisher=newsstand",
+      "title": "\"Bullets Flying Like Firecrackers In Punjab\": Governor Gulab Chand Kataria",
+      "title_zh": "“子弹在旁遮普邦像鞭炮一样乱飞”：古拉布·昌德·卡塔里亚州长",
+      "url": "https://www.ndtv.com/india-news/bullets-flying-like-firecrackers-in-punjab-state-governorgulab-chand-kataria-12320738#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:51:08 +0530",
-      "summary": "The Nvidia row is even more significant as it coincides with a shift in the AI race between US and China."
+      "published": "Fri, 13 Nov 2026 11:05:39 +0530",
+      "summary": "Punjab Governor Gulab Chand Kataria"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "This Short-Seller Had Bet Against Jensen Huang And Nvidia 6 Months Ago. No One Listened",
-      "title_zh": "这位沽空者6个月前曾做空黄仁勋和英伟达。当时没人听他的。",
-      "url": "https://www.ndtv.com/world-news/this-short-seller-had-bet-against-jensen-huang-and-nvidia-6-months-ago-no-one-listened-12315839#publisher=newsstand",
+      "title": "3 Indian-Origin Faces Among 11 Names In Jensen Huang Succession Search At Nvidia",
+      "title_zh": "在英伟达寻找黄仁勋继任者的11人名单中，有3位印度裔高管",
+      "url": "https://www.ndtv.com/world-news/tim-cook-to-lisa-su-11-names-who-could-succeed-jensen-huang-as-nvidia-ceo-12320649#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:50:40 +0530",
-      "summary": "Son of a pastor, Lamarco grew up in upstate New York."
+      "published": "Fri, 13 Nov 2026 11:05:26 +0530",
+      "summary": "Lisa Su, Sanjay Mehrotra and Tim Cook are being considered for the top job at Nvidia"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Taiwan Says Chinese 'Spy' Linked to Nvidia CEO Entered Country 8 Times",
-      "title_zh": "台湾称与英伟达首席执行官有关联的中国“间谍”8次入境台湾",
-      "url": "https://www.ndtv.com/world-news/taiwan-says-chinese-spy-linked-to-nvidia-ceo-jensen-huang-entered-country-8-times-12315865#publisher=newsstand",
+      "title": "2028 White House Race: 4 Potential Contenders Catching Voters' Attention",
+      "title_zh": "2028年白宫竞选：4位潜在候选人吸引选民关注",
+      "url": "https://www.ndtv.com/world-news/jd-vance-marco-rubio-jon-ossoff-pete-buttigieg-2028-white-house-race-4-potential-contenders-catching-voters-attention-12320655#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:49:15 +0530",
-      "summary": "Alice Huang visited Taiwan three times in 2024 and five times in 2025."
+      "published": "Fri, 13 Nov 2026 10:59:12 +0530",
+      "summary": "None of the four has yet formally launched a campaign"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Cancer Patient Behind Hoax Hijack Alert on Air India Flight. His Reason",
-      "title_zh": "印度航空公司航班劫机警报虚惊一场，幕后竟是癌症患者。他的理由是……",
-      "url": "https://www.ndtv.com/kolkata-news/cancer-patient-behind-hoax-hijack-alert-on-air-india-flight-his-reason-12315700#publisher=newsstand",
+      "title": "Trump Threatens To Double Tariffs On Mexico Over Migrant Caravan",
+      "title_zh": "特朗普威胁因移民大篷车而对墨西哥加征双倍关税",
+      "url": "https://www.ndtv.com/world-news/president-donald-trump-threatens-to-double-tariffs-on-mexico-over-migrant-caravan-heading-to-us-border-12320715#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:42:25 +0530",
-      "summary": "The note warning that the plane would be hijacked was recovered in the flight's toilet."
+      "published": "Fri, 13 Nov 2026 10:58:17 +0530",
+      "summary": "People in the migrant caravan have been informed of how difficult it is to enter the US"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Video: No Lift, Elderly Patient With Plastered Leg Crawls Up Stairs In Mumbai Hospital, Probe Ordered",
-      "title_zh": "视频：孟买医院没有电梯，腿部打着石膏的老年患者爬楼梯，已下令调查",
-      "url": "https://www.ndtv.com/mumbai-news/video-no-lift-elderly-patient-with-plastered-leg-crawls-up-stairs-in-mumbai-hospital-probe-ordered-12315806#publisher=newsstand",
+      "title": "The Cost Of Working Through Smog: Inside India's $85-Billion Productivity Crisis",
+      "title_zh": "在雾霾中工作的代价：印度850亿美元的生产力危机内幕",
+      "url": "https://www.ndtv.com/business-news/economic-cost-air-pollution-smog-india-productivity-healthcare-crisis-12320620#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:37:02 +0530",
-      "summary": "Sahadev Kadam, 78, on the stone steps of the hospital's orthopaedic centre"
+      "published": "Fri, 13 Nov 2026 10:44:44 +0530",
+      "summary": "Reducing air pollution by 20% could help India avert nearly $85 billion in annual losses by 2030."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "\"Fossil Fuels Must Go The Way Of Dinosaurs\": UN Chief At COP31",
-      "title_zh": "联合国秘书长在COP31上表示：“化石燃料必须像恐龙一样消亡”",
-      "url": "https://www.ndtv.com/world-news/fossil-fuels-must-go-the-way-of-dinosaurs-un-chief-antonio-guterres-at-cop31-12315795#publisher=newsstand",
+      "title": "Air Force One To Spy Scandal: A Timeline Of Trump And Jensen Huang's Ties",
+      "title_zh": "从“空军一号”到间谍丑闻：特朗普与黄仁勋关系的时间线",
+      "url": "https://www.ndtv.com/world-news/air-force-one-to-spy-scandal-a-timeline-of-us-president-donald-trump-and-jensen-huangs-ties-12320564#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:31:58 +0530",
-      "summary": "Canadian PM Mark Carney and Japan's Sanae Takaichi are also absent from the most recent list."
+      "published": "Fri, 13 Nov 2026 10:06:33 +0530",
+      "summary": "Jensen Huang and US President Donald Trump shake hands at an 'Investing in America' event in 2025"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Bihar Woman Gang-Raped, Threatened To Withdraw Case, Then Pushed Off Roof",
-      "title_zh": "比哈尔邦女子遭轮奸，被威胁撤案，随后被推下屋顶",
-      "url": "https://www.ndtv.com/india-news/bihar-gang-rape-survivor-thrown-off-roof-suffers-critical-injuries-12315612#publisher=newsstand",
+      "title": "Jensen Huang Forfeits $108 Million In Unvested Nvidia Equity After Exit",
+      "title_zh": "黄仁勋离职后放弃 1.08 亿美元未归属的英伟达股权",
+      "url": "https://www.ndtv.com/world-news/nvidia-news-jensen-huang-forfeits-108-million-in-unvested-nvidia-equity-after-exit-12320488#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:28:34 +0530",
-      "summary": "She suffered critical injuries including to her head due to the fall"
+      "published": "Fri, 13 Nov 2026 09:47:02 +0530",
+      "summary": "Since Nvidia only has one class of shares, Huang doesn't hold any privileged voting rights"
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Woman Objects To \"Bad Touch\", Pushed Off Mumbai Local, Loses Arm",
-      "title_zh": "女子因反对“咸猪手”被推下孟买 लोकल火车，失去一只手臂",
-      "url": "https://www.ndtv.com/india-news/woman-objects-to-bad-touch-pushed-off-mumbai-local-loses-arm-12315753#publisher=newsstand",
+      "title": "Your Parents' Money Habits Could Decide How You Invest. Here's Why",
+      "title_zh": "您父母的理财习惯可能会决定您的投资方式。原因如下。",
+      "url": "https://www.ndtv.com/business-news/parents-money-habits-decide-how-you-invest-personal-finance-12316351#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:22:52 +0530",
-      "summary": "The victim who lost her arm after allegedly being pushed off a Mumbai local train"
+      "published": "Fri, 13 Nov 2026 09:36:33 +0530",
+      "summary": "What begins as curiosity about investing can quickly become an interest in short-term trading."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Massive Crackdown On Private Bus Violations In Kochi After Techie's Death",
-      "title_zh": "科钦技术人员死亡后，对私营巴士违规行为进行大规模严厉打击",
-      "url": "https://www.ndtv.com/kerala-news/massive-crackdown-on-private-bus-violations-in-kochi-after-techies-death-12315744#publisher=newsstand",
+      "title": "'I'm A Piece Of Sh*t': Inside Jensen Huang's Final Hours As Nvidia CEO",
+      "title_zh": "“我就是个狗屎”：黄仁勋担任英伟达首席执行官的最后几个小时幕后故事",
+      "url": "https://www.ndtv.com/world-news/inside-jensen-huangs-final-hours-as-nvidia-ceo-im-a-piece-of-sh-t-12320357#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:18:28 +0530",
-      "summary": "A total of 382 cases were registered and fine amounting to Rs 2,41,344 was collected."
+      "published": "Fri, 13 Nov 2026 09:34:38 +0530",
+      "summary": "Nvidia CEO Jensen Huang resigned after revelations of extramarital affairs."
     },
     {
       "source": "NDTV - Top Stories",
-      "title": "Bodies Of 2 J&K Special Police Officers Found With Multiple Bullet Injuries",
-      "title_zh": "查明2名查谟和克什米尔特警的尸体，身上有多处枪伤",
-      "url": "https://www.ndtv.com/india-news/2-j-k-special-police-officers-who-had-gone-missing-on-duty-found-dead-12315244#publisher=newsstand",
+      "title": "Jensen Huang Has Quit. What's Next For Nvidia?",
+      "title_zh": "黄仁勋已辞职。英伟达接下来会怎样？",
+      "url": "https://www.ndtv.com/world-news/jensen-huang-has-quit-now-whats-next-for-nvidia-12320185#publisher=newsstand",
       "region": "India",
-      "published": "Thu, 12 Nov 2026 11:03:17 +0530",
-      "summary": "Two Special Police Officers were found dead in Kishtwar after disappearing during a patrol."
+      "published": "Fri, 13 Nov 2026 09:26:17 +0530",
+      "summary": "It is not yet clear if Kress will remain Nvidia's permanent leader."
     },
     {
       "source": "NHK News",
@@ -988,7 +988,7 @@
     {
       "source": "NHK News",
       "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
-      "title_zh": "预计日本北部和东部地区9日的大气状况仍将非常不稳定",
+      "title_zh": "预计日本北部和东部地区9日大气状况仍将非常不稳定",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "region": "Japan",
       "published": "Sat, 08 Aug 2026 23:17:32 +0900",
@@ -1033,7 +1033,7 @@
     {
       "source": "NHK News",
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
-      "title_zh": "铃木一郎在水手队退役球员的全垒打大赛上点燃了球迷的热情",
+      "title_zh": "铃木一朗在水手队退役球员的全垒打大赛上让球迷欢呼雀跃",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
       "region": "Japan",
       "published": "Sat, 08 Aug 2026 20:55:50 +0900",
@@ -1041,183 +1041,183 @@
     },
     {
       "source": "The Korea Times",
-      "title": "Special counsel raids NEC over fabricated document on security check",
-      "title_zh": "特别检察官因安全审查虚假文件突袭NEC",
-      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261112/special-counsel-raids-nec-over-fabricated-document-on-security-check?utm_source=rss",
+      "title": "LG family scion repatriated from Cambodia after 8 years on the run",
+      "title_zh": "LG家族后裔在逃亡8年后从柬埔寨遣返回国",
+      "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261113/lg-family-scion-repatriated-from-cambodia-after-8-years-on-the-run?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "Investigators raided the National Election Commission (NEC) on Thursday over suspicions the election watchdog falsified an official document to exaggerate the security of its computer servers, a special counsel team said. Twenty-five personnel, including two prosecutors, were sent to the NEC headquarters in Gwacheon, just south of Seoul, and two contractors to execute a search and seizure warrant on related charges, according to the team led by independent counsel Lee Tae-han. The allegation dates back to 2023, when a joint security check involving the National Intelligence Service (NIS) and the Korea Internet & Security Agency (KISA) found the NEC had exaggerated the results of its own security inspection amid concerns over the vulnerability of its computer servers to cyberattacks. The NEC had reported a perfect score of 100 the previous year, but a reassessment by the NIS and KISA produced a score of only 31.5. The search was the latest in a series of raids launched by the special counsel team in recent weeks as it seeks to get to the bottom of various suspicions surrounding the NEC, m"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "A member of the family that founded conglomerate LG Group has been repatriated from Cambodia eight years after leaving Korea to escape an investigation into stock manipulation charges, police said Friday. Koo Bon-hyun, a nephew of the late LG Group honorary chairman Koo Cha-kyung, was detained upon arriving in the country Monday to undergo an investigation on suspicion of violating the Capital Markets Act, embezzlement and breach of trust, according to the Seoul Metropolitan Police Agency. The 57-year-old left for the Netherlands in 2018 amid suspicions that he made illegal profits of 14.5 billion won ($10.9 million) by disclosing false information about a KOSDAQ-listed company he had acquired without capital. He is also accused of embezzling 4.6 billion won from the firm, including for entertainment expenses. Police obtained a detention warrant for Koo in 2019 and requested that Interpol issue a Red Notice for him. Cambodian police apprehended him in September and repatriated him back to Korea this week. He was formally arrested Wednesday under a court-issued warrant. In 2012, Koo receiv"
     },
     {
       "source": "The Korea Times",
-      "title": "Ministry defends revision of military academy plan as efforts to increase public's acceptance",
-      "title_zh": "国防部为修订军事院校计划辩护，称此举旨在提高公众的接受度",
-      "url": "https://www.koreatimes.co.kr/southkorea/defense/20261112/ministry-defends-revision-of-military-academy-plan-as-efforts-to-increase-publics-acceptance?utm_source=rss",
+      "title": "'Soju should not exist': Surgeon warns of addiction risk from cheap, strong alcohol",
+      "title_zh": "“烧酒不该存在”：外科医生警告廉价烈酒的成瘾风险",
+      "url": "https://www.koreatimes.co.kr/southkorea/health/20261113/soju-should-not-exist-surgeon-warns-of-addiction-risk-from-cheap-strong-alcohol?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "The defense ministry said Thursday that a proposed revision to its original plan to merge the Army, Air Force and Navy academies into a unified institution is part of a process to increase public acceptance of the plan and its \"completeness.\" The ministry recently briefed the National Assembly on the revised plan that calls for creating a joint military academy in the central city of Daejeon while retaining the academies of the Navy and Air Force in the southern county of Jinhae and the central city of Cheongju, respectively, and relocating the Army academy to the central Chungcheong region. It initially sought to consolidate the three academies into a unified school to strengthen inter-service cooperation and improve the efficiency of cadet education — a plan that drew opposition from academy alumni, opposition lawmakers, and residents of Jinhae and Cheongju. \"(The revision) is part of a process to increase public acceptance of the policy and its completeness,\" Chung Binna, the ministry's spokesperson, said during a press briefing. \"We will explain the revised plan once it is finalize"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "Click here for more articles by Kormedi.com. A practicing surgeon has issued a strong warning about the dangers of soju — a popular traditional Korean alcohol that is now mass manufactured — drawing on his own experience of severe alcohol addiction. Lee Jun-suh, a hepatopancreatobiliary surgeon, appeared on the YouTube channel Doctor Dinho on Tuesday and said, \"Soju is a drink that should not exist.\" \"Its alcohol content is far too high for its price, fueling alcohol addiction,\" he said. Gastroenterologist Kim Tae-kyun agreed, saying, \"At that price and concentration, shouldn't soju be considered a drug rather than an alcoholic beverage?\" Lee said, \"Alcoholic drinks like this type of diluted soju are uncommon. The availability of soju makes it far too easy for people to drink alcohol.\" Lee, who has overcome alcohol addiction, said he once underestimated the severity of his own dependence even while treating patients with end-stage liver and pancreatic diseases. \"Even as I treated terminally ill patients, I thought, 'I'm different from them,'\" he said. \"At the time, there was a social at"
     },
     {
       "source": "The Korea Times",
-      "title": "Women flock to Seoul's Namdaemun Market for viral 'Scarf Man'",
-      "title_zh": "女性蜂拥至首尔南大门市场，争睹网红“围巾男”",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261112/women-flock-to-seouls-namdaemun-market-for-viral-scarf-man?utm_source=rss",
+      "title": "Korea urges Japan to face full history of Sado mine during separate memorial",
+      "title_zh": "韩国在单独举行的纪念活动上敦促日本正视佐渡矿山的全部历史",
+      "url": "https://www.koreatimes.co.kr/southkorea/others/20261113/korea-urges-japan-to-face-full-history-of-sado-mine-during-separate-memorial?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "“Take a few. I can come back again.” “Oh, thank you, sis. Bless you.” At 1 p.m. on Wednesday, middle-aged women gathered outside Hanyangsa, a scarf shop at Namdaemun Market in central Seoul, were sharing scarves with one another. The shop had already closed for the day, but women who had purchased scarves earlier were handing them to those leaving empty-handed. Some visitors had traveled by train from cities such as Daegu and Daejeon. Namdaemun Market has been swept up in the craze for the “Scarf Man.” A merchant identified only as A, who sells scarves at the market, has become an online sensation for his witty banter on social media, drawing huge crowds eager to see him in person. At 1 p.m. that day, the real-time population indicator for the Namdaemun Market area stood at approximately 25,000, classified as severely crowded. When A emerged from his shop after closing, a barrage of smartphone camera flashes greeted him. He made his way through the crowd with help from privately hired security guards. His appeal lies in his down-to-earth personality and gruff, humorous way of"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "Korea on Friday called on Japan to fully acknowledge the history of wartime forced labor at the Sado mine complex as it held a separate memorial ceremony for Korean victims of forced labor for the third consecutive year. Korean Ambassador to Japan Lee Hyuk made the call during the ceremony held at a hotel on Sado Island in Niigata Prefecture, with nine family members of the victims attending. \"Many Korean workers had been mobilized against their will and forced to work at the mine through government-arranged labor placement and conscription under the involvement of the Japanese colonial government-general,\" Lee said in his memorial address. \"Remembering the pain of the past and sharing our condolences here today will deepen our sense of empathy and healing, and provide an opportunity for everyone to fully understand the entire history of the Sado mine as a World Heritage site,\" he added. More than 1,500 Koreans were mobilized to work at the Sado mine during Japan's 1910-45 colonial rule of Korea. Many were assigned to dangerous underground tasks, and some lost their lives in underground"
     },
     {
       "source": "The Korea Times",
-      "title": "Seoul to spend $14 mil. to turn Mount Nam into eco-tourism hub by 2031",
-      "title_zh": "首尔将斥资1400万美元，到2031年将南山打造成生态旅游中心",
-      "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20261112/seoul-to-spend-14-mil-to-turn-mount-nam-into-eco-tourism-hub-by-2031?utm_source=rss",
+      "title": "Remains of 2 Korean independence fighters to return home from US, Uzbekistan",
+      "title_zh": "2名韩国独立运动战士的遗骸将从美国和乌兹别克斯坦归国",
+      "url": "https://www.koreatimes.co.kr/southkorea/20261113/remains-of-2-korean-independence-fighters-to-return-home-from-us-uzbekistan?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "Seoul will spend 19.2 billion won ($14.2 million) through 2031 to restore forests on Mount Nam and build new attractions there, including a 360-degree observatory at the summit, the city government said Thursday. Located in central Seoul, Mount Nam is one of the capital city’s best-known landmarks. The city formally announced an urban regeneration plan for Mount Nam and nearby areas, including the Myeong-dong shopping district and Yejang Park, on Thursday. The plan covers about 3.11 million square meters and has 15 projects in four areas. Eight of them are early-stage projects meant to spur further development with the allotted funding. A key part of the plan is a gondola that will run about 832 meters from Yejang Park, near Myeongdong Station, to the summit. It is designed to carry more than 1,600 passengers an hour, over three times as many as the existing cable car. The city said the gondola will make the summit easier to reach for wheelchair users and others with limited mobility. Its operating profits will go toward restoring the mountain’s ecosystem. Construction of the gondola"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "The remains of two Korean independence fighters laid to rest in the United States and Uzbekistan will return home next week to mark the 80th anniversary of a project to repatriate the remains of such activists from overseas, the veterans ministry said Friday. The remains of Ho Si-han and Lee Gwal will be brought back from the U.S. and Uzbekistan, respectively, on Sunday, according to the ministry. It marks the first time that the remains of an independence fighter buried in Uzbekistan will return home. An event marking their return will be held at a memorial park in Seoul on Monday, attended by some 300 personnel, and the remains will later be buried at the national cemetery in the central city of Daejeon. Ho, born in Seoul in 1885, was arrested by the Japanese police while raising military funds following the March 1 independence movement against Japan's 1910-45 colonial rule of Korea. He also took part in a number of fundraising schemes to support the Korean independence movement from 1927 to 1945, before he died in Los Angeles in 1956. The Korean government posthumously awarded him the"
     },
     {
       "source": "The Korea Times",
-      "title": "Korean researchers shrink augmented reality lenses to fit everyday eyewear",
-      "title_zh": "韩国研究人员将增强现实镜片缩小，使其适合日常眼镜",
-      "url": "https://www.koreatimes.co.kr/southkorea/20261112/korean-researchers-shrink-augmented-reality-lenses-to-fit-everyday-eyewear?utm_source=rss",
+      "title": "Korea's rice production falls for 5th year in 2026 amid changing diets",
+      "title_zh": "随着饮食习惯的改变，韩国水稻产量在2026年将连续第五年下降",
+      "url": "https://www.koreatimes.co.kr/southkorea/20261113/koreas-rice-production-falls-for-5th-year-in-2026-amid-changing-diets?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "Researchers in Korea have developed an ultrathin optical lens system that keeps digital images bright and legible even in direct sunlight, overcoming one of the main engineering hurdles preventing augmented reality glasses from looking and feeling like ordinary eyewear. The joint team from Pohang University of Science and Technology (POSTECH) and Samsung Research built a prototype featuring a 1.5-millimeter-thick waveguide—the transparent channel that guides light from a tiny projector into the wearer’s eye—using engineered nanostructures called metasurfaces. The findings were published Thursday in the journal Nature, according to the Ministry of Science and ICT. For years, technology giants from Meta and Apple to Google and Samsung have raced to build lightweight smart glasses capable of overlaying turn-by-turn directions, translations and messages onto the real world. However, engineers have struggled with a stubborn trade-off: widening the viewing zone so a user can glance around without losing the image typically causes light to scatter and leak out of the lens, leaving displ"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "Korea's rice output declined for the fifth consecutive year in 2026 amid changing dietary habits, data showed Friday, with the cultivation area also reaching a new low. Rice production decreased 0.9 percent year-on-year to 3.5 million tons this year, according to data compiled by the Ministry of Data and Statistics. It marked the fourth-lowest level since the government began compiling the data in 1965. The combined area of rice paddies in the country fell 1.1 percent year-on-year to 670,000 hectares, the smallest on record. Despite the decline in overall production, output per 1,000 square meters increased 0.2 percent year-on-year to 524 kilograms this year, according to the ministry. Rice remains a staple food in Korea, but consumption has steadily fallen in recent decades amid shifts in dietary preferences. The decrease in production also came amid the government's efforts to manage output while encouraging farmers to switch to other crops. By region, South Jeolla Province and Gwangju together produced 736,000 tons of rice, followed by South Chungcheong Province with 681,000 tons and Nor"
     },
     {
       "source": "The Korea Times",
-      "title": "Lee's disapproval rating again outruns approval rating: poll",
-      "title_zh": "民调：李家超的不满率再次超过满意率",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261112/lees-disapproval-rating-again-outruns-approval-rating-poll?utm_source=rss",
+      "title": "Defense ministry conducting poll on military cadets over proposed academy integration",
+      "title_zh": "国防部就拟议的学院合并事宜对军事院校学员进行民意调查",
+      "url": "https://www.koreatimes.co.kr/southkorea/defense/20261113/defense-ministry-conducting-poll-on-military-cadets-over-proposed-academy-integration?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "President Lee Jae Myung's disapproval rating rose to 47 percent this week, surpassing his approval rating, a survey showed Thursday. In a survey of 1,001 adults nationwide conducted Monday through Wednesday, positive assessments of Lee's job performance fell 2 percentage points to 44 percent from two weeks earlier, according to the National Barometer Survey (NBS). Negative assessments rose 3 percentage points to 47 percent. Lee's disapproval rating had remained higher than his approval rating for several weeks before the trend reversed in the previous poll. The survey also showed that 51 percent of respondents said Lee should scale back his use of social media to directly communicate with the public on his policy direction, citing concerns that remarks made \"without sufficient deliberation\" could cause confusion. Another 42 percent supported his use of social media for communication. Support for the ruling Democratic Party of Korea fell 1 percentage point to 35 percent, while that of the main opposition People Power Party remained unchanged at 25 percent. The poll has a margin of error of p"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "The defense ministry said Friday it is surveying military cadets on the proposal to integrate the Army, Air Force and Navy academies as the government seeks to revise the plan amid pushback from alumni groups and key stakeholders. The online survey, running from Friday through Tuesday, will poll 2,350 cadets across all four class years, excluding about 143 naval cadets set to be deployed for rotational training, a ministry official told reporters. The ministry is pushing to merge the three institutions into a unified military academy, but the plan has drawn fierce opposition from cadets and alumni who say it could erode the distinct identity and specialized capabilities of each armed service. The ministry is now reportedly weighing the option of relocating the military academy of the Army out of Seoul as planned while retaining the two others, a move seen as backtracking from its original merger plan. \"The survey aims to evaluate the current military academies and collect cadets' opinions as part of broader efforts to gather input from various sectors to refine the plan for establishing"
     },
     {
       "source": "The Korea Times",
-      "title": "Korea has much to gain from helping refugees, UNHCR official says",
-      "title_zh": "联合国难民署官员表示，韩国在帮助难民方面大有可为",
-      "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261112/korea-has-much-to-gain-from-helping-refugees-unhcr-official-says?utm_source=rss",
+      "title": "Former presidential security official named new KOICA chief",
+      "title_zh": "前总统安保官员被任命为韩国国际协力团新任团长",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261113/former-presidential-security-official-named-new-koica-chief?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "Korea has much to gain from supporting refugees, including making a safer and more stable international environment, according to the United Nations' refugee agency representative in Afghanistan. During an interview with The Korea Times during his visit to Seoul, Tuesday, Arafat Jamal, the UN High Commissioner for Refugees' (UNHCR) representative in Afghanistan, said supporting countries such as Afghanistan is not simply an act of charity, but an investment in a more stable world. \"Korea is a responsible member of the international community. And helping a country like Afghanistan is for global public good. I think that we can only gain if countries are more open and more willing to build international solidarity and to look beyond themselves,\" he said. Jamal expressed deep gratitude to the Korean government and people for their continued support, urging them \"to continue to build solidarity with the world.\" Afghanistan's strategic location, bordering seven countries including China, Pakistan and Iran, makes its stability a matter of wider international concern, the U.N. official said. A"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "Oh Hyun-joo, former third deputy director of the presidential National Security Office, has been named to head the Korea International Cooperation Agency (KOICA), the foreign ministry said Friday. Oh will formally take office on Monday to lead the agency, which is affiliated with the foreign ministry and responsible for the government's official development assistance (ODA) programs. After entering the foreign service in 1994, Oh held various posts in development cooperation and multilateral diplomacy, including deputy chief of mission at South Korea's U.N. mission. She became South Korea's first female ambassador to the Holy See in January 2023 and was appointed third deputy director of the National Security Office in June last year. \"Oh is expected to actively realize KOICA's vision of becoming a leading global development cooperation agency that pursues universal values and shared national interests, while strengthening its role as an integrated platform for South Korea's grant aid programs,\" the ministry said in a statement. The KOICA president serves a three-year term and is selected"
     },
     {
       "source": "The Korea Times",
-      "title": "Ruling party lawmaker accused of defamation for calling journalists 'pack of hyenas'",
-      "title_zh": "执政党议员因称记者为“一群鬣狗”而被指控诽谤",
-      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261112/ruling-party-lawmaker-accused-of-defamation-for-calling-journalists-pack-of-hyenas?utm_source=rss",
+      "title": "Lee pledges capital market reform to address stock undervaluation",
+      "title_zh": "李在明承诺进行资本市场改革，以解决股票估值过低的问题",
+      "url": "https://www.koreatimes.co.kr/southkorea/20261113/lee-pledges-capital-market-reform-to-address-stock-undervaluation?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "A police complaint was filed Thursday accusing ruling party Rep. Choi Min-hee of defamation for referring to journalists as \"a pack of hyenas.\" The complaint against Choi of the Democratic Party of Korea (DPK) was filed with the Seoul Metropolitan Police Agency a week after the lawmaker made the comment in a KakaoTalk group chat while referring to an image of photo and video journalists covering a general meeting of DPK lawmakers. She also described the journalists as \"doing everything to take videos that sow discord.\" The complainant, Lee Jong-bae, a former Seoul city councilmember affiliated with the main opposition People Power Party, said Choi's comments revealed her perception of the press and exposed a double standard that chants democracy but scorns journalists that cause discomfort. Choi held a press conference at the National Assembly on Wednesday and apologized for her remarks."
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "President Lee Jae Myung on Friday reiterated his commitment to capital market reform, pledging to address what he has called \"undervaluation\" of Korean stocks by boosting market confidence and cracking down on market irregularities. Lee made the pledge during a policy discussion on the capital market held at the Korea Exchange, which brought together experts, corporate representatives and government officials. \"Normalizing the capital market is our government's unwavering policy direction and commitment,\" the president said. The president described the undervaluation of Korean stocks as an \"unreasonable abnormality,\" reaffirming his administration's commitment to reforming the capital market and the broader financial market to boost investor confidence. Lee's remarks came amid significant volatility in Korea's stock market in recent months, with the benchmark Korea Composite Stock Price Index (KOSPI) trading in the mid-5,000-point range on Friday, after reaching an all-time closing high of 9,114.55 points in late June. The president cited investor confidence as the most important value in"
     },
     {
       "source": "The Korea Times",
-      "title": "HUFS institute hosts policy dialogues on diplomatic strategies in Singapore, Malaysia",
-      "title_zh": "HUFS研究所在新加坡和马来西亚举办外交战略政策对话会",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/20261112/hufs-institute-hosts-policy-dialogues-on-diplomatic-strategies-in-singapore-malaysia?utm_source=rss",
+      "title": "Gov't vows zero tolerance against cheating with AI glasses",
+      "title_zh": "政府誓言对使用AI眼镜作弊采取零容忍态度",
+      "url": "https://www.koreatimes.co.kr/southkorea/education/20261113/govt-vows-zero-tolerance-against-cheating-with-ai-glasses?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "A research institute affiliated with Hankuk University of Foreign Studies (HUFS) hosted policy dialogues in Singapore and Malaysia last week to strengthen cooperation between Korea and the Association of Southeast Asian Nations (ASEAN). The university said Wednesday that the HUFS Institute for International Strategy (HIIS) organized the dialogues in collaboration with leading overseas universities and policy research institutions ahead of its official launch. The events brought together diplomatic, security and economic experts from Korea and ASEAN member states as part of the International Eminent Persons’ Track 1.5 Dialogue on Foreign Policy Strategy, an initiative led by Korea’s Ministry of Foreign Affairs. Participants explored strategic responses to the rapidly changing international order and discussed ways to deepen Korea-ASEAN ties. The Singapore Policy Dialogue was held Nov. 2 at Hotel Waterloo Singapore under the theme “Rethinking Foreign Policy Strategies in a Changing International Order: Perspectives from South Korea and ASEAN.” The event drew faculty members of the S"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "The government promised Friday to exercise zero tolerance against cheating using artificial intelligence (AI) glasses in next week's nationwide college entrance exam after suspicions of such cheating arose over an unrealistic score in this year's certified tax accountant exam. The suspicions emerged following revelations that the highest scorer in the tax accountant exam received a near-perfect score, missing only one question out of the 160 on the first-round test, earning 397.5 points out of a possible 400, a score many test-takers view as unrealistic. That has raised concerns that AI cheating can be used in the College Scholastic Ability Test (CSAT), set for Thursday. \"The government views cheating using AI smart glasses as a serious issue that infringes upon fair opportunities for students who have worked diligently, and takes people's concerns regarding this matter very seriously,\" the Office for Government Policy Coordination said in a statement. \"The government will take a zero-tolerance approach toward any cheating that compromises the fairness of examinations and will make sure"
     },
     {
       "source": "The Korea Times",
-      "title": "Joint research team develops new method to produce high-efficiency perovskite LEDs",
-      "title_zh": "联合研究团队开发出一种生产高效率钙钛矿LED的新方法",
-      "url": "https://www.koreatimes.co.kr/southkorea/education/20261112/joint-research-team-develops-new-method-to-produce-high-efficiency-perovskite-leds?utm_source=rss",
+      "title": "Lee's approval rating falls back below 40%: poll",
+      "title_zh": "民调：李家超的支持率回落至40%以下",
+      "url": "https://www.koreatimes.co.kr/southkorea/politics/20261113/lees-approval-rating-falls-back-below-40-poll?utm_source=rss",
       "region": "South Korea",
-      "published": "Thu, 12 Nov 2026 06:52:04 GMT",
-      "summary": "A joint research team from Kookmin University, Sungkyunkwan University and Hanyang University has developed highly efficient perovskite light-emitting diodes (LEDs) without the need for a separate post-synthetic ligand-exchange process. The findings were published in Advanced Functional Materials, an international journal in the field of materials science, under the title “Direct Integration of Conductive, Emissive Perovskite Nanocrystals into Efficient Light-Emitting Diodes Without Post-Synthetic Ligand Exchange.” The team was led by Kim Young-hoon, a professor in the Department of Chemistry at Kookmin University; Lee Bo-ram, a professor in the Department of Advanced Materials Science and Engineering at Sungkyunkwan University; and Lee Tae-kyung, a professor in the Department of Organic and Nano Engineering at Hanyang University. The three professors served as co-corresponding authors of the collaborative study. Lee Yu-bin, who has completed her master’s coursework at Kookmin University, also participated as a co-first author alongside Kim Ji-geon, a researcher at the university,"
+      "published": "Fri, 13 Nov 2026 06:17:03 GMT",
+      "summary": "President Lee Jae Myung's approval rating slipped back to 39 percent this week, a weekly poll showed Friday, amid negative sentiment over his real estate policies and economic concerns. The survey, conducted by Gallup Korea from Tuesday through Thursday on 1,002 people aged 18 and older, showed that positive assessments of Lee's performance fell 2 percentage points from the previous week, when the figure stood at 41 percent. Lee's approval rating has fluctuated around the 40 percent mark in recent weeks after hitting a low of 37 percent in October. Those who disapproved of Lee's handling of state affairs remained unchanged from the previous week at 50 percent. Real estate policies were cited the most by those who disapproved of Lee's performance at 17 percent, followed by economic and livelihood concerns at 15 percent. Among those who positively assessed Lee's performance, 19 percent cited economic and livelihood issues, followed by diplomacy at 17 percent and communication at 9 percent. The latest survey came amid political disputes over a controversial special counsel bill over allegatio"
     },
     {
       "source": "Saudi Gazette",
-      "title": "Saudi Arabia secures top global rankings in IMD’s 2026 AI Index",
-      "title_zh": "沙特阿拉伯在IMD 2026年人工智能指数中位居全球前列",
-      "url": "https://saudigazette.com.sa/article/666187/saudi-arabia/saudi-arabia-secures-top-global-rankings-in-imds-2026-ai-index",
+      "title": "Saudi, Chinese officials discuss Houthi attacks, regional security and maritime navigation",
+      "title_zh": "沙特与中国官员讨论胡塞武装袭击、地区安全和海上航行问题",
+      "url": "https://saudigazette.com.sa/article/666224/saudi-arabia/saudi-chinese-officials-discuss-houthi-attacks-regional-security-and-maritime-navigation",
       "region": "Saudi Arabia",
-      "published": "Thu, 12 Nov 2026 00:13:57 +0300",
-      "summary": "RIYADH — Saudi Arabia has achieved leading global positions in several artificial intelligence (AI) indicators in the IMD World Digital and AI Ranking 2026, released on Wednesday by the International Institute for Management Development (IMD), which assesses 70 countries. Saudi Arabia ranked second globally in companies’ awareness of AI-related cybersecurity risks and protection of sensitive data in corporate AI systems. It placed fourth globally in three indicators: implementation of the national AI strategy, corporate adoption of AI, and public access to AI technologies. Saudi Arabia ranked fifth globally in AI adoption and in three sub-indicators: public trust in AI, regulatory frameworks for AI-related issues, and corporate investment in AI. It ranked seventh globally in AI skills, cities’ use of AI to improve service quality, and companies’ efforts to address bias in AI algorithms. It also placed eighth in AI readiness, ninth in private-sector AI investment, and 11th in AI and capital investment. The results reflect Saudi Arabia’s progress in developing its data and AI ecosystem, strengthening readiness, and expanding AI adoption across sectors. They also highlight efforts to develop national capabilities, stimulate investment, and improve regulatory frameworks, enhancing globalcompetitiveness and supporting Saudi Vision 2030 objectives."
+      "published": "Fri, 13 Nov 2026 08:55:55 +0300",
+      "summary": "RIYADH — Saudi Foreign Minister Prince Faisal bin Farhan met with Chinese Special Envoy for Middle East Affairs Zhai Jun to discuss bilateral relations and ongoing Houthi attacks targeting civilians and civilian infrastructure in the Kingdom. During the meeting, the two officials reviewed Saudi-Chinese relations and the implications of the Houthi attacks for regional security and stability. They also discussed regional developments and diplomatic efforts to contain crises and de-escalate tensions. Both sides stressed the importance of strengthening energy security, maintaining market stability and safeguarding maritime corridors and freedom of navigation, particularly in the Strait of Hormuz and Bab el-Mandeb Strait, to ensure the smooth flow of global trade and supply chains. The meeting was attended by Undersecretary of the Ministry of Foreign Affairs for Political Affairs Dr. Saud Al-Sati."
     },
     {
       "source": "Saudi Gazette",
-      "title": "Minister Al-Rabiah: Hajj Conference participation surges fivefold",
-      "title_zh": "拉比阿部长：参加朝觐会议的人数激增五倍",
-      "url": "https://saudigazette.com.sa/article/666186/saudi-arabia/minister-al-rabiah-hajj-conference-participation-surges-fivefold",
+      "title": "Saudi Arabia extends condolences to Türkiye over deadly military helicopter crash",
+      "title_zh": "沙特阿拉伯就土耳其军用直升机坠毁事故致以哀悼",
+      "url": "https://saudigazette.com.sa/article/666222/saudi-arabia/saudi-arabia-extends-condolences-to-turkiye-over-deadly-military-helicopter-crash",
       "region": "Saudi Arabia",
-      "published": "Thu, 12 Nov 2026 00:06:00 +0300",
-      "summary": "JEDDAH — Minister of Hajj and Umrah Tawfiq Al-Rabiah said the sixth Hajj Conference and Exhibition has seen significant growth in participation and international interest. The number of participating entities has risen from 84 in 2022 to approximately 520 in the current edition, representing growth of more than fivefold. Al-Rabiah said attendance is expected to exceed 200,000 visitors by the end of the event, with participation from more than 150 countries, including leaders, ministers, and muftis from around the world. He said these figures reflect the conference’s growth, rising international interest, and strong engagement, along with contracts and partnerships aimed at improving pilgrim services and advancing the Hajj ecosystem. The minister thanked the Saudi leadership for its patronage and support, describing this support as a cornerstone of continued improvements in services for pilgrims."
+      "published": "Fri, 13 Nov 2026 08:48:20 +0300",
+      "summary": "RIYADH — Saudi Arabia has extended its sincere condolences to Türkiye following the crash of a military helicopter during routine operations. In a statement issued by the Ministry of Foreign Affairs on Friday, the Saudi Arabia conveyed its sincerest condolences and sympathies to the families of the deceased and the government and people of Türkiye. The Kingdom also expressed Saudi Arabia’s solidarity with the victims’ families and the Turkish government and people during this difficult time. It also wishied safety and security for all."
     },
     {
       "source": "Saudi Gazette",
-      "title": "Saudi interior minister: Houthi militia’s terrorist acts undermine regional security",
-      "title_zh": "沙特内政部长：胡塞武装的恐怖主义行为破坏了地区安全",
-      "url": "https://saudigazette.com.sa/article/666185/saudi-arabia/saudi-interior-minister-houthi-militias-terrorist-acts-undermine-regional-security",
+      "title": "Saudi Arabia expresses solidarity with UAE following deadly Fujairah port incident",
+      "title_zh": "沙特阿拉伯对阿联酋富查伊拉港致命事件表示声援",
+      "url": "https://saudigazette.com.sa/article/666221/saudi-arabia/saudi-arabia-expresses-solidarity-with-uae-following-deadly-fujairah-port-incident",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 23:58:19 +0300",
-      "summary": "MANAMA — Interior ministers of the Gulf Cooperation Council (GCC) states held their 43rd meeting in Manama, Bahrain on Wednesday. The meeting was chaired by Minister of Interior of Bahrain and current session chair Gen. Sheikh Rashid bin Abdullah Al Khalifa.Addressing the session, Saudi Minister of Interior Prince Abdulaziz bin Saud bin Naif stressed that the security of GCC states is indivisible and that any threat against one member state constitutes a direct threat to the entire Gulf security system.“The terrorist Houthi militia’s targeting of civilians and civilian and economic infrastructure in Saudi Arabia, as well as its blatant attacks on the Two Holy Mosques, are acts that cannot be justified under any pretext or in any form,” he said while emphasizing that these actions threaten civilian lives andundermine security and stability in Yemen and the wider region. Prince Abdulaziz highlighted the exceptional circumstances and highly sensitive regional and international developments, which pose challenges requiring a shift from merely responding to security events to anticipating them and preparing in advance to address them.This will be through comprehensive implementation plans and intensified efforts to coordinate and strengthen joint action in confronting regional and international challenges. Prince Abdulaziz welcomed the GCC interior ministers to their second home, Saudi Arabia, which will host the 44th session of the meeting. He expressed Saudi Arabia’s eagerness to continue and strengthen joint Gulf security efforts. The meeting and the decisions it adopts reflect a genuine commitment, dedicated efforts and a unified position, in a manner that fulfills the aspirations of GCC leaders to protect their countries and communities and strengthen their security and stability. The GCC ministers of interior discussed the items on the agenda, which aim to strengthen joint security cooperation among the member states."
+      "published": "Fri, 13 Nov 2026 08:38:02 +0300",
+      "summary": "RIYADH — Saudi Arabia has expressed its solidarity with the United Arab Emirates following an incident at the Port of Fujairah that resulted in deaths and injuries. In a statement issued by the Ministry of Foreign Affairs on Friday, Saudi Arabia expressed its sincere condolences and sympathy to the UAE’s leadership, government and people, as well as the families of the victims. The Kingdom also wished those injured in the incident a speedy recovery."
     },
     {
       "source": "Saudi Gazette",
-      "title": "King Salman and Crown Prince offer condolences to Niger’s president on his father’s death",
-      "title_zh": "萨勒曼国王和王储对尼日尔总统的父亲去世表示哀悼",
-      "url": "https://saudigazette.com.sa/article/666184/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-nigers-president-on-his-fathers-death",
+      "title": "Coalition intercepts drones in Riyadh and eastern regions",
+      "title_zh": "联军在利雅得和东部地区拦截无人机",
+      "url": "https://saudigazette.com.sa/article/666216/saudi-arabia/coalition-intercepts-drones-in-riyadh-and-eastern-regions",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 23:02:58 +0300",
-      "summary": "RIYADH — Custodian of the Two Holy Mosques King Salman and Crown Prince and Prime Minister Mohammed bin Salman offered condolences to President of Niger and Head of State Gen. Abdourahamane Tiani on the death of his father Elhadj Tiani Hassane.In separate cables sent to Tiani, the King and the Crown Prince expressed their deepest condolences and sincere sympathy to the president and the deceased’s family. They prayed to God Almighty to grant the deceased His mercy and forgiveness, and accommodate him in His Paradise."
+      "published": "Thu, 12 Nov 2026 23:46:52 +0300",
+      "summary": "RIYADH — Maj. Gen. Turki Al-Maliki, spokesperson of the Coalition to Restore Legitimacy in Yemen, stated that a drone, fired by the terrorist Houthi militia, was intercepted and destroyed in the Riyadh region. He said that another drone was intercepted and destroyed in the Eastern Province."
     },
     {
       "source": "Saudi Gazette",
-      "title": "King Salman and Crown Prince congratulate Alliana on taking oath as Paraguay president",
-      "title_zh": "萨勒曼国王和王储祝贺阿利亚娜宣誓就任巴拉圭总统",
-      "url": "https://saudigazette.com.sa/article/666183/saudi-arabia/king-salman-and-crown-prince-congratulate-alliana-on-taking-oath-as-paraguay-president",
+      "title": "Saudi-US business ties gain momentum with landmark cooperation agreement",
+      "title_zh": "沙特与美国的商业关系因具有里程碑意义的合作协议而势头强劲",
+      "url": "https://saudigazette.com.sa/article/666215/saudi-arabia/saudi-us-business-ties-gain-momentum-with-landmark-cooperation-agreement",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 22:58:18 +0300",
-      "summary": "RIYADH — Custodian of the Two Holy Mosques King Salman and Crown Prince and Prime Minister Mohammed bin Salman congratulated Pedro Alliana on taking the constitutional oath as president of Paraguay.In cables sent to Alliana, the King and the Crown Prince expressed their sincere congratulations and best wishes for the president's success and for further progress and prosperity for the people of Paraguay. Pedro Alliana has been sworn in as the new president of Paraguay, after a banking scandal led to the impeachment of his predecessor, Santiago Pena. On Friday, Alliana, 52, took the oath of office to become the South American country’s 53rd president. Previously, Alliana had served as vice president under Pena since the start of the latter’s term in 2023."
+      "published": "Thu, 12 Nov 2026 23:25:52 +0300",
+      "summary": "WASHINGTON — The US-Saudi Business Council and the Federation of Saudi Chambers have signed a memorandum of understanding (MoU) to strengthen ties between the business communities of Saudi Arabia and the United States of America. The agreement was signed by the Council’s Chairman and CEO Charles Hallab and the Federation’s Secretary General Sultan Al-Musallam. The signing ceremony was attended by Assistant Secretary General for International Trade at the Federation of Saudi Chambers Majid Al-Mutairi and President of the Middle East sector at Mayer Brown Company Tom Thraya in Washington, D.C. The MoU establishes a framework for enhancing communication between companies in the two countries, developing investment opportunities, and addressing challenges facing businesses in both markets. The Federation of Saudi Chambers is playing a key role in the partnership as the representative body of the Saudi private sector, ensuring that the sector’s perspectives and needs are duly considered. The memorandum sets out practical mechanisms for cooperation between the council and the federation, including facilitating trade delegation visits and communication between business leaders, supporting investments and strategic partnerships, exchanging market information and expertise, and working through relevant channels to facilitate companies’ entry into both markets and address the obstacles they encounter. A joint working group will supervise the implementation of the memorandum and develop a joint action plan. Senior representatives from both sides will meet every three months to assess progress, identify priority sectors and activities, set timelines, and assign responsibilities. Speaking on the occasion, Hallab said that the Federation of Saudi Chambers is a key partner for the council in connecting with and supporting the Saudi private sector. “This agreement allows the Council and the Federation to bring companies together, work towards common goals, and strengthen trade relations between our two countries. We value the federation’s leadership and friendship, and we look forward to further developing this partnership,” he said. The memorandum also provides for cooperation in activating the federation’s “International Business Concierge” initiative, which seeks to facilitate international business and attract and facilitate US investments in the Kingdom. Other areas of collaboration include implementing sector-specific initiatives, organizing business-to-business meetings and engagements between businesses and government entities, and supporting Saudi exports to the US market. Established in 1993 through a Saudi Royal Decree and a US Executive Order, the Saudi-US Business Council is a leading bilateral business organization committed to expanding trade and investment and promoting commercial cooperation between Saudi Arabia and the United States. The Council brings together influential business and government leaders from both countries, providing a platform to identify priorities in bilateral trade relations, unlock transformative investment opportunities, and address key challenges affecting trade and business."
     },
     {
       "source": "Saudi Gazette",
-      "title": "Bahrain’s king, crown prince review Gulf security cooperation with GCC interior ministers",
-      "title_zh": "巴林国王和王储与海合会内政部长讨论海湾安全合作",
-      "url": "https://saudigazette.com.sa/article/666182/saudi-arabia/bahrains-king-reviews-gulf-security-cooperation-with-gcc-interior-ministers",
+      "title": "Crown Prince congratulates Grenada prime minister on his re-election",
+      "title_zh": "王储祝贺格林纳达总理再次当选",
+      "url": "https://saudigazette.com.sa/article/666214/saudi-arabia/crown-prince-congratulates-grenada-prime-minister-on-his-re-election",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 19:31:54 +0300",
-      "summary": "MANAMA — King Hamad bin Isa Al Khalifa of Bahrain received at Al-Sakhir Palace here on Wednesday Saudi Minister of Interior Prince Abdulaziz bin Saud bin Naif and other interior ministers of the Gulf Cooperation Council (GCC) member states, ahead of their meeting held in Manama. During the meeting, Prince Abdulaziz bin Saud conveyed the greetings of Custodian of the Two Holy Mosques King Salman and Crown Prince and Prime Minister Mohammed bin Salman to the king of Bahrain, along with their wishes for continued progress and prosperity for Bahrain and its people. The king of Bahrain and the ministers reviewed the progress of joint Gulf security cooperation and efforts to strengthen coordination and integration among GCC member states in security fields. The king wished the interior ministers success in their meeting, expressing hope that it would help enhance security and stability across GCC member states. Also on Wednesday, Crown Prince, Deputy Supreme Commander of the Armed Forces and Prime Minister of Bahrain Prince Salman bin Hamad Al Khalifa received interior ministers of the GCC states. During the meeting, Prince Abdulaziz bin Saud conveyed the greetings of Crown Prince and Prime Minister Mohammed bin Salman to Prince Salman bin Hamad, along with his wishes for continued progress and prosperity for Bahrain and its people. Prince Salman bin Hamad commended the efforts of the interior ministers during their meeting and the outcomes achieved in strengthening the security and stability of GCC member states. Prince Salman and the interior ministers reviewed the security cooperation among GCC countries and the ongoing efforts to enhance coordination and integration in security-related fields."
+      "published": "Thu, 12 Nov 2026 22:30:43 +0300",
+      "summary": "RIYADH — Crown Prince and Prime Minister Mohammed bin Salman has sent a cable of congratulations to Prime Minister of Grenada Dickon Mitchel on the occasion of his re-election as prime minister.The Crown Prince expressed his sincere congratulations and best wishes for success to Mitchel, and for further progress and prosperity to the friendly people of Grenada."
     },
     {
       "source": "Saudi Gazette",
-      "title": "5 Houthi missiles, 2 UAVs targeting Riyadh, Makkah, and other regions intercepted",
-      "title_zh": "5枚胡塞导弹、2架无人机袭击利雅得、麦加和其他地区，均被拦截",
-      "url": "https://saudigazette.com.sa/article/666181/saudi-arabia/saudi-air-defenses-intercept-3-houthi-cruise-missiles-fired-at-riyadh-region",
+      "title": "Airbag defect hits 44,305 Hyundai Elantra vehicles; owners urged to get free repairs",
+      "title_zh": "44305辆现代伊兰特汽车出现安全气囊缺陷；车主被敦促进行免费维修",
+      "url": "https://saudigazette.com.sa/article/666213/saudi-arabia/airbag-defect-hits-44305-hyundai-elantra-vehicles-owners-urged-to-get-free-repairs",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 19:28:08 +0300",
-      "summary": "RIYADH — Saudi air defenses intercepted and destroyed three cruise missiles, fired by the terrorist Houthi militia toward the Riyadh region. This was revealed by Maj. Gen. Turki Al-Maliki, spokesperson of the Coalition to Restore Legitimacy in Yemen. The air defenses also intercepted and destroyed two ballistic missiles, launched by the Houthi militia, in the western region,\" he said. Maj. Gen. Turki Al-Maliki also stated that two UAVs launched by the Houthi militia were intercepted and destroyed in the Makkah and the southern regions."
+      "published": "Thu, 12 Nov 2026 22:23:14 +0300",
+      "summary": "RIYADH — The Ministry of Commerce has renewed its call for owners of Hyundai Elantra vehicles, manufactured between 2009 and 2011, to respond to recall campaigns over a defect in the driver's airbag inflator that could cause serious or fatal injuries.The ministry urged owners of the 44,305 affected vehicles remaining in Saudi Arabia to stop driving them immediately and contact authorized dealers to arrange free repairs to ensure their safety. The ministry explained that the previously announced recall covered 57,195 vehicles, of which approximately 12,890 have been repaired, representing 22 percent of the total. However, 44,305 vehicles remain unrepaired, underscoring the importance of promptly contacting authorized dealers across the Kingdom to address the defect.The ministry stressed the need for an immediate response to the recall. It urged owners to contact the authorized dealers: Wallan Company at 8001240401, Almajdouie Company at 8003040777, or Mohamed Yousuf Naghi & Brothers Group at 8001240191, to arrange the necessary repairs free of charge."
     },
     {
       "source": "Saudi Gazette",
-      "title": "King Salman and Crown Prince offer condolences to Turkish president over deadly steel plant blast",
-      "title_zh": "萨勒曼国王和王储就钢铁厂爆炸事故向土耳其总统表示哀悼",
-      "url": "https://saudigazette.com.sa/article/666180/saudi-arabia/king-salman-and-crown-prince-offer-condolences-to-turkish-president-over-deadly-steel-plant-blast",
+      "title": "Saudi Arabia, Kenya sign deal to regulate recruitment of domestic workers",
+      "title_zh": "沙特阿拉伯与肯尼亚签署协议，规范家政服务人员的招聘",
+      "url": "https://saudigazette.com.sa/article/666211/saudi-arabia/saudi-arabia-kenya-sign-deal-to-regulate-recruitment-of-domestic-workers",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 19:04:41 +0300",
-      "summary": "RIYADH — Custodian of the Two Holy Mosques King Salman and Crown Prince and Prime Minister Mohammed bin Salman offered condolences to Turkish President Recep Tayyip Erdoğan over the death of several people in a steel plant explosion in Izmir Province. In separate cables sent to Erdoğan, the King and the Crown Prince expressed their deepest condolences and sincere sympathy to the president, the families of the deceased, and the Turkish people. They prayed to God Almighty to grant the deceased His mercy and forgiveness, give their families patience and solace, and grant the injured a speedy recovery. At least 18 people were killed and 12 others injured in an explosion at an iron and steel factory near the port city of Izmir in western Turkey on Monday. All those killed and injured were workers at the Habas Demir Celik plant in Aliaga, one of the country's leading steel producers, authorities said."
+      "published": "Thu, 12 Nov 2026 19:13:46 +0300",
+      "summary": "RIYADH — Deputy Minister of Human Resources and Social Development for Labor Abdullah Abuthnain received Kenya’s Cabinet Secretary for Labour and Social Protection Alfred Nganga Mutua at the ministry’s headquarters in Riyadh on Thursday. Several senior Saudi ministry officials and the accompanying Kenyan delegation also attended the meeting. The meeting discussed ways to strengthen cooperation between Saudi Arabia and Kenya in areas of mutual interest in the labor sector, particularly by developing cooperation mechanisms for the recruitment of domestic workers, improving the effectiveness of pre-departure training and qualification programs, and raising awareness of contractual rights and obligations. These efforts aimed to enhance the readiness of domestic workers, improve the quality of recruitment services, promote stability in contractual relations, and protect the rights of all parties. The two sides also discussed mechanisms for strengthening technical coordination, exchanging expertise and best practices in training and qualification, and improving procedures related to the recruitment of domestic workers. These measures aimed to enhance the efficiency of recruitment processes, improve their outcomes, and serve the mutual interests of both countries. Following the meeting, Abdullah Abuthnain and Alfred Nganga Mutua signed a technical annex to the agreement on the recruitment of domestic workers between Saudi Arabia and Kenya, signed on July 5, 2026. The annex is part of efforts to strengthen cooperation and develop the technical and regulatory mechanisms governing the recruitment of domestic workers. The technical annex aims to streamline procedures and reduce the costs of recruiting domestic workers from Kenya to Saudi Arabia. It also seeks to improve the efficiency of recruitment mechanisms, ensure compliance with approved regulations, protect the rights of employers and domestic workers, and regulate the contractual relationship between the two parties. The signing of the annex builds on the longstanding relations and ongoing cooperation between Saudi Arabia and Kenya, reflecting both sides’ commitment to developing their partnership in labor-related fields, improving the efficiency of the recruitment system, and promoting sustainable cooperation that serves the mutual interests of both countries."
     },
     {
       "source": "Saudi Gazette",
-      "title": "Saudi Arabia among world’s top 3 in AI talent growth and model development",
-      "title_zh": "沙特阿拉伯在人工智能人才增长和模型开发方面跻身全球前三名",
-      "url": "https://saudigazette.com.sa/article/666179/saudi-arabia/saudi-arabia-among-worlds-top-3-in-ai-talent-growth-and-model-development",
+      "title": "6 expat women arrested for prostitution in Eastern Province",
+      "title_zh": "6名外籍女性因卖淫在东部省被捕",
+      "url": "https://saudigazette.com.sa/article/666208/saudi-arabia/6-expat-women-arrested-for-prostitution-in-eastern-province",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 18:30:04 +0300",
-      "summary": "RIYADH — The Saudi Data and AI Authority (SDAIA) released a comprehensive study on the state of artificial intelligence in the Kingdom, reviewing national progress across seven main pillars and 15 sub-pillars spanning regulatory frameworks, investments, digital infrastructure, data governance, human capital, research and innovation, and institutional adoption. The report details Saudi Arabia’s advanced positions across international benchmarks, including ranking third globally in AI talent growth rate under the 2026 Stanford HAI Index, third globally and first regionally in the development of leading AI models under the 2025 index, and fifth globally in AI sector growth according to the 2025 Observer Index. The Kingdom also secured 26 awards at the 2025 World Artificial Intelligence Competition for Youth and officially joined the Global Partnership on Artificial Intelligence in 2026. In digital infrastructure, domestic data center capacity expanded by 115.8 percent between 2023 and 2025. National compute power is anchored by the Shaheen III supercomputer—leading the GCC on the 2026 TOP500 list—alongside the Hexagon Data Center, the world' largest government-owned Tier IV facility with a 480-megawatt capacity. Saudi Arabia also hosts nine hyperscale cloud regions by mid-2026, including four currently under development by global providers. Regarding national data ecosystems, some 515 government systems have been integrated into the National Data Lake under the National Data Bank, aggregating 5.87 petabytes from over 90 government entities in 2026. Open datasets exceeded 21,800 across 346 public and private contributors during the same year. Furthermore, over 500 billion Arabic data units powered the development of the \"ALLaM 34B\" large language model in 2025, while the King Salman Global Academy for Arabic Language's \"Falak\" platform reached 2.2 billion words. On human capital, the study found that 84 percent of the Saudi public is familiar with AI concepts, with more than 1.2 million beneficiaries participating in the first phase of the \"SAMAI\" initiative by July 2026. From 2021 to 2025, over 69,300 technical graduates entered the market, contributing to a 15 percent compound annual growth rate (CAGR) in domestic AI talent density. In research and innovation, AI-focused scientific publications registered a 37.4 percent CAGR between 2021 and 2025, while related patent filings grew by 34.52 percent from 2020 to 2024. Local development produced eight large language models and 58 specialized AI applications, according to the Ministry of Communications and Information Technology's 2026 report. Government adoption reached high maturity, with 90 percent of public entities maintaining an AI strategy, 97 percent deploying or building AI tools, 77 percent enforcing formal AI governance, and 63 percent complying with SDAIA's national principles. Nearly half (48 percent) of adopting entities reported internal operational efficiency gains exceeding 10 percent. The study also affirmed the Kingdom's global leadership across key sub-indices, ranking first worldwide in women's empowerment in AI, first in AI security, privacy, and encryption, first in digital readiness, third in student adoption of generative AI, sixth in government strategy, and seventh in financial sector funding."
+      "published": "Thu, 12 Nov 2026 18:38:46 +0300",
+      "summary": "DAMMAM — The Eastern Province police, in coordination with the General Directorate for Community Security and Combating Human Trafficking, arrested six expatriate women on charges of prostitution. The operation comes as part of ongoing security efforts to monitor, detect, and apprehend violators and those involved in criminal activities. Public Security stated that the women were taken into custody and initial legal procedures were initiated against them, pending further legal action. The women were subsequently referred to the Public Prosecution to complete the necessary judicial procedures in accordance with applicable regulations. The arrests were part of the continuous security campaigns carried out by the relevant authorities to combat crimes against public morals and strengthen community security across the Kingdom."
     },
     {
       "source": "Saudi Gazette",
-      "title": "Makkah deputy emir reviews Hajj ministry’s efforts in serving pilgrims",
-      "title_zh": "麦加副埃米尔审查朝觐事务部为朝觐者提供服务的举措",
-      "url": "https://saudigazette.com.sa/article/666178/saudi-arabia/makkah-deputy-emir-reviews-hajj-ministrys-efforts-in-serving-pilgrims",
+      "title": "Saudi schools to begin 10-day autumn holiday on Nov. 20",
+      "title_zh": "沙特学校将于11月20日开始为期10天的秋季假期",
+      "url": "https://saudigazette.com.sa/article/666207/saudi-arabia/saudi-schools-to-begin-10-day-autumn-holiday-on-nov-20",
       "region": "Saudi Arabia",
-      "published": "Wed, 11 Nov 2026 17:43:24 +0300",
-      "summary": "JEDDAH — Deputy Emir of Makkah Prince Saud bin Mishaal received Minister of Hajj and Umrah Tawfiq Al-Rabiah at the emirate headquarters in Jeddah on Wednesday. During the meeting, Al-Rabiah briefed the deputy emir on the ministry’s efforts in the current Umrah season, as well as the digital service ecosystem designed to facilitate visits to the Grand Mosque, and initiatives to develop logistical services and infrastructure, all aimed at enhancing the quality of services provided to pilgrims. They also reviewed key aspects of the sixth Hajj Conference and Exhibition, which focuses on advancing the Hajj and Umrah service ecosystem and continuously improving the pilgrim experience."
+      "published": "Thu, 12 Nov 2026 17:41:44 +0300",
+      "summary": "RIYADH — Students in public schools across Saudi Arabia are eagerly anticipating an upcoming 10-day holiday in the 1448 AH academic calendar, comprising the autumn break and an additional one-day holiday. According to the academic calendar, the holiday will begin on Friday, November 20, 2026, and continue through Sunday, Nov. 29. The autumn break will run from Nov. 20 to 28, followed by an additional day off on Nov. 29. Students are scheduled to return to classrooms on Monday, Nov. 30, 2026, following the 10-day break, and resume their academic activities for the remainder of the semester."
     }
   ]
 }
